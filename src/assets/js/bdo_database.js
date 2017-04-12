@@ -78918,7 +78918,7 @@ var BDOdatabase = {
                             "ap_max": 121
                         }
                     },
-                    "name": "Dana Awakening Weapon 1"
+                    "name": "Light-Swallowing Vediant"
                 },
                 "14817": {
                     "ap_min": 18,
@@ -79009,7 +79009,7 @@ var BDOdatabase = {
                             "ap_max": 131
                         }
                     },
-                    "name": "Dandelion Dana Awakening Weapon"
+                    "name": "Dandelion Vediant"
                 },
                 "14818": {
                     "ap_min": 11,
@@ -79102,7 +79102,7 @@ var BDOdatabase = {
                             "ap_max": 116
                         }
                     },
-                    "name": "Dana Awakening Weapon 3"
+                    "name": "Thorn Tree Vediant"
                 },
                 "14820": {
                     "ap_min": 18,
@@ -79195,7 +79195,7 @@ var BDOdatabase = {
                             "ap_max": 123
                         }
                     },
-                    "name": "Ultimate Dana Awakening Weapon 2"
+                    "name": "Ultimate Light-Swallowing Vediant"
                 }
             }
         },
