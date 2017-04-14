@@ -36,13 +36,6 @@ var BDOdatabase = {
             "total": 0,
             "symbol": ""
         },
-        "atk": {
-            "title": "Attack",
-            "desc": "",
-            "total": 0,
-            "symbol": "",
-            "target": ".offence-stats"
-        },
         "map": {
             "title": "Magic AP",
             "desc": "",
@@ -395,6 +388,13 @@ var BDOdatabase = {
         },
         "dmgaes": {
             "title": "Damage Against Every Species",
+            "desc": "",
+            "total": 0,
+            "symbol": "",
+            "target": ".extra-stats"
+        },
+        "dmgakm": {
+            "title": "Damage Against Kamasylvian Monsters",
             "desc": "",
             "total": 0,
             "symbol": "",
@@ -1763,6 +1763,39 @@ var BDOdatabase = {
                     "ssfr": 5
                 },
                 "name": "Red Battlefield Crystal: Adamantine"
+            },
+            "15812": {
+                "rarity": "legendary",
+                "shatter_chance": "high",
+                "incompatible": [],
+                "item_effects": {
+                    "wgt": 20,
+                    "ms": 2,
+                    "stam": 150
+                },
+                "name": "WON Magic Crystal - Hystria"
+            },
+            "15811": {
+                "rarity": "legendary",
+                "shatter_chance": "high",
+                "incompatible": [],
+                "item_effects": {
+                    "wgt": 50,
+                    "ms": 1,
+                    "stam": 150
+                },
+                "name": "BON Magic Crystal - Hystria"
+            },
+            "15810": {
+                "rarity": "legendary",
+                "shatter_chance": "high",
+                "incompatible": [],
+                "item_effects": {
+                    "wgt": 30,
+                    "ms": 1,
+                    "stam": 175
+                },
+                "name": "JIN Magic Crystal - Hystria"
             }
         },
         "gloves": {
@@ -1954,6 +1987,39 @@ var BDOdatabase = {
                     "dmgth": 2
                 },
                 "name": "Red Battlefield Crystal: Viper"
+            },
+            "15809": {
+                "rarity": "legendary",
+                "shatter_chance": "high",
+                "incompatible": [],
+                "item_effects": {
+                    "as": 1,
+                    "cs": 2,
+                    "acc": 3
+                },
+                "name": "WON Magic Crystal - Viper"
+            },
+            "15808": {
+                "rarity": "legendary",
+                "shatter_chance": "high",
+                "incompatible": [],
+                "item_effects": {
+                    "as": 2,
+                    "cs": 1,
+                    "acc": 3
+                },
+                "name": "BON Magic Crystal - Viper"
+            },
+            "15807": {
+                "rarity": "legendary",
+                "shatter_chance": "high",
+                "incompatible": [],
+                "item_effects": {
+                    "as": 1,
+                    "cs": 1,
+                    "acc": 5
+                },
+                "name": "JIN Magic Crystal - Viper"
             }
         },
         "armor": {
@@ -2189,6 +2255,39 @@ var BDOdatabase = {
                     "ssfr": 10
                 },
                 "name": "Kydict's Crystal - Giant"
+            },
+            "15806": {
+                "rarity": "legendary",
+                "shatter_chance": "high",
+                "incompatible": [],
+                "item_effects": {
+                    "hp": 100,
+                    "wgt": 50,
+                    "dr": 3
+                },
+                "name": "WON Magic Crystal - Cobelinus"
+            },
+            "15805": {
+                "rarity": "legendary",
+                "shatter_chance": "high",
+                "incompatible": [],
+                "item_effects": {
+                    "hp": 150,
+                    "wgt": 20,
+                    "dr": 3
+                },
+                "name": "BON Magic Crystal - Cobelinus"
+            },
+            "15804": {
+                "rarity": "legendary",
+                "shatter_chance": "high",
+                "incompatible": [],
+                "item_effects": {
+                    "hp": 100,
+                    "wgt": 20,
+                    "dr": 5
+                },
+                "name": "JIN Magic Crystal - Cobelinus"
             }
         },
         "helmet": {
@@ -2373,6 +2472,39 @@ var BDOdatabase = {
                     "cbexp": 10
                 },
                 "name": "Kydict's Crystal - Adventure"
+            },
+            "15803": {
+                "rarity": "legendary",
+                "shatter_chance": "high",
+                "incompatible": [],
+                "item_effects": {
+                    "hp": 50,
+                    "hprc": 10,
+                    "ev": 3
+                },
+                "name": "WON Magic Crystal - Harphia"
+            },
+            "15802": {
+                "rarity": "legendary",
+                "shatter_chance": "high",
+                "incompatible": [],
+                "item_effects": {
+                    "hp": 75,
+                    "hprc": 5,
+                    "ev": 3
+                },
+                "name": "BON Magic Crystal - Harphia"
+            },
+            "15801": {
+                "rarity": "legendary",
+                "shatter_chance": "high",
+                "incompatible": [],
+                "item_effects": {
+                    "hp": 50,
+                    "hprc": 5,
+                    "ev": 5
+                },
+                "name": "JIN Magic Crystal - Harphia"
             }
         },
         "secondary-weapon": {
@@ -2492,10 +2624,21 @@ var BDOdatabase = {
                 "incompatible": [],
                 "item_effects": {
                     "hp": 100,
-                    "atk": 5,
+                    "hap": 5,
                     "dmgth": 3
                 },
                 "name": "Red Spirit Crystal"
+            },
+            "15654": {
+                "rarity": "legendary",
+                "shatter_chance": "might",
+                "incompatible": [],
+                "item_effects": {
+                    "hp": 150,
+                    "hap": 5,
+                    "dmgakm": 3
+                },
+                "name": "Valtarra Spirit's Crystal"
             }
         },
         "main-weapon": {
@@ -2802,7 +2945,73 @@ var BDOdatabase = {
                     "dmgth": 3
                 },
                 "name": "Red Battlefield Crystal: Addis"
-            }
+            },
+            "15818": {
+                "rarity": "legendary",
+                "shatter_chance": "high",
+                "incompatible": [],
+                "item_effects": {
+                    "chr": 1,
+                    "cs": 2,
+                    "hap": 3
+                },
+                "name": "WON Magic Crystal - Addis"
+            },
+            "15817": {
+                "rarity": "legendary",
+                "shatter_chance": "high",
+                "incompatible": [],
+                "item_effects": {
+                    "chr": 2,
+                    "cs": 1,
+                    "hap": 3
+                },
+                "name": "BON Magic Crystal - Addis"
+            },
+            "15816": {
+                "rarity": "legendary",
+                "shatter_chance": "high",
+                "incompatible": [],
+                "item_effects": {
+                    "chr": 1,
+                    "cs": 1,
+                    "hap": 5
+                },
+                "name": "JIN Magic Crystal - Addis"
+            },
+            "15815": {
+                "rarity": "legendary",
+                "shatter_chance": "high",
+                "incompatible": [],
+                "item_effects": {
+                    "chr": 1,
+                    "as": 2,
+                    "hap": 3
+                },
+                "name": "WON Magic Crystal - Carmae"
+            },
+            "15814": {
+                "rarity": "legendary",
+                "shatter_chance": "high",
+                "incompatible": [],
+                "item_effects": {
+                    "chr": 2,
+                    "as": 1,
+                    "hap": 3
+                },
+                "name": "BON Magic Crystal - Carmae"
+            },
+            "15813": {
+                "rarity": "legendary",
+                "shatter_chance": "high",
+                "incompatible": [],
+                "item_effects": {
+                    "chr": 1,
+                    "as": 1,
+                    "hap": 5
+                },
+                "name": "JIN Magic Crystal - Carmae"
+            },
         },
         "outfit": {
             "15641": {
@@ -79204,7 +79413,7 @@ var BDOdatabase = {
                 "rarity": "common",
                 "gems": 0,
                 "item_effects": {
-                    "atk": 2
+                    "hap": 2
                 },
                 "enhancement_text": "",
                 "enhancement": {},
@@ -79214,7 +79423,7 @@ var BDOdatabase = {
                 "rarity": "uncommon",
                 "gems": 0,
                 "item_effects": {
-                    "atk": 2,
+                    "hap": 2,
                     "acc": 1
                 },
                 "enhancement_text": "",
@@ -79225,7 +79434,7 @@ var BDOdatabase = {
                 "rarity": "rare",
                 "gems": 0,
                 "item_effects": {
-                    "atk": 2,
+                    "hap": 2,
                     "acc": 1,
                     "iar": 1
                 },
@@ -79237,7 +79446,7 @@ var BDOdatabase = {
                 "rarity": "epic",
                 "gems": 0,
                 "item_effects": {
-                    "atk": 2,
+                    "hap": 2,
                     "acc": 1,
                     "iar": 1,
                     "asp": 1,
@@ -79251,7 +79460,7 @@ var BDOdatabase = {
                 "rarity": "common",
                 "gems": 0,
                 "item_effects": {
-                    "atk": 3
+                    "hap": 3
                 },
                 "enhancement_text": "",
                 "enhancement": {},
@@ -79261,7 +79470,7 @@ var BDOdatabase = {
                 "rarity": "uncommon",
                 "gems": 0,
                 "item_effects": {
-                    "atk": 3,
+                    "hap": 3,
                     "acc": 2
                 },
                 "enhancement_text": "",
@@ -79272,7 +79481,7 @@ var BDOdatabase = {
                 "rarity": "rare",
                 "gems": 0,
                 "item_effects": {
-                    "atk": 3,
+                    "hap": 3,
                     "acc": 2,
                     "iar": 2
                 },
@@ -79284,7 +79493,7 @@ var BDOdatabase = {
                 "rarity": "epic",
                 "gems": 0,
                 "item_effects": {
-                    "atk": 3,
+                    "hap": 3,
                     "acc": 2,
                     "iar": 2,
                     "asp": 2,
@@ -79298,7 +79507,7 @@ var BDOdatabase = {
                 "rarity": "common",
                 "gems": 0,
                 "item_effects": {
-                    "atk": 4
+                    "hap": 4
                 },
                 "enhancement_text": "",
                 "enhancement": {},
@@ -79308,7 +79517,7 @@ var BDOdatabase = {
                 "rarity": "uncommon",
                 "gems": 0,
                 "item_effects": {
-                    "atk": 4,
+                    "hap": 4,
                     "acc": 3
                 },
                 "enhancement_text": "",
@@ -79319,7 +79528,7 @@ var BDOdatabase = {
                 "rarity": "rare",
                 "gems": 0,
                 "item_effects": {
-                    "atk": 4,
+                    "hap": 4,
                     "acc": 3,
                     "iar": 3
                 },
@@ -79331,7 +79540,7 @@ var BDOdatabase = {
                 "rarity": "epic",
                 "gems": 0,
                 "item_effects": {
-                    "atk": 4,
+                    "hap": 4,
                     "acc": 3,
                     "iar": 3,
                     "asp": 3,
@@ -79345,7 +79554,7 @@ var BDOdatabase = {
                 "rarity": "common",
                 "gems": 0,
                 "item_effects": {
-                    "atk": 6
+                    "hap": 6
                 },
                 "enhancement_text": "",
                 "enhancement": {},
@@ -79355,7 +79564,7 @@ var BDOdatabase = {
                 "rarity": "uncommon",
                 "gems": 0,
                 "item_effects": {
-                    "atk": 6,
+                    "hap": 6,
                     "acc": 4
                 },
                 "enhancement_text": "",
@@ -79366,7 +79575,7 @@ var BDOdatabase = {
                 "rarity": "rare",
                 "gems": 0,
                 "item_effects": {
-                    "atk": 6,
+                    "hap": 6,
                     "acc": 4,
                     "iar": 4
                 },
@@ -79378,7 +79587,7 @@ var BDOdatabase = {
                 "rarity": "epic",
                 "gems": 0,
                 "item_effects": {
-                    "atk": 6,
+                    "hap": 6,
                     "acc": 4,
                     "iar": 4,
                     "asp": 4,
@@ -79392,7 +79601,7 @@ var BDOdatabase = {
                 "rarity": "common",
                 "gems": 0,
                 "item_effects": {
-                    "atk": 8
+                    "hap": 8
                 },
                 "enhancement_text": "",
                 "enhancement": {},
@@ -79402,7 +79611,7 @@ var BDOdatabase = {
                 "rarity": "uncommon",
                 "gems": 0,
                 "item_effects": {
-                    "atk": 8,
+                    "hap": 8,
                     "acc": 6
                 },
                 "enhancement_text": "",
@@ -79413,7 +79622,7 @@ var BDOdatabase = {
                 "rarity": "rare",
                 "gems": 0,
                 "item_effects": {
-                    "atk": 8,
+                    "hap": 8,
                     "acc": 6,
                     "iar": 5
                 },
@@ -79425,7 +79634,7 @@ var BDOdatabase = {
                 "rarity": "epic",
                 "gems": 0,
                 "item_effects": {
-                    "atk": 8,
+                    "hap": 8,
                     "acc": 6,
                     "iar": 5,
                     "asp": 5,
@@ -79439,7 +79648,7 @@ var BDOdatabase = {
                 "rarity": "common",
                 "gems": 0,
                 "item_effects": {
-                    "atk": 10
+                    "hap": 10
                 },
                 "enhancement_text": "",
                 "enhancement": {},
@@ -79449,7 +79658,7 @@ var BDOdatabase = {
                 "rarity": "uncommon",
                 "gems": 0,
                 "item_effects": {
-                    "atk": 10,
+                    "hap": 10,
                     "acc": 8
                 },
                 "enhancement_text": "",
@@ -79460,7 +79669,7 @@ var BDOdatabase = {
                 "rarity": "rare",
                 "gems": 0,
                 "item_effects": {
-                    "atk": 10,
+                    "hap": 10,
                     "acc": 8,
                     "iar": 6
                 },
@@ -79472,7 +79681,7 @@ var BDOdatabase = {
                 "rarity": "epic",
                 "gems": 0,
                 "item_effects": {
-                    "atk": 10,
+                    "hap": 10,
                     "acc": 8,
                     "iar": 6,
                     "asp": 6,
@@ -79486,7 +79695,7 @@ var BDOdatabase = {
                 "rarity": "common",
                 "gems": 0,
                 "item_effects": {
-                    "atk": 13
+                    "hap": 13
                 },
                 "enhancement_text": "",
                 "enhancement": {},
@@ -79496,7 +79705,7 @@ var BDOdatabase = {
                 "rarity": "uncommon",
                 "gems": 0,
                 "item_effects": {
-                    "atk": 13,
+                    "hap": 13,
                     "acc": 11
                 },
                 "enhancement_text": "",
@@ -79507,7 +79716,7 @@ var BDOdatabase = {
                 "rarity": "rare",
                 "gems": 0,
                 "item_effects": {
-                    "atk": 13,
+                    "hap": 13,
                     "acc": 11,
                     "iar": 8
                 },
@@ -79519,7 +79728,7 @@ var BDOdatabase = {
                 "rarity": "epic",
                 "gems": 0,
                 "item_effects": {
-                    "atk": 13,
+                    "hap": 13,
                     "acc": 11,
                     "iar": 8,
                     "asp": 8,
@@ -79533,7 +79742,7 @@ var BDOdatabase = {
                 "rarity": "common",
                 "gems": 0,
                 "item_effects": {
-                    "atk": 16
+                    "hap": 16
                 },
                 "enhancement_text": "",
                 "enhancement": {},
@@ -79543,7 +79752,7 @@ var BDOdatabase = {
                 "rarity": "uncommon",
                 "gems": 0,
                 "item_effects": {
-                    "atk": 16,
+                    "hap": 16,
                     "acc": 14
                 },
                 "enhancement_text": "",
@@ -79554,7 +79763,7 @@ var BDOdatabase = {
                 "rarity": "rare",
                 "gems": 0,
                 "item_effects": {
-                    "atk": 16,
+                    "hap": 16,
                     "acc": 14,
                     "iar": 10
                 },
@@ -79566,7 +79775,7 @@ var BDOdatabase = {
                 "rarity": "epic",
                 "gems": 0,
                 "item_effects": {
-                    "atk": 16,
+                    "hap": 16,
                     "acc": 14,
                     "iar": 10,
                     "asp": 10,
