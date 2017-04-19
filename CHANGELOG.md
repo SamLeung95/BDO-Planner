@@ -3,6 +3,23 @@ Change Log
 
 _If we jump numbers at all, it's probably because it just fixed something minor we didn't make a note of, or maybe we just don't like that number._
 
+## 1.1.3 (2017-04-19)
+
+### New stuffs
+
+* All the new free "Magical" Armors (Dim, Concentrated, Sealed, Roaring)
+* All the new free "Magical" Secondary Weapons (Dim, Concentrated, Sealed)
+* New HQ class icons
+* Added Dark Knight class and their weapons
+* Added WON, BON and JIN crystals
+* Added simple versions of the craftable costumes (Jarette's/Delphe Knights/Thermian Casual etc), simple versions as in they're not class locked like in game. But it does the job. :)
+
+### Changes / Bugs
+
+* Fixed enhancement values on various items (probably too many to list)
+* Changed "atk" stat to "hap" on various items
+* Fixed incorrect gem slots on some items
+
 ## 1.1.2 (2017-01-25)
 
 ### Bugsssss
