@@ -80591,7 +80591,141 @@ var BDOdatabase = {
                 "enhancement_text": "",
                 "enhancement": {},
                 "name": "Combat Armor Pearl Costume"
-            }
+            },
+            "14201": {
+                "rarity": "legendary",
+                "gems": 1,
+                "item_effects": {
+                    "ms": 2,
+                    "am": 15
+                },
+                "enhancement_text": "",
+                "enhancement": {},
+                "name": "Calpheon Noble Suit"
+            },
+            "14203": {
+                "rarity": "legendary",
+                "gems": 1,
+                "item_effects": {
+                    "ms": 2,
+                    "am": 15
+                },
+                "enhancement_text": "",
+                "enhancement": {},
+                "name": "Calpheon Noble Dress"
+            },
+            "14284": {
+                "rarity": "legendary",
+                "gems": 1,
+                "item_effects": {
+                    "chr": 1,
+                    "am": 15
+                },
+                "enhancement_text": "",
+                "enhancement": {},
+                "name": "Serendian Soldier Suit"
+            },
+            "12501": {
+                "rarity": "legendary",
+                "gems": 1,
+                "item_effects": {
+                    "chr": 1,
+                    "am": 15
+                },
+                "enhancement_text": "",
+                "enhancement": {},
+                "name": "Serendian Blacksmith Suit"
+            },
+            "14286": {
+                "rarity": "legendary",
+                "gems": 1,
+                "item_effects": {
+                    "chr": 1,
+                    "am": 15
+                },
+                "enhancement_text": "",
+                "enhancement": {},
+                "name": "Serendian Blacksmith"
+            },
+            "14296": {
+                "rarity": "legendary",
+                "gems": 1,
+                "item_effects": {
+                    "as": 1,
+                    "cs": 1,
+                    "am": 15
+                },
+                "enhancement_text": "",
+                "enhancement": {},
+                "name": "Jordine Casual Clothes"
+            },
+            "14847": {
+                "rarity": "legendary",
+                "gems": 1,
+                "item_effects": {
+                    "as": 1,
+                    "cs": 1,
+                    "am": 15
+                },
+                "enhancement_text": "",
+                "enhancement": {},
+                "name": "Jarette's Armor"
+            },
+            "14298": {
+                "rarity": "legendary",
+                "gems": 1,
+                "item_effects": {
+                    "ms": 2,
+                    "am": 15
+                },
+                "enhancement_text": "",
+                "enhancement": {},
+                "name": "Orwen's Travel Clothes"
+            },
+            "14845": {
+                "rarity": "legendary",
+                "gems": 1,
+                "item_effects": {
+                    "ms": 2,
+                    "am": 15
+                },
+                "enhancement_text": "",
+                "enhancement": {},
+                "name": "Edan's Travel Clothes"
+            },
+            "14211": {
+                "rarity": "legendary",
+                "gems": 1,
+                "item_effects": {
+                    "ms": 2,
+                    "am": 15
+                },
+                "enhancement_text": "",
+                "enhancement": {},
+                "name": "Garnier Troupe"
+            },
+            "12503": {
+                "rarity": "legendary",
+                "gems": 1,
+                "item_effects": {
+                    "ms": 2,
+                    "am": 15
+                },
+                "enhancement_text": "",
+                "enhancement": {},
+                "name": "Thermian Casual"
+            },
+            "14989": {
+                "rarity": "legendary",
+                "gems": 1,
+                "item_effects": {
+                    "chr": 1,
+                    "am": 15
+                },
+                "enhancement_text": "",
+                "enhancement": {},
+                "name": "Delphe Knights Costume"
+            },
         },
         "main-weapon-outfits": {
             "19394": {
