@@ -80725,7 +80725,7 @@ var BDOdatabase = {
                 "enhancement_text": "",
                 "enhancement": {},
                 "name": "Delphe Knights Costume"
-            },
+            }
         },
         "main-weapon-outfits": {
             "19394": {

@@ -2,7 +2,7 @@
     include $_SERVER['DOCUMENT_ROOT'].'/php/inline/get_full_link.php';
     $__version_major = 1;
     $__version_minor = 1;
-    $__version_revision = 2;
+    $__version_revision = 3;
     $__vr_str = "?".$__version_major.$__version_minor.$__version_revision;
 ?>
 <!DOCTYPE html>
@@ -386,16 +386,20 @@
                                 <h1>New stuffs</h1>
 
                                 <ul>
-                                    <li>All of the new Coral belts have been added</li>
+                                    <li>All the new free "Magical" Armors (Dim, Concentrated, Sealed, Roaring)</li>
+                                    <li>All the new free "Magical" Secondary Weapons (Dim, Concentrated, Sealed)</li>
+                                    <li>New HQ class icons</li>
+                                    <li>Added Dark Knight class and their weapons</li>
+                                    <li>Added WON, BON and JIN crystals</li>
+                                    <li>Added simple versions of the craftable costumes (Jarette's/Delphe Knights/Thermian Casual etc), simple versions as in they're not class locked like in game.</li>
                                 </ul>
 
                                 <h1>Bugs D:</h1>
 
                                 <ul>
-                                    <li>Fixed the rounding issue with AP and Awakening AP... again... hopefully for the last time.</li>
-                                    <li>Corrected Kutum weapons AP</li>
-                                    <li>Corrected Wizard base resistances</li>
-                                    <li>Corrected Rosar weapon enhancements</li>
+                                    <li>Fixed enhancement values on various items (probably too many to list)</li>
+                                    <li>Changed "atk" stat to "hap" on various items</li>
+                                    <li>Fixed incorrect gem slots on some items</li>
                                 </ul>
 
                                 <p><em>
