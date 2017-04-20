@@ -818,6 +818,16 @@ var BDOdatabase = {
                 "ssfr": 20,
                 "gr": 20
             }
+        },
+        "13": {
+            "name": "striker",
+            "display_name": "Striker",
+            "resistances": {
+                "kb": 20,
+                "kd": 20,
+                "ssfr": 20,
+                "gr": 20
+            }
         }
     },
     "training": {
@@ -53034,6 +53044,8 @@ var BDOdatabase = {
                     },
                     "name": "Ultimate Elsh Kriegsmesser"
                 }
+            },
+            "striker": {
             }
         },
         "secondary-weapons": {
@@ -74568,6 +74580,8 @@ var BDOdatabase = {
                     "enhancement": {},
                     "name": "Kunai of Sealed Magical Power"
                 }
+            },
+            "striker": {
             }
         },
         "awakening-weapons": {
@@ -79406,6 +79420,8 @@ var BDOdatabase = {
                     },
                     "name": "Ultimate Light-Swallowing Vediant"
                 }
+            },
+            "striker": {
             }
         },
         "alchemy-stones": {

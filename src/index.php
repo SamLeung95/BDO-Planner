@@ -131,6 +131,11 @@
                             <div class="icon"></div>
                             <div class="name">Dark Knight</div>
                         </li>
+                        <li class="class striker" data-value="13">
+                            <div class="main-background"></div>
+                            <div class="icon"></div>
+                            <div class="name">Striker</div>
+                        </li>
                     </ul>
                 </div>
             </div>
