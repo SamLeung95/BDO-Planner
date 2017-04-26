@@ -2649,6 +2649,16 @@ var BDOdatabase = {
                     "dmgakm": 3
                 },
                 "name": "Valtarra Spirit's Crystal"
+            },
+            "15661": {
+                "rarity": "legendary",
+                "shatter_chance": "high",
+                "incompatible": [],
+                "item_effects": {
+                    "hp": 50,
+                    "hap": 3
+                },
+                "name": "Spirit Crystal"
             }
         },
         "main-weapon": {
@@ -80741,6 +80751,61 @@ var BDOdatabase = {
                 "enhancement_text": "",
                 "enhancement": {},
                 "name": "Delphe Knights Costume"
+            },
+            "12525": {
+                "rarity": "legendary",
+                "gems": 1,
+                "item_effects": {
+                    "ms": 2,
+                    "am": 15
+                },
+                "enhancement_text": "",
+                "enhancement": {},
+                "name": "Serendian Formal Suit"
+            },
+            "12619": {
+                "rarity": "legendary",
+                "gems": 1,
+                "item_effects": {
+                    "ms": 2,
+                    "am": 15
+                },
+                "enhancement_text": "",
+                "enhancement": {},
+                "name": "Valencia Travel Clothes"
+            },
+            "12590": {
+                "rarity": "legendary",
+                "gems": 1,
+                "item_effects": {
+                    "ms": 2,
+                    "am": 15
+                },
+                "enhancement_text": "",
+                "enhancement": {},
+                "name": "Shroud Knights Armor"
+            },
+            "12598": {
+                "rarity": "legendary",
+                "gems": 1,
+                "item_effects": {
+                    "ms": 2,
+                    "am": 15
+                },
+                "enhancement_text": "",
+                "enhancement": {},
+                "name": "Shroud Knights Armor"
+            },
+            "12574": {
+                "rarity": "legendary",
+                "gems": 1,
+                "item_effects": {
+                    "chr": 1,
+                    "am": 15
+                },
+                "enhancement_text": "",
+                "enhancement": {},
+                "name": "Ahon Kirus Armor"
             }
         },
         "main-weapon-outfits": {
