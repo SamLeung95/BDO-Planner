@@ -720,7 +720,7 @@ var BDOcalculator = {
                                 stat_return.item_list.push({
                                     "value": gem.item_effects[eff_key],
                                     "slot": ".gem-slot." + gear_key + gem_key,
-                                    "item": enh_prefix + this.player.gear[gear_key].gems[gem_key].gem.name
+                                    "item": this.player.gear[gear_key].gems[gem_key].gem.name
                                 });
                                 stat_return.total += gem.item_effects[eff_key];
                             }
