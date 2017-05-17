@@ -2881,69 +2881,6 @@ var BDOdatabase = {
                 },
                 "name": "Ancient Spirit's Crystal - Swiftness"
             },
-            "15642": {
-                "rarity": "legendary",
-                "shatter_chance": "none",
-                "incompatible": [],
-                "item_effects": {
-                    "ms": 1
-                },
-                "name": "Breakthrough Crystal - Movement Speed"
-            },
-            "15643": {
-                "rarity": "legendary",
-                "shatter_chance": "none",
-                "incompatible": [],
-                "item_effects": {
-                    "as": 1
-                },
-                "name": "Breakthrough Crystal - Attack Speed"
-            },
-            "15644": {
-                "rarity": "legendary",
-                "shatter_chance": "none",
-                "incompatible": [],
-                "item_effects": {
-                    "cs": 1
-                },
-                "name": "Breakthrough Crystal - Casting Speed"
-            },
-            "15645": {
-                "rarity": "legendary",
-                "shatter_chance": "none",
-                "incompatible": [],
-                "item_effects": {
-                    "chr": 1
-                },
-                "name": "Breakthrough Crystal - Critical Hit"
-            },
-            "15646": {
-                "rarity": "legendary",
-                "shatter_chance": "none",
-                "incompatible": [],
-                "item_effects": {
-                    "lk": 1
-                },
-                "name": "Breakthrough Crystal - Luck"
-            },
-            "15647": {
-                "rarity": "legendary",
-                "shatter_chance": "none",
-                "incompatible": [],
-                "item_effects": {
-                    "fislv": 1
-                },
-                "name": "Breakthrough Crystal - Fishing"
-            },
-            "15648": {
-                "rarity": "legendary",
-                "shatter_chance": "none",
-                "incompatible": [],
-                "item_effects": {
-                    "gatlv": 1
-                },
-                "name": "Breakthrough Crystal - Gathering"
-            },
             "15652": {
                 "rarity": "legendary",
                 "shatter_chance": "none",

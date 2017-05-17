@@ -185,7 +185,7 @@
                         <div class="gem-slot secondary-weapon2" data-type="secondary-weapon" data-item="2"></div>
                         
                         <div class="gear-slot outfit" data-itemset="outfits" data-type="outfit"></div>
-                        <div class="gem-slot outfit1 disabled" data-type="outfit" data-item="1"></div>
+                        <div class="gem-slot outfit1" data-type="outfit" data-item="1"></div>
                         
                         <div class="gear-slot main-weapon-outfit" data-itemset="main-weapon-outfits" data-type="main-weapon-outfit"></div>
                         
