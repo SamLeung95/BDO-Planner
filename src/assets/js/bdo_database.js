@@ -323,11 +323,11 @@ var BDOdatabase = {
             "symbol": "",
             "target": ".general-stats"
         },
-        "bg": {
-            "title": "Breath Gauge",
+        "ub": {
+            "title": "Underwater Breathing",
             "desc": "",
             "total": 0,
-            "symbol": "sec",
+            "symbol": " sec",
             "target": ".general-stats"
         },
         "wgt": {
@@ -1533,6 +1533,14 @@ var BDOdatabase = {
                     "acc": 5
                 }
             }
+        },
+        "Helms": {
+            "pieces": {
+                "2": {
+                    "hap": 2,
+                    "acc": 3
+                }
+            }
         }
     },
     "gems": {
@@ -1670,7 +1678,7 @@ var BDOdatabase = {
                 "shatter_chance": "high",
                 "incompatible": [],
                 "item_effects": {
-                    "bg": 15
+                    "ub": 15
                 },
                 "name": "Magic Crystal of Infinity - Submergence"
             },
@@ -1714,15 +1722,6 @@ var BDOdatabase = {
                 },
                 "name": "Black Magic Crystal - Falling"
             },
-            "15215": {
-                "rarity": "epic",
-                "shatter_chance": "high",
-                "incompatible": [],
-                "item_effects": {
-                    "stam": 250
-                },
-                "name": "Black Magic Crystal - Energy"
-            },
             "15604": {
                 "rarity": "legendary",
                 "shatter_chance": "low",
@@ -1752,17 +1751,6 @@ var BDOdatabase = {
                     "stam": 150
                 },
                 "name": "Black Magic Crystal - Hystria"
-            },
-            "15637": {
-                "rarity": "legendary",
-                "shatter_chance": "might",
-                "incompatible": [],
-                "item_effects": {
-                    "wgt": 20,
-                    "ms": 1,
-                    "dmgth": 2
-                },
-                "name": "Red Battlefield Crystal: Hystria"
             },
             "15640": {
                 "rarity": "legendary",
@@ -1841,7 +1829,7 @@ var BDOdatabase = {
                 "shatter_chance": "high",
                 "incompatible": [],
                 "item_effects": {
-                    "acc": 1
+                    "acc": 4
                 },
                 "name": "Magic Crystal of the Sun - Precision"
             },
@@ -1886,7 +1874,7 @@ var BDOdatabase = {
                 "shatter_chance": "high",
                 "incompatible": [],
                 "item_effects": {
-                    "acc": 2
+                    "acc": 8
                 },
                 "name": "Magic Crystal of Infinity - Precision"
             },
@@ -1961,7 +1949,7 @@ var BDOdatabase = {
                 "shatter_chance": "high",
                 "incompatible": [],
                 "item_effects": {
-                    "acc": 2,
+                    "acc": 8,
                     "gr": 5
                 },
                 "name": "Black Magic Crystal - Precision"
@@ -1983,20 +1971,9 @@ var BDOdatabase = {
                 "item_effects": {
                     "as": 1,
                     "cs": 1,
-                    "acc": 2
+                    "acc": 8
                 },
                 "name": "Black Magic Crystal - Viper"
-            },
-            "15636": {
-                "rarity": "legendary",
-                "shatter_chance": "might",
-                "incompatible": [],
-                "item_effects": {
-                    "as": 1,
-                    "cs": 1,
-                    "dmgth": 2
-                },
-                "name": "Red Battlefield Crystal: Viper"
             },
             "15809": {
                 "rarity": "legendary",
@@ -2005,7 +1982,7 @@ var BDOdatabase = {
                 "item_effects": {
                     "as": 1,
                     "cs": 2,
-                    "acc": 3
+                    "acc": 12
                 },
                 "name": "WON Magic Crystal - Viper"
             },
@@ -2016,7 +1993,7 @@ var BDOdatabase = {
                 "item_effects": {
                     "as": 2,
                     "cs": 1,
-                    "acc": 3
+                    "acc": 12
                 },
                 "name": "BON Magic Crystal - Viper"
             },
@@ -2027,7 +2004,7 @@ var BDOdatabase = {
                 "item_effects": {
                     "as": 1,
                     "cs": 1,
-                    "acc": 5
+                    "acc": 20
                 },
                 "name": "JIN Magic Crystal - Viper"
             }
@@ -2193,24 +2170,6 @@ var BDOdatabase = {
                 },
                 "name": "Ancient Magic Crystal of Abundance - Armor"
             },
-            "15611": {
-                "rarity": "epic",
-                "shatter_chance": "low",
-                "incompatible": [],
-                "item_effects": {
-                    "hp": 100
-                },
-                "name": "Ancient Magic Crystal of Abundance - Vigor"
-            },
-            "15612": {
-                "rarity": "epic",
-                "shatter_chance": "low",
-                "incompatible": [],
-                "item_effects": {
-                    "mpwpsp": 100
-                },
-                "name": "Ancient Magic Crystal of Abundance - Patience"
-            },
             "15613": {
                 "rarity": "epic",
                 "shatter_chance": "low",
@@ -2243,17 +2202,6 @@ var BDOdatabase = {
                     "dr": 2
                 },
                 "name": "Black Magic Crystal - Cobelinus"
-            },
-            "15635": {
-                "rarity": "legendary",
-                "shatter_chance": "might",
-                "incompatible": [],
-                "item_effects": {
-                    "hp": 100,
-                    "wgt": 20,
-                    "dmgth": 2
-                },
-                "name": "Red Battlefield Crystal: Comeliness"
             },
             "15852": {
                 "rarity": "legendary",
@@ -2333,18 +2281,9 @@ var BDOdatabase = {
                 "shatter_chance": "high",
                 "incompatible": [],
                 "item_effects": {
-                    "ev": 1
+                    "ev": 4
                 },
                 "name": "Magic Crystal of Enchantment - Agility"
-            },
-            "15031": {
-                "rarity": "uncommon",
-                "shatter_chance": "high",
-                "incompatible": [],
-                "item_effects": {
-                    "cbexp": 5
-                },
-                "name": "Magic Crystal of Enchantment - Experience"
             },
             "15121": {
                 "rarity": "rare",
@@ -2378,7 +2317,7 @@ var BDOdatabase = {
                 "shatter_chance": "high",
                 "incompatible": [],
                 "item_effects": {
-                    "ev": 2
+                    "ev": 8
                 },
                 "name": "Magic Crystal of Infinity - Agility"
             },
@@ -2411,22 +2350,12 @@ var BDOdatabase = {
                 },
                 "name": "Black Magic Crystal - Intimidation"
             },
-            "15223": {
-                "rarity": "epic",
-                "shatter_chance": "high",
-                "incompatible": [],
-                "item_effects": {
-                    "vr": 15,
-                    "kd": 5
-                },
-                "name": "Black Magic Crystal - Vision"
-            },
             "15224": {
                 "rarity": "epic",
                 "shatter_chance": "high",
                 "incompatible": [],
                 "item_effects": {
-                    "ev": 2,
+                    "ev": 8,
                     "kd": 5
                 },
                 "name": "Black Magic Crystal - Agility"
@@ -2446,7 +2375,7 @@ var BDOdatabase = {
                 "shatter_chance": "low",
                 "incompatible": [],
                 "item_effects": {
-                    "ev": 5
+                    "ev": 20
                 },
                 "name": "Ancient Magic Crystal of Enchantment - Agility"
             },
@@ -2457,20 +2386,9 @@ var BDOdatabase = {
                 "item_effects": {
                     "hp": 50,
                     "hprc": 5,
-                    "ev": 2
+                    "ev": 8
                 },
                 "name": "Black Magic Crystal - Harphia"
-            },
-            "15634": {
-                "rarity": "legendary",
-                "shatter_chance": "might",
-                "incompatible": [],
-                "item_effects": {
-                    "hp": 50,
-                    "hprc": 5,
-                    "dmgth": 2
-                },
-                "name": "Red Battlefield Crystal: Harphia"
             },
             "15851": {
                 "rarity": "legendary",
@@ -2490,7 +2408,7 @@ var BDOdatabase = {
                 "item_effects": {
                     "hp": 50,
                     "hprc": 10,
-                    "ev": 3
+                    "ev": 12
                 },
                 "name": "WON Magic Crystal - Harphia"
             },
@@ -2501,7 +2419,7 @@ var BDOdatabase = {
                 "item_effects": {
                     "hp": 75,
                     "hprc": 5,
-                    "ev": 3
+                    "ev": 12
                 },
                 "name": "BON Magic Crystal - Harphia"
             },
@@ -2512,7 +2430,7 @@ var BDOdatabase = {
                 "item_effects": {
                     "hp": 50,
                     "hprc": 5,
-                    "ev": 5
+                    "ev": 20
                 },
                 "name": "JIN Magic Crystal - Harphia"
             }
@@ -2628,17 +2546,6 @@ var BDOdatabase = {
                 },
                 "name": "Awakened Spirit's Crystal"
             },
-            "15633": {
-                "rarity": "legendary",
-                "shatter_chance": "might",
-                "incompatible": [],
-                "item_effects": {
-                    "hp": 100,
-                    "hap": 5,
-                    "dmgth": 3
-                },
-                "name": "Red Spirit Crystal"
-            },
             "15654": {
                 "rarity": "legendary",
                 "shatter_chance": "might",
@@ -2667,7 +2574,7 @@ var BDOdatabase = {
                 "shatter_chance": "high",
                 "incompatible": [],
                 "item_effects": {
-                    "acc": 1
+                    "acc": 4
                 },
                 "name": "Magic Crystal of Crimson Flame - Precision"
             },
@@ -2841,57 +2748,10 @@ var BDOdatabase = {
                 "shatter_chance": "high",
                 "incompatible": [],
                 "item_effects": {
-                    "acc": 2,
+                    "acc": 8,
                     "iar": 10
                 },
                 "name": "Black Magic Crystal - Precision"
-            },
-            "15501": {
-                "rarity": "legendary",
-                "shatter_chance": "low",
-                "incompatible": [],
-                "item_effects": {
-                    "chr": 2
-                },
-                "name": "Ancient Magic Crystal - Crimson Flame"
-            },
-            "15502": {
-                "rarity": "legendary",
-                "shatter_chance": "very low",
-                "incompatible": [],
-                "item_effects": {
-                    "cs": 2
-                },
-                "name": "Ancient Magic Crystal - Enchantment"
-            },
-            "15503": {
-                "rarity": "legendary",
-                "shatter_chance": "very low",
-                "incompatible": [],
-                "item_effects": {
-                    "as": 2
-                },
-                "name": "Ancient Magic Crystal - Destruction"
-            },
-            "15504": {
-                "rarity": "legendary",
-                "shatter_chance": "very low",
-                "incompatible": [],
-                "item_effects": {
-                    "cs": 1,
-                    "chr": 1
-                },
-                "name": "Ancient Magic Crystal - Temptation"
-            },
-            "15605": {
-                "rarity": "legendary",
-                "shatter_chance": "low",
-                "incompatible": [],
-                "item_effects": {
-                    "chr": 1,
-                    "as": 1
-                },
-                "name": "Ancient Magic Crystal - Carmae"
             },
             "15606": {
                 "rarity": "epic",
@@ -2912,17 +2772,6 @@ var BDOdatabase = {
                     "hap": 2
                 },
                 "name": "Black Magic Crystal - Carmae"
-            },
-            "15638": {
-                "rarity": "legendary",
-                "shatter_chance": "might",
-                "incompatible": [],
-                "item_effects": {
-                    "chr": 1,
-                    "as": 1,
-                    "dmgth": 3
-                },
-                "name": "Red Battlefield Crystal: Carmae"
             },
             "15639": {
                 "rarity": "legendary",
@@ -2954,17 +2803,6 @@ var BDOdatabase = {
                     "hap": 2
                 },
                 "name": "Black Magic Crystal - Addis"
-            },
-            "15651": {
-                "rarity": "legendary",
-                "shatter_chance": "might",
-                "incompatible": [],
-                "item_effects": {
-                    "chr": 1,
-                    "cs": 1,
-                    "dmgth": 3
-                },
-                "name": "Red Battlefield Crystal: Addis"
             },
             "15818": {
                 "rarity": "legendary",
@@ -3120,7 +2958,8 @@ var BDOdatabase = {
                 "shatter_chance": "none",
                 "incompatible": [],
                 "item_effects": {
-                    "ms": 2
+                    "as": 1,
+                    "cs": 1
                 },
                 "name": "Ancient Spirit's Crystal - Viper"
             }
@@ -20509,6 +20348,58 @@ var BDOdatabase = {
                     }
                 },
                 "name": "Manos Diamond Necklace"
+            },
+            "11636": {
+                "dp": 0,
+                "ap": 5,
+                "rarity": "uncommon",
+                "gems": 0,
+                "item_effects": {},
+                "enhancement_text": "",
+                "enhancement": {},
+                "name": "NNecklace of Dim Spell"
+            },
+            "11637": {
+                "dp": 0,
+                "ap": 6,
+                "rarity": "uncommon",
+                "gems": 0,
+                "item_effects": {},
+                "enhancement_text": "",
+                "enhancement": {},
+                "name": "Necklace of Concentrated Spell"
+            },
+            "11638": {
+                "set": "Helms",
+                "dp": 0,
+                "ap": 7,
+                "rarity": "rare",
+                "gems": 0,
+                "item_effects": {},
+                "enhancement_text": "",
+                "enhancement": {
+                    "1": {
+                        "ap": 8,
+                        "dp": 1
+                    },
+                    "2": {
+                        "ap": 9,
+                        "dp": 2
+                    },
+                    "3": {
+                        "ap": 10,
+                        "dp": 3
+                    },
+                    "4": {
+                        "ap": 11,
+                        "dp": 4
+                    },
+                    "5": {
+                        "ap": 12,
+                        "dp": 5
+                    }
+                },
+                "name": "Necklace of Sealed Spell"
             }
         },
         "belts": {
@@ -21295,7 +21186,46 @@ var BDOdatabase = {
                     }
                 },
                 "name": "Manos White Coral Belt"
-            }
+            },
+            "12233": {
+                "set": "Helms",
+                "dp": 0,
+                "ap": 3,
+                "rarity": "rare",
+                "gems": 0,
+                "item_effects": {
+                    "wgt": 50
+                },
+                "enhancement_text": "",
+                "enhancement": {
+                    "1": {
+                        "ap": 4,
+                        "dp": 1,
+                        "wgt": 60
+                    },
+                    "2": {
+                        "ap": 5,
+                        "dp": 5,
+                        "wgt": 70
+                    },
+                    "3": {
+                        "ap": 6,
+                        "dp": 6,
+                        "wgt": 80
+                    },
+                    "4": {
+                        "ap": 7,
+                        "dp": 7,
+                        "wgt": 90
+                    },
+                    "5": {
+                        "ap": 8,
+                        "dp": 8,
+                        "wgt": 100
+                    }
+                },
+                "name": "Helm Destroyer's Belt"
+            },
         },
         "main-weapons": {
             "berserker": {
@@ -79450,7 +79380,7 @@ var BDOdatabase = {
                 "gems": 0,
                 "item_effects": {
                     "hap": 2,
-                    "acc": 1
+                    "acc": 2
                 },
                 "enhancement_text": "",
                 "enhancement": {},
@@ -79461,7 +79391,7 @@ var BDOdatabase = {
                 "gems": 0,
                 "item_effects": {
                     "hap": 2,
-                    "acc": 1,
+                    "acc": 2,
                     "iar": 1
                 },
                 "enhancement_text": "",
@@ -79473,7 +79403,7 @@ var BDOdatabase = {
                 "gems": 0,
                 "item_effects": {
                     "hap": 2,
-                    "acc": 1,
+                    "acc": 2,
                     "iar": 1,
                     "asp": 1,
                     "csp": 1
@@ -79497,7 +79427,7 @@ var BDOdatabase = {
                 "gems": 0,
                 "item_effects": {
                     "hap": 3,
-                    "acc": 2
+                    "acc": 4
                 },
                 "enhancement_text": "",
                 "enhancement": {},
@@ -79508,7 +79438,7 @@ var BDOdatabase = {
                 "gems": 0,
                 "item_effects": {
                     "hap": 3,
-                    "acc": 2,
+                    "acc": 4,
                     "iar": 2
                 },
                 "enhancement_text": "",
@@ -79520,7 +79450,7 @@ var BDOdatabase = {
                 "gems": 0,
                 "item_effects": {
                     "hap": 3,
-                    "acc": 2,
+                    "acc": 4,
                     "iar": 2,
                     "asp": 2,
                     "csp": 2
@@ -79544,7 +79474,7 @@ var BDOdatabase = {
                 "gems": 0,
                 "item_effects": {
                     "hap": 4,
-                    "acc": 3
+                    "acc": 6
                 },
                 "enhancement_text": "",
                 "enhancement": {},
@@ -79555,7 +79485,7 @@ var BDOdatabase = {
                 "gems": 0,
                 "item_effects": {
                     "hap": 4,
-                    "acc": 3,
+                    "acc": 6,
                     "iar": 3
                 },
                 "enhancement_text": "",
@@ -79567,7 +79497,7 @@ var BDOdatabase = {
                 "gems": 0,
                 "item_effects": {
                     "hap": 4,
-                    "acc": 3,
+                    "acc": 6,
                     "iar": 3,
                     "asp": 3,
                     "csp": 3
@@ -79591,7 +79521,7 @@ var BDOdatabase = {
                 "gems": 0,
                 "item_effects": {
                     "hap": 6,
-                    "acc": 4
+                    "acc": 8
                 },
                 "enhancement_text": "",
                 "enhancement": {},
@@ -79602,7 +79532,7 @@ var BDOdatabase = {
                 "gems": 0,
                 "item_effects": {
                     "hap": 6,
-                    "acc": 4,
+                    "acc": 8,
                     "iar": 4
                 },
                 "enhancement_text": "",
@@ -79614,7 +79544,7 @@ var BDOdatabase = {
                 "gems": 0,
                 "item_effects": {
                     "hap": 6,
-                    "acc": 4,
+                    "acc": 8,
                     "iar": 4,
                     "asp": 4,
                     "csp": 4
@@ -79638,7 +79568,7 @@ var BDOdatabase = {
                 "gems": 0,
                 "item_effects": {
                     "hap": 8,
-                    "acc": 6
+                    "acc": 10
                 },
                 "enhancement_text": "",
                 "enhancement": {},
@@ -79649,7 +79579,7 @@ var BDOdatabase = {
                 "gems": 0,
                 "item_effects": {
                     "hap": 8,
-                    "acc": 6,
+                    "acc": 10,
                     "iar": 5
                 },
                 "enhancement_text": "",
@@ -79661,7 +79591,7 @@ var BDOdatabase = {
                 "gems": 0,
                 "item_effects": {
                     "hap": 8,
-                    "acc": 6,
+                    "acc": 10,
                     "iar": 5,
                     "asp": 5,
                     "csp": 5
@@ -79685,7 +79615,7 @@ var BDOdatabase = {
                 "gems": 0,
                 "item_effects": {
                     "hap": 10,
-                    "acc": 8
+                    "acc": 12
                 },
                 "enhancement_text": "",
                 "enhancement": {},
@@ -79696,7 +79626,7 @@ var BDOdatabase = {
                 "gems": 0,
                 "item_effects": {
                     "hap": 10,
-                    "acc": 8,
+                    "acc": 12,
                     "iar": 6
                 },
                 "enhancement_text": "",
@@ -79708,7 +79638,7 @@ var BDOdatabase = {
                 "gems": 0,
                 "item_effects": {
                     "hap": 10,
-                    "acc": 8,
+                    "acc": 12,
                     "iar": 6,
                     "asp": 6,
                     "csp": 6
@@ -79732,7 +79662,7 @@ var BDOdatabase = {
                 "gems": 0,
                 "item_effects": {
                     "hap": 13,
-                    "acc": 11
+                    "acc": 14
                 },
                 "enhancement_text": "",
                 "enhancement": {},
@@ -79743,7 +79673,7 @@ var BDOdatabase = {
                 "gems": 0,
                 "item_effects": {
                     "hap": 13,
-                    "acc": 11,
+                    "acc": 14,
                     "iar": 8
                 },
                 "enhancement_text": "",
@@ -79755,7 +79685,7 @@ var BDOdatabase = {
                 "gems": 0,
                 "item_effects": {
                     "hap": 13,
-                    "acc": 11,
+                    "acc": 14,
                     "iar": 8,
                     "asp": 8,
                     "csp": 8
@@ -79779,7 +79709,7 @@ var BDOdatabase = {
                 "gems": 0,
                 "item_effects": {
                     "hap": 16,
-                    "acc": 14
+                    "acc": 16
                 },
                 "enhancement_text": "",
                 "enhancement": {},
@@ -79790,7 +79720,7 @@ var BDOdatabase = {
                 "gems": 0,
                 "item_effects": {
                     "hap": 16,
-                    "acc": 14,
+                    "acc": 16,
                     "iar": 10
                 },
                 "enhancement_text": "",
@@ -79802,7 +79732,7 @@ var BDOdatabase = {
                 "gems": 0,
                 "item_effects": {
                     "hap": 16,
-                    "acc": 14,
+                    "acc": 16,
                     "iar": 10,
                     "asp": 10,
                     "csp": 10
@@ -79826,7 +79756,7 @@ var BDOdatabase = {
                 "gems": 0,
                 "item_effects": {
                     "dr": 2,
-                    "ev": 1
+                    "ev": 2
                 },
                 "enhancement_text": "",
                 "enhancement": {},
@@ -79837,7 +79767,7 @@ var BDOdatabase = {
                 "gems": 0,
                 "item_effects": {
                     "dr": 2,
-                    "ev": 1,
+                    "ev": 2,
                     "hp": 50
                 },
                 "enhancement_text": "",
@@ -79849,7 +79779,7 @@ var BDOdatabase = {
                 "gems": 0,
                 "item_effects": {
                     "dr": 2,
-                    "ev": 1,
+                    "ev": 2,
                     "hp": 50,
                     "kb": 1,
                     "kd": 1,
@@ -79875,7 +79805,7 @@ var BDOdatabase = {
                 "gems": 0,
                 "item_effects": {
                     "dr": 3,
-                    "ev": 2
+                    "ev": 4
                 },
                 "enhancement_text": "",
                 "enhancement": {},
@@ -79886,7 +79816,7 @@ var BDOdatabase = {
                 "gems": 0,
                 "item_effects": {
                     "dr": 3,
-                    "ev": 2,
+                    "ev": 4,
                     "hp": 70
                 },
                 "enhancement_text": "",
@@ -79898,7 +79828,7 @@ var BDOdatabase = {
                 "gems": 0,
                 "item_effects": {
                     "dr": 3,
-                    "ev": 2,
+                    "ev": 4,
                     "hp": 70,
                     "kb": 2,
                     "kd": 2,
@@ -79924,7 +79854,7 @@ var BDOdatabase = {
                 "gems": 0,
                 "item_effects": {
                     "dr": 4,
-                    "ev": 3
+                    "ev": 6
                 },
                 "enhancement_text": "",
                 "enhancement": {},
@@ -79935,7 +79865,7 @@ var BDOdatabase = {
                 "gems": 0,
                 "item_effects": {
                     "dr": 4,
-                    "ev": 3,
+                    "ev": 6,
                     "hp": 90
                 },
                 "enhancement_text": "",
@@ -79947,7 +79877,7 @@ var BDOdatabase = {
                 "gems": 0,
                 "item_effects": {
                     "dr": 4,
-                    "ev": 3,
+                    "ev": 6,
                     "hp": 90,
                     "kb": 3,
                     "kd": 3,
@@ -79973,7 +79903,7 @@ var BDOdatabase = {
                 "gems": 0,
                 "item_effects": {
                     "dr": 6,
-                    "ev": 4
+                    "ev": 8
                 },
                 "enhancement_text": "",
                 "enhancement": {},
@@ -79984,7 +79914,7 @@ var BDOdatabase = {
                 "gems": 0,
                 "item_effects": {
                     "dr": 6,
-                    "ev": 4,
+                    "ev": 8,
                     "hp": 110
                 },
                 "enhancement_text": "",
@@ -79996,7 +79926,7 @@ var BDOdatabase = {
                 "gems": 0,
                 "item_effects": {
                     "dr": 6,
-                    "ev": 4,
+                    "ev": 8,
                     "hp": 110,
                     "kb": 4,
                     "kd": 4,
@@ -80022,7 +79952,7 @@ var BDOdatabase = {
                 "gems": 0,
                 "item_effects": {
                     "dr": 8,
-                    "ev": 6
+                    "ev": 10
                 },
                 "enhancement_text": "",
                 "enhancement": {},
@@ -80033,7 +79963,7 @@ var BDOdatabase = {
                 "gems": 0,
                 "item_effects": {
                     "dr": 8,
-                    "ev": 6,
+                    "ev": 10,
                     "hp": 140
                 },
                 "enhancement_text": "",
@@ -80045,7 +79975,7 @@ var BDOdatabase = {
                 "gems": 0,
                 "item_effects": {
                     "dr": 8,
-                    "ev": 6,
+                    "ev": 10,
                     "hp": 140,
                     "kb": 5,
                     "kd": 5,
@@ -80071,7 +80001,7 @@ var BDOdatabase = {
                 "gems": 0,
                 "item_effects": {
                     "dr": 10,
-                    "ev": 8
+                    "ev": 12
                 },
                 "enhancement_text": "",
                 "enhancement": {},
@@ -80082,7 +80012,7 @@ var BDOdatabase = {
                 "gems": 0,
                 "item_effects": {
                     "dr": 10,
-                    "ev": 8,
+                    "ev": 12,
                     "hp": 170
                 },
                 "enhancement_text": "",
@@ -80094,7 +80024,7 @@ var BDOdatabase = {
                 "gems": 0,
                 "item_effects": {
                     "dr": 10,
-                    "ev": 8,
+                    "ev": 12,
                     "hp": 170,
                     "kb": 6,
                     "kd": 6,
@@ -80120,7 +80050,7 @@ var BDOdatabase = {
                 "gems": 0,
                 "item_effects": {
                     "dr": 13,
-                    "ev": 11
+                    "ev": 14
                 },
                 "enhancement_text": "",
                 "enhancement": {},
@@ -80131,7 +80061,7 @@ var BDOdatabase = {
                 "gems": 0,
                 "item_effects": {
                     "dr": 13,
-                    "ev": 11,
+                    "ev": 14,
                     "hp": 210
                 },
                 "enhancement_text": "",
@@ -80143,7 +80073,7 @@ var BDOdatabase = {
                 "gems": 0,
                 "item_effects": {
                     "dr": 13,
-                    "ev": 11,
+                    "ev": 14,
                     "hp": 210,
                     "kb": 7,
                     "kd": 7,
@@ -80169,7 +80099,7 @@ var BDOdatabase = {
                 "gems": 0,
                 "item_effects": {
                     "dr": 16,
-                    "ev": 14
+                    "ev": 16
                 },
                 "enhancement_text": "",
                 "enhancement": {},
@@ -80180,7 +80110,7 @@ var BDOdatabase = {
                 "gems": 0,
                 "item_effects": {
                     "dr": 16,
-                    "ev": 14,
+                    "ev": 16,
                     "hp": 250
                 },
                 "enhancement_text": "",
@@ -80192,7 +80122,7 @@ var BDOdatabase = {
                 "gems": 0,
                 "item_effects": {
                     "dr": 16,
-                    "ev": 14,
+                    "ev": 16,
                     "hp": 250,
                     "kb": 8,
                     "kd": 8,
