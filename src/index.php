@@ -131,7 +131,7 @@
                             <div class="icon"></div>
                             <div class="name">Dark Knight</div>
                         </li>
-                        <li class="class striker disabled" data-value="13">
+                        <li class="class striker" data-value="13">
                             <div class="main-background"></div>
                             <div class="icon"></div>
                             <div class="name">Striker</div>
@@ -391,20 +391,27 @@
                                 <h1>New stuffs</h1>
 
                                 <ul>
-                                    <li>All the new free "Magical" Armors (Dim, Concentrated, Sealed, Roaring)</li>
-                                    <li>All the new free "Magical" Secondary Weapons (Dim, Concentrated, Sealed)</li>
-                                    <li>New HQ class icons</li>
-                                    <li>Added Dark Knight class and their weapons</li>
-                                    <li>Added WON, BON and JIN crystals</li>
-                                    <li>Added simple versions of the craftable costumes (Jarette's/Delphe Knights/Thermian Casual etc), simple versions as in they're not class locked like in game.</li>
+                                    <li>Added Striker Class and Weapons</li>
+                                    <li>Added new offhand crystal (Spirit Crystal)</li>
+                                    <li>Added new mediah necklace (Necklace of Dim Spell, Necklace of Concentrated Spell, Necklace of Sealed Spell)</li>
+                                    <li>Added Helm Destroyer's Belt</li>
+                                    <li>Added set bonus for the above items (belt and necklace)</li>
+                                    <li>Added new craftable costumes.</li>
+                                    <li>Enabled outfit crystal slot.</li>
                                 </ul>
 
-                                <h1>Bugs D:</h1>
+                                <h1>Bugs</h1>
 
                                 <ul>
-                                    <li>Fixed enhancement values on various items (probably too many to list)</li>
-                                    <li>Changed "atk" stat to "hap" on various items</li>
-                                    <li>Fixed incorrect gem slots on some items</li>
+                                    <li>Removed enhance prefix from gems on tooltip popups</li>
+                                </ul>
+
+                                <h1>Changes</h1>
+
+                                <ul>
+                                    <li>Changed "Breath Gauge" stat to "Underwater Breathing"</li>
+                                    <li>Updated Accuracy and Evasion stats on crystals and Alchemy Stones (Destruction / Protection) - (see <a href="https://community.blackdesertonline.com/index.php?threads/patch-notes-may-17th-2017-updated-on-18-05-17.2986/" target="_blank">Patch Notes - Item Changes</a>)</li>
+                                    <li>Crystal cleanup, removed a bunch of crystals that don't appear to exist anywhere. (see <a href="https://github.com/Ihellmasker/BDO-Planner/commit/17c0feb539181b3c07b9f1e7f4d237d3dd4f04fb" target="_blank">This commit</a>)</li>
                                 </ul>
 
                                 <p><em>
