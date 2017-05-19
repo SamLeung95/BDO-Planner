@@ -3,6 +3,28 @@ Change Log
 
 _If we jump numbers at all, it's probably because it just fixed something minor we didn't make a note of, or maybe we just don't like that number._
 
+## 1.2.0 (2017-05-19)
+
+### New stuffs
+
+* Added Striker Class and Weapons
+* Added new offhand crystal (Spirit Crystal)
+* Added new mediah necklace (Necklace of Dim Spell, Necklace of Concentrated Spell, Necklace of Sealed Spell)
+* Added Helm Destroyer's Belt
+* Added set bonus for the above items (belt and necklace)
+* Added new craftable costumes.
+* Enabled outfit crystal slot.
+
+### Bugs
+
+* Removed enhance prefix from gems on tooltip popups
+
+### Changes
+
+* Changed "Breath Gauge" stat to "Underwater Breathing"
+* Updated Accuracy and Evasion stats on crystals and Alchemy Stones (Destruction / Protection) - (see <a href="https://community.blackdesertonline.com/index.php?threads/patch-notes-may-17th-2017-updated-on-18-05-17.2986/" target="_blank">Patch Notes - Item Changes</a>)
+* Crystal cleanup, removed a bunch of crystals that don't appear to exist anywhere. (see <a href="https://github.com/Ihellmasker/BDO-Planner/commit/17c0feb539181b3c07b9f1e7f4d237d3dd4f04fb" target="_blank">This commit</a>)
+
 ## 1.1.3 (2017-04-19)
 
 ### New stuffs
