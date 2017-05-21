@@ -87252,7 +87252,7 @@ var BDOdatabase = {
             },
             "14201": {
                 "rarity": "legendary",
-                "gems": 1,
+                "gems": 0,
                 "item_effects": {
                     "ms": 2,
                     "am": 15
@@ -87263,7 +87263,7 @@ var BDOdatabase = {
             },
             "14203": {
                 "rarity": "legendary",
-                "gems": 1,
+                "gems": 0,
                 "item_effects": {
                     "ms": 2,
                     "am": 15
@@ -87274,7 +87274,7 @@ var BDOdatabase = {
             },
             "14284": {
                 "rarity": "legendary",
-                "gems": 1,
+                "gems": 0,
                 "item_effects": {
                     "chr": 1,
                     "am": 15
@@ -87285,7 +87285,7 @@ var BDOdatabase = {
             },
             "12501": {
                 "rarity": "legendary",
-                "gems": 1,
+                "gems": 0,
                 "item_effects": {
                     "chr": 1,
                     "am": 15
@@ -87296,7 +87296,7 @@ var BDOdatabase = {
             },
             "14286": {
                 "rarity": "legendary",
-                "gems": 1,
+                "gems": 0,
                 "item_effects": {
                     "chr": 1,
                     "am": 15
@@ -87307,7 +87307,7 @@ var BDOdatabase = {
             },
             "14296": {
                 "rarity": "legendary",
-                "gems": 1,
+                "gems": 0,
                 "item_effects": {
                     "as": 1,
                     "cs": 1,
@@ -87319,7 +87319,7 @@ var BDOdatabase = {
             },
             "14847": {
                 "rarity": "legendary",
-                "gems": 1,
+                "gems": 0,
                 "item_effects": {
                     "as": 1,
                     "cs": 1,
@@ -87331,7 +87331,7 @@ var BDOdatabase = {
             },
             "14298": {
                 "rarity": "legendary",
-                "gems": 1,
+                "gems": 0,
                 "item_effects": {
                     "ms": 2,
                     "am": 15
@@ -87342,7 +87342,7 @@ var BDOdatabase = {
             },
             "14845": {
                 "rarity": "legendary",
-                "gems": 1,
+                "gems": 0,
                 "item_effects": {
                     "ms": 2,
                     "am": 15
@@ -87353,7 +87353,7 @@ var BDOdatabase = {
             },
             "14211": {
                 "rarity": "legendary",
-                "gems": 1,
+                "gems": 0,
                 "item_effects": {
                     "ms": 2,
                     "am": 15
@@ -87364,7 +87364,7 @@ var BDOdatabase = {
             },
             "12503": {
                 "rarity": "legendary",
-                "gems": 1,
+                "gems": 0,
                 "item_effects": {
                     "ms": 2,
                     "am": 15
@@ -87375,7 +87375,7 @@ var BDOdatabase = {
             },
             "14989": {
                 "rarity": "legendary",
-                "gems": 1,
+                "gems": 0,
                 "item_effects": {
                     "chr": 1,
                     "am": 15
@@ -87386,7 +87386,7 @@ var BDOdatabase = {
             },
             "12525": {
                 "rarity": "legendary",
-                "gems": 1,
+                "gems": 0,
                 "item_effects": {
                     "ms": 2,
                     "am": 15
@@ -87397,7 +87397,7 @@ var BDOdatabase = {
             },
             "12619": {
                 "rarity": "legendary",
-                "gems": 1,
+                "gems": 0,
                 "item_effects": {
                     "ms": 2,
                     "am": 15
@@ -87408,7 +87408,7 @@ var BDOdatabase = {
             },
             "12590": {
                 "rarity": "legendary",
-                "gems": 1,
+                "gems": 0,
                 "item_effects": {
                     "ms": 2,
                     "am": 15
@@ -87419,7 +87419,7 @@ var BDOdatabase = {
             },
             "12598": {
                 "rarity": "legendary",
-                "gems": 1,
+                "gems": 0,
                 "item_effects": {
                     "ms": 2,
                     "am": 15
@@ -87430,7 +87430,7 @@ var BDOdatabase = {
             },
             "12574": {
                 "rarity": "legendary",
-                "gems": 1,
+                "gems": 0,
                 "item_effects": {
                     "chr": 1,
                     "am": 15
