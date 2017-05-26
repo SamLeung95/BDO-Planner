@@ -2762,6 +2762,16 @@ var BDOdatabase = {
                 },
                 "name": "Ancient Magic Crystal of Crimson Flame - Power"
             },
+            "15605": {
+                "rarity": "legendary",
+                "shatter_chance": "low",
+                "incompatible": [],
+                "item_effects": {
+                    "chr": 1,
+                    "as": 1
+                },
+                "name": "Ancient Magic Crystal - Carmae"
+            },
             "15632": {
                 "rarity": "legendary",
                 "shatter_chance": "low",
