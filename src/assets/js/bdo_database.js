@@ -78502,27 +78502,27 @@ var BDOdatabase = {
                         "16": {
                             "ap_min": 10,
                             "ap_max": 12,
-                            "dp": 21
+                            "dp": 20
                         },
                         "17": {
                             "ap_min": 11,
                             "ap_max": 13,
-                            "dp": 23
+                            "dp": 21
                         },
                         "18": {
                             "ap_min": 12,
                             "ap_max": 14,
-                            "dp": 28
+                            "dp": 25
                         },
                         "19": {
                             "ap_min": 13,
                             "ap_max": 15,
-                            "dp": 30
+                            "dp": 26
                         },
                         "20": {
                             "ap_min": 14,
                             "ap_max": 16,
-                            "dp": 32
+                            "dp": 27
                         }
                     },
                     "name": "Leather Vambrace"
@@ -78629,7 +78629,7 @@ var BDOdatabase = {
                     "rarity": "uncommon",
                     "gems": 1,
                     "item_effects": {
-                        "ev": 1,
+                        "ev": 2,
                         "dr": 5,
                         "hp": 50
                     },
@@ -78657,52 +78657,68 @@ var BDOdatabase = {
                             "dp": 14
                         },
                         "8": {
+                            "ap_min": 1,
+                            "ap_max": 1,
                             "dp": 15
                         },
                         "9": {
+                            "ap_min": 2,
+                            "ap_max": 2,
                             "dp": 16
                         },
                         "10": {
+                            "ap_min": 3,
+                            "ap_max": 3,
                             "dp": 17
                         },
                         "11": {
+                            "ap_min": 4,
+                            "ap_max": 4,
                             "dp": 18
                         },
                         "12": {
+                            "ap_min": 5,
+                            "ap_max": 5,
                             "dp": 19
                         },
                         "13": {
+                            "ap_min": 6,
+                            "ap_max": 6,
                             "dp": 20
                         },
                         "14": {
+                            "ap_min": 7,
+                            "ap_max": 7,
                             "dp": 21
                         },
                         "15": {
+                            "ap_min": 8,
+                            "ap_max": 8,
                             "dp": 22
                         },
                         "16": {
-                            "ap_min": 1,
-                            "ap_max": 1,
+                            "ap_min": 9,
+                            "ap_max": 9,
                             "dp": 24
                         },
                         "17": {
-                            "ap_min": 2,
-                            "ap_max": 2,
+                            "ap_min": 10,
+                            "ap_max": 10,
                             "dp": 26
                         },
                         "18": {
-                            "ap_min": 3,
-                            "ap_max": 3,
+                            "ap_min": 11,
+                            "ap_max": 11,
                             "dp": 31
                         },
                         "19": {
-                            "ap_min": 4,
-                            "ap_max": 4,
+                            "ap_min": 12,
+                            "ap_max": 12,
                             "dp": 33
                         },
                         "20": {
-                            "ap_min": 5,
-                            "ap_max": 5,
+                            "ap_min": 13,
+                            "ap_max": 13,
                             "dp": 35
                         }
                     },
@@ -78786,27 +78802,27 @@ var BDOdatabase = {
                         "16": {
                             "ap_min": 10,
                             "ap_max": 12,
-                            "dp": 21
+                            "dp": 20
                         },
                         "17": {
                             "ap_min": 11,
                             "ap_max": 13,
-                            "dp": 23
+                            "dp": 21
                         },
                         "18": {
                             "ap_min": 12,
                             "ap_max": 14,
-                            "dp": 28
+                            "dp": 25
                         },
                         "19": {
                             "ap_min": 13,
                             "ap_max": 15,
-                            "dp": 30
+                            "dp": 26
                         },
                         "20": {
                             "ap_min": 14,
                             "ap_max": 16,
-                            "dp": 32
+                            "dp": 27
                         }
                     },
                     "name": "Leather Vambrace of Crimson Flame"
@@ -78889,27 +78905,27 @@ var BDOdatabase = {
                         "16": {
                             "ap_min": 10,
                             "ap_max": 12,
-                            "dp": 21
+                            "dp": 20
                         },
                         "17": {
                             "ap_min": 11,
                             "ap_max": 13,
-                            "dp": 23
+                            "dp": 21
                         },
                         "18": {
                             "ap_min": 12,
                             "ap_max": 14,
-                            "dp": 28
+                            "dp": 25
                         },
                         "19": {
                             "ap_min": 13,
                             "ap_max": 15,
-                            "dp": 30
+                            "dp": 26
                         },
                         "20": {
                             "ap_min": 14,
                             "ap_max": 16,
-                            "dp": 32
+                            "dp": 27
                         }
                     },
                     "name": "Leather Vambrace of Destruction"
@@ -78992,27 +79008,27 @@ var BDOdatabase = {
                         "16": {
                             "ap_min": 10,
                             "ap_max": 12,
-                            "dp": 21
+                            "dp": 20
                         },
                         "17": {
                             "ap_min": 11,
                             "ap_max": 13,
-                            "dp": 23
+                            "dp": 21
                         },
                         "18": {
                             "ap_min": 12,
                             "ap_max": 14,
-                            "dp": 28
+                            "dp": 25
                         },
                         "19": {
                             "ap_min": 13,
                             "ap_max": 15,
-                            "dp": 30
+                            "dp": 26
                         },
                         "20": {
                             "ap_min": 14,
                             "ap_max": 16,
-                            "dp": 32
+                            "dp": 27
                         }
                     },
                     "name": "Leather Vambrace of Temptation"
@@ -79095,27 +79111,27 @@ var BDOdatabase = {
                         "16": {
                             "ap_min": 10,
                             "ap_max": 12,
-                            "dp": 21
+                            "dp": 20
                         },
                         "17": {
                             "ap_min": 11,
                             "ap_max": 13,
-                            "dp": 23
+                            "dp": 21
                         },
                         "18": {
                             "ap_min": 12,
                             "ap_max": 14,
-                            "dp": 28
+                            "dp": 25
                         },
                         "19": {
                             "ap_min": 13,
                             "ap_max": 15,
-                            "dp": 30
+                            "dp": 26
                         },
                         "20": {
                             "ap_min": 14,
                             "ap_max": 16,
-                            "dp": 32
+                            "dp": 27
                         }
                     },
                     "name": "Ultimate Leather Vambrace"
@@ -79918,8 +79934,8 @@ var BDOdatabase = {
                 },
                 "11324": {
                     "set": "Krea",
-                    "ap_min": 4,
-                    "ap_max": 6,
+                    "ap_min": 1,
+                    "ap_max": 3,
                     "dp": 4,
                     "rarity": "uncommon",
                     "gems": 2,
@@ -79927,89 +79943,90 @@ var BDOdatabase = {
                     "enhancement_text": "",
                     "enhancement": {
                         "1": {
-                            "ap_min": 5,
-                            "ap_max": 7
+                            "dp": 5
                         },
                         "2": {
-                            "ap_min": 5,
-                            "ap_max": 8
+                            "dp": 6
                         },
                         "3": {
-                            "ap_min": 5,
-                            "ap_max": 9
+                            "dp": 7
                         },
                         "4": {
-                            "ap_min": 5,
-                            "ap_max": 10
+                            "dp": 8
                         },
                         "5": {
-                            "ap_min": 6,
-                            "ap_max": 11
+                            "dp": 9
                         },
                         "6": {
-                            "ap_min": 6,
-                            "ap_max": 12
+                            "dp": 10
                         },
                         "7": {
-                            "ap_min": 6,
-                            "ap_max": 13
+                            "dp": 11
                         },
                         "8": {
-                            "ap_min": 6,
-                            "ap_max": 14
+                            "ap_min": 2,
+                            "ap_max": 4,
+                            "dp": 12
                         },
                         "9": {
-                            "ap_min": 6,
-                            "ap_max": 15
+                            "ap_min": 3,
+                            "ap_max": 5,
+                            "dp": 13
                         },
                         "10": {
-                            "ap_min": 7,
-                            "ap_max": 16
+                            "ap_min": 4,
+                            "ap_max": 6,
+                            "dp": 14
                         },
                         "11": {
-                            "ap_min": 7,
-                            "ap_max": 17
+                            "ap_min": 5,
+                            "ap_max": 7,
+                            "dp": 15
                         },
                         "12": {
-                            "ap_min": 7,
-                            "ap_max": 18
+                            "ap_min": 6,
+                            "ap_max": 8,
+                            "dp": 16
                         },
                         "13": {
                             "ap_min": 7,
-                            "ap_max": 19
+                            "ap_max": 9,
+                            "dp": 17
                         },
                         "14": {
-                            "ap_min": 7,
-                            "ap_max": 20
+                            "ap_min": 8,
+                            "ap_max": 10,
+                            "dp": 18
                         },
                         "15": {
-                            "ap_min": 8,
-                            "ap_max": 21
+                            "ap_min": 9,
+                            "ap_max": 11,
+                            "dp": 19
                         },
                         "16": {
-                            "ap_min": 9,
-                            "ap_max": 22,
-                            "dp": 5
+                            "ap_min": 10,
+                            "ap_max": 12,
+                            "dp": 21
                         },
                         "17": {
-                            "ap_min": 10,
-                            "ap_max": 23,
-                            "dp": 6
+                            "ap_min": 11,
+                            "ap_max": 13,
+                            "dp": 23
                         },
                         "18": {
-                            "ap_min": 14,
-                            "ap_max": 27,
-                            "dp": 7
+                            "ap_min": 12,
+                            "ap_max": 14,
+                            "dp": 28
                         },
                         "19": {
-                            "ap_min": 15,
-                            "ap_max": 28,
-                            "dp": 8
+                            "ap_min": 13,
+                            "ap_max": 15,
+                            "dp": 30
                         },
                         "20": {
-                            "ap_min": 16,
-                            "ap_max": 29,
-                            "dp": 9
+                            "ap_min": 14,
+                            "ap_max": 16,
+                            "dp": 32
                         }
                     },
                     "name": "Krea Vambrace"
@@ -80129,9 +80146,9 @@ var BDOdatabase = {
                 },
                 "11326": {
                     "set": "Krea",
-                    "ap_min": 4,
-                    "ap_max": 6,
-                    "dp": 5,
+                    "ap_min": 1,
+                    "ap_max": 3,
+                    "dp": 4,
                     "rarity": "rare",
                     "gems": 2,
                     "item_effects": {
@@ -80140,98 +80157,99 @@ var BDOdatabase = {
                     "enhancement_text": "",
                     "enhancement": {
                         "1": {
-                            "ap_min": 5,
-                            "ap_max": 7
+                            "dp": 5
                         },
                         "2": {
-                            "ap_min": 5,
-                            "ap_max": 8
+                            "dp": 6
                         },
                         "3": {
-                            "ap_min": 5,
-                            "ap_max": 9
+                            "dp": 7
                         },
                         "4": {
-                            "ap_min": 5,
-                            "ap_max": 10
+                            "dp": 8
                         },
                         "5": {
-                            "ap_min": 6,
-                            "ap_max": 11
+                            "dp": 9
                         },
                         "6": {
-                            "ap_min": 6,
-                            "ap_max": 12
+                            "dp": 10
                         },
                         "7": {
-                            "ap_min": 6,
-                            "ap_max": 13
+                            "dp": 11
                         },
                         "8": {
-                            "ap_min": 6,
-                            "ap_max": 14
+                            "ap_min": 2,
+                            "ap_max": 4,
+                            "dp": 12
                         },
                         "9": {
-                            "ap_min": 6,
-                            "ap_max": 15
+                            "ap_min": 3,
+                            "ap_max": 5,
+                            "dp": 13
                         },
                         "10": {
-                            "ap_min": 7,
-                            "ap_max": 16
+                            "ap_min": 4,
+                            "ap_max": 6,
+                            "dp": 14
                         },
                         "11": {
-                            "ap_min": 7,
-                            "ap_max": 17
+                            "ap_min": 5,
+                            "ap_max": 7,
+                            "dp": 15
                         },
                         "12": {
-                            "ap_min": 7,
-                            "ap_max": 18
+                            "ap_min": 6,
+                            "ap_max": 8,
+                            "dp": 16
                         },
                         "13": {
                             "ap_min": 7,
-                            "ap_max": 19
+                            "ap_max": 9,
+                            "dp": 17
                         },
                         "14": {
-                            "ap_min": 7,
-                            "ap_max": 20
+                            "ap_min": 8,
+                            "ap_max": 10,
+                            "dp": 18
                         },
                         "15": {
-                            "ap_min": 8,
-                            "ap_max": 21
+                            "ap_min": 9,
+                            "ap_max": 11,
+                            "dp": 19
                         },
                         "16": {
-                            "ap_min": 9,
-                            "ap_max": 22,
-                            "dp": 6
+                            "ap_min": 10,
+                            "ap_max": 12,
+                            "dp": 21
                         },
                         "17": {
-                            "ap_min": 10,
-                            "ap_max": 23,
-                            "dp": 7
+                            "ap_min": 11,
+                            "ap_max": 13,
+                            "dp": 23
                         },
                         "18": {
-                            "ap_min": 14,
-                            "ap_max": 27,
-                            "dp": 8
+                            "ap_min": 12,
+                            "ap_max": 14,
+                            "dp": 28
                         },
                         "19": {
-                            "ap_min": 15,
-                            "ap_max": 28,
-                            "dp": 9
+                            "ap_min": 13,
+                            "ap_max": 15,
+                            "dp": 30
                         },
                         "20": {
-                            "ap_min": 16,
-                            "ap_max": 29,
-                            "dp": 10
+                            "ap_min": 14,
+                            "ap_max": 16,
+                            "dp": 32
                         }
                     },
                     "name": "Krea Vambrace of Crimson Flame"
                 },
                 "11327": {
                     "set": "Krea",
-                    "ap_min": 4,
-                    "ap_max": 6,
-                    "dp": 5,
+                    "ap_min": 1,
+                    "ap_max": 3,
+                    "dp": 4,
                     "rarity": "rare",
                     "gems": 2,
                     "item_effects": {
@@ -80240,98 +80258,99 @@ var BDOdatabase = {
                     "enhancement_text": "",
                     "enhancement": {
                         "1": {
-                            "ap_min": 5,
-                            "ap_max": 7
+                            "dp": 5
                         },
                         "2": {
-                            "ap_min": 5,
-                            "ap_max": 8
+                            "dp": 6
                         },
                         "3": {
-                            "ap_min": 5,
-                            "ap_max": 9
+                            "dp": 7
                         },
                         "4": {
-                            "ap_min": 5,
-                            "ap_max": 10
+                            "dp": 8
                         },
                         "5": {
-                            "ap_min": 6,
-                            "ap_max": 11
+                            "dp": 9
                         },
                         "6": {
-                            "ap_min": 6,
-                            "ap_max": 12
+                            "dp": 10
                         },
                         "7": {
-                            "ap_min": 6,
-                            "ap_max": 13
+                            "dp": 11
                         },
                         "8": {
-                            "ap_min": 6,
-                            "ap_max": 14
+                            "ap_min": 2,
+                            "ap_max": 4,
+                            "dp": 12
                         },
                         "9": {
-                            "ap_min": 6,
-                            "ap_max": 15
+                            "ap_min": 3,
+                            "ap_max": 5,
+                            "dp": 13
                         },
                         "10": {
-                            "ap_min": 7,
-                            "ap_max": 16
+                            "ap_min": 4,
+                            "ap_max": 6,
+                            "dp": 14
                         },
                         "11": {
-                            "ap_min": 7,
-                            "ap_max": 17
+                            "ap_min": 5,
+                            "ap_max": 7,
+                            "dp": 15
                         },
                         "12": {
-                            "ap_min": 7,
-                            "ap_max": 18
+                            "ap_min": 6,
+                            "ap_max": 8,
+                            "dp": 16
                         },
                         "13": {
                             "ap_min": 7,
-                            "ap_max": 19
+                            "ap_max": 9,
+                            "dp": 17
                         },
                         "14": {
-                            "ap_min": 7,
-                            "ap_max": 20
+                            "ap_min": 8,
+                            "ap_max": 10,
+                            "dp": 18
                         },
                         "15": {
-                            "ap_min": 8,
-                            "ap_max": 21
+                            "ap_min": 9,
+                            "ap_max": 11,
+                            "dp": 19
                         },
                         "16": {
-                            "ap_min": 9,
-                            "ap_max": 22,
-                            "dp": 6
+                            "ap_min": 10,
+                            "ap_max": 12,
+                            "dp": 21
                         },
                         "17": {
-                            "ap_min": 10,
-                            "ap_max": 23,
-                            "dp": 7
+                            "ap_min": 11,
+                            "ap_max": 13,
+                            "dp": 23
                         },
                         "18": {
-                            "ap_min": 14,
-                            "ap_max": 27,
-                            "dp": 8
+                            "ap_min": 12,
+                            "ap_max": 14,
+                            "dp": 28
                         },
                         "19": {
-                            "ap_min": 15,
-                            "ap_max": 28,
-                            "dp": 9
+                            "ap_min": 13,
+                            "ap_max": 15,
+                            "dp": 30
                         },
                         "20": {
-                            "ap_min": 16,
-                            "ap_max": 29,
-                            "dp": 10
+                            "ap_min": 14,
+                            "ap_max": 16,
+                            "dp": 32
                         }
                     },
                     "name": "Krea Vambrace of Destruction"
                 },
                 "11328": {
                     "set": "Krea",
-                    "ap_min": 4,
-                    "ap_max": 6,
-                    "dp": 5,
+                    "ap_min": 1,
+                    "ap_max": 3,
+                    "dp": 4,
                     "rarity": "rare",
                     "gems": 2,
                     "item_effects": {
@@ -80340,98 +80359,99 @@ var BDOdatabase = {
                     "enhancement_text": "",
                     "enhancement": {
                         "1": {
-                            "ap_min": 5,
-                            "ap_max": 7
+                            "dp": 5
                         },
                         "2": {
-                            "ap_min": 5,
-                            "ap_max": 8
+                            "dp": 6
                         },
                         "3": {
-                            "ap_min": 5,
-                            "ap_max": 9
+                            "dp": 7
                         },
                         "4": {
-                            "ap_min": 5,
-                            "ap_max": 10
+                            "dp": 8
                         },
                         "5": {
-                            "ap_min": 6,
-                            "ap_max": 11
+                            "dp": 9
                         },
                         "6": {
-                            "ap_min": 6,
-                            "ap_max": 12
+                            "dp": 10
                         },
                         "7": {
-                            "ap_min": 6,
-                            "ap_max": 13
+                            "dp": 11
                         },
                         "8": {
-                            "ap_min": 6,
-                            "ap_max": 14
+                            "ap_min": 2,
+                            "ap_max": 4,
+                            "dp": 12
                         },
                         "9": {
-                            "ap_min": 6,
-                            "ap_max": 15
+                            "ap_min": 3,
+                            "ap_max": 5,
+                            "dp": 13
                         },
                         "10": {
-                            "ap_min": 7,
-                            "ap_max": 16
+                            "ap_min": 4,
+                            "ap_max": 6,
+                            "dp": 14
                         },
                         "11": {
-                            "ap_min": 7,
-                            "ap_max": 17
+                            "ap_min": 5,
+                            "ap_max": 7,
+                            "dp": 15
                         },
                         "12": {
-                            "ap_min": 7,
-                            "ap_max": 18
+                            "ap_min": 6,
+                            "ap_max": 8,
+                            "dp": 16
                         },
                         "13": {
                             "ap_min": 7,
-                            "ap_max": 19
+                            "ap_max": 9,
+                            "dp": 17
                         },
                         "14": {
-                            "ap_min": 7,
-                            "ap_max": 20
+                            "ap_min": 8,
+                            "ap_max": 10,
+                            "dp": 18
                         },
                         "15": {
-                            "ap_min": 8,
-                            "ap_max": 21
+                            "ap_min": 9,
+                            "ap_max": 11,
+                            "dp": 19
                         },
                         "16": {
-                            "ap_min": 9,
-                            "ap_max": 22,
-                            "dp": 6
+                            "ap_min": 10,
+                            "ap_max": 12,
+                            "dp": 21
                         },
                         "17": {
-                            "ap_min": 10,
-                            "ap_max": 23,
-                            "dp": 7
+                            "ap_min": 11,
+                            "ap_max": 13,
+                            "dp": 23
                         },
                         "18": {
-                            "ap_min": 14,
-                            "ap_max": 27,
-                            "dp": 8
+                            "ap_min": 12,
+                            "ap_max": 14,
+                            "dp": 28
                         },
                         "19": {
-                            "ap_min": 15,
-                            "ap_max": 28,
-                            "dp": 9
+                            "ap_min": 13,
+                            "ap_max": 15,
+                            "dp": 30
                         },
                         "20": {
-                            "ap_min": 16,
-                            "ap_max": 29,
-                            "dp": 10
+                            "ap_min": 14,
+                            "ap_max": 16,
+                            "dp": 32
                         }
                     },
                     "name": "Krea Vambrace of Temptation"
                 },
                 "11331": {
                     "set": "Krea",
-                    "ap_min": 4,
-                    "ap_max": 6,
-                    "dp": 5,
+                    "ap_min": 1,
+                    "ap_max": 3,
+                    "dp": 6,
                     "rarity": "epic",
                     "gems": 2,
                     "item_effects": {
@@ -80440,89 +80460,90 @@ var BDOdatabase = {
                     "enhancement_text": "",
                     "enhancement": {
                         "1": {
-                            "ap_min": 5,
-                            "ap_max": 7
+                            "dp": 7
                         },
                         "2": {
-                            "ap_min": 5,
-                            "ap_max": 8
+                            "dp": 8
                         },
                         "3": {
-                            "ap_min": 5,
-                            "ap_max": 9
+                            "dp": 9
                         },
                         "4": {
-                            "ap_min": 5,
-                            "ap_max": 10
+                            "dp": 10
                         },
                         "5": {
-                            "ap_min": 6,
-                            "ap_max": 11
+                            "dp": 11
                         },
                         "6": {
-                            "ap_min": 6,
-                            "ap_max": 12
+                            "dp": 12
                         },
                         "7": {
-                            "ap_min": 6,
-                            "ap_max": 13
+                            "dp": 13
                         },
                         "8": {
-                            "ap_min": 6,
-                            "ap_max": 14
+                            "ap_min": 2,
+                            "ap_max": 4,
+                            "dp": 14
                         },
                         "9": {
-                            "ap_min": 6,
-                            "ap_max": 15
+                            "ap_min": 3,
+                            "ap_max": 5,
+                            "dp": 15
                         },
                         "10": {
-                            "ap_min": 7,
-                            "ap_max": 16
+                            "ap_min": 4,
+                            "ap_max": 6,
+                            "dp": 16
                         },
                         "11": {
-                            "ap_min": 7,
-                            "ap_max": 17
+                            "ap_min": 5,
+                            "ap_max": 7,
+                            "dp": 17
                         },
                         "12": {
-                            "ap_min": 7,
-                            "ap_max": 18
+                            "ap_min": 6,
+                            "ap_max": 8,
+                            "dp": 18
                         },
                         "13": {
                             "ap_min": 7,
-                            "ap_max": 19
+                            "ap_max": 9,
+                            "dp": 19
                         },
                         "14": {
-                            "ap_min": 7,
-                            "ap_max": 20
+                            "ap_min": 8,
+                            "ap_max": 10,
+                            "dp": 20
                         },
                         "15": {
-                            "ap_min": 8,
-                            "ap_max": 21
+                            "ap_min": 9,
+                            "ap_max": 11,
+                            "dp": 21
                         },
                         "16": {
-                            "ap_min": 9,
-                            "ap_max": 22,
-                            "dp": 6
+                            "ap_min": 10,
+                            "ap_max": 12,
+                            "dp": 23
                         },
                         "17": {
-                            "ap_min": 10,
-                            "ap_max": 23,
-                            "dp": 7
+                            "ap_min": 11,
+                            "ap_max": 13,
+                            "dp": 25
                         },
                         "18": {
-                            "ap_min": 14,
-                            "ap_max": 27,
-                            "dp": 8
+                            "ap_min": 12,
+                            "ap_max": 14,
+                            "dp": 30
                         },
                         "19": {
-                            "ap_min": 15,
-                            "ap_max": 28,
-                            "dp": 9
+                            "ap_min": 13,
+                            "ap_max": 15,
+                            "dp": 32
                         },
                         "20": {
-                            "ap_min": 16,
-                            "ap_max": 29,
-                            "dp": 10
+                            "ap_min": 14,
+                            "ap_max": 16,
+                            "dp": 34
                         }
                     },
                     "name": "Ultimate Krea Vambrace"
@@ -80540,38 +80561,24 @@ var BDOdatabase = {
                     "enhancement_text": "",
                     "enhancement": {
                         "1": {
-                            "ap_min": 1,
-                            "ap_max": 4,
                             "dp": 5
                         },
                         "2": {
-                            "ap_min": 1,
-                            "ap_max": 4,
                             "dp": 6
                         },
                         "3": {
-                            "ap_min": 1,
-                            "ap_max": 4,
                             "dp": 7
                         },
                         "4": {
-                            "ap_min": 1,
-                            "ap_max": 4,
                             "dp": 8
                         },
                         "5": {
-                            "ap_min": 1,
-                            "ap_max": 4,
                             "dp": 9
                         },
                         "6": {
-                            "ap_min": 1,
-                            "ap_max": 4,
                             "dp": 10
                         },
                         "7": {
-                            "ap_min": 1,
-                            "ap_max": 4,
                             "dp": 11
                         },
                         "8": {
@@ -80655,38 +80662,24 @@ var BDOdatabase = {
                     "enhancement_text": "",
                     "enhancement": {
                         "1": {
-                            "ap_min": 1,
-                            "ap_max": 4,
                             "dp": 5
                         },
                         "2": {
-                            "ap_min": 1,
-                            "ap_max": 4,
                             "dp": 6
                         },
                         "3": {
-                            "ap_min": 1,
-                            "ap_max": 4,
                             "dp": 7
                         },
                         "4": {
-                            "ap_min": 1,
-                            "ap_max": 4,
                             "dp": 8
                         },
                         "5": {
-                            "ap_min": 1,
-                            "ap_max": 4,
                             "dp": 9
                         },
                         "6": {
-                            "ap_min": 1,
-                            "ap_max": 4,
                             "dp": 10
                         },
                         "7": {
-                            "ap_min": 1,
-                            "ap_max": 4,
                             "dp": 11
                         },
                         "8": {
@@ -80770,38 +80763,24 @@ var BDOdatabase = {
                     "enhancement_text": "",
                     "enhancement": {
                         "1": {
-                            "ap_min": 1,
-                            "ap_max": 4,
                             "dp": 5
                         },
                         "2": {
-                            "ap_min": 1,
-                            "ap_max": 4,
                             "dp": 6
                         },
                         "3": {
-                            "ap_min": 1,
-                            "ap_max": 4,
                             "dp": 7
                         },
                         "4": {
-                            "ap_min": 1,
-                            "ap_max": 4,
                             "dp": 8
                         },
                         "5": {
-                            "ap_min": 1,
-                            "ap_max": 4,
                             "dp": 9
                         },
                         "6": {
-                            "ap_min": 1,
-                            "ap_max": 4,
                             "dp": 10
                         },
                         "7": {
-                            "ap_min": 1,
-                            "ap_max": 4,
                             "dp": 11
                         },
                         "8": {
@@ -80885,38 +80864,24 @@ var BDOdatabase = {
                     "enhancement_text": "",
                     "enhancement": {
                         "1": {
-                            "ap_min": 1,
-                            "ap_max": 4,
                             "dp": 7
                         },
                         "2": {
-                            "ap_min": 1,
-                            "ap_max": 4,
                             "dp": 8
                         },
                         "3": {
-                            "ap_min": 1,
-                            "ap_max": 4,
                             "dp": 9
                         },
                         "4": {
-                            "ap_min": 1,
-                            "ap_max": 4,
                             "dp": 10
                         },
                         "5": {
-                            "ap_min": 1,
-                            "ap_max": 4,
                             "dp": 11
                         },
                         "6": {
-                            "ap_min": 1,
-                            "ap_max": 4,
                             "dp": 12
                         },
                         "7": {
-                            "ap_min": 1,
-                            "ap_max": 4,
                             "dp": 13
                         },
                         "8": {
