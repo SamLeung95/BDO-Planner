@@ -18437,19 +18437,24 @@ var BDOdatabase = {
                 "enhancement_text": "",
                 "enhancement": {
                     "1": {
-                        "ap": 7
+                        "ap": 7,
+                        "stam": 70
                     },
                     "2": {
-                        "ap": 9
+                        "ap": 9,
+                        "stam": 90
                     },
                     "3": {
-                        "ap": 11
+                        "ap": 11,
+                        "stam": 110
                     },
                     "4": {
-                        "ap": 13
+                        "ap": 13,
+                        "stam": 130
                     },
                     "5": {
-                        "ap": 15
+                        "ap": 15,
+                        "stam": 150
                     }
                 },
                 "name": "Fugitive Khalk's Earring"
