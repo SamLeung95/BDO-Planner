@@ -575,7 +575,11 @@ var BDOcalculator = {
             }
         }
 
-        $("#gear-score .value").text(Math.floor((this.stats["ap"].min + this.stats["ap"].max) / 2) + this.stats["dp"].total)
+        var ap = Math.floor((this.stats["ap"].min + this.stats["ap"].max) / 2);
+        var aap = Math.floor((this.stats["awkap"].min + this.stats["awkap"].max) / 2);
+        var gearscore = Math.max(ap, aap);
+        
+        $("#gear-score .value").text(gearscore + this.stats["dp"].total)
     },
 
     calculateSingleStat: function (stat_to_get) {
