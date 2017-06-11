@@ -2676,7 +2676,7 @@ var BDOdatabase = {
                 "shatter_chance": "high",
                 "incompatible": [],
                 "item_effects": {
-                    "acc": 2
+                    "acc": 8
                 },
                 "name": "Magic Crystal of Infinity - Precision"
             },
@@ -20537,19 +20537,24 @@ var BDOdatabase = {
                 "enhancement_text": "",
                 "enhancement": {
                     "1": {
-                        "dp": 6
+                        "dp": 6,
+                        "wgt": 70
                     },
                     "2": {
-                        "dp": 8
+                        "dp": 8,
+                        "wgt": 80
                     },
                     "3": {
-                        "dp": 10
+                        "dp": 10,
+                        "wgt": 90
                     },
                     "4": {
-                        "dp": 12
+                        "dp": 12,
+                        "wgt": 100
                     },
                     "5": {
-                        "dp": 14
+                        "dp": 14,
+                        "wgt": 110
                     }
                 },
                 "name": "Rhutum Elite Belt"
@@ -20705,7 +20710,7 @@ var BDOdatabase = {
                         "dp": 20
                     }
                 },
-                "name": "Centaur's Belt"
+                "name": "Centaurus Belt"
             },
             "12230": {
                 "dp": 0,
@@ -86830,8 +86835,8 @@ var BDOdatabase = {
                 "rarity": "uncommon",
                 "gems": 0,
                 "item_effects": {
-                    "alccktime": 2,
-                    "prsr": 1,
+                    "alccktime": -0.5,
+                    "prsr": 5,
                     "wgt": 15
                 },
                 "enhancement_text": "",
@@ -86842,8 +86847,8 @@ var BDOdatabase = {
                 "rarity": "rare",
                 "gems": 0,
                 "item_effects": {
-                    "alccktime": 2,
-                    "prsr": 1,
+                    "alccktime": -0.5,
+                    "prsr": 5,
                     "wgt": 15,
                     "gatfislv": 1
                 },
@@ -86855,8 +86860,8 @@ var BDOdatabase = {
                 "rarity": "epic",
                 "gems": 0,
                 "item_effects": {
-                    "alccktime": 2,
-                    "prsr": 1,
+                    "alccktime": -0.5,
+                    "prsr": 5,
                     "wgt": 15,
                     "gatfislv": 1,
                     "gatidr": 3
@@ -86919,7 +86924,7 @@ var BDOdatabase = {
                 "rarity": "common",
                 "gems": 0,
                 "item_effects": {
-                    "alccktime": 4
+                    "alccktime": -0.9
                 },
                 "enhancement_text": "",
                 "enhancement": {},
