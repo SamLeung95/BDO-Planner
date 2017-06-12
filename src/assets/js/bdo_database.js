@@ -456,6 +456,83 @@ var BDOdatabase = {
             "symbol": "%",
             "target": ".general-stats"
         },
+        "karec": {
+            "title": "Karma Recovery",
+            "desc": "",
+            "total": 0,
+            "symbol": "%",
+            "target": ".general-stats"
+        },
+        "alcexp": {
+            "title": "Alchemy EXP",
+            "desc": "",
+            "total": 0,
+            "symbol": "%",
+            "target": ".general-stats"
+        },
+        "ckexp": {
+            "title": "Cooking EXP",
+            "desc": "",
+            "total": 0,
+            "symbol": "%",
+            "target": ".general-stats"
+        },
+        "faexp": {
+            "title": "Farming EXP",
+            "desc": "",
+            "total": 0,
+            "symbol": "%",
+            "target": ".general-stats"
+        },
+        "fisexp": {
+            "title": "Fishing EXP",
+            "desc": "",
+            "total": 0,
+            "symbol": "%",
+            "target": ".general-stats"
+        },
+        "gatexp": {
+            "title": "Gathering EXP",
+            "desc": "",
+            "total": 0,
+            "symbol": "%",
+            "target": ".general-stats"
+        },
+        "hunexp": {
+            "title": "Hunting EXP",
+            "desc": "",
+            "total": 0,
+            "symbol": "%",
+            "target": ".general-stats"
+        },
+        "proexp": {
+            "title": "Processing EXP",
+            "desc": "",
+            "total": 0,
+            "symbol": "%",
+            "target": ".general-stats"
+        },
+        "saiexp": {
+            "title": "Sailing EXP",
+            "desc": "",
+            "total": 0,
+            "symbol": "%",
+            "target": ".general-stats"
+        },
+        "tradexp": {
+            "title": "Trading EXP",
+            "desc": "",
+            "total": 0,
+            "symbol": "%",
+            "target": ".general-stats"
+        },
+        "traiexp": {
+            "title": "Training EXP",
+            "desc": "",
+            "total": 0,
+            "symbol": "%",
+            "target": ".general-stats"
+        },
         "vr": {
             "title": "Vision Range",
             "desc": "",
@@ -2246,6 +2323,96 @@ var BDOdatabase = {
                     "dr": 5
                 },
                 "name": "JIN Magic Crystal - Cobelinus"
+            },
+            "15040": {
+                "rarity": "common",
+                "shatter_chance": "high",
+                "incompatible": [],
+                "item_effects": {
+                    "alcexp": 3
+                },
+                "name": "Dim Magical Crystal: Alchemy"
+            },
+            "15039": {
+                "rarity": "common",
+                "shatter_chance": "high",
+                "incompatible": [],
+                "item_effects": {
+                    "ckexp": 3
+                },
+                "name": "Dim Magical Crystal: Cooking"
+            },
+            "15044": {
+                "rarity": "common",
+                "shatter_chance": "high",
+                "incompatible": [],
+                "item_effects": {
+                    "faexp": 3
+                },
+                "name": "Dim Magical Crystal: Farming"
+            },
+            "15037": {
+                "rarity": "common",
+                "shatter_chance": "high",
+                "incompatible": [],
+                "item_effects": {
+                    "fisexp": 3
+                },
+                "name": "Dim Magical Crystal: Fishing"
+            },
+            "15036": {
+                "rarity": "common",
+                "shatter_chance": "high",
+                "incompatible": [],
+                "item_effects": {
+                    "gatexp": 3
+                },
+                "name": "Dim Magical Crystal: Gathering"
+            },
+            "15038": {
+                "rarity": "common",
+                "shatter_chance": "high",
+                "incompatible": [],
+                "item_effects": {
+                    "hunexp": 3
+                },
+                "name": "Dim Magical Crystal: Hunting"
+            },
+            "15041": {
+                "rarity": "common",
+                "shatter_chance": "high",
+                "incompatible": [],
+                "item_effects": {
+                    "proexp": 3
+                },
+                "name": "Dim Magical Crystal: Processing"
+            },
+            "15045": {
+                "rarity": "common",
+                "shatter_chance": "high",
+                "incompatible": [],
+                "item_effects": {
+                    "saiexp": 3
+                },
+                "name": "Dim Magical Crystal: Sail"
+            },
+            "15043": {
+                "rarity": "common",
+                "shatter_chance": "high",
+                "incompatible": [],
+                "item_effects": {
+                    "tradexp": 3
+                },
+                "name": "Dim Magical Crystal: Trade"
+            },
+            "15042": {
+                "rarity": "common",
+                "shatter_chance": "high",
+                "incompatible": [],
+                "item_effects": {
+                    "traiexp": 3
+                },
+                "name": "Dim Magical Crystal: Training"
             }
         },
         "helmet": {
@@ -2433,6 +2600,24 @@ var BDOdatabase = {
                     "ev": 20
                 },
                 "name": "JIN Magic Crystal - Harphia"
+            },
+            "15035": {
+                "rarity": "common",
+                "shatter_chance": "high",
+                "incompatible": [],
+                "item_effects": {
+                    "cbexp": 3
+                },
+                "name": "Dim Magical Crystal: Combat"
+            },
+            "15034": {
+                "rarity": "common",
+                "shatter_chance": "high",
+                "incompatible": [],
+                "item_effects": {
+                    "karec": 3
+                },
+                "name": "Dim Magical Crystal: Karma"
             }
         },
         "secondary-weapon": {
@@ -18485,7 +18670,7 @@ var BDOdatabase = {
                         "ap": 17
                     }
                 },
-                "name": "Tungrade Earring"
+                "name": "Tungrad Earring"
             },
             "11829": {
                 "set": "Jarette",
