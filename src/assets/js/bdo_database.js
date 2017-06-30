@@ -60428,7 +60428,7 @@ var BDOdatabase = {
                     "gems": 1,
                     "item_effects": {
                         "acc": 7,
-                        "asad": 1
+                        "assad": 1
                     },
                     "enhancement_text": "",
                     "enhancement": {
