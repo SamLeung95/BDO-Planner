@@ -1479,7 +1479,7 @@ var BDOdatabase = {
                     "mpwpsp": 100
                 },
                 "3": {
-                    "acc": 5
+                    "acc": 20
                 }
             },
             "combos": {}
@@ -1490,7 +1490,7 @@ var BDOdatabase = {
                     "mpwpsp": 100
                 },
                 "3": {
-                    "acc": 5
+                    "acc": 20
                 }
             },
             "combos": {}
@@ -1589,7 +1589,7 @@ var BDOdatabase = {
                         "secondary-weapon"
                     ],
                     "effects": {
-                        "acc": 5
+                        "acc": 20
                     }
                 }
             ]
@@ -1607,7 +1607,7 @@ var BDOdatabase = {
         "Core": {
             "pieces": {
                 "2": {
-                    "acc": 5
+                    "acc": 20
                 }
             }
         },
@@ -1615,7 +1615,7 @@ var BDOdatabase = {
             "pieces": {
                 "2": {
                     "hap": 2,
-                    "acc": 3
+                    "acc": 12
                 }
             }
         }
@@ -10704,7 +10704,7 @@ var BDOdatabase = {
                 "gems": 2,
                 "item_effects": {
                     "hp": 30,
-                    "acc": 3
+                    "acc": 12
                 },
                 "enhancement_text": "",
                 "enhancement": {},
@@ -10716,7 +10716,7 @@ var BDOdatabase = {
                 "gems": 2,
                 "item_effects": {
                     "hp": 50,
-                    "acc": 5
+                    "acc": 20
                 },
                 "enhancement_text": "",
                 "enhancement": {},
@@ -14535,7 +14535,7 @@ var BDOdatabase = {
                 "rarity": "uncommon",
                 "gems": 1,
                 "item_effects": {
-                    "acc": 2
+                    "acc": 8
                 },
                 "enhancement_text": "",
                 "enhancement": {
@@ -15054,7 +15054,7 @@ var BDOdatabase = {
                 "rarity": "rare",
                 "gems": 1,
                 "item_effects": {
-                    "acc": 2,
+                    "acc": 8,
                     "crdr": 2
                 },
                 "enhancement_text": "",
@@ -15128,7 +15128,7 @@ var BDOdatabase = {
                 "rarity": "rare",
                 "gems": 1,
                 "item_effects": {
-                    "acc": 2,
+                    "acc": 8,
                     "lrdr": 2
                 },
                 "enhancement_text": "",
@@ -15202,7 +15202,7 @@ var BDOdatabase = {
                 "rarity": "rare",
                 "gems": 1,
                 "item_effects": {
-                    "acc": 2,
+                    "acc": 8,
                     "mdr": 2
                 },
                 "enhancement_text": "",
@@ -15276,7 +15276,7 @@ var BDOdatabase = {
                 "rarity": "epic",
                 "gems": 1,
                 "item_effects": {
-                    "acc": 2,
+                    "acc": 8,
                     "dr": 2
                 },
                 "enhancement_text": "",
@@ -17828,7 +17828,7 @@ var BDOdatabase = {
                 "rarity": "uncommon",
                 "gems": 1,
                 "item_effects": {
-                    "acc": 2
+                    "acc": 8
                 },
                 "enhancement_text": "",
                 "enhancement": {
@@ -17901,7 +17901,7 @@ var BDOdatabase = {
                 "rarity": "rare",
                 "gems": 1,
                 "item_effects": {
-                    "acc": 2,
+                    "acc": 8,
                     "crdr": 2
                 },
                 "enhancement_text": "",
@@ -17975,7 +17975,7 @@ var BDOdatabase = {
                 "rarity": "rare",
                 "gems": 1,
                 "item_effects": {
-                    "acc": 2,
+                    "acc": 8,
                     "lrdr": 2
                 },
                 "enhancement_text": "",
@@ -18049,7 +18049,7 @@ var BDOdatabase = {
                 "rarity": "rare",
                 "gems": 1,
                 "item_effects": {
-                    "acc": 2,
+                    "acc": 8,
                     "mdr": 2
                 },
                 "enhancement_text": "",
@@ -18123,7 +18123,7 @@ var BDOdatabase = {
                 "rarity": "epic",
                 "gems": 1,
                 "item_effects": {
-                    "acc": 2,
+                    "acc": 8,
                     "dr": 2
                 },
                 "enhancement_text": "",
@@ -18291,24 +18291,24 @@ var BDOdatabase = {
                 "rarity": "uncommon",
                 "gems": 0,
                 "item_effects": {
-                    "acc": 2
+                    "acc": 8
                 },
                 "enhancement_text": "",
                 "enhancement": {
                     "1": {
-                        "acc": 3
+                        "acc": 12
                     },
                     "2": {
-                        "acc": 4
+                        "acc": 16
                     },
                     "3": {
-                        "acc": 5
+                        "acc": 20
                     },
                     "4": {
-                        "acc": 6
+                        "acc": 24
                     },
                     "5": {
-                        "acc": 8
+                        "acc": 28
                     }
                 },
                 "name": "Kalis Earring"
@@ -18404,29 +18404,29 @@ var BDOdatabase = {
                 "rarity": "rare",
                 "gems": 0,
                 "item_effects": {
-                    "acc": 1
+                    "acc": 6
                 },
                 "enhancement_text": "",
                 "enhancement": {
                     "1": {
                         "ap": 5,
-                        "acc": 2
+                        "acc": 10
                     },
                     "2": {
                         "ap": 6,
-                        "acc": 3
+                        "acc": 14
                     },
                     "3": {
                         "ap": 7,
-                        "acc": 4
+                        "acc": 18
                     },
                     "4": {
                         "ap": 8,
-                        "acc": 5
+                        "acc": 22
                     },
                     "5": {
                         "ap": 9,
-                        "acc": 6
+                        "acc": 26
                     }
                 },
                 "name": "Mesto Earring"
@@ -18437,29 +18437,29 @@ var BDOdatabase = {
                 "rarity": "rare",
                 "gems": 0,
                 "item_effects": {
-                    "acc": 1
+                    "acc": 6
                 },
                 "enhancement_text": "",
                 "enhancement": {
                     "1": {
                         "dp": 6,
-                        "acc": 2
+                        "acc": 10
                     },
                     "2": {
                         "dp": 7,
-                        "acc": 3
+                        "acc": 14
                     },
                     "3": {
                         "dp": 8,
-                        "acc": 4
+                        "acc": 18
                     },
                     "4": {
                         "dp": 9,
-                        "acc": 5
+                        "acc": 22
                     },
                     "5": {
                         "dp": 10,
-                        "acc": 6
+                        "acc": 26
                     }
                 },
                 "name": "Ridell Earring"
@@ -18577,34 +18577,34 @@ var BDOdatabase = {
                 "rarity": "rare",
                 "gems": 0,
                 "item_effects": {
-                    "acc": 3,
+                    "acc": 14,
                     "stam": 50
                 },
                 "enhancement_text": "",
                 "enhancement": {
                     "1": {
                         "ap": 4,
-                        "acc": 4,
+                        "acc": 18,
                         "stam": 50
                     },
                     "2": {
                         "ap": 6,
-                        "acc": 5,
+                        "acc": 22,
                         "stam": 50
                     },
                     "3": {
                         "ap": 8,
-                        "acc": 6,
+                        "acc": 26,
                         "stam": 50
                     },
                     "4": {
                         "ap": 10,
-                        "acc": 7,
+                        "acc": 30,
                         "stam": 50
                     },
                     "5": {
                         "ap": 12,
-                        "acc": 8,
+                        "acc": 34,
                         "stam": 50
                     }
                 },
@@ -19036,24 +19036,24 @@ var BDOdatabase = {
                 "rarity": "uncommon",
                 "gems": 0,
                 "item_effects": {
-                    "acc": 2
+                    "acc": 8
                 },
                 "enhancement_text": "",
                 "enhancement": {
                     "1": {
-                        "acc": 3
+                        "acc": 12
                     },
                     "2": {
-                        "acc": 4
+                        "acc": 16
                     },
                     "3": {
-                        "acc": 5
+                        "acc": 20
                     },
                     "4": {
-                        "acc": 6
+                        "acc": 24
                     },
                     "5": {
-                        "acc": 7
+                        "acc": 28
                     }
                 },
                 "name": "Kalis Ring"
@@ -19149,29 +19149,29 @@ var BDOdatabase = {
                 "rarity": "uncommon",
                 "gems": 0,
                 "item_effects": {
-                    "acc": 1
+                    "acc": 6
                 },
                 "enhancement_text": "",
                 "enhancement": {
                     "1": {
                         "ap": 3,
-                        "acc": 2
+                        "acc": 10
                     },
                     "2": {
                         "ap": 4,
-                        "acc": 3
+                        "acc": 14
                     },
                     "3": {
                         "ap": 5,
-                        "acc": 4
+                        "acc": 18
                     },
                     "4": {
                         "ap": 6,
-                        "acc": 5
+                        "acc": 22
                     },
                     "5": {
                         "ap": 7,
-                        "acc": 6
+                        "acc": 26
                     }
                 },
                 "name": "Ring of Good Deeds"
@@ -19182,29 +19182,29 @@ var BDOdatabase = {
                 "rarity": "rare",
                 "gems": 0,
                 "item_effects": {
-                    "acc": 1,
+                    "acc": 6,
                     "hp": 25
                 },
                 "enhancement_text": "",
                 "enhancement": {
                     "1": {
-                        "acc": 2,
+                        "acc": 10,
                         "hp": 50
                     },
                     "2": {
-                        "acc": 3,
+                        "acc": 14,
                         "hp": 75
                     },
                     "3": {
-                        "acc": 4,
+                        "acc": 18,
                         "hp": 100
                     },
                     "4": {
-                        "acc": 5,
+                        "acc": 22,
                         "hp": 125
                     },
                     "5": {
-                        "acc": 6,
+                        "acc": 26,
                         "hp": 150
                     }
                 },
@@ -19815,24 +19815,24 @@ var BDOdatabase = {
                 "rarity": "uncommon",
                 "gems": 0,
                 "item_effects": {
-                    "acc": 4
+                    "acc": 16
                 },
                 "enhancement_text": "",
                 "enhancement": {
                     "1": {
-                        "acc": 6
+                        "acc": 24
                     },
                     "2": {
-                        "acc": 8
+                        "acc": 32
                     },
                     "3": {
-                        "acc": 10
+                        "acc": 40
                     },
                     "4": {
-                        "acc": 12
+                        "acc": 48
                     },
                     "5": {
-                        "acc": 15
+                        "acc": 60
                     }
                 },
                 "name": "Kalis Necklace"
@@ -19895,29 +19895,29 @@ var BDOdatabase = {
                 "rarity": "rare",
                 "gems": 0,
                 "item_effects": {
-                    "acc": 3
+                    "acc": 16
                 },
                 "enhancement_text": "",
                 "enhancement": {
                     "1": {
                         "ap": 8,
-                        "acc": 4
+                        "acc": 20
                     },
                     "2": {
                         "ap": 10,
-                        "acc": 5
+                        "acc": 24
                     },
                     "3": {
                         "ap": 12,
-                        "acc": 6
+                        "acc": 28
                     },
                     "4": {
                         "ap": 14,
-                        "acc": 7
+                        "acc": 32
                     },
                     "5": {
                         "ap": 16,
-                        "acc": 8
+                        "acc": 36
                     }
                 },
                 "name": "Necklace of Good Deeds"
@@ -20661,24 +20661,24 @@ var BDOdatabase = {
                 "gems": 0,
                 "item_effects": {
                     "wgt": 40,
-                    "acc": 2
+                    "acc": 8
                 },
                 "enhancement_text": "",
                 "enhancement": {
                     "1": {
-                        "acc": 3
+                        "acc": 12
                     },
                     "2": {
-                        "acc": 4
+                        "acc": 16
                     },
                     "3": {
-                        "acc": 5
+                        "acc": 20
                     },
                     "4": {
-                        "acc": 6
+                        "acc": 24
                     },
                     "5": {
-                        "acc": 7
+                        "acc": 28
                     }
                 },
                 "name": "Kalis Belt"
@@ -20751,29 +20751,29 @@ var BDOdatabase = {
                 "gems": 0,
                 "item_effects": {
                     "wgt": 80,
-                    "acc": 1
+                    "acc": 6
                 },
                 "enhancement_text": "",
                 "enhancement": {
                     "1": {
                         "ap": 7,
-                        "acc": 2
+                        "acc": 10
                     },
                     "2": {
                         "ap": 9,
-                        "acc": 3
+                        "acc": 14
                     },
                     "3": {
                         "ap": 11,
-                        "acc": 4
+                        "acc": 18
                     },
                     "4": {
                         "ap": 13,
-                        "acc": 5
+                        "acc": 22
                     },
                     "5": {
                         "ap": 15,
-                        "acc": 6
+                        "acc": 26
                     }
                 },
                 "name": "Tree Spirit Belt"
@@ -21378,7 +21378,7 @@ var BDOdatabase = {
                     "gems": 1,
                     "item_effects": {
                         "dmgaes": 5,
-                        "acc": 3,
+                        "acc": 10,
                         "wgt": -25,
                         "special": "5% chance to heal 5 HP on attack."
                     },
@@ -21473,7 +21473,7 @@ var BDOdatabase = {
                     "rarity": "uncommon",
                     "gems": 1,
                     "item_effects": {
-                        "acc": 5,
+                        "acc": 20,
                         "special": "AP does not decrease in the rain."
                     },
                     "enhancement_text": "",
@@ -22123,7 +22123,7 @@ var BDOdatabase = {
                     "rarity": "rare",
                     "gems": 1,
                     "item_effects": {
-                        "acc": 5,
+                        "acc": 20,
                         "chr": 1,
                         "special": "AP does not decrease in the rain."
                     },
@@ -22218,7 +22218,7 @@ var BDOdatabase = {
                     "rarity": "rare",
                     "gems": 1,
                     "item_effects": {
-                        "acc": 5,
+                        "acc": 20,
                         "as": 1,
                         "special": "AP does not decrease in the rain."
                     },
@@ -22313,7 +22313,7 @@ var BDOdatabase = {
                     "rarity": "rare",
                     "gems": 1,
                     "item_effects": {
-                        "acc": 5,
+                        "acc": 20,
                         "chr": 1,
                         "as": 1,
                         "special": "AP does not decrease in the rain."
@@ -22409,7 +22409,7 @@ var BDOdatabase = {
                     "rarity": "epic",
                     "gems": 1,
                     "item_effects": {
-                        "acc": 5,
+                        "acc": 20,
                         "chr": 1,
                         "as": 1,
                         "special": "AP does not decrease in the rain."
@@ -24954,7 +24954,7 @@ var BDOdatabase = {
                     "gems": 1,
                     "item_effects": {
                         "dmgaes": 5,
-                        "acc": 3,
+                        "acc": 10,
                         "wgt": -25,
                         "chr": 1,
                         "special": "5% chance to heal 5 HP on attack."
@@ -25051,7 +25051,7 @@ var BDOdatabase = {
                     "gems": 1,
                     "item_effects": {
                         "dmgaes": 5,
-                        "acc": 3,
+                        "acc": 10,
                         "wgt": -25,
                         "as": 1,
                         "special": "5% chance to heal 5 HP on attack."
@@ -25148,7 +25148,7 @@ var BDOdatabase = {
                     "gems": 1,
                     "item_effects": {
                         "dmgaes": 5,
-                        "acc": 3,
+                        "acc": 10,
                         "wgt": -25,
                         "chr": 1,
                         "as": 1,
@@ -25246,7 +25246,7 @@ var BDOdatabase = {
                     "gems": 1,
                     "item_effects": {
                         "dmgaes": 5,
-                        "acc": 3,
+                        "acc": 10,
                         "wgt": -25,
                         "chr": 1,
                         "as": 1,
@@ -25346,7 +25346,7 @@ var BDOdatabase = {
                     "gems": 1,
                     "item_effects": {
                         "dmgaes": 5,
-                        "acc": 3,
+                        "acc": 10,
                         "wgt": -25,
                         "special": "5% chance to heal 5 HP on attack."
                     },
@@ -25441,7 +25441,7 @@ var BDOdatabase = {
                     "rarity": "uncommon",
                     "gems": 1,
                     "item_effects": {
-                        "acc": 5,
+                        "acc": 20,
                         "special": "AP does not decrease in the rain."
                     },
                     "enhancement_text": "",
@@ -26091,7 +26091,7 @@ var BDOdatabase = {
                     "rarity": "rare",
                     "gems": 1,
                     "item_effects": {
-                        "acc": 5,
+                        "acc": 20,
                         "chr": 1,
                         "special": "AP does not decrease in the rain."
                     },
@@ -26186,7 +26186,7 @@ var BDOdatabase = {
                     "rarity": "rare",
                     "gems": 1,
                     "item_effects": {
-                        "acc": 5,
+                        "acc": 20,
                         "as": 1,
                         "special": "AP does not decrease in the rain."
                     },
@@ -26281,7 +26281,7 @@ var BDOdatabase = {
                     "rarity": "rare",
                     "gems": 1,
                     "item_effects": {
-                        "acc": 5,
+                        "acc": 20,
                         "chr": 1,
                         "as": 1,
                         "special": "AP does not decrease in the rain."
@@ -26377,7 +26377,7 @@ var BDOdatabase = {
                     "rarity": "epic",
                     "gems": 1,
                     "item_effects": {
-                        "acc": 5,
+                        "acc": 20,
                         "chr": 1,
                         "as": 1,
                         "special": "AP does not decrease in the rain."
@@ -28922,7 +28922,7 @@ var BDOdatabase = {
                     "gems": 1,
                     "item_effects": {
                         "dmgaes": 5,
-                        "acc": 3,
+                        "acc": 10,
                         "wgt": -25,
                         "chr": 1,
                         "special": "5% chance to heal 5 HP on attack."
@@ -29019,7 +29019,7 @@ var BDOdatabase = {
                     "gems": 1,
                     "item_effects": {
                         "dmgaes": 5,
-                        "acc": 3,
+                        "acc": 10,
                         "wgt": -25,
                         "as": 1,
                         "special": "5% chance to heal 5 HP on attack."
@@ -29116,7 +29116,7 @@ var BDOdatabase = {
                     "gems": 1,
                     "item_effects": {
                         "dmgaes": 5,
-                        "acc": 3,
+                        "acc": 10,
                         "wgt": -25,
                         "chr": 1,
                         "as": 1,
@@ -29214,7 +29214,7 @@ var BDOdatabase = {
                     "gems": 1,
                     "item_effects": {
                         "dmgaes": 5,
-                        "acc": 3,
+                        "acc": 10,
                         "wgt": -25,
                         "chr": 1,
                         "as": 1,
@@ -29314,7 +29314,7 @@ var BDOdatabase = {
                     "gems": 1,
                     "item_effects": {
                         "dmgaes": 5,
-                        "acc": 3,
+                        "acc": 10,
                         "wgt": -25,
                         "special": "5% chance to heal 5 HP on attack."
                     },
@@ -29409,7 +29409,7 @@ var BDOdatabase = {
                     "rarity": "uncommon",
                     "gems": 1,
                     "item_effects": {
-                        "acc": 5,
+                        "acc": 20,
                         "special": "AP does not decrease in the rain."
                     },
                     "enhancement_text": "",
@@ -30059,7 +30059,7 @@ var BDOdatabase = {
                     "rarity": "rare",
                     "gems": 1,
                     "item_effects": {
-                        "acc": 5,
+                        "acc": 20,
                         "chr": 1,
                         "special": "AP does not decrease in the rain."
                     },
@@ -30154,7 +30154,7 @@ var BDOdatabase = {
                     "rarity": "rare",
                     "gems": 1,
                     "item_effects": {
-                        "acc": 5,
+                        "acc": 20,
                         "as": 1,
                         "special": "AP does not decrease in the rain."
                     },
@@ -30249,7 +30249,7 @@ var BDOdatabase = {
                     "rarity": "rare",
                     "gems": 1,
                     "item_effects": {
-                        "acc": 5,
+                        "acc": 20,
                         "cs": 1,
                         "special": "AP does not decrease in the rain."
                     },
@@ -30344,7 +30344,7 @@ var BDOdatabase = {
                     "rarity": "epic",
                     "gems": 1,
                     "item_effects": {
-                        "acc": 5,
+                        "acc": 20,
                         "chr": 1,
                         "cs": 1,
                         "special": "AP does not decrease in the rain."
@@ -32884,7 +32884,7 @@ var BDOdatabase = {
                     "gems": 1,
                     "item_effects": {
                         "dmgaes": 5,
-                        "acc": 3,
+                        "acc": 10,
                         "wgt": -25,
                         "chr": 1,
                         "special": "5% chance to heal 5 HP on attack."
@@ -32981,7 +32981,7 @@ var BDOdatabase = {
                     "gems": 1,
                     "item_effects": {
                         "dmgaes": 5,
-                        "acc": 3,
+                        "acc": 10,
                         "wgt": -25,
                         "as": 1,
                         "special": "5% chance to heal 5 HP on attack."
@@ -33078,7 +33078,7 @@ var BDOdatabase = {
                     "gems": 1,
                     "item_effects": {
                         "dmgaes": 5,
-                        "acc": 3,
+                        "acc": 10,
                         "wgt": -25,
                         "chr": 1,
                         "cs": 1,
@@ -33176,7 +33176,7 @@ var BDOdatabase = {
                     "gems": 1,
                     "item_effects": {
                         "dmgaes": 5,
-                        "acc": 3,
+                        "acc": 10,
                         "wgt": -25,
                         "chr": 1,
                         "cs": 1,
@@ -33276,7 +33276,7 @@ var BDOdatabase = {
                     "gems": 1,
                     "item_effects": {
                         "dmgaes": 5,
-                        "acc": 3,
+                        "acc": 10,
                         "wgt": -25,
                         "special": "5% chance to heal 5 HP on attack."
                     },
@@ -33371,7 +33371,7 @@ var BDOdatabase = {
                     "rarity": "uncommon",
                     "gems": 1,
                     "item_effects": {
-                        "acc": 5,
+                        "acc": 20,
                         "special": "AP does not decrease in the rain."
                     },
                     "enhancement_text": "",
@@ -34021,7 +34021,7 @@ var BDOdatabase = {
                     "rarity": "rare",
                     "gems": 1,
                     "item_effects": {
-                        "acc": 5,
+                        "acc": 20,
                         "chr": 1,
                         "special": "AP does not decrease in the rain."
                     },
@@ -34116,7 +34116,7 @@ var BDOdatabase = {
                     "rarity": "rare",
                     "gems": 1,
                     "item_effects": {
-                        "acc": 5,
+                        "acc": 20,
                         "as": 1,
                         "special": "AP does not decrease in the rain."
                     },
@@ -34211,7 +34211,7 @@ var BDOdatabase = {
                     "rarity": "rare",
                     "gems": 1,
                     "item_effects": {
-                        "acc": 5,
+                        "acc": 20,
                         "chr": 1,
                         "as": 1,
                         "special": "AP does not decrease in the rain."
@@ -34307,7 +34307,7 @@ var BDOdatabase = {
                     "rarity": "epic",
                     "gems": 1,
                     "item_effects": {
-                        "acc": 5,
+                        "acc": 20,
                         "chr": 1,
                         "as": 1,
                         "special": "AP does not decrease in the rain."
@@ -36852,7 +36852,7 @@ var BDOdatabase = {
                     "gems": 1,
                     "item_effects": {
                         "dmgaes": 5,
-                        "acc": 3,
+                        "acc": 10,
                         "wgt": -25,
                         "chr": 1,
                         "special": "5% chance to heal 5 HP on attack."
@@ -36949,7 +36949,7 @@ var BDOdatabase = {
                     "gems": 1,
                     "item_effects": {
                         "dmgaes": 5,
-                        "acc": 3,
+                        "acc": 10,
                         "wgt": -25,
                         "as": 1,
                         "special": "5% chance to heal 5 HP on attack."
@@ -37046,7 +37046,7 @@ var BDOdatabase = {
                     "gems": 1,
                     "item_effects": {
                         "dmgaes": 5,
-                        "acc": 3,
+                        "acc": 10,
                         "wgt": -25,
                         "chr": 1,
                         "as": 1,
@@ -37144,7 +37144,7 @@ var BDOdatabase = {
                     "gems": 1,
                     "item_effects": {
                         "dmgaes": 5,
-                        "acc": 3,
+                        "acc": 10,
                         "wgt": -25,
                         "chr": 1,
                         "as": 1,
@@ -37244,7 +37244,7 @@ var BDOdatabase = {
                     "gems": 1,
                     "item_effects": {
                         "dmgaes": 5,
-                        "acc": 3,
+                        "acc": 10,
                         "wgt": -25,
                         "special": "5% chance to heal 5 HP on attack."
                     },
@@ -37339,7 +37339,7 @@ var BDOdatabase = {
                     "rarity": "uncommon",
                     "gems": 1,
                     "item_effects": {
-                        "acc": 5,
+                        "acc": 20,
                         "special": "AP does not decrease in the rain."
                     },
                     "enhancement_text": "",
@@ -37990,7 +37990,7 @@ var BDOdatabase = {
                     "rarity": "rare",
                     "gems": 1,
                     "item_effects": {
-                        "acc": 5,
+                        "acc": 20,
                         "chr": 1,
                         "special": "AP does not decrease in the rain."
                     },
@@ -38085,7 +38085,7 @@ var BDOdatabase = {
                     "rarity": "rare",
                     "gems": 1,
                     "item_effects": {
-                        "acc": 5,
+                        "acc": 20,
                         "as": 1,
                         "cs": 1,
                         "special": "AP does not decrease in the rain."
@@ -38181,7 +38181,7 @@ var BDOdatabase = {
                     "rarity": "rare",
                     "gems": 1,
                     "item_effects": {
-                        "acc": 5,
+                        "acc": 20,
                         "chr": 1,
                         "as": 1,
                         "cs": 1,
@@ -38278,7 +38278,7 @@ var BDOdatabase = {
                     "rarity": "epic",
                     "gems": 1,
                     "item_effects": {
-                        "acc": 5,
+                        "acc": 20,
                         "chr": 1,
                         "as": 1,
                         "cs": 1,
@@ -40842,7 +40842,7 @@ var BDOdatabase = {
                     "gems": 1,
                     "item_effects": {
                         "dmgaes": 5,
-                        "acc": 3,
+                        "acc": 10,
                         "wgt": -25,
                         "chr": 1,
                         "special": "5% chance to heal 5 HP on attack."
@@ -40939,7 +40939,7 @@ var BDOdatabase = {
                     "gems": 1,
                     "item_effects": {
                         "dmgaes": 5,
-                        "acc": 3,
+                        "acc": 10,
                         "wgt": -25,
                         "as": 1,
                         "cs": 1,
@@ -41037,7 +41037,7 @@ var BDOdatabase = {
                     "gems": 1,
                     "item_effects": {
                         "dmgaes": 5,
-                        "acc": 3,
+                        "acc": 10,
                         "wgt": -25,
                         "chr": 1,
                         "as": 1,
@@ -41136,7 +41136,7 @@ var BDOdatabase = {
                     "gems": 1,
                     "item_effects": {
                         "dmgaes": 5,
-                        "acc": 3,
+                        "acc": 10,
                         "wgt": -25,
                         "chr": 1,
                         "as": 1,
@@ -41237,7 +41237,7 @@ var BDOdatabase = {
                     "gems": 1,
                     "item_effects": {
                         "dmgaes": 5,
-                        "acc": 3,
+                        "acc": 10,
                         "wgt": -25,
                         "special": "5% chance to heal 5 HP on attack."
                     },
@@ -41332,7 +41332,7 @@ var BDOdatabase = {
                     "rarity": "uncommon",
                     "gems": 1,
                     "item_effects": {
-                        "acc": 5,
+                        "acc": 20,
                         "special": "AP does not decrease in the rain."
                     },
                     "enhancement_text": "",
@@ -41982,7 +41982,7 @@ var BDOdatabase = {
                     "rarity": "rare",
                     "gems": 1,
                     "item_effects": {
-                        "acc": 5,
+                        "acc": 20,
                         "chr": 1,
                         "special": "AP does not decrease in the rain."
                     },
@@ -42077,7 +42077,7 @@ var BDOdatabase = {
                     "rarity": "rare",
                     "gems": 1,
                     "item_effects": {
-                        "acc": 5,
+                        "acc": 20,
                         "as": 1,
                         "special": "AP does not decrease in the rain."
                     },
@@ -42172,7 +42172,7 @@ var BDOdatabase = {
                     "rarity": "rare",
                     "gems": 1,
                     "item_effects": {
-                        "acc": 5,
+                        "acc": 20,
                         "cs": 1,
                         "special": "AP does not decrease in the rain."
                     },
@@ -42267,7 +42267,7 @@ var BDOdatabase = {
                     "rarity": "epic",
                     "gems": 1,
                     "item_effects": {
-                        "acc": 5,
+                        "acc": 20,
                         "chr": 1,
                         "cs": 1,
                         "special": "AP does not decrease in the rain."
@@ -44807,7 +44807,7 @@ var BDOdatabase = {
                     "gems": 1,
                     "item_effects": {
                         "dmgaes": 5,
-                        "acc": 3,
+                        "acc": 10,
                         "wgt": -25,
                         "chr": 1,
                         "special": "5% chance to heal 5 HP on attack."
@@ -44904,7 +44904,7 @@ var BDOdatabase = {
                     "gems": 1,
                     "item_effects": {
                         "dmgaes": 5,
-                        "acc": 3,
+                        "acc": 10,
                         "wgt": -25,
                         "as": 1,
                         "special": "5% chance to heal 5 HP on attack."
@@ -45001,7 +45001,7 @@ var BDOdatabase = {
                     "gems": 1,
                     "item_effects": {
                         "dmgaes": 5,
-                        "acc": 3,
+                        "acc": 10,
                         "wgt": -25,
                         "chr": 1,
                         "cs": 1,
@@ -45099,7 +45099,7 @@ var BDOdatabase = {
                     "gems": 1,
                     "item_effects": {
                         "dmgaes": 5,
-                        "acc": 3,
+                        "acc": 10,
                         "wgt": -25,
                         "chr": 1,
                         "cs": 1,
@@ -45199,7 +45199,7 @@ var BDOdatabase = {
                     "gems": 1,
                     "item_effects": {
                         "dmgaes": 5,
-                        "acc": 3,
+                        "acc": 10,
                         "wgt": -25,
                         "special": "5% chance to heal 5 HP on attack."
                     },
@@ -45294,7 +45294,7 @@ var BDOdatabase = {
                     "rarity": "uncommon",
                     "gems": 1,
                     "item_effects": {
-                        "acc": 5,
+                        "acc": 20,
                         "special": "AP does not decrease in the rain."
                     },
                     "enhancement_text": "",
@@ -45944,7 +45944,7 @@ var BDOdatabase = {
                     "rarity": "rare",
                     "gems": 1,
                     "item_effects": {
-                        "acc": 5,
+                        "acc": 20,
                         "chr": 1,
                         "special": "AP does not decrease in the rain."
                     },
@@ -46039,7 +46039,7 @@ var BDOdatabase = {
                     "rarity": "rare",
                     "gems": 1,
                     "item_effects": {
-                        "acc": 5,
+                        "acc": 20,
                         "as": 1,
                         "special": "AP does not decrease in the rain."
                     },
@@ -46134,7 +46134,7 @@ var BDOdatabase = {
                     "rarity": "rare",
                     "gems": 1,
                     "item_effects": {
-                        "acc": 5,
+                        "acc": 20,
                         "chr": 1,
                         "as": 1,
                         "special": "AP does not decrease in the rain."
@@ -46230,7 +46230,7 @@ var BDOdatabase = {
                     "rarity": "epic",
                     "gems": 1,
                     "item_effects": {
-                        "acc": 5,
+                        "acc": 20,
                         "chr": 1,
                         "as": 1,
                         "special": "AP does not decrease in the rain."
@@ -48775,7 +48775,7 @@ var BDOdatabase = {
                     "gems": 1,
                     "item_effects": {
                         "dmgaes": 5,
-                        "acc": 3,
+                        "acc": 10,
                         "wgt": -25,
                         "chr": 1,
                         "special": "5% chance to heal 5 HP on attack."
@@ -48872,7 +48872,7 @@ var BDOdatabase = {
                     "gems": 1,
                     "item_effects": {
                         "dmgaes": 5,
-                        "acc": 3,
+                        "acc": 10,
                         "wgt": -25,
                         "as": 1,
                         "special": "5% chance to heal 5 HP on attack."
@@ -48969,7 +48969,7 @@ var BDOdatabase = {
                     "gems": 1,
                     "item_effects": {
                         "dmgaes": 5,
-                        "acc": 3,
+                        "acc": 10,
                         "wgt": -25,
                         "chr": 1,
                         "as": 1,
@@ -49067,7 +49067,7 @@ var BDOdatabase = {
                     "gems": 1,
                     "item_effects": {
                         "dmgaes": 5,
-                        "acc": 3,
+                        "acc": 10,
                         "wgt": -25,
                         "chr": 1,
                         "as": 1,
@@ -49167,7 +49167,7 @@ var BDOdatabase = {
                     "gems": 1,
                     "item_effects": {
                         "dmgaes": 5,
-                        "acc": 3,
+                        "acc": 10,
                         "wgt": -25,
                         "special": "5% chance to heal 5 HP on attack."
                     },
@@ -49262,7 +49262,7 @@ var BDOdatabase = {
                     "rarity": "uncommon",
                     "gems": 1,
                     "item_effects": {
-                        "acc": 5,
+                        "acc": 20,
                         "special": "AP does not decrease in the rain."
                     },
                     "enhancement_text": "",
@@ -49912,7 +49912,7 @@ var BDOdatabase = {
                     "rarity": "rare",
                     "gems": 1,
                     "item_effects": {
-                        "acc": 5,
+                        "acc": 20,
                         "chr": 1,
                         "special": "AP does not decrease in the rain."
                     },
@@ -50007,7 +50007,7 @@ var BDOdatabase = {
                     "rarity": "rare",
                     "gems": 1,
                     "item_effects": {
-                        "acc": 5,
+                        "acc": 20,
                         "as": 1,
                         "special": "AP does not decrease in the rain."
                     },
@@ -50102,7 +50102,7 @@ var BDOdatabase = {
                     "rarity": "rare",
                     "gems": 1,
                     "item_effects": {
-                        "acc": 5,
+                        "acc": 20,
                         "chr": 1,
                         "as": 1,
                         "special": "AP does not decrease in the rain."
@@ -50198,7 +50198,7 @@ var BDOdatabase = {
                     "rarity": "epic",
                     "gems": 1,
                     "item_effects": {
-                        "acc": 5,
+                        "acc": 20,
                         "chr": 1,
                         "as": 1,
                         "special": "AP does not decrease in the rain."
@@ -52743,7 +52743,7 @@ var BDOdatabase = {
                     "gems": 1,
                     "item_effects": {
                         "dmgaes": 5,
-                        "acc": 3,
+                        "acc": 10,
                         "wgt": -25,
                         "chr": 1,
                         "special": "5% chance to heal 5 HP on attack."
@@ -52840,7 +52840,7 @@ var BDOdatabase = {
                     "gems": 1,
                     "item_effects": {
                         "dmgaes": 5,
-                        "acc": 3,
+                        "acc": 10,
                         "wgt": -25,
                         "as": 1,
                         "special": "5% chance to heal 5 HP on attack."
@@ -52937,7 +52937,7 @@ var BDOdatabase = {
                     "gems": 1,
                     "item_effects": {
                         "dmgaes": 5,
-                        "acc": 3,
+                        "acc": 10,
                         "wgt": -25,
                         "chr": 1,
                         "as": 1,
@@ -53035,7 +53035,7 @@ var BDOdatabase = {
                     "gems": 1,
                     "item_effects": {
                         "dmgaes": 5,
-                        "acc": 3,
+                        "acc": 10,
                         "wgt": -25,
                         "chr": 1,
                         "as": 1,
@@ -53135,7 +53135,7 @@ var BDOdatabase = {
                     "gems": 1,
                     "item_effects": {
                         "dmgaes": 5,
-                        "acc": 3,
+                        "acc": 10,
                         "wgt": -25,
                         "special": "5% chance to heal 5 HP on attack."
                     },
@@ -53230,7 +53230,7 @@ var BDOdatabase = {
                     "rarity": "uncommon",
                     "gems": 1,
                     "item_effects": {
-                        "acc": 5,
+                        "acc": 20,
                         "special": "AP does not decrease in the rain."
                     },
                     "enhancement_text": "",
@@ -53880,7 +53880,7 @@ var BDOdatabase = {
                     "rarity": "rare",
                     "gems": 1,
                     "item_effects": {
-                        "acc": 5,
+                        "acc": 20,
                         "chr": 1,
                         "special": "AP does not decrease in the rain."
                     },
@@ -53975,7 +53975,7 @@ var BDOdatabase = {
                     "rarity": "rare",
                     "gems": 1,
                     "item_effects": {
-                        "acc": 5,
+                        "acc": 20,
                         "as": 1,
                         "special": "AP does not decrease in the rain."
                     },
@@ -54070,7 +54070,7 @@ var BDOdatabase = {
                     "rarity": "rare",
                     "gems": 1,
                     "item_effects": {
-                        "acc": 5,
+                        "acc": 20,
                         "chr": 1,
                         "as": 1,
                         "special": "AP does not decrease in the rain."
@@ -54166,7 +54166,7 @@ var BDOdatabase = {
                     "rarity": "epic",
                     "gems": 1,
                     "item_effects": {
-                        "acc": 5,
+                        "acc": 20,
                         "chr": 1,
                         "as": 1,
                         "special": "AP does not decrease in the rain."
@@ -56711,7 +56711,7 @@ var BDOdatabase = {
                     "gems": 1,
                     "item_effects": {
                         "dmgaes": 5,
-                        "acc": 3,
+                        "acc": 10,
                         "wgt": -25,
                         "chr": 1,
                         "special": "5% chance to heal 5 HP on attack."
@@ -56808,7 +56808,7 @@ var BDOdatabase = {
                     "gems": 1,
                     "item_effects": {
                         "dmgaes": 5,
-                        "acc": 3,
+                        "acc": 10,
                         "wgt": -25,
                         "as": 1,
                         "special": "5% chance to heal 5 HP on attack."
@@ -56905,7 +56905,7 @@ var BDOdatabase = {
                     "gems": 1,
                     "item_effects": {
                         "dmgaes": 5,
-                        "acc": 3,
+                        "acc": 10,
                         "wgt": -25,
                         "chr": 1,
                         "as": 1,
@@ -57003,7 +57003,7 @@ var BDOdatabase = {
                     "gems": 1,
                     "item_effects": {
                         "dmgaes": 5,
-                        "acc": 3,
+                        "acc": 10,
                         "wgt": -25,
                         "chr": 1,
                         "as": 1,
@@ -57105,7 +57105,7 @@ var BDOdatabase = {
                     "rarity": "uncommon",
                     "gems": 1,
                     "item_effects": {
-                        "acc": 5,
+                        "acc": 20,
                         "ev": 2,
                         "dr": 2
                     },
@@ -57388,7 +57388,7 @@ var BDOdatabase = {
                     "rarity": "rare",
                     "gems": 1,
                     "item_effects": {
-                        "acc": 7,
+                        "acc": 28,
                         "ev": 2,
                         "dr": 2,
                         "abad": 1
@@ -57491,7 +57491,7 @@ var BDOdatabase = {
                     "rarity": "rare",
                     "gems": 1,
                     "item_effects": {
-                        "acc": 7,
+                        "acc": 28,
                         "ev": 2,
                         "dr": 2,
                         "adad": 1
@@ -57594,7 +57594,7 @@ var BDOdatabase = {
                     "rarity": "rare",
                     "gems": 1,
                     "item_effects": {
-                        "acc": 7,
+                        "acc": 28,
                         "ev": 2,
                         "dr": 2,
                         "aaad": 1
@@ -57697,7 +57697,7 @@ var BDOdatabase = {
                     "rarity": "epic",
                     "gems": 1,
                     "item_effects": {
-                        "acc": 7,
+                        "acc": 28,
                         "ev": 2,
                         "dr": 2,
                         "assad": 1
@@ -59906,7 +59906,7 @@ var BDOdatabase = {
                     "rarity": "uncommon",
                     "gems": 1,
                     "item_effects": {
-                        "acc": 5
+                        "acc": 20
                     },
                     "enhancement_text": "",
                     "enhancement": {
@@ -60190,7 +60190,7 @@ var BDOdatabase = {
                     "rarity": "rare",
                     "gems": 1,
                     "item_effects": {
-                        "acc": 7,
+                        "acc": 28,
                         "abad": 1
                     },
                     "enhancement_text": "",
@@ -60269,7 +60269,7 @@ var BDOdatabase = {
                     "rarity": "rare",
                     "gems": 1,
                     "item_effects": {
-                        "acc": 7,
+                        "acc": 28,
                         "adad": 1
                     },
                     "enhancement_text": "",
@@ -60348,7 +60348,7 @@ var BDOdatabase = {
                     "rarity": "rare",
                     "gems": 1,
                     "item_effects": {
-                        "acc": 7,
+                        "acc": 28,
                         "aaad": 1
                     },
                     "enhancement_text": "",
@@ -60427,7 +60427,7 @@ var BDOdatabase = {
                     "rarity": "epic",
                     "gems": 1,
                     "item_effects": {
-                        "acc": 7,
+                        "acc": 28,
                         "assad": 1
                     },
                     "enhancement_text": "",
@@ -62589,7 +62589,7 @@ var BDOdatabase = {
                     "rarity": "uncommon",
                     "gems": 1,
                     "item_effects": {
-                        "acc": 5
+                        "acc": 20
                     },
                     "enhancement_text": "",
                     "enhancement": {
@@ -62849,7 +62849,7 @@ var BDOdatabase = {
                     "rarity": "rare",
                     "gems": 1,
                     "item_effects": {
-                        "acc": 7,
+                        "acc": 28,
                         "abad": 1
                     },
                     "enhancement_text": "",
@@ -62928,7 +62928,7 @@ var BDOdatabase = {
                     "rarity": "rare",
                     "gems": 1,
                     "item_effects": {
-                        "acc": 7,
+                        "acc": 28,
                         "adad": 1
                     },
                     "enhancement_text": "",
@@ -63007,7 +63007,7 @@ var BDOdatabase = {
                     "rarity": "rare",
                     "gems": 1,
                     "item_effects": {
-                        "acc": 7,
+                        "acc": 28,
                         "aaad": 1
                     },
                     "enhancement_text": "",
@@ -63086,7 +63086,7 @@ var BDOdatabase = {
                     "rarity": "epic",
                     "gems": 1,
                     "item_effects": {
-                        "acc": 7,
+                        "acc": 28,
                         "assad": 1
                     },
                     "enhancement_text": "",
@@ -65215,7 +65215,7 @@ var BDOdatabase = {
                     "rarity": "uncommon",
                     "gems": 1,
                     "item_effects": {
-                        "acc": 5
+                        "acc": 20
                     },
                     "enhancement_text": "",
                     "enhancement": {
@@ -65463,7 +65463,7 @@ var BDOdatabase = {
                     "rarity": "rare",
                     "gems": 1,
                     "item_effects": {
-                        "acc": 7,
+                        "acc": 28,
                         "abad": 1
                     },
                     "enhancement_text": "",
@@ -65536,7 +65536,7 @@ var BDOdatabase = {
                     "rarity": "rare",
                     "gems": 1,
                     "item_effects": {
-                        "acc": 7,
+                        "acc": 28,
                         "adad": 1
                     },
                     "enhancement_text": "",
@@ -65609,7 +65609,7 @@ var BDOdatabase = {
                     "rarity": "rare",
                     "gems": 1,
                     "item_effects": {
-                        "acc": 7,
+                        "acc": 28,
                         "aaad": 1
                     },
                     "enhancement_text": "",
@@ -65683,7 +65683,7 @@ var BDOdatabase = {
                     "rarity": "epic",
                     "gems": 1,
                     "item_effects": {
-                        "acc": 7,
+                        "acc": 28,
                         "assad": 1
                     },
                     "enhancement_text": "",
@@ -67800,7 +67800,7 @@ var BDOdatabase = {
                     "rarity": "uncommon",
                     "gems": 1,
                     "item_effects": {
-                        "acc": 5,
+                        "acc": 20,
                         "ev": 2,
                         "dr": 2
                     },
@@ -68083,7 +68083,7 @@ var BDOdatabase = {
                     "rarity": "rare",
                     "gems": 1,
                     "item_effects": {
-                        "acc": 7,
+                        "acc": 28,
                         "ev": 2,
                         "dr": 2,
                         "abad": 1
@@ -68186,7 +68186,7 @@ var BDOdatabase = {
                     "rarity": "rare",
                     "gems": 1,
                     "item_effects": {
-                        "acc": 7,
+                        "acc": 28,
                         "ev": 2,
                         "dr": 2,
                         "adad": 1
@@ -68289,7 +68289,7 @@ var BDOdatabase = {
                     "rarity": "rare",
                     "gems": 1,
                     "item_effects": {
-                        "acc": 7,
+                        "acc": 28,
                         "ev": 2,
                         "dr": 2,
                         "aaad": 1
@@ -68392,7 +68392,7 @@ var BDOdatabase = {
                     "rarity": "epic",
                     "gems": 1,
                     "item_effects": {
-                        "acc": 7,
+                        "acc": 28,
                         "ev": 2,
                         "dr": 2,
                         "assad": 1
@@ -70550,7 +70550,7 @@ var BDOdatabase = {
                     "rarity": "uncommon",
                     "gems": 1,
                     "item_effects": {
-                        "acc": 5
+                        "acc": 20
                     },
                     "enhancement_text": "",
                     "enhancement": {
@@ -70834,7 +70834,7 @@ var BDOdatabase = {
                     "rarity": "rare",
                     "gems": 1,
                     "item_effects": {
-                        "acc": 7,
+                        "acc": 28,
                         "abad": 1
                     },
                     "enhancement_text": "",
@@ -70913,7 +70913,7 @@ var BDOdatabase = {
                     "rarity": "rare",
                     "gems": 1,
                     "item_effects": {
-                        "acc": 7,
+                        "acc": 28,
                         "adad": 1
                     },
                     "enhancement_text": "",
@@ -70992,7 +70992,7 @@ var BDOdatabase = {
                     "rarity": "rare",
                     "gems": 1,
                     "item_effects": {
-                        "acc": 7,
+                        "acc": 28,
                         "aaad": 1
                     },
                     "enhancement_text": "",
@@ -71071,7 +71071,7 @@ var BDOdatabase = {
                     "rarity": "epic",
                     "gems": 1,
                     "item_effects": {
-                        "acc": 7,
+                        "acc": 28,
                         "assad": 1
                     },
                     "enhancement_text": "",
@@ -73245,7 +73245,7 @@ var BDOdatabase = {
                     "rarity": "uncommon",
                     "gems": 1,
                     "item_effects": {
-                        "acc": 5
+                        "acc": 20
                     },
                     "enhancement_text": "",
                     "enhancement": {
@@ -73528,7 +73528,7 @@ var BDOdatabase = {
                     "rarity": "rare",
                     "gems": 1,
                     "item_effects": {
-                        "acc": 7,
+                        "acc": 28,
                         "abad": 1
                     },
                     "enhancement_text": "",
@@ -73606,7 +73606,7 @@ var BDOdatabase = {
                     "rarity": "rare",
                     "gems": 1,
                     "item_effects": {
-                        "acc": 7,
+                        "acc": 28,
                         "adad": 1
                     },
                     "enhancement_text": "",
@@ -73684,7 +73684,7 @@ var BDOdatabase = {
                     "rarity": "rare",
                     "gems": 1,
                     "item_effects": {
-                        "acc": 7,
+                        "acc": 28,
                         "aaad": 1
                     },
                     "enhancement_text": "",
@@ -73763,7 +73763,7 @@ var BDOdatabase = {
                     "rarity": "epic",
                     "gems": 1,
                     "item_effects": {
-                        "acc": 7,
+                        "acc": 28,
                         "assad": 1
                     },
                     "enhancement_text": "",
@@ -75941,7 +75941,7 @@ var BDOdatabase = {
                     "rarity": "uncommon",
                     "gems": 1,
                     "item_effects": {
-                        "acc": 5
+                        "acc": 20
                     },
                     "enhancement_text": "",
                     "enhancement": {
@@ -76224,7 +76224,7 @@ var BDOdatabase = {
                     "rarity": "rare",
                     "gems": 1,
                     "item_effects": {
-                        "acc": 7,
+                        "acc": 28,
                         "abad": 1
                     },
                     "enhancement_text": "",
@@ -76302,7 +76302,7 @@ var BDOdatabase = {
                     "rarity": "rare",
                     "gems": 1,
                     "item_effects": {
-                        "acc": 7,
+                        "acc": 28,
                         "adad": 1
                     },
                     "enhancement_text": "",
@@ -76380,7 +76380,7 @@ var BDOdatabase = {
                     "rarity": "rare",
                     "gems": 1,
                     "item_effects": {
-                        "acc": 7,
+                        "acc": 28,
                         "aaad": 1
                     },
                     "enhancement_text": "",
@@ -76459,7 +76459,7 @@ var BDOdatabase = {
                     "rarity": "epic",
                     "gems": 1,
                     "item_effects": {
-                        "acc": 7,
+                        "acc": 28,
                         "assad": 1
                     },
                     "enhancement_text": "",
@@ -78637,7 +78637,7 @@ var BDOdatabase = {
                     "rarity": "uncommon",
                     "gems": 1,
                     "item_effects": {
-                        "acc": 5,
+                        "acc": 20,
                         "ev": 2,
                         "dr": 2
                     },
@@ -78936,7 +78936,7 @@ var BDOdatabase = {
                     "rarity": "rare",
                     "gems": 1,
                     "item_effects": {
-                        "acc": 7,
+                        "acc": 28,
                         "ev": 2,
                         "dr": 2,
                         "abad": 1
@@ -79039,7 +79039,7 @@ var BDOdatabase = {
                     "rarity": "rare",
                     "gems": 1,
                     "item_effects": {
-                        "acc": 7,
+                        "acc": 28,
                         "ev": 2,
                         "dr": 2,
                         "adad": 1
@@ -79142,7 +79142,7 @@ var BDOdatabase = {
                     "rarity": "rare",
                     "gems": 1,
                     "item_effects": {
-                        "acc": 7,
+                        "acc": 28,
                         "ev": 2,
                         "dr": 2,
                         "aaad": 1
@@ -79245,7 +79245,7 @@ var BDOdatabase = {
                     "rarity": "epic",
                     "gems": 1,
                     "item_effects": {
-                        "acc": 7,
+                        "acc": 28,
                         "ev": 2,
                         "dr": 2,
                         "assad": 1
