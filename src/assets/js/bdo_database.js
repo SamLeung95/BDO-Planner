@@ -57106,7 +57106,6 @@ var BDOdatabase = {
                 }
             },
             "mystic": {
-                
             }
         },
         "secondary-weapons": {
@@ -86716,7 +86715,7 @@ var BDOdatabase = {
                     "name": "Ultimate Backflow Gardbrace"
                 }
             },
-            "striker": {
+            "mystic": {
             }
         },
         "alchemy-stones": {

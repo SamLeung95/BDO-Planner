@@ -136,7 +136,7 @@
                             <div class="icon"></div>
                             <div class="name">Striker</div>
                         </li>
-                        <li class="class mystic" data-value="14">
+                        <li class="class mystic disabled" data-value="14">
                             <div class="main-background"></div>
                             <div class="icon"></div>
                             <div class="name">Mystic</div>
