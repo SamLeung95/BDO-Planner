@@ -905,6 +905,16 @@ var BDOdatabase = {
                 "ssfr": 20,
                 "gr": 20
             }
+        },
+        "14": {
+            "name": "mystic",
+            "display_name": "Mystic",
+            "resistances": {
+                "kb": 20,
+                "kd": 20,
+                "ssfr": 20,
+                "gr": 20
+            }
         }
     },
     "training": {
@@ -57094,6 +57104,9 @@ var BDOdatabase = {
                     },
                     "name": "Ultimate Elsh Gauntlet"
                 }
+            },
+            "mystic": {
+                
             }
         },
         "secondary-weapons": {
@@ -81490,6 +81503,8 @@ var BDOdatabase = {
                     "enhancement": {},
                     "name": "Vambrace of Sealed Magical Power"
                 }
+            },
+            "mystic": {
             }
         },
         "awakening-weapons": {
@@ -86700,6 +86715,8 @@ var BDOdatabase = {
                     },
                     "name": "Ultimate Backflow Gardbrace"
                 }
+            },
+            "striker": {
             }
         },
         "alchemy-stones": {
