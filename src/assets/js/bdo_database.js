@@ -57104,8 +57104,6 @@ var BDOdatabase = {
                     },
                     "name": "Ultimate Elsh Gauntlet"
                 }
-            },
-            "mystic": {
             }
         },
         "secondary-weapons": {
@@ -81502,8 +81500,6 @@ var BDOdatabase = {
                     "enhancement": {},
                     "name": "Vambrace of Sealed Magical Power"
                 }
-            },
-            "mystic": {
             }
         },
         "awakening-weapons": {
@@ -88147,12 +88143,14 @@ var BDOdatabase = {
         this.items["main-weapons"].maehwa = this.items["main-weapons"].musa;
         this.items["main-weapons"].ninja = this.items["main-weapons"].tamer;
         this.items["main-weapons"].kunoichi = this.items["main-weapons"].tamer;
+        this.items["main-weapons"].mystic = this.items["main-weapons"].striker;
 
         this.items["secondary-weapons"].warrior = this.items["secondary-weapons"].valkyrie;
         this.items["secondary-weapons"].witch = this.items["secondary-weapons"].ranger;
         this.items["secondary-weapons"].wizard = this.items["secondary-weapons"].ranger;
         this.items["secondary-weapons"].maehwa = this.items["secondary-weapons"].musa;
         this.items["secondary-weapons"].darkknight = this.items["secondary-weapons"].berserker;
+        this.items["secondary-weapons"].mystic = this.items["secondary-weapons"].striker;
     }
 };
 
