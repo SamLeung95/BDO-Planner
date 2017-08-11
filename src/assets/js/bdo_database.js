@@ -355,7 +355,7 @@ var BDOdatabase = {
             "title": "Black Spirit's Rage",
             "desc": "",
             "total": 0,
-            "symbol": "",
+            "symbol": "%",
             "target": ".general-stats"
         },
         "drr": {
@@ -1604,7 +1604,7 @@ var BDOdatabase = {
                 }
             ]
         },
-        "Jarette": { //Still not working, no idea why!
+        "Jarette": {
             "pieces": {
                 "4": {
                     "hap": 5
@@ -18207,7 +18207,6 @@ var BDOdatabase = {
                 "dp": 0,
                 "ap": 0,
                 "rarity": "uncommon",
-                "gems": 0,
                 "item_effects": {
                     "dmgth": 2
                 },
@@ -18235,7 +18234,6 @@ var BDOdatabase = {
                 "dp": 0,
                 "ap": 2,
                 "rarity": "uncommon",
-                "gems": 0,
                 "item_effects": {},
                 "enhancement_text": "",
                 "enhancement": {
@@ -18261,7 +18259,6 @@ var BDOdatabase = {
                 "dp": 1,
                 "ap": 0,
                 "rarity": "uncommon",
-                "gems": 0,
                 "item_effects": {},
                 "enhancement_text": "",
                 "enhancement": {
@@ -18287,19 +18284,33 @@ var BDOdatabase = {
                 "dp": 0,
                 "ap": 0,
                 "rarity": "uncommon",
-                "gems": 0,
                 "item_effects": {
                     "mpwpsp": 15
                 },
                 "enhancement_text": "",
-                "enhancement": {},
+                "enhancement": {
+                    "1": {
+                        "mpwpsp": 30
+                    },
+                    "2": {
+                        "mpwpsp": 45
+                    },
+                    "3": {
+                        "mpwpsp": 60
+                    },
+                    "4": {
+                        "mpwpsp": 75
+                    },
+                    "5": {
+                        "mpwpsp": 100
+                    }
+                },
                 "name": "Elisha Earring"
             },
             "11805": {
                 "dp": 0,
                 "ap": 0,
                 "rarity": "uncommon",
-                "gems": 0,
                 "item_effects": {
                     "acc": 8
                 },
@@ -18327,7 +18338,6 @@ var BDOdatabase = {
                 "dp": 2,
                 "ap": 0,
                 "rarity": "uncommon",
-                "gems": 0,
                 "item_effects": {},
                 "enhancement_text": "",
                 "enhancement": {
@@ -18353,7 +18363,6 @@ var BDOdatabase = {
                 "dp": 5,
                 "ap": 0,
                 "rarity": "rare",
-                "gems": 0,
                 "item_effects": {
                     "hp": 20
                 },
@@ -18386,7 +18395,6 @@ var BDOdatabase = {
                 "dp": 0,
                 "ap": 5,
                 "rarity": "rare",
-                "gems": 0,
                 "item_effects": {},
                 "enhancement_text": "",
                 "enhancement": {
@@ -18412,7 +18420,6 @@ var BDOdatabase = {
                 "dp": 0,
                 "ap": 4,
                 "rarity": "rare",
-                "gems": 0,
                 "item_effects": {
                     "acc": 6
                 },
@@ -18445,7 +18452,6 @@ var BDOdatabase = {
                 "dp": 4,
                 "ap": 0,
                 "rarity": "rare",
-                "gems": 0,
                 "item_effects": {
                     "acc": 6
                 },
@@ -18478,7 +18484,6 @@ var BDOdatabase = {
                 "dp": 0,
                 "ap": 3,
                 "rarity": "uncommon",
-                "gems": 0,
                 "item_effects": {},
                 "enhancement_text": "",
                 "enhancement": {},
@@ -18488,7 +18493,6 @@ var BDOdatabase = {
                 "dp": 0,
                 "ap": 4,
                 "rarity": "uncommon",
-                "gems": 0,
                 "item_effects": {},
                 "enhancement_text": "",
                 "enhancement": {},
@@ -18498,7 +18502,6 @@ var BDOdatabase = {
                 "dp": 0,
                 "ap": 5,
                 "rarity": "rare",
-                "gems": 0,
                 "item_effects": {},
                 "enhancement_text": "",
                 "enhancement": {
@@ -18529,7 +18532,6 @@ var BDOdatabase = {
                 "dp": 0,
                 "ap": 5,
                 "rarity": "rare",
-                "gems": 0,
                 "item_effects": {
                     "hp": 100
                 },
@@ -18557,7 +18559,6 @@ var BDOdatabase = {
                 "dp": 0,
                 "ap": 4,
                 "rarity": "rare",
-                "gems": 0,
                 "item_effects": {
                     "mpwpsp": 25
                 },
@@ -18585,7 +18586,6 @@ var BDOdatabase = {
                 "dp": 0,
                 "ap": 2,
                 "rarity": "rare",
-                "gems": 0,
                 "item_effects": {
                     "acc": 14,
                     "stam": 50
@@ -18624,7 +18624,6 @@ var BDOdatabase = {
                 "dp": 0,
                 "ap": 5,
                 "rarity": "rare",
-                "gems": 0,
                 "item_effects": {
                     "stam": 50,
                     "mpwpsp": 50
@@ -18658,7 +18657,6 @@ var BDOdatabase = {
                 "dp": 0,
                 "ap": 7,
                 "rarity": "epic",
-                "gems": 0,
                 "item_effects": {
                     "bsr": 10
                 },
@@ -18687,7 +18685,6 @@ var BDOdatabase = {
                 "dp": 0,
                 "ap": 4,
                 "rarity": "rare",
-                "gems": 0,
                 "item_effects": {},
                 "enhancement_text": "",
                 "enhancement": {},
@@ -18697,7 +18694,6 @@ var BDOdatabase = {
                 "dp": 3,
                 "ap": 0,
                 "rarity": "uncommon",
-                "gems": 0,
                 "item_effects": {
                     "hp": 30
                 },
@@ -18709,7 +18705,6 @@ var BDOdatabase = {
                 "dp": 4,
                 "ap": 0,
                 "rarity": "rare",
-                "gems": 0,
                 "item_effects": {
                     "hp": 40
                 },
@@ -18721,7 +18716,6 @@ var BDOdatabase = {
                 "dp": 5,
                 "ap": 0,
                 "rarity": "epic",
-                "gems": 0,
                 "item_effects": {
                     "hp": 50
                 },
@@ -18733,7 +18727,6 @@ var BDOdatabase = {
                 "dp": 3,
                 "ap": 0,
                 "rarity": "uncommon",
-                "gems": 0,
                 "item_effects": {
                     "mpwpsp": 30
                 },
@@ -18745,7 +18738,6 @@ var BDOdatabase = {
                 "dp": 4,
                 "ap": 0,
                 "rarity": "rare",
-                "gems": 0,
                 "item_effects": {
                     "mpwpsp": 40
                 },
@@ -18757,7 +18749,6 @@ var BDOdatabase = {
                 "dp": 5,
                 "ap": 0,
                 "rarity": "epic",
-                "gems": 0,
                 "item_effects": {
                     "mpwpsp": 50
                 },
@@ -18769,7 +18760,6 @@ var BDOdatabase = {
                 "dp": 3,
                 "ap": 0,
                 "rarity": "uncommon",
-                "gems": 0,
                 "item_effects": {
                     "stam": 60
                 },
@@ -18781,7 +18771,6 @@ var BDOdatabase = {
                 "dp": 4,
                 "ap": 0,
                 "rarity": "rare",
-                "gems": 0,
                 "item_effects": {
                     "stam": 80
                 },
@@ -18793,7 +18782,6 @@ var BDOdatabase = {
                 "dp": 5,
                 "ap": 0,
                 "rarity": "epic",
-                "gems": 0,
                 "item_effects": {
                     "stam": 100
                 },
@@ -18805,7 +18793,6 @@ var BDOdatabase = {
                 "dp": 3,
                 "ap": 0,
                 "rarity": "uncommon",
-                "gems": 0,
                 "item_effects": {
                     "hprc": 3,
                     "mprc": 3,
@@ -18820,7 +18807,6 @@ var BDOdatabase = {
                 "dp": 4,
                 "ap": 0,
                 "rarity": "rare",
-                "gems": 0,
                 "item_effects": {
                     "hprc": 4,
                     "mprc": 4,
@@ -18835,7 +18821,6 @@ var BDOdatabase = {
                 "dp": 5,
                 "ap": 0,
                 "rarity": "epic",
-                "gems": 0,
                 "item_effects": {
                     "hprc": 5,
                     "mprc": 5,
@@ -18850,7 +18835,6 @@ var BDOdatabase = {
                 "dp": 6,
                 "ap": 0,
                 "rarity": "epic",
-                "gems": 0,
                 "item_effects": {
                     "hp": 50
                 },
@@ -18878,7 +18862,6 @@ var BDOdatabase = {
                 "dp": 6,
                 "ap": 0,
                 "rarity": "epic",
-                "gems": 0,
                 "item_effects": {
                     "mpwpsp": 100
                 },
@@ -18906,7 +18889,6 @@ var BDOdatabase = {
                 "dp": 6,
                 "ap": 0,
                 "rarity": "epic",
-                "gems": 0,
                 "item_effects": {
                     "stam": 100
                 },
@@ -18936,7 +18918,6 @@ var BDOdatabase = {
                 "dp": 0,
                 "ap": 0,
                 "rarity": "uncommon",
-                "gems": 0,
                 "item_effects": {
                     "dmgth": 2
                 },
@@ -18964,7 +18945,6 @@ var BDOdatabase = {
                 "dp": 0,
                 "ap": 2,
                 "rarity": "uncommon",
-                "gems": 0,
                 "item_effects": {},
                 "enhancement_text": "",
                 "enhancement": {
@@ -18990,7 +18970,6 @@ var BDOdatabase = {
                 "dp": 1,
                 "ap": 0,
                 "rarity": "uncommon",
-                "gems": 0,
                 "item_effects": {},
                 "enhancement_text": "",
                 "enhancement": {
@@ -19016,7 +18995,6 @@ var BDOdatabase = {
                 "dp": 0,
                 "ap": 0,
                 "rarity": "uncommon",
-                "gems": 0,
                 "item_effects": {
                     "hp": 15
                 },
@@ -19044,7 +19022,6 @@ var BDOdatabase = {
                 "dp": 0,
                 "ap": 0,
                 "rarity": "uncommon",
-                "gems": 0,
                 "item_effects": {
                     "acc": 8
                 },
@@ -19072,7 +19049,6 @@ var BDOdatabase = {
                 "dp": 2,
                 "ap": 0,
                 "rarity": "uncommon",
-                "gems": 0,
                 "item_effects": {},
                 "enhancement_text": "",
                 "enhancement": {
@@ -19098,7 +19074,6 @@ var BDOdatabase = {
                 "dp": 0,
                 "ap": 5,
                 "rarity": "rare",
-                "gems": 0,
                 "item_effects": {},
                 "enhancement_text": "",
                 "enhancement": {
@@ -19124,7 +19099,6 @@ var BDOdatabase = {
                 "dp": 5,
                 "ap": 0,
                 "rarity": "rare",
-                "gems": 0,
                 "item_effects": {
                     "hp": 20
                 },
@@ -19157,7 +19131,6 @@ var BDOdatabase = {
                 "dp": 0,
                 "ap": 2,
                 "rarity": "uncommon",
-                "gems": 0,
                 "item_effects": {
                     "acc": 6
                 },
@@ -19190,7 +19163,6 @@ var BDOdatabase = {
                 "dp": 0,
                 "ap": 0,
                 "rarity": "rare",
-                "gems": 0,
                 "item_effects": {
                     "acc": 6,
                     "hp": 25
@@ -19224,7 +19196,6 @@ var BDOdatabase = {
                 "dp": 4,
                 "ap": 3,
                 "rarity": "rare",
-                "gems": 0,
                 "item_effects": {
                     "stam": 50
                 },
@@ -19257,7 +19228,6 @@ var BDOdatabase = {
                 "dp": 0,
                 "ap": 3,
                 "rarity": "uncommon",
-                "gems": 0,
                 "item_effects": {},
                 "enhancement_text": "",
                 "enhancement": {},
@@ -19267,7 +19237,6 @@ var BDOdatabase = {
                 "dp": 0,
                 "ap": 4,
                 "rarity": "uncommon",
-                "gems": 0,
                 "item_effects": {},
                 "enhancement_text": "",
                 "enhancement": {},
@@ -19277,7 +19246,6 @@ var BDOdatabase = {
                 "dp": 0,
                 "ap": 5,
                 "rarity": "rare",
-                "gems": 0,
                 "item_effects": {},
                 "enhancement_text": "",
                 "enhancement": {
@@ -19308,7 +19276,6 @@ var BDOdatabase = {
                 "dp": 0,
                 "ap": 5,
                 "rarity": "rare",
-                "gems": 0,
                 "item_effects": {
                     "mpwpsp": 25
                 },
@@ -19341,7 +19308,6 @@ var BDOdatabase = {
                 "dp": 3,
                 "ap": 4,
                 "rarity": "rare",
-                "gems": 0,
                 "item_effects": {
                     "stam": 50
                 },
@@ -19374,7 +19340,6 @@ var BDOdatabase = {
                 "dp": 0,
                 "ap": 7,
                 "rarity": "rare",
-                "gems": 0,
                 "item_effects": {
                     "hp": 25
                 },
@@ -19386,7 +19351,6 @@ var BDOdatabase = {
                 "dp": 0,
                 "ap": 7,
                 "rarity": "rare",
-                "gems": 0,
                 "item_effects": {
                     "mpwpsp": 25
                 },
@@ -19398,7 +19362,6 @@ var BDOdatabase = {
                 "dp": 7,
                 "ap": 0,
                 "rarity": "rare",
-                "gems": 0,
                 "item_effects": {
                     "hp": 50
                 },
@@ -19410,7 +19373,6 @@ var BDOdatabase = {
                 "dp": 7,
                 "ap": 0,
                 "rarity": "rare",
-                "gems": 0,
                 "item_effects": {
                     "mpwpsp": 50
                 },
@@ -19422,7 +19384,6 @@ var BDOdatabase = {
                 "dp": 0,
                 "ap": 5,
                 "rarity": "epic",
-                "gems": 0,
                 "item_effects": {},
                 "enhancement_text": "",
                 "enhancement": {
@@ -19448,7 +19409,6 @@ var BDOdatabase = {
                 "dp": 5,
                 "ap": 0,
                 "rarity": "epic",
-                "gems": 0,
                 "item_effects": {
                     "hp": 25,
                     "mpwpsp": 25
@@ -19483,7 +19443,6 @@ var BDOdatabase = {
                 "dp": 0,
                 "ap": 4,
                 "rarity": "rare",
-                "gems": 0,
                 "item_effects": {},
                 "enhancement_text": "",
                 "enhancement": {},
@@ -19493,7 +19452,6 @@ var BDOdatabase = {
                 "dp": 0,
                 "ap": 0,
                 "rarity": "uncommon",
-                "gems": 0,
                 "item_effects": {
                     "dmgth": 3,
                     "hp": 30
@@ -19506,7 +19464,6 @@ var BDOdatabase = {
                 "dp": 0,
                 "ap": 0,
                 "rarity": "rare",
-                "gems": 0,
                 "item_effects": {
                     "dmgth": 4,
                     "hp": 40
@@ -19519,7 +19476,6 @@ var BDOdatabase = {
                 "dp": 0,
                 "ap": 0,
                 "rarity": "epic",
-                "gems": 0,
                 "item_effects": {
                     "dmgth": 5,
                     "hp": 50
@@ -19532,7 +19488,6 @@ var BDOdatabase = {
                 "dp": 0,
                 "ap": 0,
                 "rarity": "uncommon",
-                "gems": 0,
                 "item_effects": {
                     "dmgtdh": 3,
                     "hp": 30
@@ -19545,7 +19500,6 @@ var BDOdatabase = {
                 "dp": 0,
                 "ap": 0,
                 "rarity": "rare",
-                "gems": 0,
                 "item_effects": {
                     "dmgtdh": 4,
                     "hp": 40
@@ -19558,7 +19512,6 @@ var BDOdatabase = {
                 "dp": 0,
                 "ap": 0,
                 "rarity": "epic",
-                "gems": 0,
                 "item_effects": {
                     "dmgtdh": 5,
                     "hp": 50
@@ -19571,7 +19524,6 @@ var BDOdatabase = {
                 "dp": 0,
                 "ap": 0,
                 "rarity": "uncommon",
-                "gems": 0,
                 "item_effects": {
                     "dmgaes": 20,
                     "hp": 30
@@ -19584,7 +19536,6 @@ var BDOdatabase = {
                 "dp": 0,
                 "ap": 0,
                 "rarity": "rare",
-                "gems": 0,
                 "item_effects": {
                     "dmgth": 4,
                     "hp": 40
@@ -19597,7 +19548,6 @@ var BDOdatabase = {
                 "dp": 0,
                 "ap": 0,
                 "rarity": "epic",
-                "gems": 0,
                 "item_effects": {
                     "dmgaes": 5,
                     "hp": 50
@@ -19610,7 +19560,6 @@ var BDOdatabase = {
                 "dp": 0,
                 "ap": 0,
                 "rarity": "uncommon",
-                "gems": 0,
                 "item_effects": {
                     "acc": 3,
                     "hp": 30
@@ -19623,7 +19572,6 @@ var BDOdatabase = {
                 "dp": 0,
                 "ap": 0,
                 "rarity": "rare",
-                "gems": 0,
                 "item_effects": {
                     "acc": 4,
                     "hp": 40
@@ -19636,7 +19584,6 @@ var BDOdatabase = {
                 "dp": 0,
                 "ap": 0,
                 "rarity": "epic",
-                "gems": 0,
                 "item_effects": {
                     "acc": 5,
                     "hp": 50
@@ -19649,7 +19596,6 @@ var BDOdatabase = {
                 "dp": 0,
                 "ap": 0,
                 "rarity": "epic",
-                "gems": 0,
                 "item_effects": {
                     "dmgth": 6,
                     "hp": 50
@@ -19678,7 +19624,6 @@ var BDOdatabase = {
                 "dp": 0,
                 "ap": 0,
                 "rarity": "epic",
-                "gems": 0,
                 "item_effects": {
                     "dmgaes": 6,
                     "hp": 50
@@ -19709,7 +19654,6 @@ var BDOdatabase = {
                 "dp": 0,
                 "ap": 0,
                 "rarity": "uncommon",
-                "gems": 0,
                 "item_effects": {
                     "dmgth": 4
                 },
@@ -19737,7 +19681,6 @@ var BDOdatabase = {
                 "dp": 0,
                 "ap": 4,
                 "rarity": "uncommon",
-                "gems": 0,
                 "item_effects": {},
                 "enhancement_text": "",
                 "enhancement": {
@@ -19763,7 +19706,6 @@ var BDOdatabase = {
                 "dp": 2,
                 "ap": 0,
                 "rarity": "uncommon",
-                "gems": 0,
                 "item_effects": {},
                 "enhancement_text": "",
                 "enhancement": {
@@ -19789,7 +19731,6 @@ var BDOdatabase = {
                 "dp": 0,
                 "ap": 0,
                 "rarity": "uncommon",
-                "gems": 0,
                 "item_effects": {
                     "hprc": 2,
                     "mprc": 2
@@ -19823,7 +19764,6 @@ var BDOdatabase = {
                 "dp": 0,
                 "ap": 0,
                 "rarity": "uncommon",
-                "gems": 0,
                 "item_effects": {
                     "acc": 16
                 },
@@ -19851,7 +19791,6 @@ var BDOdatabase = {
                 "dp": 4,
                 "ap": 0,
                 "rarity": "uncommon",
-                "gems": 0,
                 "item_effects": {},
                 "enhancement_text": "",
                 "enhancement": {
@@ -19877,7 +19816,6 @@ var BDOdatabase = {
                 "dp": 0,
                 "ap": 10,
                 "rarity": "epic",
-                "gems": 0,
                 "item_effects": {},
                 "enhancement_text": "",
                 "enhancement": {
@@ -19903,7 +19841,6 @@ var BDOdatabase = {
                 "dp": 0,
                 "ap": 6,
                 "rarity": "rare",
-                "gems": 0,
                 "item_effects": {
                     "acc": 16
                 },
@@ -19936,7 +19873,6 @@ var BDOdatabase = {
                 "dp": 5,
                 "ap": 5,
                 "rarity": "rare",
-                "gems": 0,
                 "item_effects": {},
                 "enhancement_text": "",
                 "enhancement": {
@@ -19967,7 +19903,6 @@ var BDOdatabase = {
                 "dp": 10,
                 "ap": 0,
                 "rarity": "rare",
-                "gems": 0,
                 "item_effects": {},
                 "enhancement_text": "",
                 "enhancement": {
@@ -19994,7 +19929,6 @@ var BDOdatabase = {
                 "dp": 3,
                 "ap": 6,
                 "rarity": "rare",
-                "gems": 0,
                 "item_effects": {},
                 "enhancement_text": "Set effect enabled when equipped with “Ancient Weapon Core”",
                 "enhancement": {
@@ -20025,7 +19959,6 @@ var BDOdatabase = {
                 "dp": 0,
                 "ap": 3,
                 "rarity": "uncommon",
-                "gems": 0,
                 "item_effects": {},
                 "enhancement_text": "",
                 "enhancement": {},
@@ -20035,7 +19968,6 @@ var BDOdatabase = {
                 "dp": 0,
                 "ap": 4,
                 "rarity": "uncommon",
-                "gems": 0,
                 "item_effects": {},
                 "enhancement_text": "",
                 "enhancement": {},
@@ -20045,24 +19977,28 @@ var BDOdatabase = {
                 "dp": 0,
                 "ap": 5,
                 "rarity": "rare",
-                "gems": 0,
                 "item_effects": {},
                 "enhancement_text": "",
                 "enhancement": {
                     "1": {
-                        "ap": 6
+                        "ap": 6,
+                        "dp": 1
                     },
                     "2": {
-                        "ap": 7
+                        "ap": 7,
+                        "dp": 2
                     },
                     "3": {
-                        "ap": 8
+                        "ap": 8,
+                        "dp": 3
                     },
                     "4": {
-                        "ap": 9
+                        "ap": 9,
+                        "dp": 4
                     },
                     "5": {
-                        "ap": 10
+                        "ap": 10,
+                        "dp": 5
                     }
                 },
                 "name": "Necklace of Sealed Magical Power"
@@ -20071,7 +20007,6 @@ var BDOdatabase = {
                 "dp": 3,
                 "ap": 7,
                 "rarity": "epic",
-                "gems": 0,
                 "item_effects": {},
                 "enhancement_text": "",
                 "enhancement": {
@@ -20103,7 +20038,6 @@ var BDOdatabase = {
                 "dp": 0,
                 "ap": 7,
                 "rarity": "rare",
-                "gems": 0,
                 "item_effects": {},
                 "enhancement_text": "",
                 "enhancement": {},
@@ -20113,7 +20047,6 @@ var BDOdatabase = {
                 "dp": 0,
                 "ap": 8,
                 "rarity": "epic",
-                "gems": 0,
                 "item_effects": {
                     "hp": 50
                 },
@@ -20141,7 +20074,6 @@ var BDOdatabase = {
                 "dp": 0,
                 "ap": 10,
                 "rarity": "epic",
-                "gems": 0,
                 "item_effects": {
                     "bsr": 20
                 },
@@ -20169,7 +20101,6 @@ var BDOdatabase = {
                 "dp": 0,
                 "ap": 10,
                 "rarity": "epic",
-                "gems": 0,
                 "item_effects": {},
                 "enhancement_text": "",
                 "enhancement": {
@@ -20195,7 +20126,6 @@ var BDOdatabase = {
                 "dp": 0,
                 "ap": 7,
                 "rarity": "rare",
-                "gems": 0,
                 "item_effects": {},
                 "enhancement_text": "",
                 "enhancement": {
@@ -20221,7 +20151,6 @@ var BDOdatabase = {
                 "dp": 0,
                 "ap": 4,
                 "rarity": "rare",
-                "gems": 0,
                 "item_effects": {
                     "gr": 25
                 },
@@ -20233,7 +20162,6 @@ var BDOdatabase = {
                 "dp": 0,
                 "ap": 5,
                 "rarity": "epic",
-                "gems": 0,
                 "item_effects": {
                     "gr": 30
                 },
@@ -20245,7 +20173,6 @@ var BDOdatabase = {
                 "dp": 0,
                 "ap": 4,
                 "rarity": "rare",
-                "gems": 0,
                 "item_effects": {
                     "kb": 25
                 },
@@ -20257,7 +20184,6 @@ var BDOdatabase = {
                 "dp": 0,
                 "ap": 5,
                 "rarity": "epic",
-                "gems": 0,
                 "item_effects": {
                     "kb": 30
                 },
@@ -20269,7 +20195,6 @@ var BDOdatabase = {
                 "dp": 0,
                 "ap": 4,
                 "rarity": "rare",
-                "gems": 0,
                 "item_effects": {
                     "kb": 25
                 },
@@ -20281,7 +20206,6 @@ var BDOdatabase = {
                 "dp": 0,
                 "ap": 5,
                 "rarity": "epic",
-                "gems": 0,
                 "item_effects": {
                     "kd": 30
                 },
@@ -20293,7 +20217,6 @@ var BDOdatabase = {
                 "dp": 0,
                 "ap": 4,
                 "rarity": "rare",
-                "gems": 0,
                 "item_effects": {
                     "sr": 25
                 },
@@ -20305,7 +20228,6 @@ var BDOdatabase = {
                 "dp": 0,
                 "ap": 5,
                 "rarity": "epic",
-                "gems": 0,
                 "item_effects": {
                     "sr": 30
                 },
@@ -20317,7 +20239,6 @@ var BDOdatabase = {
                 "dp": 0,
                 "ap": 6,
                 "rarity": "epic",
-                "gems": 0,
                 "item_effects": {
                     "gr": 30
                 },
@@ -20350,7 +20271,6 @@ var BDOdatabase = {
                 "dp": 0,
                 "ap": 6,
                 "rarity": "epic",
-                "gems": 0,
                 "item_effects": {
                     "kb": 30
                 },
@@ -20383,7 +20303,6 @@ var BDOdatabase = {
                 "dp": 0,
                 "ap": 6,
                 "rarity": "epic",
-                "gems": 0,
                 "item_effects": {
                     "kd": 30
                 },
@@ -20416,7 +20335,6 @@ var BDOdatabase = {
                 "dp": 0,
                 "ap": 6,
                 "rarity": "epic",
-                "gems": 0,
                 "item_effects": {
                     "ssfr": 30
                 },
@@ -20449,7 +20367,6 @@ var BDOdatabase = {
                 "dp": 0,
                 "ap": 6,
                 "rarity": "epic",
-                "gems": 0,
                 "item_effects": {
                     "kb": 10,
                     "kd": 10,
@@ -20500,17 +20417,15 @@ var BDOdatabase = {
                 "dp": 0,
                 "ap": 5,
                 "rarity": "uncommon",
-                "gems": 0,
                 "item_effects": {},
                 "enhancement_text": "",
                 "enhancement": {},
-                "name": "NNecklace of Dim Spell"
+                "name": "Necklace of Dim Spell"
             },
             "11637": {
                 "dp": 0,
                 "ap": 6,
                 "rarity": "uncommon",
-                "gems": 0,
                 "item_effects": {},
                 "enhancement_text": "",
                 "enhancement": {},
@@ -20521,7 +20436,6 @@ var BDOdatabase = {
                 "dp": 0,
                 "ap": 7,
                 "rarity": "rare",
-                "gems": 0,
                 "item_effects": {},
                 "enhancement_text": "",
                 "enhancement": {
@@ -20554,7 +20468,6 @@ var BDOdatabase = {
                 "dp": 0,
                 "ap": 0,
                 "rarity": "uncommon",
-                "gems": 0,
                 "item_effects": {
                     "dmgth": 2,
                     "wgt": 40
@@ -20583,7 +20496,6 @@ var BDOdatabase = {
                 "dp": 0,
                 "ap": 2,
                 "rarity": "uncommon",
-                "gems": 0,
                 "item_effects": {
                     "wgt": 40
                 },
@@ -20611,7 +20523,6 @@ var BDOdatabase = {
                 "dp": 2,
                 "ap": 0,
                 "rarity": "uncommon",
-                "gems": 0,
                 "item_effects": {
                     "wgt": 30
                 },
@@ -20639,7 +20550,6 @@ var BDOdatabase = {
                 "dp": 0,
                 "ap": 0,
                 "rarity": "uncommon",
-                "gems": 0,
                 "item_effects": {
                     "wgt": 20,
                     "hp": 20
@@ -20668,7 +20578,6 @@ var BDOdatabase = {
                 "dp": 0,
                 "ap": 0,
                 "rarity": "uncommon",
-                "gems": 0,
                 "item_effects": {
                     "wgt": 40,
                     "acc": 8
@@ -20697,7 +20606,6 @@ var BDOdatabase = {
                 "dp": 2,
                 "ap": 0,
                 "rarity": "uncommon",
-                "gems": 0,
                 "item_effects": {
                     "wgt": 40
                 },
@@ -20725,7 +20633,6 @@ var BDOdatabase = {
                 "dp": 4,
                 "ap": 0,
                 "rarity": "rare",
-                "gems": 0,
                 "item_effects": {
                     "wgt": 60
                 },
@@ -20758,7 +20665,6 @@ var BDOdatabase = {
                 "dp": 0,
                 "ap": 5,
                 "rarity": "rare",
-                "gems": 0,
                 "item_effects": {
                     "wgt": 80,
                     "acc": 6
@@ -20792,7 +20698,6 @@ var BDOdatabase = {
                 "dp": 0,
                 "ap": 3,
                 "rarity": "rare",
-                "gems": 0,
                 "item_effects": {
                     "wgt": 60,
                     "stam": 50
@@ -20826,7 +20731,6 @@ var BDOdatabase = {
                 "dp": 3,
                 "ap": 0,
                 "rarity": "rare",
-                "gems": 0,
                 "item_effects": {
                     "wgt": 50
                 },
@@ -20839,11 +20743,10 @@ var BDOdatabase = {
                 "dp": 4,
                 "ap": 4,
                 "rarity": "rare",
-                "gems": 0,
                 "item_effects": {
                     "wgt": 60
                 },
-                "enhancement_text": "Set effect enabled when equipped with “Ancient Guardian's  Seal”",
+                "enhancement_text": "Set effect enabled when equipped with “Ancient Guardian's Seal”",
                 "enhancement": {
                     "1": {
                         "ap": 5,
@@ -20877,7 +20780,6 @@ var BDOdatabase = {
                 "dp": 5,
                 "ap": 0,
                 "rarity": "epic",
-                "gems": 0,
                 "item_effects": {
                     "hp": 25,
                     "wgt": 80
@@ -20911,7 +20813,6 @@ var BDOdatabase = {
                 "dp": 0,
                 "ap": 5,
                 "rarity": "epic",
-                "gems": 0,
                 "item_effects": {
                     "wgt": 80
                 },
@@ -20940,7 +20841,6 @@ var BDOdatabase = {
                 "dp": 0,
                 "ap": 4,
                 "rarity": "rare",
-                "gems": 0,
                 "item_effects": {},
                 "enhancement_text": "",
                 "enhancement": {},
@@ -20950,7 +20850,6 @@ var BDOdatabase = {
                 "dp": 1,
                 "ap": 0,
                 "rarity": "uncommon",
-                "gems": 0,
                 "item_effects": {
                     "wgt": 50,
                     "mpwpsp": 30
@@ -20963,7 +20862,6 @@ var BDOdatabase = {
                 "dp": 0,
                 "ap": 0,
                 "rarity": "uncommon",
-                "gems": 0,
                 "item_effects": {
                     "wgt": 50,
                     "hprc": 3,
@@ -20979,7 +20877,6 @@ var BDOdatabase = {
                 "dp": 0,
                 "ap": 1,
                 "rarity": "uncommon",
-                "gems": 0,
                 "item_effects": {
                     "wgt": 50,
                     "stam": 60
@@ -20992,7 +20889,6 @@ var BDOdatabase = {
                 "dp": 0,
                 "ap": 1,
                 "rarity": "uncommon",
-                "gems": 0,
                 "item_effects": {
                     "wgt": 50,
                     "hp": 30
@@ -21005,7 +20901,6 @@ var BDOdatabase = {
                 "dp": 0,
                 "ap": 0,
                 "rarity": "uncommon",
-                "gems": 0,
                 "item_effects": {
                     "wgt": 50,
                     "dmgaes": 3
@@ -21018,7 +20913,6 @@ var BDOdatabase = {
                 "dp": 2,
                 "ap": 0,
                 "rarity": "rare",
-                "gems": 0,
                 "item_effects": {
                     "wgt": 60,
                     "mpwpsp": 40
@@ -21031,7 +20925,6 @@ var BDOdatabase = {
                 "dp": 0,
                 "ap": 0,
                 "rarity": "rare",
-                "gems": 0,
                 "item_effects": {
                     "wgt": 60,
                     "hprc": 4,
@@ -21047,7 +20940,6 @@ var BDOdatabase = {
                 "dp": 0,
                 "ap": 2,
                 "rarity": "rare",
-                "gems": 0,
                 "item_effects": {
                     "wgt": 60,
                     "stam": 80
@@ -21060,7 +20952,6 @@ var BDOdatabase = {
                 "dp": 0,
                 "ap": 2,
                 "rarity": "rare",
-                "gems": 0,
                 "item_effects": {
                     "wgt": 60,
                     "hp": 40
@@ -21073,7 +20964,6 @@ var BDOdatabase = {
                 "dp": 0,
                 "ap": 1,
                 "rarity": "rare",
-                "gems": 0,
                 "item_effects": {
                     "wgt": 60,
                     "dmgaes": 4
@@ -21086,7 +20976,6 @@ var BDOdatabase = {
                 "dp": 3,
                 "ap": 0,
                 "rarity": "epic",
-                "gems": 0,
                 "item_effects": {
                     "wgt": 70,
                     "mpwpsp": 70
@@ -21099,7 +20988,6 @@ var BDOdatabase = {
                 "dp": 0,
                 "ap": 0,
                 "rarity": "epic",
-                "gems": 0,
                 "item_effects": {
                     "wgt": 70,
                     "hprc": 5,
@@ -21115,7 +21003,6 @@ var BDOdatabase = {
                 "dp": 0,
                 "ap": 3,
                 "rarity": "epic",
-                "gems": 0,
                 "item_effects": {
                     "wgt": 70,
                     "stam": 100
@@ -21128,7 +21015,6 @@ var BDOdatabase = {
                 "dp": 0,
                 "ap": 3,
                 "rarity": "epic",
-                "gems": 0,
                 "item_effects": {
                     "wgt": 70,
                     "hp": 70
@@ -21141,7 +21027,6 @@ var BDOdatabase = {
                 "dp": 0,
                 "ap": 2,
                 "rarity": "epic",
-                "gems": 0,
                 "item_effects": {
                     "wgt": 70,
                     "dmgaes": 5
@@ -21154,7 +21039,6 @@ var BDOdatabase = {
                 "dp": 3,
                 "ap": 0,
                 "rarity": "epic",
-                "gems": 0,
                 "item_effects": {
                     "wgt": 80,
                     "kb": 2,
@@ -21206,7 +21090,6 @@ var BDOdatabase = {
                 "dp": 0,
                 "ap": 0,
                 "rarity": "epic",
-                "gems": 0,
                 "item_effects": {
                     "wgt": 100,
                     "ms": 1
@@ -21240,7 +21123,6 @@ var BDOdatabase = {
                 "dp": 0,
                 "ap": 3,
                 "rarity": "epic",
-                "gems": 0,
                 "item_effects": {
                     "wgt": 70,
                     "ms": 2
@@ -21274,7 +21156,6 @@ var BDOdatabase = {
                 "dp": 0,
                 "ap": 3,
                 "rarity": "epic",
-                "gems": 0,
                 "item_effects": {
                     "wgt": 70,
                     "as": 1,
@@ -21309,7 +21190,6 @@ var BDOdatabase = {
                 "dp": 0,
                 "ap": 2,
                 "rarity": "epic",
-                "gems": 0,
                 "item_effects": {
                     "wgt": 70,
                     "iar": 2
@@ -21344,7 +21224,6 @@ var BDOdatabase = {
                 "dp": 0,
                 "ap": 3,
                 "rarity": "rare",
-                "gems": 0,
                 "item_effects": {
                     "wgt": 50
                 },
@@ -21377,7 +21256,7 @@ var BDOdatabase = {
                     }
                 },
                 "name": "Helm Destroyer's Belt"
-            },
+            }
         },
         "main-weapons": {
             "berserker": {
@@ -65769,7 +65648,6 @@ var BDOdatabase = {
                 "13009": {
                     "ap_min": 3,
                     "ap_max": 3,
-                    "dp": 0,
                     "rarity": "epic",
                     "gems": 1,
                     "item_effects": {
@@ -73631,6 +73509,7 @@ var BDOdatabase = {
                 "14606": {
                     "ap_min": 3,
                     "ap_max": 3,
+                    "dp": 0,
                     "rarity": "rare",
                     "gems": 1,
                     "item_effects": {
@@ -73709,6 +73588,7 @@ var BDOdatabase = {
                 "14607": {
                     "ap_min": 3,
                     "ap_max": 3,
+                    "dp": 0,
                     "rarity": "rare",
                     "gems": 1,
                     "item_effects": {
@@ -73787,6 +73667,7 @@ var BDOdatabase = {
                 "14608": {
                     "ap_min": 3,
                     "ap_max": 3,
+                    "dp": 0,
                     "rarity": "rare",
                     "gems": 1,
                     "item_effects": {
@@ -76327,6 +76208,7 @@ var BDOdatabase = {
                 "14506": {
                     "ap_min": 3,
                     "ap_max": 3,
+                    "dp": 0,
                     "rarity": "rare",
                     "gems": 1,
                     "item_effects": {
@@ -76405,6 +76287,7 @@ var BDOdatabase = {
                 "14507": {
                     "ap_min": 3,
                     "ap_max": 3,
+                    "dp": 0,
                     "rarity": "rare",
                     "gems": 1,
                     "item_effects": {
@@ -76483,6 +76366,7 @@ var BDOdatabase = {
                 "14508": {
                     "ap_min": 3,
                     "ap_max": 3,
+                    "dp": 0,
                     "rarity": "rare",
                     "gems": 1,
                     "item_effects": {
@@ -86717,7 +86601,6 @@ var BDOdatabase = {
         "alchemy-stones": {
             "45201": {
                 "rarity": "common",
-                "gems": 0,
                 "item_effects": {
                     "hap": 2
                 },
@@ -86727,7 +86610,6 @@ var BDOdatabase = {
             },
             "45202": {
                 "rarity": "uncommon",
-                "gems": 0,
                 "item_effects": {
                     "hap": 2,
                     "acc": 2
@@ -86738,7 +86620,6 @@ var BDOdatabase = {
             },
             "45203": {
                 "rarity": "rare",
-                "gems": 0,
                 "item_effects": {
                     "hap": 2,
                     "acc": 2,
@@ -86750,7 +86631,6 @@ var BDOdatabase = {
             },
             "45204": {
                 "rarity": "epic",
-                "gems": 0,
                 "item_effects": {
                     "hap": 2,
                     "acc": 2,
@@ -86764,7 +86644,6 @@ var BDOdatabase = {
             },
             "45205": {
                 "rarity": "common",
-                "gems": 0,
                 "item_effects": {
                     "hap": 3
                 },
@@ -86774,7 +86653,6 @@ var BDOdatabase = {
             },
             "45206": {
                 "rarity": "uncommon",
-                "gems": 0,
                 "item_effects": {
                     "hap": 3,
                     "acc": 4
@@ -86785,7 +86663,6 @@ var BDOdatabase = {
             },
             "45207": {
                 "rarity": "rare",
-                "gems": 0,
                 "item_effects": {
                     "hap": 3,
                     "acc": 4,
@@ -86797,7 +86674,6 @@ var BDOdatabase = {
             },
             "45208": {
                 "rarity": "epic",
-                "gems": 0,
                 "item_effects": {
                     "hap": 3,
                     "acc": 4,
@@ -86811,7 +86687,6 @@ var BDOdatabase = {
             },
             "45209": {
                 "rarity": "common",
-                "gems": 0,
                 "item_effects": {
                     "hap": 4
                 },
@@ -86821,7 +86696,6 @@ var BDOdatabase = {
             },
             "45210": {
                 "rarity": "uncommon",
-                "gems": 0,
                 "item_effects": {
                     "hap": 4,
                     "acc": 6
@@ -86832,7 +86706,6 @@ var BDOdatabase = {
             },
             "45211": {
                 "rarity": "rare",
-                "gems": 0,
                 "item_effects": {
                     "hap": 4,
                     "acc": 6,
@@ -86844,7 +86717,6 @@ var BDOdatabase = {
             },
             "45212": {
                 "rarity": "epic",
-                "gems": 0,
                 "item_effects": {
                     "hap": 4,
                     "acc": 6,
@@ -86858,7 +86730,6 @@ var BDOdatabase = {
             },
             "45213": {
                 "rarity": "common",
-                "gems": 0,
                 "item_effects": {
                     "hap": 6
                 },
@@ -86868,7 +86739,6 @@ var BDOdatabase = {
             },
             "45214": {
                 "rarity": "uncommon",
-                "gems": 0,
                 "item_effects": {
                     "hap": 6,
                     "acc": 8
@@ -86879,7 +86749,6 @@ var BDOdatabase = {
             },
             "45215": {
                 "rarity": "rare",
-                "gems": 0,
                 "item_effects": {
                     "hap": 6,
                     "acc": 8,
@@ -86891,7 +86760,6 @@ var BDOdatabase = {
             },
             "45216": {
                 "rarity": "epic",
-                "gems": 0,
                 "item_effects": {
                     "hap": 6,
                     "acc": 8,
@@ -86905,7 +86773,6 @@ var BDOdatabase = {
             },
             "45217": {
                 "rarity": "common",
-                "gems": 0,
                 "item_effects": {
                     "hap": 8
                 },
@@ -86915,7 +86782,6 @@ var BDOdatabase = {
             },
             "45218": {
                 "rarity": "uncommon",
-                "gems": 0,
                 "item_effects": {
                     "hap": 8,
                     "acc": 10
@@ -86926,7 +86792,6 @@ var BDOdatabase = {
             },
             "45219": {
                 "rarity": "rare",
-                "gems": 0,
                 "item_effects": {
                     "hap": 8,
                     "acc": 10,
@@ -86938,7 +86803,6 @@ var BDOdatabase = {
             },
             "45220": {
                 "rarity": "epic",
-                "gems": 0,
                 "item_effects": {
                     "hap": 8,
                     "acc": 10,
@@ -86952,7 +86816,6 @@ var BDOdatabase = {
             },
             "45221": {
                 "rarity": "common",
-                "gems": 0,
                 "item_effects": {
                     "hap": 10
                 },
@@ -86962,7 +86825,6 @@ var BDOdatabase = {
             },
             "45222": {
                 "rarity": "uncommon",
-                "gems": 0,
                 "item_effects": {
                     "hap": 10,
                     "acc": 12
@@ -86973,7 +86835,6 @@ var BDOdatabase = {
             },
             "45223": {
                 "rarity": "rare",
-                "gems": 0,
                 "item_effects": {
                     "hap": 10,
                     "acc": 12,
@@ -86985,7 +86846,6 @@ var BDOdatabase = {
             },
             "45224": {
                 "rarity": "epic",
-                "gems": 0,
                 "item_effects": {
                     "hap": 10,
                     "acc": 12,
@@ -86999,7 +86859,6 @@ var BDOdatabase = {
             },
             "45225": {
                 "rarity": "common",
-                "gems": 0,
                 "item_effects": {
                     "hap": 13
                 },
@@ -87009,7 +86868,6 @@ var BDOdatabase = {
             },
             "45226": {
                 "rarity": "uncommon",
-                "gems": 0,
                 "item_effects": {
                     "hap": 13,
                     "acc": 14
@@ -87020,7 +86878,6 @@ var BDOdatabase = {
             },
             "45227": {
                 "rarity": "rare",
-                "gems": 0,
                 "item_effects": {
                     "hap": 13,
                     "acc": 14,
@@ -87032,7 +86889,6 @@ var BDOdatabase = {
             },
             "45228": {
                 "rarity": "epic",
-                "gems": 0,
                 "item_effects": {
                     "hap": 13,
                     "acc": 14,
@@ -87046,7 +86902,6 @@ var BDOdatabase = {
             },
             "45229": {
                 "rarity": "common",
-                "gems": 0,
                 "item_effects": {
                     "hap": 16
                 },
@@ -87056,7 +86911,6 @@ var BDOdatabase = {
             },
             "45230": {
                 "rarity": "uncommon",
-                "gems": 0,
                 "item_effects": {
                     "hap": 16,
                     "acc": 16
@@ -87067,7 +86921,6 @@ var BDOdatabase = {
             },
             "45231": {
                 "rarity": "rare",
-                "gems": 0,
                 "item_effects": {
                     "hap": 16,
                     "acc": 16,
@@ -87079,7 +86932,6 @@ var BDOdatabase = {
             },
             "45232": {
                 "rarity": "epic",
-                "gems": 0,
                 "item_effects": {
                     "hap": 16,
                     "acc": 16,
@@ -87093,7 +86945,6 @@ var BDOdatabase = {
             },
             "45233": {
                 "rarity": "common",
-                "gems": 0,
                 "item_effects": {
                     "dr": 2
                 },
@@ -87103,7 +86954,6 @@ var BDOdatabase = {
             },
             "45234": {
                 "rarity": "uncommon",
-                "gems": 0,
                 "item_effects": {
                     "dr": 2,
                     "ev": 2
@@ -87114,7 +86964,6 @@ var BDOdatabase = {
             },
             "45235": {
                 "rarity": "rare",
-                "gems": 0,
                 "item_effects": {
                     "dr": 2,
                     "ev": 2,
@@ -87126,7 +86975,6 @@ var BDOdatabase = {
             },
             "45236": {
                 "rarity": "epic",
-                "gems": 0,
                 "item_effects": {
                     "dr": 2,
                     "ev": 2,
@@ -87142,7 +86990,6 @@ var BDOdatabase = {
             },
             "45237": {
                 "rarity": "common",
-                "gems": 0,
                 "item_effects": {
                     "dr": 3
                 },
@@ -87152,7 +86999,6 @@ var BDOdatabase = {
             },
             "45238": {
                 "rarity": "uncommon",
-                "gems": 0,
                 "item_effects": {
                     "dr": 3,
                     "ev": 4
@@ -87163,7 +87009,6 @@ var BDOdatabase = {
             },
             "45239": {
                 "rarity": "rare",
-                "gems": 0,
                 "item_effects": {
                     "dr": 3,
                     "ev": 4,
@@ -87175,7 +87020,6 @@ var BDOdatabase = {
             },
             "45240": {
                 "rarity": "epic",
-                "gems": 0,
                 "item_effects": {
                     "dr": 3,
                     "ev": 4,
@@ -87191,7 +87035,6 @@ var BDOdatabase = {
             },
             "45241": {
                 "rarity": "common",
-                "gems": 0,
                 "item_effects": {
                     "dr": 4
                 },
@@ -87201,7 +87044,6 @@ var BDOdatabase = {
             },
             "45242": {
                 "rarity": "uncommon",
-                "gems": 0,
                 "item_effects": {
                     "dr": 4,
                     "ev": 6
@@ -87212,7 +87054,6 @@ var BDOdatabase = {
             },
             "45243": {
                 "rarity": "rare",
-                "gems": 0,
                 "item_effects": {
                     "dr": 4,
                     "ev": 6,
@@ -87224,7 +87065,6 @@ var BDOdatabase = {
             },
             "45244": {
                 "rarity": "epic",
-                "gems": 0,
                 "item_effects": {
                     "dr": 4,
                     "ev": 6,
@@ -87240,7 +87080,6 @@ var BDOdatabase = {
             },
             "45245": {
                 "rarity": "common",
-                "gems": 0,
                 "item_effects": {
                     "dr": 6
                 },
@@ -87250,7 +87089,6 @@ var BDOdatabase = {
             },
             "45246": {
                 "rarity": "uncommon",
-                "gems": 0,
                 "item_effects": {
                     "dr": 6,
                     "ev": 8
@@ -87261,7 +87099,6 @@ var BDOdatabase = {
             },
             "45247": {
                 "rarity": "rare",
-                "gems": 0,
                 "item_effects": {
                     "dr": 6,
                     "ev": 8,
@@ -87273,7 +87110,6 @@ var BDOdatabase = {
             },
             "45248": {
                 "rarity": "epic",
-                "gems": 0,
                 "item_effects": {
                     "dr": 6,
                     "ev": 8,
@@ -87289,7 +87125,6 @@ var BDOdatabase = {
             },
             "45249": {
                 "rarity": "common",
-                "gems": 0,
                 "item_effects": {
                     "dr": 8
                 },
@@ -87299,7 +87134,6 @@ var BDOdatabase = {
             },
             "45250": {
                 "rarity": "uncommon",
-                "gems": 0,
                 "item_effects": {
                     "dr": 8,
                     "ev": 10
@@ -87310,7 +87144,6 @@ var BDOdatabase = {
             },
             "45251": {
                 "rarity": "rare",
-                "gems": 0,
                 "item_effects": {
                     "dr": 8,
                     "ev": 10,
@@ -87322,7 +87155,6 @@ var BDOdatabase = {
             },
             "45252": {
                 "rarity": "epic",
-                "gems": 0,
                 "item_effects": {
                     "dr": 8,
                     "ev": 10,
@@ -87338,7 +87170,6 @@ var BDOdatabase = {
             },
             "45253": {
                 "rarity": "common",
-                "gems": 0,
                 "item_effects": {
                     "dr": 10
                 },
@@ -87348,7 +87179,6 @@ var BDOdatabase = {
             },
             "45254": {
                 "rarity": "uncommon",
-                "gems": 0,
                 "item_effects": {
                     "dr": 10,
                     "ev": 12
@@ -87359,7 +87189,6 @@ var BDOdatabase = {
             },
             "45255": {
                 "rarity": "rare",
-                "gems": 0,
                 "item_effects": {
                     "dr": 10,
                     "ev": 12,
@@ -87371,7 +87200,6 @@ var BDOdatabase = {
             },
             "45256": {
                 "rarity": "epic",
-                "gems": 0,
                 "item_effects": {
                     "dr": 10,
                     "ev": 12,
@@ -87387,7 +87215,6 @@ var BDOdatabase = {
             },
             "45257": {
                 "rarity": "common",
-                "gems": 0,
                 "item_effects": {
                     "dr": 13
                 },
@@ -87397,7 +87224,6 @@ var BDOdatabase = {
             },
             "45258": {
                 "rarity": "uncommon",
-                "gems": 0,
                 "item_effects": {
                     "dr": 13,
                     "ev": 14
@@ -87408,7 +87234,6 @@ var BDOdatabase = {
             },
             "45259": {
                 "rarity": "rare",
-                "gems": 0,
                 "item_effects": {
                     "dr": 13,
                     "ev": 14,
@@ -87420,7 +87245,6 @@ var BDOdatabase = {
             },
             "45260": {
                 "rarity": "epic",
-                "gems": 0,
                 "item_effects": {
                     "dr": 13,
                     "ev": 14,
@@ -87436,7 +87260,6 @@ var BDOdatabase = {
             },
             "45261": {
                 "rarity": "common",
-                "gems": 0,
                 "item_effects": {
                     "dr": 16
                 },
@@ -87446,7 +87269,6 @@ var BDOdatabase = {
             },
             "45262": {
                 "rarity": "uncommon",
-                "gems": 0,
                 "item_effects": {
                     "dr": 16,
                     "ev": 16
@@ -87457,7 +87279,6 @@ var BDOdatabase = {
             },
             "45263": {
                 "rarity": "rare",
-                "gems": 0,
                 "item_effects": {
                     "dr": 16,
                     "ev": 16,
@@ -87469,7 +87290,6 @@ var BDOdatabase = {
             },
             "45264": {
                 "rarity": "epic",
-                "gems": 0,
                 "item_effects": {
                     "dr": 16,
                     "ev": 16,
@@ -87485,7 +87305,6 @@ var BDOdatabase = {
             },
             "45265": {
                 "rarity": "common",
-                "gems": 0,
                 "item_effects": {
                     "alccktime": -0.5,
                     "prsr": 5
@@ -87496,7 +87315,6 @@ var BDOdatabase = {
             },
             "45266": {
                 "rarity": "uncommon",
-                "gems": 0,
                 "item_effects": {
                     "alccktime": -0.5,
                     "prsr": 5,
@@ -87508,7 +87326,6 @@ var BDOdatabase = {
             },
             "45267": {
                 "rarity": "rare",
-                "gems": 0,
                 "item_effects": {
                     "alccktime": -0.5,
                     "prsr": 5,
@@ -87521,7 +87338,6 @@ var BDOdatabase = {
             },
             "45268": {
                 "rarity": "epic",
-                "gems": 0,
                 "item_effects": {
                     "alccktime": -0.5,
                     "prsr": 5,
@@ -87535,7 +87351,6 @@ var BDOdatabase = {
             },
             "45269": {
                 "rarity": "common",
-                "gems": 0,
                 "item_effects": {
                     "alccktime": -0.7,
                     "prsr": 7
@@ -87546,7 +87361,6 @@ var BDOdatabase = {
             },
             "45270": {
                 "rarity": "uncommon",
-                "gems": 0,
                 "item_effects": {
                     "alccktime": -0.7,
                     "prsr": 7,
@@ -87558,7 +87372,6 @@ var BDOdatabase = {
             },
             "45271": {
                 "rarity": "rare",
-                "gems": 0,
                 "item_effects": {
                     "alccktime": -0.7,
                     "prsr": 7,
@@ -87571,7 +87384,6 @@ var BDOdatabase = {
             },
             "45272": {
                 "rarity": "epic",
-                "gems": 0,
                 "item_effects": {
                     "alccktime": -0.7,
                     "prsr": 7,
@@ -87585,7 +87397,6 @@ var BDOdatabase = {
             },
             "45273": {
                 "rarity": "common",
-                "gems": 0,
                 "item_effects": {
                     "alccktime": -0.9
                 },
@@ -87595,7 +87406,6 @@ var BDOdatabase = {
             },
             "45274": {
                 "rarity": "uncommon",
-                "gems": 0,
                 "item_effects": {
                     "alccktime": -0.9,
                     "prsr": 9,
@@ -87607,7 +87417,6 @@ var BDOdatabase = {
             },
             "45275": {
                 "rarity": "rare",
-                "gems": 0,
                 "item_effects": {
                     "alccktime": -0.9,
                     "prsr": 9,
@@ -87620,7 +87429,6 @@ var BDOdatabase = {
             },
             "45276": {
                 "rarity": "epic",
-                "gems": 0,
                 "item_effects": {
                     "alccktime": -0.9,
                     "prsr": 9,
@@ -87634,7 +87442,6 @@ var BDOdatabase = {
             },
             "45277": {
                 "rarity": "common",
-                "gems": 0,
                 "item_effects": {
                     "alccktime": -1.1,
                     "prsr": 11
@@ -87645,7 +87452,6 @@ var BDOdatabase = {
             },
             "45278": {
                 "rarity": "uncommon",
-                "gems": 0,
                 "item_effects": {
                     "alccktime": -1.1,
                     "prsr": 11,
@@ -87657,7 +87463,6 @@ var BDOdatabase = {
             },
             "45279": {
                 "rarity": "rare",
-                "gems": 0,
                 "item_effects": {
                     "alccktime": -1.1,
                     "prsr": 11,
@@ -87670,7 +87475,6 @@ var BDOdatabase = {
             },
             "45280": {
                 "rarity": "epic",
-                "gems": 0,
                 "item_effects": {
                     "alccktime": -1.1,
                     "prsr": 11,
@@ -87684,7 +87488,6 @@ var BDOdatabase = {
             },
             "45281": {
                 "rarity": "common",
-                "gems": 0,
                 "item_effects": {
                     "alccktime": -1.4,
                     "prsr": 14
@@ -87695,7 +87498,6 @@ var BDOdatabase = {
             },
             "45282": {
                 "rarity": "uncommon",
-                "gems": 0,
                 "item_effects": {
                     "alccktime": -1.4,
                     "prsr": 14,
@@ -87707,7 +87509,6 @@ var BDOdatabase = {
             },
             "45283": {
                 "rarity": "rare",
-                "gems": 0,
                 "item_effects": {
                     "alccktime": -1.4,
                     "prsr": 14,
@@ -87720,7 +87521,6 @@ var BDOdatabase = {
             },
             "45284": {
                 "rarity": "epic",
-                "gems": 0,
                 "item_effects": {
                     "alccktime": -1.4,
                     "prsr": 14,
@@ -87734,7 +87534,6 @@ var BDOdatabase = {
             },
             "45285": {
                 "rarity": "common",
-                "gems": 0,
                 "item_effects": {
                     "alccktime": -1.7,
                     "prsr": 17
@@ -87745,7 +87544,6 @@ var BDOdatabase = {
             },
             "45286": {
                 "rarity": "uncommon",
-                "gems": 0,
                 "item_effects": {
                     "alccktime": -1.7,
                     "prsr": 17,
@@ -87757,7 +87555,6 @@ var BDOdatabase = {
             },
             "45287": {
                 "rarity": "rare",
-                "gems": 0,
                 "item_effects": {
                     "alccktime": -1.7,
                     "prsr": 17,
@@ -87770,7 +87567,6 @@ var BDOdatabase = {
             },
             "45288": {
                 "rarity": "epic",
-                "gems": 0,
                 "item_effects": {
                     "alccktime": -1.7,
                     "prsr": 17,
@@ -87784,7 +87580,6 @@ var BDOdatabase = {
             },
             "45289": {
                 "rarity": "common",
-                "gems": 0,
                 "item_effects": {
                     "alccktime": -2,
                     "prsr": 20
@@ -87795,7 +87590,6 @@ var BDOdatabase = {
             },
             "45290": {
                 "rarity": "uncommon",
-                "gems": 0,
                 "item_effects": {
                     "alccktime": -2,
                     "prsr": 20,
@@ -87807,7 +87601,6 @@ var BDOdatabase = {
             },
             "45291": {
                 "rarity": "rare",
-                "gems": 0,
                 "item_effects": {
                     "alccktime": -2,
                     "prsr": 20,
@@ -87820,7 +87613,6 @@ var BDOdatabase = {
             },
             "45292": {
                 "rarity": "epic",
-                "gems": 0,
                 "item_effects": {
                     "alccktime": -2,
                     "prsr": 20,
@@ -87834,7 +87626,6 @@ var BDOdatabase = {
             },
             "45293": {
                 "rarity": "common",
-                "gems": 0,
                 "item_effects": {
                     "alccktime": -2.5,
                     "prsr": 25
@@ -87845,7 +87636,6 @@ var BDOdatabase = {
             },
             "45294": {
                 "rarity": "uncommon",
-                "gems": 0,
                 "item_effects": {
                     "alccktime": -2.5,
                     "prsr": 25,
@@ -87857,7 +87647,6 @@ var BDOdatabase = {
             },
             "45295": {
                 "rarity": "rare",
-                "gems": 0,
                 "item_effects": {
                     "alccktime": -2.5,
                     "prsr": 25,
@@ -87870,7 +87659,6 @@ var BDOdatabase = {
             },
             "45296": {
                 "rarity": "epic",
-                "gems": 0,
                 "item_effects": {
                     "alccktime": -2.5,
                     "prsr": 25,
