@@ -254,7 +254,7 @@ var BDOcalculator = {
     },
 
     addStat: function (stat_key, value) {
-        if (stat_key in this.stats) {
+        if (typeof value !== "undefined" && stat_key in this.stats) {
             if (stat_key === "special") {
                 this.stats.special.specials.push(value);
                 return;
