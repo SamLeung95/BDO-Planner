@@ -425,11 +425,11 @@
                 .appendTo(item_element);
         }
 
-        // item effects
-        stat_element = $('<div class="item-effects"/>');
-        stat_element.append('<strong>Item Effects</strong>');
-
         if (Object.keys(item.item_effects).length > 0) {
+            // item effects
+            stat_element = $('<div class="item-effects"/>');
+            stat_element.append('<strong>Item Effects</strong>');
+            
             for (var stat_key in item.item_effects) {
                 if (!item.item_effects.hasOwnProperty(stat_key)) {
                     continue;
@@ -441,11 +441,11 @@
                     stat_element.append('<div>' + BDOdatabase.stats[stat_key].title + ' ' + item.item_effects[stat_key] + BDOdatabase.stats[stat_key].symbol + '</div>');
                 }
             }
-        } else {
+            
+            stat_element.appendTo(item_element);
+        }/* else {
             stat_element.append('<div>None.</div>');
-        }
-
-        stat_element.appendTo(item_element);
+        }*/
 
         // incompatible
         if (item.incompatible.length > 0) {
@@ -541,11 +541,11 @@
                 '</div>');
         }
 
-        // item effects
-        stat_element = $('<div class="item-effects"/>');
-        stat_element.append('<strong>Item Effects</strong>');
-
         if (Object.keys(item.item_effects).length > 0) {
+            // item effects
+            stat_element = $('<div class="item-effects"/>');
+            stat_element.append('<strong>Item Effects</strong>');
+            
             for (var stat_key in item.item_effects) {
                 if (!item.item_effects.hasOwnProperty(stat_key)) {
                     continue;
@@ -557,11 +557,11 @@
                     stat_element.append('<div>' + BDOdatabase.stats[stat_key].title + ' ' + BDOcalculator.getItemStat(item, stat_key, true, enhancement_level) + BDOdatabase.stats[stat_key].symbol + '</div>');
                 }
             }
-        } else {
+            
+            stat_element.appendTo(item_element);
+        }/* else {
             stat_element.append('<div>None.</div>');
-        }
-
-        stat_element.appendTo(item_element);
+        }*/
 
         if (typeof item.set !== "undefined" || item.set == "") {
             // item set effects
@@ -620,11 +620,13 @@
         if (!tooltip) {
             var enhance_max = getEnhancementMax(item);
             if (enhance_max > 0) {
+                if (!(typeof item.enhancement_text === 'undefined' || item.enhancement_text === "")) {                
                 // item enhancement effects
-                item_element.append('<div class="item-enhancement-effects">' +
-                    '<strong>Enhancement Effects:</strong>' +
-                    '<div>' + (typeof item.enhancement_text === 'undefined' || item.enhancement_text === "" ? 'Info Missing..' : item.enhancement_text) + '</div>' +
-                    '</div>');
+                    item_element.append('<div class="item-enhancement-effects">' +
+                        '<strong>Enhancement Effects:</strong>' +
+                        '<div>' + item.enhancement_text + '</div>' +
+                        '</div>');
+                }
 
                 var slider_steps = [];
                 for (var i = 0; i <= getEnhancementMax(item); i += 1) {
@@ -740,11 +742,11 @@
                     // set the enhancement value
                     button.attr('data-enh', e.value.newValue);
 
-                    // item effects
-                    var stat_element = $('<div class="item-effects"/>');
-                    stat_element.append('<strong>Item Effects</strong>');
-
                     if (Object.keys(item.item_effects).length > 0) {
+                        // item effects
+                        var stat_element = $('<div class="item-effects"/>');
+                        stat_element.append('<strong>Item Effects</strong>');
+
                         for (var stat_key in item.item_effects) {
                             if (!item.item_effects.hasOwnProperty(stat_key)) {
                                 continue;
@@ -760,11 +762,11 @@
                                 }
                             }
                         }
-                    } else {
+                        
+                        itemPlate.find('.item-effects').replaceWith(stat_element);
+                    }/* else {
                         stat_element.append('<div>None.</div>');
-                    }
-
-                    itemPlate.find('.item-effects').replaceWith(stat_element);
+                    }*/
 
                     // item stats
                     stat_element = $('<div class="item-stats"/>');
