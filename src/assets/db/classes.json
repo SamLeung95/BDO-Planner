@@ -1,0 +1,158 @@
+{
+    "0": {
+        "name": "berserker",
+        "display_name": "Berserker",
+        "resistances": {
+            "kb": 30,
+            "kd": 20,
+            "ssfr": 30,
+            "gr": 20
+        }
+    },
+    "1": {
+        "name": "ranger",
+        "display_name": "Ranger",
+        "resistances": {
+            "kb": 20,
+            "kd": 20,
+            "ssfr": 20,
+            "gr": 20
+        }
+
+    },
+    "2": {
+        "name": "sorceress",
+        "display_name": "Sorceress",
+        "resistances": {
+            "kb": 20,
+            "kd": 20,
+            "ssfr": 20,
+            "gr": 20
+        }
+
+    },
+    "3": {
+        "name": "tamer",
+        "display_name": "Tamer",
+        "resistances": {
+            "kb": 20,
+            "kd": 20,
+            "ssfr": 20,
+            "gr": 20
+        }
+
+    },
+    "4": {
+        "name": "valkyrie",
+        "display_name": "Valkyrie",
+        "resistances": {
+            "kb": 20,
+            "kd": 20,
+            "ssfr": 20,
+            "gr": 20
+        }
+
+    },
+    "5": {
+        "name": "warrior",
+        "display_name": "Warrior",
+        "resistances": {
+            "kb": 20,
+            "kd": 20,
+            "ssfr": 20,
+            "gr": 20
+        }
+
+    },
+    "6": {
+        "name": "witch",
+        "display_name": "Witch",
+        "resistances": {
+            "kb": 20,
+            "kd": 20,
+            "ssfr": 30,
+            "gr": 20
+        }
+
+    },
+    "7": {
+        "name": "wizard",
+        "display_name": "Wizard",
+        "resistances": {
+            "kb": 20,
+            "kd": 20,
+            "ssfr": 30,
+            "gr": 20
+        }
+    },
+    "8": {
+        "name": "musa",
+        "display_name": "Musa",
+        "resistances": {
+            "kb": 20,
+            "kd": 20,
+            "ssfr": 20,
+            "gr": 20
+        }
+    },
+    "9": {
+        "name": "maehwa",
+        "display_name": "Maehwa",
+        "resistances": {
+            "kb": 20,
+            "kd": 20,
+            "ssfr": 20,
+            "gr": 20
+        }
+    },
+    "10": {
+        "name": "ninja",
+        "display_name": "Ninja",
+        "resistances": {
+            "kb": 20,
+            "kd": 20,
+            "ssfr": 20,
+            "gr": 20
+        }
+    },
+    "11": {
+        "name": "kunoichi",
+        "display_name": "Kunoichi",
+        "resistances": {
+            "kb": 20,
+            "kd": 20,
+            "ssfr": 20,
+            "gr": 20
+        }
+    },
+    "12": {
+        "name": "darkknight",
+        "display_name": "Dark Knight",
+        "resistances": {
+            "kb": 20,
+            "kd": 20,
+            "ssfr": 20,
+            "gr": 20
+        }
+    },
+    "13": {
+        "name": "striker",
+        "display_name": "Striker",
+        "resistances": {
+            "kb": 20,
+            "kd": 20,
+            "ssfr": 20,
+            "gr": 20
+        }
+    },
+    "14": {
+        "name": "mystic",
+        "display_name": "Mystic",
+        "resistances": {
+            "kb": 20,
+            "kd": 20,
+            "ssfr": 20,
+            "gr": 20
+        }
+    }
+}

@@ -1,0 +1,205 @@
+{
+    "19001": {
+        "rarity": "legendary",
+        "gems": 1,
+        "item_effects": {
+            "vr": 10,
+            "dthpen": -10,
+            "am": 10,
+            "jhm": 0.5,
+            "cbexp": 10
+        },
+        "enhancement_text": "",
+        "enhancement": {},
+        "name": "Combat Armor Pearl Costume"
+    },
+    "14201": {
+        "rarity": "legendary",
+        "gems": 0,
+        "item_effects": {
+            "ms": 2,
+            "am": 15
+        },
+        "enhancement_text": "",
+        "enhancement": {},
+        "name": "Calpheon Noble Suit"
+    },
+    "14203": {
+        "rarity": "legendary",
+        "gems": 0,
+        "item_effects": {
+            "ms": 2,
+            "am": 15
+        },
+        "enhancement_text": "",
+        "enhancement": {},
+        "name": "Calpheon Noble Dress"
+    },
+    "14284": {
+        "rarity": "legendary",
+        "gems": 0,
+        "item_effects": {
+            "chr": 1,
+            "am": 15
+        },
+        "enhancement_text": "",
+        "enhancement": {},
+        "name": "Serendian Soldier Suit"
+    },
+    "12501": {
+        "rarity": "legendary",
+        "gems": 0,
+        "item_effects": {
+            "chr": 1,
+            "am": 15
+        },
+        "enhancement_text": "",
+        "enhancement": {},
+        "name": "Serendian Blacksmith Suit"
+    },
+    "14286": {
+        "rarity": "legendary",
+        "gems": 0,
+        "item_effects": {
+            "chr": 1,
+            "am": 15
+        },
+        "enhancement_text": "",
+        "enhancement": {},
+        "name": "Serendian Blacksmith"
+    },
+    "14296": {
+        "rarity": "legendary",
+        "gems": 0,
+        "item_effects": {
+            "as": 1,
+            "cs": 1,
+            "am": 15
+        },
+        "enhancement_text": "",
+        "enhancement": {},
+        "name": "Jordine Casual Clothes"
+    },
+    "14847": {
+        "rarity": "legendary",
+        "gems": 0,
+        "item_effects": {
+            "as": 1,
+            "cs": 1,
+            "am": 15
+        },
+        "enhancement_text": "",
+        "enhancement": {},
+        "name": "Jarette's Armor"
+    },
+    "14298": {
+        "rarity": "legendary",
+        "gems": 0,
+        "item_effects": {
+            "ms": 2,
+            "am": 15
+        },
+        "enhancement_text": "",
+        "enhancement": {},
+        "name": "Orwen's Travel Clothes"
+    },
+    "14845": {
+        "rarity": "legendary",
+        "gems": 0,
+        "item_effects": {
+            "ms": 2,
+            "am": 15
+        },
+        "enhancement_text": "",
+        "enhancement": {},
+        "name": "Edan's Travel Clothes"
+    },
+    "14211": {
+        "rarity": "legendary",
+        "gems": 0,
+        "item_effects": {
+            "ms": 2,
+            "am": 15
+        },
+        "enhancement_text": "",
+        "enhancement": {},
+        "name": "Garnier Troupe"
+    },
+    "12503": {
+        "rarity": "legendary",
+        "gems": 0,
+        "item_effects": {
+            "ms": 2,
+            "am": 15
+        },
+        "enhancement_text": "",
+        "enhancement": {},
+        "name": "Thermian Casual"
+    },
+    "14989": {
+        "rarity": "legendary",
+        "gems": 0,
+        "item_effects": {
+            "chr": 1,
+            "am": 15
+        },
+        "enhancement_text": "",
+        "enhancement": {},
+        "name": "Delphe Knights Costume"
+    },
+    "12525": {
+        "rarity": "legendary",
+        "gems": 0,
+        "item_effects": {
+            "ms": 2,
+            "am": 15
+        },
+        "enhancement_text": "",
+        "enhancement": {},
+        "name": "Serendian Formal Suit"
+    },
+    "12619": {
+        "rarity": "legendary",
+        "gems": 0,
+        "item_effects": {
+            "ms": 2,
+            "am": 15
+        },
+        "enhancement_text": "",
+        "enhancement": {},
+        "name": "Valencia Travel Clothes"
+    },
+    "12590": {
+        "rarity": "legendary",
+        "gems": 0,
+        "item_effects": {
+            "ms": 2,
+            "am": 15
+        },
+        "enhancement_text": "",
+        "enhancement": {},
+        "name": "Shroud Knights Armor"
+    },
+    "12598": {
+        "rarity": "legendary",
+        "gems": 0,
+        "item_effects": {
+            "ms": 2,
+            "am": 15
+        },
+        "enhancement_text": "",
+        "enhancement": {},
+        "name": "Shroud Knights Armor"
+    },
+    "12574": {
+        "rarity": "legendary",
+        "gems": 0,
+        "item_effects": {
+            "chr": 1,
+            "am": 15
+        },
+        "enhancement_text": "",
+        "enhancement": {},
+        "name": "Ahon Kirus Armor"
+    }
+}

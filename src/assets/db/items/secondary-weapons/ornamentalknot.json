@@ -1,0 +1,2817 @@
+{
+    "10703": {
+        "ap_min": 1,
+        "ap_max": 3,
+        "dp": 4,
+        "rarity": "uncommon",
+        "gems": 1,
+        "item_effects": {
+            "acc": 20,
+            "ev": 2,
+            "dr": 2
+        },
+        "enhancement_text": "",
+        "enhancement": {
+            "1": {
+                "dp": 5
+            },
+            "2": {
+                "dp": 6
+            },
+            "3": {
+                "dp": 7
+            },
+            "4": {
+                "dp": 8
+            },
+            "5": {
+                "dp": 9
+            },
+            "6": {
+                "dp": 10
+            },
+            "7": {
+                "dp": 11
+            },
+            "8": {
+                "ap_min": 2,
+                "ap_max": 4,
+                "dp": 12
+            },
+            "9": {
+                "ap_min": 3,
+                "ap_max": 5,
+                "dp": 13
+            },
+            "10": {
+                "ap_min": 4,
+                "ap_max": 6,
+                "dp": 14
+            },
+            "11": {
+                "ap_min": 5,
+                "ap_max": 7,
+                "dp": 15
+            },
+            "12": {
+                "ap_min": 6,
+                "ap_max": 8,
+                "dp": 16
+            },
+            "13": {
+                "ap_min": 7,
+                "ap_max": 9,
+                "dp": 17
+            },
+            "14": {
+                "ap_min": 8,
+                "ap_max": 10,
+                "dp": 18
+            },
+            "15": {
+                "ap_min": 9,
+                "ap_max": 11,
+                "dp": 19
+            },
+            "16": {
+                "ap_min": 10,
+                "ap_max": 12,
+                "dp": 21
+            },
+            "17": {
+                "ap_min": 11,
+                "ap_max": 13,
+                "dp": 23
+            },
+            "18": {
+                "ap_min": 12,
+                "ap_max": 14,
+                "dp": 28
+            },
+            "19": {
+                "ap_min": 13,
+                "ap_max": 15,
+                "dp": 30
+            },
+            "20": {
+                "ap_min": 14,
+                "ap_max": 16,
+                "dp": 32
+            }
+        },
+        "name": "Saiyer Ornamental Knot"
+    },
+    "10704": {
+        "ap_min": 4,
+        "ap_max": 6,
+        "dp": 4,
+        "rarity": "uncommon",
+        "gems": 1,
+        "item_effects": {
+            "ev": 1,
+            "dr": 3
+        },
+        "enhancement_text": "",
+        "enhancement": {
+            "1": {
+                "ap_min": 5,
+                "ap_max": 7
+            },
+            "2": {
+                "ap_min": 5,
+                "ap_max": 8
+            },
+            "3": {
+                "ap_min": 5,
+                "ap_max": 9
+            },
+            "4": {
+                "ap_min": 5,
+                "ap_max": 10
+            },
+            "5": {
+                "ap_min": 6,
+                "ap_max": 11
+            },
+            "6": {
+                "ap_min": 6,
+                "ap_max": 12
+            },
+            "7": {
+                "ap_min": 6,
+                "ap_max": 13
+            },
+            "8": {
+                "ap_min": 6,
+                "ap_max": 14
+            },
+            "9": {
+                "ap_min": 6,
+                "ap_max": 15
+            },
+            "10": {
+                "ap_min": 7,
+                "ap_max": 16
+            },
+            "11": {
+                "ap_min": 7,
+                "ap_max": 17
+            },
+            "12": {
+                "ap_min": 7,
+                "ap_max": 18
+            },
+            "13": {
+                "ap_min": 7,
+                "ap_max": 19
+            },
+            "14": {
+                "ap_min": 7,
+                "ap_max": 20
+            },
+            "15": {
+                "ap_min": 8,
+                "ap_max": 21
+            },
+            "16": {
+                "ap_min": 11,
+                "ap_max": 24
+            },
+            "17": {
+                "ap_min": 14,
+                "ap_max": 27
+            },
+            "18": {
+                "ap_min": 20,
+                "ap_max": 33
+            },
+            "19": {
+                "ap_min": 23,
+                "ap_max": 36
+            },
+            "20": {
+                "ap_min": 26,
+                "ap_max": 39
+            }
+        },
+        "name": "Oros Ornamental Knot"
+    },
+    "10705": {
+        "ap_min": 0,
+        "ap_max": 0,
+        "dp": 7,
+        "rarity": "uncommon",
+        "gems": 1,
+        "item_effects": {
+            "ev": 1,
+            "dr": 5,
+            "hp": 50
+        },
+        "enhancement_text": "",
+        "enhancement": {
+            "1": {
+                "dp": 8
+            },
+            "2": {
+                "dp": 9
+            },
+            "3": {
+                "dp": 10
+            },
+            "4": {
+                "dp": 11
+            },
+            "5": {
+                "dp": 12
+            },
+            "6": {
+                "dp": 13
+            },
+            "7": {
+                "dp": 14
+            },
+            "8": {
+                "ap_min": 1,
+                "ap_max": 1,
+                "dp": 15
+            },
+            "9": {
+                "ap_min": 2,
+                "ap_max": 2,
+                "dp": 16
+            },
+            "10": {
+                "ap_min": 3,
+                "ap_max": 3,
+                "dp": 17
+            },
+            "11": {
+                "ap_min": 4,
+                "ap_max": 4,
+                "dp": 18
+            },
+            "12": {
+                "ap_min": 5,
+                "ap_max": 5,
+                "dp": 19
+            },
+            "13": {
+                "ap_min": 6,
+                "ap_max": 6,
+                "dp": 20
+            },
+            "14": {
+                "ap_min": 7,
+                "ap_max": 7,
+                "dp": 21
+            },
+            "15": {
+                "ap_min": 8,
+                "ap_max": 8,
+                "dp": 22
+            },
+            "16": {
+                "ap_min": 9,
+                "ap_max": 9,
+                "dp": 24
+            },
+            "17": {
+                "ap_min": 10,
+                "ap_max": 10,
+                "dp": 26
+            },
+            "18": {
+                "ap_min": 11,
+                "ap_max": 11,
+                "dp": 31
+            },
+            "19": {
+                "ap_min": 12,
+                "ap_max": 12,
+                "dp": 33
+            },
+            "20": {
+                "ap_min": 13,
+                "ap_max": 13,
+                "dp": 35
+            }
+        },
+        "name": "Theos Ornamental Knot"
+    },
+    "10706": {
+        "ap_min": 1,
+        "ap_max": 3,
+        "dp": 4,
+        "rarity": "rare",
+        "gems": 1,
+        "item_effects": {
+            "acc": 28,
+            "ev": 2,
+            "dr": 2,
+            "abad": 1
+        },
+        "enhancement_text": "",
+        "enhancement": {
+            "1": {
+                "dp": 5
+            },
+            "2": {
+                "dp": 6
+            },
+            "3": {
+                "dp": 7
+            },
+            "4": {
+                "dp": 8
+            },
+            "5": {
+                "dp": 9
+            },
+            "6": {
+                "dp": 10
+            },
+            "7": {
+                "dp": 11
+            },
+            "8": {
+                "ap_min": 2,
+                "ap_max": 4,
+                "dp": 12
+            },
+            "9": {
+                "ap_min": 3,
+                "ap_max": 5,
+                "dp": 13
+            },
+            "10": {
+                "ap_min": 4,
+                "ap_max": 6,
+                "dp": 14
+            },
+            "11": {
+                "ap_min": 5,
+                "ap_max": 7,
+                "dp": 15
+            },
+            "12": {
+                "ap_min": 6,
+                "ap_max": 8,
+                "dp": 16
+            },
+            "13": {
+                "ap_min": 7,
+                "ap_max": 9,
+                "dp": 17
+            },
+            "14": {
+                "ap_min": 8,
+                "ap_max": 10,
+                "dp": 18
+            },
+            "15": {
+                "ap_min": 9,
+                "ap_max": 11,
+                "dp": 19
+            },
+            "16": {
+                "ap_min": 10,
+                "ap_max": 12,
+                "dp": 21
+            },
+            "17": {
+                "ap_min": 11,
+                "ap_max": 13,
+                "dp": 23
+            },
+            "18": {
+                "ap_min": 12,
+                "ap_max": 14,
+                "dp": 28
+            },
+            "19": {
+                "ap_min": 13,
+                "ap_max": 15,
+                "dp": 30
+            },
+            "20": {
+                "ap_min": 14,
+                "ap_max": 16,
+                "dp": 32
+            }
+        },
+        "name": "Saiyer Ornamental Knot of Crimson Flame"
+    },
+    "10707": {
+        "ap_min": 1,
+        "ap_max": 3,
+        "dp": 4,
+        "rarity": "rare",
+        "gems": 1,
+        "item_effects": {
+            "acc": 28,
+            "ev": 2,
+            "dr": 2,
+            "adad": 1
+        },
+        "enhancement_text": "",
+        "enhancement": {
+            "1": {
+                "dp": 5
+            },
+            "2": {
+                "dp": 6
+            },
+            "3": {
+                "dp": 7
+            },
+            "4": {
+                "dp": 8
+            },
+            "5": {
+                "dp": 9
+            },
+            "6": {
+                "dp": 10
+            },
+            "7": {
+                "dp": 11
+            },
+            "8": {
+                "ap_min": 2,
+                "ap_max": 4,
+                "dp": 12
+            },
+            "9": {
+                "ap_min": 3,
+                "ap_max": 5,
+                "dp": 13
+            },
+            "10": {
+                "ap_min": 4,
+                "ap_max": 6,
+                "dp": 14
+            },
+            "11": {
+                "ap_min": 5,
+                "ap_max": 7,
+                "dp": 15
+            },
+            "12": {
+                "ap_min": 6,
+                "ap_max": 8,
+                "dp": 16
+            },
+            "13": {
+                "ap_min": 7,
+                "ap_max": 9,
+                "dp": 17
+            },
+            "14": {
+                "ap_min": 8,
+                "ap_max": 10,
+                "dp": 18
+            },
+            "15": {
+                "ap_min": 9,
+                "ap_max": 11,
+                "dp": 19
+            },
+            "16": {
+                "ap_min": 10,
+                "ap_max": 12,
+                "dp": 21
+            },
+            "17": {
+                "ap_min": 11,
+                "ap_max": 13,
+                "dp": 23
+            },
+            "18": {
+                "ap_min": 12,
+                "ap_max": 14,
+                "dp": 28
+            },
+            "19": {
+                "ap_min": 13,
+                "ap_max": 15,
+                "dp": 30
+            },
+            "20": {
+                "ap_min": 14,
+                "ap_max": 16,
+                "dp": 32
+            }
+        },
+        "name": "Saiyer Ornamental Knot of Destruction"
+    },
+    "10708": {
+        "ap_min": 1,
+        "ap_max": 3,
+        "dp": 4,
+        "rarity": "rare",
+        "gems": 1,
+        "item_effects": {
+            "acc": 28,
+            "ev": 2,
+            "dr": 2,
+            "aaad": 1
+        },
+        "enhancement_text": "",
+        "enhancement": {
+            "1": {
+                "dp": 5
+            },
+            "2": {
+                "dp": 6
+            },
+            "3": {
+                "dp": 7
+            },
+            "4": {
+                "dp": 8
+            },
+            "5": {
+                "dp": 9
+            },
+            "6": {
+                "dp": 10
+            },
+            "7": {
+                "dp": 11
+            },
+            "8": {
+                "ap_min": 2,
+                "ap_max": 4,
+                "dp": 12
+            },
+            "9": {
+                "ap_min": 3,
+                "ap_max": 5,
+                "dp": 13
+            },
+            "10": {
+                "ap_min": 4,
+                "ap_max": 6,
+                "dp": 14
+            },
+            "11": {
+                "ap_min": 5,
+                "ap_max": 7,
+                "dp": 15
+            },
+            "12": {
+                "ap_min": 6,
+                "ap_max": 8,
+                "dp": 16
+            },
+            "13": {
+                "ap_min": 7,
+                "ap_max": 9,
+                "dp": 17
+            },
+            "14": {
+                "ap_min": 8,
+                "ap_max": 10,
+                "dp": 18
+            },
+            "15": {
+                "ap_min": 9,
+                "ap_max": 11,
+                "dp": 19
+            },
+            "16": {
+                "ap_min": 10,
+                "ap_max": 12,
+                "dp": 21
+            },
+            "17": {
+                "ap_min": 11,
+                "ap_max": 13,
+                "dp": 23
+            },
+            "18": {
+                "ap_min": 12,
+                "ap_max": 14,
+                "dp": 28
+            },
+            "19": {
+                "ap_min": 13,
+                "ap_max": 15,
+                "dp": 30
+            },
+            "20": {
+                "ap_min": 14,
+                "ap_max": 16,
+                "dp": 32
+            }
+        },
+        "name": "Saiyer Ornamental Knot of Temptation"
+    },
+    "10709": {
+        "ap_min": 1,
+        "ap_max": 3,
+        "dp": 4,
+        "rarity": "epic",
+        "gems": 1,
+        "item_effects": {
+            "acc": 28,
+            "ev": 2,
+            "dr": 2,
+            "assad": 1
+        },
+        "enhancement_text": "",
+        "enhancement": {
+            "1": {
+                "dp": 5
+            },
+            "2": {
+                "dp": 6
+            },
+            "3": {
+                "dp": 7
+            },
+            "4": {
+                "dp": 8
+            },
+            "5": {
+                "dp": 9
+            },
+            "6": {
+                "dp": 10
+            },
+            "7": {
+                "dp": 11
+            },
+            "8": {
+                "ap_min": 2,
+                "ap_max": 4,
+                "dp": 12
+            },
+            "9": {
+                "ap_min": 3,
+                "ap_max": 5,
+                "dp": 13
+            },
+            "10": {
+                "ap_min": 4,
+                "ap_max": 6,
+                "dp": 14
+            },
+            "11": {
+                "ap_min": 5,
+                "ap_max": 7,
+                "dp": 15
+            },
+            "12": {
+                "ap_min": 6,
+                "ap_max": 8,
+                "dp": 16
+            },
+            "13": {
+                "ap_min": 7,
+                "ap_max": 9,
+                "dp": 17
+            },
+            "14": {
+                "ap_min": 8,
+                "ap_max": 10,
+                "dp": 18
+            },
+            "15": {
+                "ap_min": 9,
+                "ap_max": 11,
+                "dp": 19
+            },
+            "16": {
+                "ap_min": 10,
+                "ap_max": 12,
+                "dp": 21
+            },
+            "17": {
+                "ap_min": 11,
+                "ap_max": 13,
+                "dp": 23
+            },
+            "18": {
+                "ap_min": 12,
+                "ap_max": 14,
+                "dp": 28
+            },
+            "19": {
+                "ap_min": 13,
+                "ap_max": 15,
+                "dp": 30
+            },
+            "20": {
+                "ap_min": 14,
+                "ap_max": 16,
+                "dp": 32
+            }
+        },
+        "name": "Ultimate Saiyer Ornamental Knot"
+    },
+    "10710": {
+        "ap_min": 4,
+        "ap_max": 6,
+        "dp": 5,
+        "rarity": "rare",
+        "gems": 1,
+        "item_effects": {
+            "ev": 2,
+            "dr": 3,
+            "abad": 1
+        },
+        "enhancement_text": "",
+        "enhancement": {
+            "1": {
+                "ap_min": 5,
+                "ap_max": 7
+            },
+            "2": {
+                "ap_min": 5,
+                "ap_max": 8
+            },
+            "3": {
+                "ap_min": 5,
+                "ap_max": 9
+            },
+            "4": {
+                "ap_min": 5,
+                "ap_max": 10
+            },
+            "5": {
+                "ap_min": 6,
+                "ap_max": 11
+            },
+            "6": {
+                "ap_min": 6,
+                "ap_max": 12
+            },
+            "7": {
+                "ap_min": 6,
+                "ap_max": 13
+            },
+            "8": {
+                "ap_min": 6,
+                "ap_max": 14
+            },
+            "9": {
+                "ap_min": 6,
+                "ap_max": 15
+            },
+            "10": {
+                "ap_min": 7,
+                "ap_max": 16
+            },
+            "11": {
+                "ap_min": 7,
+                "ap_max": 17
+            },
+            "12": {
+                "ap_min": 7,
+                "ap_max": 18
+            },
+            "13": {
+                "ap_min": 7,
+                "ap_max": 19
+            },
+            "14": {
+                "ap_min": 7,
+                "ap_max": 20
+            },
+            "15": {
+                "ap_min": 8,
+                "ap_max": 21
+            },
+            "16": {
+                "ap_min": 11,
+                "ap_max": 24
+            },
+            "17": {
+                "ap_min": 14,
+                "ap_max": 27
+            },
+            "18": {
+                "ap_min": 20,
+                "ap_max": 33
+            },
+            "19": {
+                "ap_min": 23,
+                "ap_max": 36
+            },
+            "20": {
+                "ap_min": 26,
+                "ap_max": 39
+            }
+        },
+        "name": "Oros Ornamental Knot of Crimson Flame"
+    },
+    "10711": {
+        "ap_min": 4,
+        "ap_max": 6,
+        "dp": 5,
+        "rarity": "rare",
+        "gems": 1,
+        "item_effects": {
+            "ev": 2,
+            "dr": 3,
+            "adad": 1
+        },
+        "enhancement_text": "",
+        "enhancement": {
+            "1": {
+                "ap_min": 5,
+                "ap_max": 7
+            },
+            "2": {
+                "ap_min": 5,
+                "ap_max": 8
+            },
+            "3": {
+                "ap_min": 5,
+                "ap_max": 9
+            },
+            "4": {
+                "ap_min": 5,
+                "ap_max": 10
+            },
+            "5": {
+                "ap_min": 6,
+                "ap_max": 11
+            },
+            "6": {
+                "ap_min": 6,
+                "ap_max": 12
+            },
+            "7": {
+                "ap_min": 6,
+                "ap_max": 13
+            },
+            "8": {
+                "ap_min": 6,
+                "ap_max": 14
+            },
+            "9": {
+                "ap_min": 6,
+                "ap_max": 15
+            },
+            "10": {
+                "ap_min": 7,
+                "ap_max": 16
+            },
+            "11": {
+                "ap_min": 7,
+                "ap_max": 17
+            },
+            "12": {
+                "ap_min": 7,
+                "ap_max": 18
+            },
+            "13": {
+                "ap_min": 7,
+                "ap_max": 19
+            },
+            "14": {
+                "ap_min": 7,
+                "ap_max": 20
+            },
+            "15": {
+                "ap_min": 8,
+                "ap_max": 21
+            },
+            "16": {
+                "ap_min": 11,
+                "ap_max": 24
+            },
+            "17": {
+                "ap_min": 14,
+                "ap_max": 27
+            },
+            "18": {
+                "ap_min": 20,
+                "ap_max": 33
+            },
+            "19": {
+                "ap_min": 23,
+                "ap_max": 36
+            },
+            "20": {
+                "ap_min": 26,
+                "ap_max": 39
+            }
+        },
+        "name": "Oros Ornamental Knot of Destruction"
+    },
+    "10712": {
+        "ap_min": 4,
+        "ap_max": 6,
+        "dp": 5,
+        "rarity": "rare",
+        "gems": 1,
+        "item_effects": {
+            "ev": 2,
+            "dr": 3,
+            "aaad": 1
+        },
+        "enhancement_text": "",
+        "enhancement": {
+            "1": {
+                "ap_min": 5,
+                "ap_max": 7
+            },
+            "2": {
+                "ap_min": 5,
+                "ap_max": 8
+            },
+            "3": {
+                "ap_min": 5,
+                "ap_max": 9
+            },
+            "4": {
+                "ap_min": 5,
+                "ap_max": 10
+            },
+            "5": {
+                "ap_min": 6,
+                "ap_max": 11
+            },
+            "6": {
+                "ap_min": 6,
+                "ap_max": 12
+            },
+            "7": {
+                "ap_min": 6,
+                "ap_max": 13
+            },
+            "8": {
+                "ap_min": 6,
+                "ap_max": 14
+            },
+            "9": {
+                "ap_min": 6,
+                "ap_max": 15
+            },
+            "10": {
+                "ap_min": 7,
+                "ap_max": 16
+            },
+            "11": {
+                "ap_min": 7,
+                "ap_max": 17
+            },
+            "12": {
+                "ap_min": 7,
+                "ap_max": 18
+            },
+            "13": {
+                "ap_min": 7,
+                "ap_max": 19
+            },
+            "14": {
+                "ap_min": 7,
+                "ap_max": 20
+            },
+            "15": {
+                "ap_min": 8,
+                "ap_max": 21
+            },
+            "16": {
+                "ap_min": 11,
+                "ap_max": 24
+            },
+            "17": {
+                "ap_min": 14,
+                "ap_max": 27
+            },
+            "18": {
+                "ap_min": 20,
+                "ap_max": 33
+            },
+            "19": {
+                "ap_min": 23,
+                "ap_max": 36
+            },
+            "20": {
+                "ap_min": 26,
+                "ap_max": 39
+            }
+        },
+        "name": "Oros Ornamental Knot of Temptation"
+    },
+    "10713": {
+        "ap_min": 4,
+        "ap_max": 6,
+        "dp": 5,
+        "rarity": "epic",
+        "gems": 1,
+        "item_effects": {
+            "ev": 2,
+            "dr": 3,
+            "assad": 1
+        },
+        "enhancement_text": "",
+        "enhancement": {
+            "1": {
+                "ap_min": 5,
+                "ap_max": 7
+            },
+            "2": {
+                "ap_min": 5,
+                "ap_max": 8
+            },
+            "3": {
+                "ap_min": 5,
+                "ap_max": 9
+            },
+            "4": {
+                "ap_min": 5,
+                "ap_max": 10
+            },
+            "5": {
+                "ap_min": 6,
+                "ap_max": 11
+            },
+            "6": {
+                "ap_min": 6,
+                "ap_max": 12
+            },
+            "7": {
+                "ap_min": 6,
+                "ap_max": 13
+            },
+            "8": {
+                "ap_min": 6,
+                "ap_max": 14
+            },
+            "9": {
+                "ap_min": 6,
+                "ap_max": 15
+            },
+            "10": {
+                "ap_min": 7,
+                "ap_max": 16
+            },
+            "11": {
+                "ap_min": 7,
+                "ap_max": 17
+            },
+            "12": {
+                "ap_min": 7,
+                "ap_max": 18
+            },
+            "13": {
+                "ap_min": 7,
+                "ap_max": 19
+            },
+            "14": {
+                "ap_min": 7,
+                "ap_max": 20
+            },
+            "15": {
+                "ap_min": 8,
+                "ap_max": 21
+            },
+            "16": {
+                "ap_min": 11,
+                "ap_max": 24
+            },
+            "17": {
+                "ap_min": 14,
+                "ap_max": 27
+            },
+            "18": {
+                "ap_min": 20,
+                "ap_max": 33
+            },
+            "19": {
+                "ap_min": 23,
+                "ap_max": 36
+            },
+            "20": {
+                "ap_min": 26,
+                "ap_max": 39
+            }
+        },
+        "name": "Ultimate Oros Ornamental Knot"
+    },
+    "10714": {
+        "ap_min": 0,
+        "ap_max": 0,
+        "dp": 8,
+        "rarity": "rare",
+        "gems": 1,
+        "item_effects": {
+            "ev": 3,
+            "dr": 5,
+            "hp": 50,
+            "abad": 1
+        },
+        "enhancement_text": "",
+        "enhancement": {
+            "1": {
+                "dp": 9
+            },
+            "2": {
+                "dp": 10
+            },
+            "3": {
+                "dp": 11
+            },
+            "4": {
+                "dp": 12
+            },
+            "5": {
+                "dp": 13
+            },
+            "6": {
+                "dp": 14
+            },
+            "7": {
+                "dp": 15
+            },
+            "8": {
+                "ap_min": 1,
+                "ap_max": 1,
+                "dp": 16
+            },
+            "9": {
+                "ap_min": 2,
+                "ap_max": 2,
+                "dp": 17
+            },
+            "10": {
+                "ap_min": 3,
+                "ap_max": 3,
+                "dp": 18
+            },
+            "11": {
+                "ap_min": 4,
+                "ap_max": 4,
+                "dp": 19
+            },
+            "12": {
+                "ap_min": 5,
+                "ap_max": 5,
+                "dp": 20
+            },
+            "13": {
+                "ap_min": 6,
+                "ap_max": 6,
+                "dp": 21
+            },
+            "14": {
+                "ap_min": 7,
+                "ap_max": 7,
+                "dp": 22
+            },
+            "15": {
+                "ap_min": 8,
+                "ap_max": 8,
+                "dp": 23
+            },
+            "16": {
+                "ap_min": 9,
+                "ap_max": 9,
+                "dp": 25
+            },
+            "17": {
+                "ap_min": 10,
+                "ap_max": 10,
+                "dp": 27
+            },
+            "18": {
+                "ap_min": 11,
+                "ap_max": 11,
+                "dp": 32
+            },
+            "19": {
+                "ap_min": 12,
+                "ap_max": 12,
+                "dp": 34
+            },
+            "20": {
+                "ap_min": 13,
+                "ap_max": 13,
+                "dp": 36
+            }
+        },
+        "name": "Theos Ornamental Knot of Crimson Flame"
+    },
+    "10715": {
+        "ap_min": 0,
+        "ap_max": 0,
+        "dp": 8,
+        "rarity": "rare",
+        "gems": 1,
+        "item_effects": {
+            "ev": 3,
+            "dr": 5,
+            "hp": 50,
+            "adad": 1
+        },
+        "enhancement_text": "",
+        "enhancement": {
+            "1": {
+                "dp": 9
+            },
+            "2": {
+                "dp": 10
+            },
+            "3": {
+                "dp": 11
+            },
+            "4": {
+                "dp": 12
+            },
+            "5": {
+                "dp": 13
+            },
+            "6": {
+                "dp": 14
+            },
+            "7": {
+                "dp": 15
+            },
+            "8": {
+                "ap_min": 1,
+                "ap_max": 1,
+                "dp": 16
+            },
+            "9": {
+                "ap_min": 2,
+                "ap_max": 2,
+                "dp": 17
+            },
+            "10": {
+                "ap_min": 3,
+                "ap_max": 3,
+                "dp": 18
+            },
+            "11": {
+                "ap_min": 4,
+                "ap_max": 4,
+                "dp": 19
+            },
+            "12": {
+                "ap_min": 5,
+                "ap_max": 5,
+                "dp": 20
+            },
+            "13": {
+                "ap_min": 6,
+                "ap_max": 6,
+                "dp": 21
+            },
+            "14": {
+                "ap_min": 7,
+                "ap_max": 7,
+                "dp": 22
+            },
+            "15": {
+                "ap_min": 8,
+                "ap_max": 8,
+                "dp": 23
+            },
+            "16": {
+                "ap_min": 9,
+                "ap_max": 9,
+                "dp": 25
+            },
+            "17": {
+                "ap_min": 10,
+                "ap_max": 10,
+                "dp": 27
+            },
+            "18": {
+                "ap_min": 11,
+                "ap_max": 11,
+                "dp": 32
+            },
+            "19": {
+                "ap_min": 12,
+                "ap_max": 12,
+                "dp": 34
+            },
+            "20": {
+                "ap_min": 13,
+                "ap_max": 13,
+                "dp": 36
+            }
+        },
+        "name": "Theos Ornamental Knot of Destruction"
+    },
+    "10716": {
+        "ap_min": 0,
+        "ap_max": 0,
+        "dp": 8,
+        "rarity": "rare",
+        "gems": 1,
+        "item_effects": {
+            "ev": 3,
+            "dr": 5,
+            "hp": 50,
+            "aaad": 1
+        },
+        "enhancement_text": "",
+        "enhancement": {
+            "1": {
+                "dp": 9
+            },
+            "2": {
+                "dp": 10
+            },
+            "3": {
+                "dp": 11
+            },
+            "4": {
+                "dp": 12
+            },
+            "5": {
+                "dp": 13
+            },
+            "6": {
+                "dp": 14
+            },
+            "7": {
+                "dp": 15
+            },
+            "8": {
+                "ap_min": 1,
+                "ap_max": 1,
+                "dp": 16
+            },
+            "9": {
+                "ap_min": 2,
+                "ap_max": 2,
+                "dp": 17
+            },
+            "10": {
+                "ap_min": 3,
+                "ap_max": 3,
+                "dp": 18
+            },
+            "11": {
+                "ap_min": 4,
+                "ap_max": 4,
+                "dp": 19
+            },
+            "12": {
+                "ap_min": 5,
+                "ap_max": 5,
+                "dp": 20
+            },
+            "13": {
+                "ap_min": 6,
+                "ap_max": 6,
+                "dp": 21
+            },
+            "14": {
+                "ap_min": 7,
+                "ap_max": 7,
+                "dp": 22
+            },
+            "15": {
+                "ap_min": 8,
+                "ap_max": 8,
+                "dp": 23
+            },
+            "16": {
+                "ap_min": 9,
+                "ap_max": 9,
+                "dp": 25
+            },
+            "17": {
+                "ap_min": 10,
+                "ap_max": 10,
+                "dp": 27
+            },
+            "18": {
+                "ap_min": 11,
+                "ap_max": 11,
+                "dp": 32
+            },
+            "19": {
+                "ap_min": 12,
+                "ap_max": 12,
+                "dp": 34
+            },
+            "20": {
+                "ap_min": 13,
+                "ap_max": 13,
+                "dp": 36
+            }
+        },
+        "name": "Theos Ornamental Knot of Temptation"
+    },
+    "10717": {
+        "ap_min": 0,
+        "ap_max": 0,
+        "dp": 8,
+        "rarity": "epic",
+        "gems": 1,
+        "item_effects": {
+            "ev": 3,
+            "dr": 5,
+            "hp": 100,
+            "assad": 1
+        },
+        "enhancement_text": "",
+        "enhancement": {
+            "1": {
+                "dp": 9
+            },
+            "2": {
+                "dp": 10
+            },
+            "3": {
+                "dp": 11
+            },
+            "4": {
+                "dp": 12
+            },
+            "5": {
+                "dp": 13
+            },
+            "6": {
+                "dp": 14
+            },
+            "7": {
+                "dp": 15
+            },
+            "8": {
+                "ap_min": 1,
+                "ap_max": 1,
+                "dp": 16
+            },
+            "9": {
+                "ap_min": 2,
+                "ap_max": 2,
+                "dp": 17
+            },
+            "10": {
+                "ap_min": 3,
+                "ap_max": 3,
+                "dp": 18
+            },
+            "11": {
+                "ap_min": 4,
+                "ap_max": 4,
+                "dp": 19
+            },
+            "12": {
+                "ap_min": 5,
+                "ap_max": 5,
+                "dp": 20
+            },
+            "13": {
+                "ap_min": 6,
+                "ap_max": 6,
+                "dp": 21
+            },
+            "14": {
+                "ap_min": 7,
+                "ap_max": 7,
+                "dp": 22
+            },
+            "15": {
+                "ap_min": 8,
+                "ap_max": 8,
+                "dp": 23
+            },
+            "16": {
+                "ap_min": 9,
+                "ap_max": 9,
+                "dp": 25
+            },
+            "17": {
+                "ap_min": 10,
+                "ap_max": 10,
+                "dp": 27
+            },
+            "18": {
+                "ap_min": 11,
+                "ap_max": 11,
+                "dp": 32
+            },
+            "19": {
+                "ap_min": 12,
+                "ap_max": 12,
+                "dp": 34
+            },
+            "20": {
+                "ap_min": 13,
+                "ap_max": 13,
+                "dp": 36
+            }
+        },
+        "name": "Ultimate Theos Ornamental Knot"
+    },
+    "10724": {
+        "set": "Krea",
+        "ap_min": 4,
+        "ap_max": 6,
+        "dp": 4,
+        "rarity": "uncommon",
+        "gems": 2,
+        "item_effects": {},
+        "enhancement_text": "",
+        "enhancement": {
+            "1": {
+                "ap_min": 5,
+                "ap_max": 7
+            },
+            "2": {
+                "ap_min": 5,
+                "ap_max": 8
+            },
+            "3": {
+                "ap_min": 5,
+                "ap_max": 9
+            },
+            "4": {
+                "ap_min": 5,
+                "ap_max": 10
+            },
+            "5": {
+                "ap_min": 6,
+                "ap_max": 11
+            },
+            "6": {
+                "ap_min": 6,
+                "ap_max": 12
+            },
+            "7": {
+                "ap_min": 6,
+                "ap_max": 13
+            },
+            "8": {
+                "ap_min": 6,
+                "ap_max": 14
+            },
+            "9": {
+                "ap_min": 6,
+                "ap_max": 15
+            },
+            "10": {
+                "ap_min": 7,
+                "ap_max": 16
+            },
+            "11": {
+                "ap_min": 7,
+                "ap_max": 17
+            },
+            "12": {
+                "ap_min": 7,
+                "ap_max": 18
+            },
+            "13": {
+                "ap_min": 7,
+                "ap_max": 19
+            },
+            "14": {
+                "ap_min": 7,
+                "ap_max": 20
+            },
+            "15": {
+                "ap_min": 8,
+                "ap_max": 21
+            },
+            "16": {
+                "ap_min": 9,
+                "ap_max": 22,
+                "dp": 5
+            },
+            "17": {
+                "ap_min": 10,
+                "ap_max": 23,
+                "dp": 6
+            },
+            "18": {
+                "ap_min": 14,
+                "ap_max": 27,
+                "dp": 7
+            },
+            "19": {
+                "ap_min": 15,
+                "ap_max": 28,
+                "dp": 8
+            },
+            "20": {
+                "ap_min": 16,
+                "ap_max": 29,
+                "dp": 9
+            }
+        },
+        "name": "Krea Ornamental Knot"
+    },
+    "10725": {
+        "set": "Rosar",
+        "ap_min": 1,
+        "ap_max": 4,
+        "dp": 4,
+        "rarity": "uncommon",
+        "gems": 2,
+        "item_effects": {},
+        "enhancement_text": "",
+        "enhancement": {
+            "1": {
+                "ap_min": 1,
+                "ap_max": 4,
+                "dp": 5
+            },
+            "2": {
+                "ap_min": 1,
+                "ap_max": 4,
+                "dp": 6
+            },
+            "3": {
+                "ap_min": 1,
+                "ap_max": 4,
+                "dp": 7
+            },
+            "4": {
+                "ap_min": 1,
+                "ap_max": 4,
+                "dp": 8
+            },
+            "5": {
+                "ap_min": 1,
+                "ap_max": 4,
+                "dp": 9
+            },
+            "6": {
+                "ap_min": 1,
+                "ap_max": 4,
+                "dp": 10
+            },
+            "7": {
+                "ap_min": 1,
+                "ap_max": 4,
+                "dp": 11
+            },
+            "8": {
+                "ap_min": 2,
+                "ap_max": 5,
+                "dp": 12
+            },
+            "9": {
+                "ap_min": 3,
+                "ap_max": 6,
+                "dp": 13
+            },
+            "10": {
+                "ap_min": 4,
+                "ap_max": 7,
+                "dp": 14
+            },
+            "11": {
+                "ap_min": 5,
+                "ap_max": 8,
+                "dp": 15
+            },
+            "12": {
+                "ap_min": 6,
+                "ap_max": 9,
+                "dp": 16
+            },
+            "13": {
+                "ap_min": 7,
+                "ap_max": 10,
+                "dp": 17
+            },
+            "14": {
+                "ap_min": 8,
+                "ap_max": 11,
+                "dp": 18
+            },
+            "15": {
+                "ap_min": 9,
+                "ap_max": 12,
+                "dp": 19
+            },
+            "16": {
+                "ap_min": 10,
+                "ap_max": 13,
+                "dp": 21
+            },
+            "17": {
+                "ap_min": 11,
+                "ap_max": 14,
+                "dp": 23
+            },
+            "18": {
+                "ap_min": 12,
+                "ap_max": 15,
+                "dp": 28
+            },
+            "19": {
+                "ap_min": 13,
+                "ap_max": 16,
+                "dp": 30
+            },
+            "20": {
+                "ap_min": 14,
+                "ap_max": 17,
+                "dp": 32
+            }
+        },
+        "name": "Rosar Ornamental Knot"
+    },
+    "10726": {
+        "set": "Krea",
+        "ap_min": 4,
+        "ap_max": 6,
+        "dp": 5,
+        "rarity": "rare",
+        "gems": 2,
+        "item_effects": {
+            "abad": 1
+        },
+        "enhancement_text": "",
+        "enhancement": {
+            "1": {
+                "ap_min": 5,
+                "ap_max": 7
+            },
+            "2": {
+                "ap_min": 5,
+                "ap_max": 8
+            },
+            "3": {
+                "ap_min": 5,
+                "ap_max": 9
+            },
+            "4": {
+                "ap_min": 5,
+                "ap_max": 10
+            },
+            "5": {
+                "ap_min": 6,
+                "ap_max": 11
+            },
+            "6": {
+                "ap_min": 6,
+                "ap_max": 12
+            },
+            "7": {
+                "ap_min": 6,
+                "ap_max": 13
+            },
+            "8": {
+                "ap_min": 6,
+                "ap_max": 14
+            },
+            "9": {
+                "ap_min": 6,
+                "ap_max": 15
+            },
+            "10": {
+                "ap_min": 7,
+                "ap_max": 16
+            },
+            "11": {
+                "ap_min": 7,
+                "ap_max": 17
+            },
+            "12": {
+                "ap_min": 7,
+                "ap_max": 18
+            },
+            "13": {
+                "ap_min": 7,
+                "ap_max": 19
+            },
+            "14": {
+                "ap_min": 7,
+                "ap_max": 20
+            },
+            "15": {
+                "ap_min": 8,
+                "ap_max": 21
+            },
+            "16": {
+                "ap_min": 9,
+                "ap_max": 22,
+                "dp": 6
+            },
+            "17": {
+                "ap_min": 10,
+                "ap_max": 23,
+                "dp": 7
+            },
+            "18": {
+                "ap_min": 14,
+                "ap_max": 27,
+                "dp": 8
+            },
+            "19": {
+                "ap_min": 15,
+                "ap_max": 28,
+                "dp": 9
+            },
+            "20": {
+                "ap_min": 16,
+                "ap_max": 29,
+                "dp": 10
+            }
+        },
+        "name": "Krea Ornamental Knot of Crimson Flame"
+    },
+    "10727": {
+        "set": "Krea",
+        "ap_min": 4,
+        "ap_max": 6,
+        "dp": 5,
+        "rarity": "rare",
+        "gems": 2,
+        "item_effects": {
+            "adad": 1
+        },
+        "enhancement_text": "",
+        "enhancement": {
+            "1": {
+                "ap_min": 5,
+                "ap_max": 7
+            },
+            "2": {
+                "ap_min": 5,
+                "ap_max": 8
+            },
+            "3": {
+                "ap_min": 5,
+                "ap_max": 9
+            },
+            "4": {
+                "ap_min": 5,
+                "ap_max": 10
+            },
+            "5": {
+                "ap_min": 6,
+                "ap_max": 11
+            },
+            "6": {
+                "ap_min": 6,
+                "ap_max": 12
+            },
+            "7": {
+                "ap_min": 6,
+                "ap_max": 13
+            },
+            "8": {
+                "ap_min": 6,
+                "ap_max": 14
+            },
+            "9": {
+                "ap_min": 6,
+                "ap_max": 15
+            },
+            "10": {
+                "ap_min": 7,
+                "ap_max": 16
+            },
+            "11": {
+                "ap_min": 7,
+                "ap_max": 17
+            },
+            "12": {
+                "ap_min": 7,
+                "ap_max": 18
+            },
+            "13": {
+                "ap_min": 7,
+                "ap_max": 19
+            },
+            "14": {
+                "ap_min": 7,
+                "ap_max": 20
+            },
+            "15": {
+                "ap_min": 8,
+                "ap_max": 21
+            },
+            "16": {
+                "ap_min": 9,
+                "ap_max": 22,
+                "dp": 6
+            },
+            "17": {
+                "ap_min": 10,
+                "ap_max": 23,
+                "dp": 7
+            },
+            "18": {
+                "ap_min": 14,
+                "ap_max": 27,
+                "dp": 8
+            },
+            "19": {
+                "ap_min": 15,
+                "ap_max": 28,
+                "dp": 9
+            },
+            "20": {
+                "ap_min": 16,
+                "ap_max": 29,
+                "dp": 10
+            }
+        },
+        "name": "Krea Ornamental Knot of Destruction"
+    },
+    "10728": {
+        "set": "Krea",
+        "ap_min": 4,
+        "ap_max": 6,
+        "dp": 5,
+        "rarity": "rare",
+        "gems": 2,
+        "item_effects": {
+            "aaad": 1
+        },
+        "enhancement_text": "",
+        "enhancement": {
+            "1": {
+                "ap_min": 5,
+                "ap_max": 7
+            },
+            "2": {
+                "ap_min": 5,
+                "ap_max": 8
+            },
+            "3": {
+                "ap_min": 5,
+                "ap_max": 9
+            },
+            "4": {
+                "ap_min": 5,
+                "ap_max": 10
+            },
+            "5": {
+                "ap_min": 6,
+                "ap_max": 11
+            },
+            "6": {
+                "ap_min": 6,
+                "ap_max": 12
+            },
+            "7": {
+                "ap_min": 6,
+                "ap_max": 13
+            },
+            "8": {
+                "ap_min": 6,
+                "ap_max": 14
+            },
+            "9": {
+                "ap_min": 6,
+                "ap_max": 15
+            },
+            "10": {
+                "ap_min": 7,
+                "ap_max": 16
+            },
+            "11": {
+                "ap_min": 7,
+                "ap_max": 17
+            },
+            "12": {
+                "ap_min": 7,
+                "ap_max": 18
+            },
+            "13": {
+                "ap_min": 7,
+                "ap_max": 19
+            },
+            "14": {
+                "ap_min": 7,
+                "ap_max": 20
+            },
+            "15": {
+                "ap_min": 8,
+                "ap_max": 21
+            },
+            "16": {
+                "ap_min": 9,
+                "ap_max": 22,
+                "dp": 6
+            },
+            "17": {
+                "ap_min": 10,
+                "ap_max": 23,
+                "dp": 7
+            },
+            "18": {
+                "ap_min": 14,
+                "ap_max": 27,
+                "dp": 8
+            },
+            "19": {
+                "ap_min": 15,
+                "ap_max": 28,
+                "dp": 9
+            },
+            "20": {
+                "ap_min": 16,
+                "ap_max": 29,
+                "dp": 10
+            }
+        },
+        "name": "Krea Ornamental Knot of Temptation"
+    },
+    "10731": {
+        "set": "Krea",
+        "ap_min": 4,
+        "ap_max": 6,
+        "dp": 5,
+        "rarity": "epic",
+        "gems": 2,
+        "item_effects": {
+            "assad": 1
+        },
+        "enhancement_text": "",
+        "enhancement": {
+            "1": {
+                "ap_min": 5,
+                "ap_max": 7
+            },
+            "2": {
+                "ap_min": 5,
+                "ap_max": 8
+            },
+            "3": {
+                "ap_min": 5,
+                "ap_max": 9
+            },
+            "4": {
+                "ap_min": 5,
+                "ap_max": 10
+            },
+            "5": {
+                "ap_min": 6,
+                "ap_max": 11
+            },
+            "6": {
+                "ap_min": 6,
+                "ap_max": 12
+            },
+            "7": {
+                "ap_min": 6,
+                "ap_max": 13
+            },
+            "8": {
+                "ap_min": 6,
+                "ap_max": 14
+            },
+            "9": {
+                "ap_min": 6,
+                "ap_max": 15
+            },
+            "10": {
+                "ap_min": 7,
+                "ap_max": 16
+            },
+            "11": {
+                "ap_min": 7,
+                "ap_max": 17
+            },
+            "12": {
+                "ap_min": 7,
+                "ap_max": 18
+            },
+            "13": {
+                "ap_min": 7,
+                "ap_max": 19
+            },
+            "14": {
+                "ap_min": 7,
+                "ap_max": 20
+            },
+            "15": {
+                "ap_min": 8,
+                "ap_max": 21
+            },
+            "16": {
+                "ap_min": 9,
+                "ap_max": 22,
+                "dp": 6
+            },
+            "17": {
+                "ap_min": 10,
+                "ap_max": 23,
+                "dp": 7
+            },
+            "18": {
+                "ap_min": 14,
+                "ap_max": 27,
+                "dp": 8
+            },
+            "19": {
+                "ap_min": 15,
+                "ap_max": 28,
+                "dp": 9
+            },
+            "20": {
+                "ap_min": 16,
+                "ap_max": 29,
+                "dp": 10
+            }
+        },
+        "name": "Ultimate Krea Ornamental Knot"
+    },
+    "10732": {
+        "set": "Rosar",
+        "ap_min": 1,
+        "ap_max": 4,
+        "dp": 4,
+        "rarity": "rare",
+        "gems": 2,
+        "item_effects": {
+            "abad": 1
+        },
+        "enhancement_text": "",
+        "enhancement": {
+            "1": {
+                "ap_min": 1,
+                "ap_max": 4,
+                "dp": 5
+            },
+            "2": {
+                "ap_min": 1,
+                "ap_max": 4,
+                "dp": 6
+            },
+            "3": {
+                "ap_min": 1,
+                "ap_max": 4,
+                "dp": 7
+            },
+            "4": {
+                "ap_min": 1,
+                "ap_max": 4,
+                "dp": 8
+            },
+            "5": {
+                "ap_min": 1,
+                "ap_max": 4,
+                "dp": 9
+            },
+            "6": {
+                "ap_min": 1,
+                "ap_max": 4,
+                "dp": 10
+            },
+            "7": {
+                "ap_min": 1,
+                "ap_max": 4,
+                "dp": 11
+            },
+            "8": {
+                "ap_min": 2,
+                "ap_max": 5,
+                "dp": 12
+            },
+            "9": {
+                "ap_min": 3,
+                "ap_max": 6,
+                "dp": 13
+            },
+            "10": {
+                "ap_min": 4,
+                "ap_max": 7,
+                "dp": 14
+            },
+            "11": {
+                "ap_min": 5,
+                "ap_max": 8,
+                "dp": 15
+            },
+            "12": {
+                "ap_min": 6,
+                "ap_max": 9,
+                "dp": 16
+            },
+            "13": {
+                "ap_min": 7,
+                "ap_max": 10,
+                "dp": 17
+            },
+            "14": {
+                "ap_min": 8,
+                "ap_max": 11,
+                "dp": 18
+            },
+            "15": {
+                "ap_min": 9,
+                "ap_max": 12,
+                "dp": 19
+            },
+            "16": {
+                "ap_min": 10,
+                "ap_max": 13,
+                "dp": 21
+            },
+            "17": {
+                "ap_min": 11,
+                "ap_max": 14,
+                "dp": 23
+            },
+            "18": {
+                "ap_min": 12,
+                "ap_max": 15,
+                "dp": 28
+            },
+            "19": {
+                "ap_min": 13,
+                "ap_max": 16,
+                "dp": 30
+            },
+            "20": {
+                "ap_min": 14,
+                "ap_max": 17,
+                "dp": 32
+            }
+        },
+        "name": "Rosar Ornamental Knot of Crimson Flame"
+    },
+    "10733": {
+        "set": "Rosar",
+        "ap_min": 1,
+        "ap_max": 4,
+        "dp": 4,
+        "rarity": "rare",
+        "gems": 2,
+        "item_effects": {
+            "adad": 1
+        },
+        "enhancement_text": "",
+        "enhancement": {
+            "1": {
+                "ap_min": 1,
+                "ap_max": 4,
+                "dp": 5
+            },
+            "2": {
+                "ap_min": 1,
+                "ap_max": 4,
+                "dp": 6
+            },
+            "3": {
+                "ap_min": 1,
+                "ap_max": 4,
+                "dp": 7
+            },
+            "4": {
+                "ap_min": 1,
+                "ap_max": 4,
+                "dp": 8
+            },
+            "5": {
+                "ap_min": 1,
+                "ap_max": 4,
+                "dp": 9
+            },
+            "6": {
+                "ap_min": 1,
+                "ap_max": 4,
+                "dp": 10
+            },
+            "7": {
+                "ap_min": 1,
+                "ap_max": 4,
+                "dp": 11
+            },
+            "8": {
+                "ap_min": 2,
+                "ap_max": 5,
+                "dp": 12
+            },
+            "9": {
+                "ap_min": 3,
+                "ap_max": 6,
+                "dp": 13
+            },
+            "10": {
+                "ap_min": 4,
+                "ap_max": 7,
+                "dp": 14
+            },
+            "11": {
+                "ap_min": 5,
+                "ap_max": 8,
+                "dp": 15
+            },
+            "12": {
+                "ap_min": 6,
+                "ap_max": 9,
+                "dp": 16
+            },
+            "13": {
+                "ap_min": 7,
+                "ap_max": 10,
+                "dp": 17
+            },
+            "14": {
+                "ap_min": 8,
+                "ap_max": 11,
+                "dp": 18
+            },
+            "15": {
+                "ap_min": 9,
+                "ap_max": 12,
+                "dp": 19
+            },
+            "16": {
+                "ap_min": 10,
+                "ap_max": 13,
+                "dp": 21
+            },
+            "17": {
+                "ap_min": 11,
+                "ap_max": 14,
+                "dp": 23
+            },
+            "18": {
+                "ap_min": 12,
+                "ap_max": 15,
+                "dp": 28
+            },
+            "19": {
+                "ap_min": 13,
+                "ap_max": 16,
+                "dp": 30
+            },
+            "20": {
+                "ap_min": 14,
+                "ap_max": 17,
+                "dp": 32
+            }
+        },
+        "name": "Rosar Ornamental Knot of Destruction"
+    },
+    "10734": {
+        "set": "Rosar",
+        "ap_min": 1,
+        "ap_max": 4,
+        "dp": 4,
+        "rarity": "rare",
+        "gems": 2,
+        "item_effects": {
+            "aaad": 1
+        },
+        "enhancement_text": "",
+        "enhancement": {
+            "1": {
+                "ap_min": 1,
+                "ap_max": 4,
+                "dp": 5
+            },
+            "2": {
+                "ap_min": 1,
+                "ap_max": 4,
+                "dp": 6
+            },
+            "3": {
+                "ap_min": 1,
+                "ap_max": 4,
+                "dp": 7
+            },
+            "4": {
+                "ap_min": 1,
+                "ap_max": 4,
+                "dp": 8
+            },
+            "5": {
+                "ap_min": 1,
+                "ap_max": 4,
+                "dp": 9
+            },
+            "6": {
+                "ap_min": 1,
+                "ap_max": 4,
+                "dp": 10
+            },
+            "7": {
+                "ap_min": 1,
+                "ap_max": 4,
+                "dp": 11
+            },
+            "8": {
+                "ap_min": 2,
+                "ap_max": 5,
+                "dp": 12
+            },
+            "9": {
+                "ap_min": 3,
+                "ap_max": 6,
+                "dp": 13
+            },
+            "10": {
+                "ap_min": 4,
+                "ap_max": 7,
+                "dp": 14
+            },
+            "11": {
+                "ap_min": 5,
+                "ap_max": 8,
+                "dp": 15
+            },
+            "12": {
+                "ap_min": 6,
+                "ap_max": 9,
+                "dp": 16
+            },
+            "13": {
+                "ap_min": 7,
+                "ap_max": 10,
+                "dp": 17
+            },
+            "14": {
+                "ap_min": 8,
+                "ap_max": 11,
+                "dp": 18
+            },
+            "15": {
+                "ap_min": 9,
+                "ap_max": 12,
+                "dp": 19
+            },
+            "16": {
+                "ap_min": 10,
+                "ap_max": 13,
+                "dp": 21
+            },
+            "17": {
+                "ap_min": 11,
+                "ap_max": 14,
+                "dp": 23
+            },
+            "18": {
+                "ap_min": 12,
+                "ap_max": 15,
+                "dp": 28
+            },
+            "19": {
+                "ap_min": 13,
+                "ap_max": 16,
+                "dp": 30
+            },
+            "20": {
+                "ap_min": 14,
+                "ap_max": 17,
+                "dp": 32
+            }
+        },
+        "name": "Rosar Ornamental Knot of Temptation"
+    },
+    "10737": {
+        "set": "Rosar",
+        "ap_min": 1,
+        "ap_max": 4,
+        "dp": 6,
+        "rarity": "epic",
+        "gems": 2,
+        "item_effects": {
+            "assad": 1
+        },
+        "enhancement_text": "",
+        "enhancement": {
+            "1": {
+                "ap_min": 1,
+                "ap_max": 4,
+                "dp": 7
+            },
+            "2": {
+                "ap_min": 1,
+                "ap_max": 4,
+                "dp": 8
+            },
+            "3": {
+                "ap_min": 1,
+                "ap_max": 4,
+                "dp": 9
+            },
+            "4": {
+                "ap_min": 1,
+                "ap_max": 4,
+                "dp": 10
+            },
+            "5": {
+                "ap_min": 1,
+                "ap_max": 4,
+                "dp": 11
+            },
+            "6": {
+                "ap_min": 1,
+                "ap_max": 4,
+                "dp": 12
+            },
+            "7": {
+                "ap_min": 1,
+                "ap_max": 4,
+                "dp": 13
+            },
+            "8": {
+                "ap_min": 2,
+                "ap_max": 5,
+                "dp": 14
+            },
+            "9": {
+                "ap_min": 3,
+                "ap_max": 6,
+                "dp": 15
+            },
+            "10": {
+                "ap_min": 4,
+                "ap_max": 7,
+                "dp": 16
+            },
+            "11": {
+                "ap_min": 5,
+                "ap_max": 8,
+                "dp": 17
+            },
+            "12": {
+                "ap_min": 6,
+                "ap_max": 9,
+                "dp": 18
+            },
+            "13": {
+                "ap_min": 7,
+                "ap_max": 10,
+                "dp": 19
+            },
+            "14": {
+                "ap_min": 8,
+                "ap_max": 11,
+                "dp": 20
+            },
+            "15": {
+                "ap_min": 9,
+                "ap_max": 12,
+                "dp": 21
+            },
+            "16": {
+                "ap_min": 10,
+                "ap_max": 13,
+                "dp": 23
+            },
+            "17": {
+                "ap_min": 11,
+                "ap_max": 14,
+                "dp": 25
+            },
+            "18": {
+                "ap_min": 12,
+                "ap_max": 15,
+                "dp": 30
+            },
+            "19": {
+                "ap_min": 13,
+                "ap_max": 16,
+                "dp": 32
+            },
+            "20": {
+                "ap_min": 14,
+                "ap_max": 17,
+                "dp": 34
+            }
+        },
+        "name": "Ultimate Rosar Ornamental Knot"
+    },
+    "10738": {
+        "ap_min": 6,
+        "ap_max": 8,
+        "rarity": "epic",
+        "gems": 2,
+        "item_effects": {
+            "kb": 10,
+            "kd": 10,
+            "ssfr": 10,
+            "gr": 10
+        },
+        "enhancement_text": "",
+        "enhancement": {
+            "1": {
+                "ap_min": 7,
+                "ap_max": 9
+            },
+            "2": {
+                "ap_min": 8,
+                "ap_max": 10
+            },
+            "3": {
+                "ap_min": 9,
+                "ap_max": 11
+            },
+            "4": {
+                "ap_min": 10,
+                "ap_max": 12
+            },
+            "5": {
+                "ap_min": 11,
+                "ap_max": 13
+            },
+            "6": {
+                "ap_min": 12,
+                "ap_max": 14
+            },
+            "7": {
+                "ap_min": 13,
+                "ap_max": 15
+            },
+            "8": {
+                "ap_min": 14,
+                "ap_max": 16
+            },
+            "9": {
+                "ap_min": 15,
+                "ap_max": 17
+            },
+            "10": {
+                "ap_min": 16,
+                "ap_max": 18
+            },
+            "11": {
+                "ap_min": 18,
+                "ap_max": 20
+            },
+            "12": {
+                "ap_min": 20,
+                "ap_max": 22
+            },
+            "13": {
+                "ap_min": 22,
+                "ap_max": 24
+            },
+            "14": {
+                "ap_min": 24,
+                "ap_max": 26
+            },
+            "15": {
+                "ap_min": 26,
+                "ap_max": 28
+            },
+            "16": {
+                "ap_min": 29,
+                "ap_max": 31
+            },
+            "17": {
+                "ap_min": 32,
+                "ap_max": 34
+            },
+            "18": {
+                "ap_min": 38,
+                "ap_max": 40
+            },
+            "19": {
+                "ap_min": 41,
+                "ap_max": 43
+            },
+            "20": {
+                "ap_min": 44,
+                "ap_max": 46
+            }
+        },
+        "name": "Nouver Ornamental Knot"
+    },
+    "10740": {
+        "ap_min": 4,
+        "ap_max": 6,
+        "dp": 4,
+        "rarity": "epic",
+        "gems": 2,
+        "item_effects": {
+            "iar": 10
+        },
+        "enhancement_text": "",
+        "enhancement": {
+            "1": {
+                "ap_min": 5,
+                "ap_max": 7
+            },
+            "2": {
+                "ap_min": 6,
+                "ap_max": 8
+            },
+            "3": {
+                "ap_min": 7,
+                "ap_max": 9
+            },
+            "4": {
+                "ap_min": 8,
+                "ap_max": 10
+            },
+            "5": {
+                "ap_min": 9,
+                "ap_max": 11
+            },
+            "6": {
+                "ap_min": 10,
+                "ap_max": 12
+            },
+            "7": {
+                "ap_min": 11,
+                "ap_max": 13,
+                "dp": 5
+            },
+            "8": {
+                "ap_min": 12,
+                "ap_max": 14,
+                "dp": 6
+            },
+            "9": {
+                "ap_min": 13,
+                "ap_max": 15,
+                "dp": 7
+            },
+            "10": {
+                "ap_min": 14,
+                "ap_max": 16,
+                "dp": 8
+            },
+            "11": {
+                "ap_min": 15,
+                "ap_max": 17,
+                "dp": 9
+            },
+            "12": {
+                "ap_min": 16,
+                "ap_max": 18,
+                "dp": 10
+            },
+            "13": {
+                "ap_min": 17,
+                "ap_max": 19,
+                "dp": 11
+            },
+            "14": {
+                "ap_min": 18,
+                "ap_max": 20,
+                "dp": 12
+            },
+            "15": {
+                "ap_min": 19,
+                "ap_max": 21,
+                "dp": 13
+            },
+            "16": {
+                "ap_min": 20,
+                "ap_max": 22,
+                "dp": 15
+            },
+            "17": {
+                "ap_min": 21,
+                "ap_max": 23,
+                "dp": 17
+            },
+            "18": {
+                "ap_min": 24,
+                "ap_max": 26,
+                "dp": 20
+            },
+            "19": {
+                "ap_min": 25,
+                "ap_max": 27,
+                "dp": 22
+            },
+            "20": {
+                "ap_min": 26,
+                "ap_max": 28,
+                "dp": 24
+            }
+        },
+        "name": "Kutum Ornamental Knot"
+    },
+    "10744": {
+        "ap_min": 7,
+        "ap_max": 9,
+        "dp": 17,
+        "rarity": "uncommon",
+        "gems": 2,
+        "item_effects": {},
+        "enhancement_text": "",
+        "enhancement": {},
+        "name": "Dim Magical Ornamental Knot"
+    },
+    "10745": {
+        "ap_min": 7,
+        "ap_max": 9,
+        "dp": 17,
+        "rarity": "uncommon",
+        "gems": 2,
+        "item_effects": {},
+        "enhancement_text": "",
+        "enhancement": {},
+        "name": "Ornamental Knot of Concentrated Magical Power"
+    },
+    "10746": {
+        "ap_min": 7,
+        "ap_max": 9,
+        "dp": 18,
+        "rarity": "rare",
+        "gems": 2,
+        "item_effects": {},
+        "enhancement_text": "",
+        "enhancement": {},
+        "name": "Ornamental Knot of Sealed Magical Power"
+    }
+}

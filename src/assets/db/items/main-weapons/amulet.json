@@ -1,0 +1,3962 @@
+{
+    "10403": {
+        "ap_min": 10,
+        "ap_max": 14,
+        "rarity": "uncommon",
+        "gems": 1,
+        "item_effects": {
+            "dmgaes": 5,
+            "acc": 10,
+            "wgt": -25,
+            "special": "5% chance to heal 5 HP on attack."
+        },
+        "enhancement_text": "",
+        "enhancement": {
+            "1": {
+                "ap_min": 14,
+                "ap_max": 18
+            },
+            "2": {
+                "ap_min": 17,
+                "ap_max": 21
+            },
+            "3": {
+                "ap_min": 20,
+                "ap_max": 24
+            },
+            "4": {
+                "ap_min": 22,
+                "ap_max": 26
+            },
+            "5": {
+                "ap_min": 24,
+                "ap_max": 28
+            },
+            "6": {
+                "ap_min": 27,
+                "ap_max": 31
+            },
+            "7": {
+                "ap_min": 30,
+                "ap_max": 34
+            },
+            "8": {
+                "ap_min": 34,
+                "ap_max": 38
+            },
+            "9": {
+                "ap_min": 38,
+                "ap_max": 42
+            },
+            "10": {
+                "ap_min": 42,
+                "ap_max": 46
+            },
+            "11": {
+                "ap_min": 46,
+                "ap_max": 50
+            },
+            "12": {
+                "ap_min": 50,
+                "ap_max": 54
+            },
+            "13": {
+                "ap_min": 54,
+                "ap_max": 58
+            },
+            "14": {
+                "ap_min": 58,
+                "ap_max": 62
+            },
+            "15": {
+                "ap_min": 62,
+                "ap_max": 66
+            },
+            "16": {
+                "ap_min": 70,
+                "ap_max": 74
+            },
+            "17": {
+                "ap_min": 78,
+                "ap_max": 82
+            },
+            "18": {
+                "ap_min": 90,
+                "ap_max": 94
+            },
+            "19": {
+                "ap_min": 98,
+                "ap_max": 102
+            },
+            "20": {
+                "ap_min": 106,
+                "ap_max": 110
+            }
+        },
+        "name": "Elsh Amulet"
+    },
+    "10405": {
+        "ap_min": 14,
+        "ap_max": 18,
+        "rarity": "uncommon",
+        "gems": 1,
+        "item_effects": {
+            "acc": 20,
+            "special": "AP does not decrease in the rain."
+        },
+        "enhancement_text": "",
+        "enhancement": {
+            "1": {
+                "ap_min": 18,
+                "ap_max": 22
+            },
+            "2": {
+                "ap_min": 21,
+                "ap_max": 25
+            },
+            "3": {
+                "ap_min": 24,
+                "ap_max": 28
+            },
+            "4": {
+                "ap_min": 26,
+                "ap_max": 30
+            },
+            "5": {
+                "ap_min": 28,
+                "ap_max": 32
+            },
+            "6": {
+                "ap_min": 31,
+                "ap_max": 35
+            },
+            "7": {
+                "ap_min": 34,
+                "ap_max": 38
+            },
+            "8": {
+                "ap_min": 38,
+                "ap_max": 42
+            },
+            "9": {
+                "ap_min": 42,
+                "ap_max": 46
+            },
+            "10": {
+                "ap_min": 46,
+                "ap_max": 50
+            },
+            "11": {
+                "ap_min": 50,
+                "ap_max": 54
+            },
+            "12": {
+                "ap_min": 54,
+                "ap_max": 58
+            },
+            "13": {
+                "ap_min": 58,
+                "ap_max": 62
+            },
+            "14": {
+                "ap_min": 62,
+                "ap_max": 66
+            },
+            "15": {
+                "ap_min": 66,
+                "ap_max": 70
+            },
+            "16": {
+                "ap_min": 74,
+                "ap_max": 78
+            },
+            "17": {
+                "ap_min": 82,
+                "ap_max": 86
+            },
+            "18": {
+                "ap_min": 94,
+                "ap_max": 98
+            },
+            "19": {
+                "ap_min": 102,
+                "ap_max": 106
+            },
+            "20": {
+                "ap_min": 110,
+                "ap_max": 114
+            }
+        },
+        "name": "Azwell Amulet"
+    },
+    "10407": {
+        "ap_min": 10,
+        "ap_max": 14,
+        "rarity": "uncommon",
+        "gems": 1,
+        "item_effects": {
+            "dmgth": 10
+        },
+        "enhancement_text": "",
+        "enhancement": {
+            "1": {
+                "ap_min": 14,
+                "ap_max": 18
+            },
+            "2": {
+                "ap_min": 17,
+                "ap_max": 21
+            },
+            "3": {
+                "ap_min": 20,
+                "ap_max": 24
+            },
+            "4": {
+                "ap_min": 22,
+                "ap_max": 26
+            },
+            "5": {
+                "ap_min": 24,
+                "ap_max": 28
+            },
+            "6": {
+                "ap_min": 27,
+                "ap_max": 31
+            },
+            "7": {
+                "ap_min": 30,
+                "ap_max": 34
+            },
+            "8": {
+                "ap_min": 34,
+                "ap_max": 38
+            },
+            "9": {
+                "ap_min": 38,
+                "ap_max": 42
+            },
+            "10": {
+                "ap_min": 42,
+                "ap_max": 46
+            },
+            "11": {
+                "ap_min": 46,
+                "ap_max": 50
+            },
+            "12": {
+                "ap_min": 50,
+                "ap_max": 54
+            },
+            "13": {
+                "ap_min": 54,
+                "ap_max": 58
+            },
+            "14": {
+                "ap_min": 58,
+                "ap_max": 62
+            },
+            "15": {
+                "ap_min": 62,
+                "ap_max": 66
+            },
+            "16": {
+                "ap_min": 70,
+                "ap_max": 74
+            },
+            "17": {
+                "ap_min": 78,
+                "ap_max": 82
+            },
+            "18": {
+                "ap_min": 90,
+                "ap_max": 94
+            },
+            "19": {
+                "ap_min": 98,
+                "ap_max": 102
+            },
+            "20": {
+                "ap_min": 106,
+                "ap_max": 110
+            }
+        },
+        "name": "Seleth Amulet"
+    },
+    "10409": {
+        "ap_min": 18,
+        "ap_max": 22,
+        "rarity": "rare",
+        "gems": 2,
+        "item_effects": {
+            "chr": 3
+        },
+        "enhancement_text": "",
+        "enhancement": {
+            "1": {
+                "ap_min": 22,
+                "ap_max": 26
+            },
+            "2": {
+                "ap_min": 25,
+                "ap_max": 29
+            },
+            "3": {
+                "ap_min": 28,
+                "ap_max": 32
+            },
+            "4": {
+                "ap_min": 30,
+                "ap_max": 34
+            },
+            "5": {
+                "ap_min": 32,
+                "ap_max": 36
+            },
+            "6": {
+                "ap_min": 35,
+                "ap_max": 39
+            },
+            "7": {
+                "ap_min": 38,
+                "ap_max": 42
+            },
+            "8": {
+                "ap_min": 43,
+                "ap_max": 47
+            },
+            "9": {
+                "ap_min": 48,
+                "ap_max": 52
+            },
+            "10": {
+                "ap_min": 53,
+                "ap_max": 57
+            },
+            "11": {
+                "ap_min": 58,
+                "ap_max": 62
+            },
+            "12": {
+                "ap_min": 63,
+                "ap_max": 67
+            },
+            "13": {
+                "ap_min": 68,
+                "ap_max": 72
+            },
+            "14": {
+                "ap_min": 73,
+                "ap_max": 77
+            },
+            "15": {
+                "ap_min": 78,
+                "ap_max": 82
+            },
+            "16": {
+                "ap_min": 86,
+                "ap_max": 90
+            },
+            "17": {
+                "ap_min": 94,
+                "ap_max": 98
+            },
+            "18": {
+                "ap_min": 106,
+                "ap_max": 110
+            },
+            "19": {
+                "ap_min": 114,
+                "ap_max": 118
+            },
+            "20": {
+                "ap_min": 122,
+                "ap_max": 126
+            }
+        },
+        "name": "Liverto Amulet"
+    },
+    "10410": {
+        "ap_min": 18,
+        "ap_max": 22,
+        "rarity": "epic",
+        "gems": 2,
+        "item_effects": {
+            "cs": 3
+        },
+        "enhancement_text": "",
+        "enhancement": {
+            "1": {
+                "ap_min": 22,
+                "ap_max": 26
+            },
+            "2": {
+                "ap_min": 25,
+                "ap_max": 29
+            },
+            "3": {
+                "ap_min": 28,
+                "ap_max": 32
+            },
+            "4": {
+                "ap_min": 30,
+                "ap_max": 34
+            },
+            "5": {
+                "ap_min": 32,
+                "ap_max": 36
+            },
+            "6": {
+                "ap_min": 35,
+                "ap_max": 39
+            },
+            "7": {
+                "ap_min": 38,
+                "ap_max": 42
+            },
+            "8": {
+                "ap_min": 43,
+                "ap_max": 47
+            },
+            "9": {
+                "ap_min": 48,
+                "ap_max": 52
+            },
+            "10": {
+                "ap_min": 53,
+                "ap_max": 57
+            },
+            "11": {
+                "ap_min": 58,
+                "ap_max": 62
+            },
+            "12": {
+                "ap_min": 63,
+                "ap_max": 67
+            },
+            "13": {
+                "ap_min": 68,
+                "ap_max": 72
+            },
+            "14": {
+                "ap_min": 73,
+                "ap_max": 77
+            },
+            "15": {
+                "ap_min": 78,
+                "ap_max": 82
+            },
+            "16": {
+                "ap_min": 86,
+                "ap_max": 90
+            },
+            "17": {
+                "ap_min": 94,
+                "ap_max": 98
+            },
+            "18": {
+                "ap_min": 106,
+                "ap_max": 110
+            },
+            "19": {
+                "ap_min": 114,
+                "ap_max": 118
+            },
+            "20": {
+                "ap_min": 122,
+                "ap_max": 126
+            }
+        },
+        "name": "Kzarka Amulet"
+    },
+    "10412": {
+        "ap_min": 13,
+        "ap_max": 27,
+        "rarity": "uncommon",
+        "gems": 1,
+        "item_effects": {},
+        "enhancement_text": "",
+        "enhancement": {
+            "1": {
+                "ap_min": 17,
+                "ap_max": 31
+            },
+            "2": {
+                "ap_min": 20,
+                "ap_max": 34
+            },
+            "3": {
+                "ap_min": 23,
+                "ap_max": 37
+            },
+            "4": {
+                "ap_min": 25,
+                "ap_max": 39
+            },
+            "5": {
+                "ap_min": 27,
+                "ap_max": 41
+            },
+            "6": {
+                "ap_min": 30,
+                "ap_max": 44
+            },
+            "7": {
+                "ap_min": 33,
+                "ap_max": 47
+            },
+            "8": {
+                "ap_min": 37,
+                "ap_max": 51
+            },
+            "9": {
+                "ap_min": 41,
+                "ap_max": 55
+            },
+            "10": {
+                "ap_min": 45,
+                "ap_max": 59
+            },
+            "11": {
+                "ap_min": 49,
+                "ap_max": 63
+            },
+            "12": {
+                "ap_min": 53,
+                "ap_max": 67
+            },
+            "13": {
+                "ap_min": 57,
+                "ap_max": 71
+            },
+            "14": {
+                "ap_min": 61,
+                "ap_max": 75
+            },
+            "15": {
+                "ap_min": 65,
+                "ap_max": 79
+            },
+            "16": {
+                "ap_min": 73,
+                "ap_max": 87
+            },
+            "17": {
+                "ap_min": 81,
+                "ap_max": 95
+            },
+            "18": {
+                "ap_min": 93,
+                "ap_max": 107
+            },
+            "19": {
+                "ap_min": 101,
+                "ap_max": 115
+            },
+            "20": {
+                "ap_min": 109,
+                "ap_max": 123
+            }
+        },
+        "name": "Kalis Amulet"
+    },
+    "10413": {
+        "ap_min": 11,
+        "ap_max": 15,
+        "rarity": "uncommon",
+        "gems": 1,
+        "item_effects": {
+            "dmgaes": 5
+        },
+        "enhancement_text": "",
+        "enhancement": {
+            "1": {
+                "ap_min": 15,
+                "ap_max": 19
+            },
+            "2": {
+                "ap_min": 18,
+                "ap_max": 22
+            },
+            "3": {
+                "ap_min": 21,
+                "ap_max": 25
+            },
+            "4": {
+                "ap_min": 23,
+                "ap_max": 27
+            },
+            "5": {
+                "ap_min": 25,
+                "ap_max": 29
+            },
+            "6": {
+                "ap_min": 28,
+                "ap_max": 32
+            },
+            "7": {
+                "ap_min": 31,
+                "ap_max": 35
+            },
+            "8": {
+                "ap_min": 35,
+                "ap_max": 39
+            },
+            "9": {
+                "ap_min": 39,
+                "ap_max": 43
+            },
+            "10": {
+                "ap_min": 43,
+                "ap_max": 47
+            },
+            "11": {
+                "ap_min": 47,
+                "ap_max": 51
+            },
+            "12": {
+                "ap_min": 51,
+                "ap_max": 55
+            },
+            "13": {
+                "ap_min": 55,
+                "ap_max": 59
+            },
+            "14": {
+                "ap_min": 59,
+                "ap_max": 63
+            },
+            "15": {
+                "ap_min": 63,
+                "ap_max": 67
+            },
+            "16": {
+                "ap_min": 71,
+                "ap_max": 75
+            },
+            "17": {
+                "ap_min": 79,
+                "ap_max": 83
+            },
+            "18": {
+                "ap_min": 91,
+                "ap_max": 95
+            },
+            "19": {
+                "ap_min": 99,
+                "ap_max": 103
+            },
+            "20": {
+                "ap_min": 107,
+                "ap_max": 111
+            }
+        },
+        "name": "Bares Amulet"
+    },
+    "10414": {
+        "ap_min": 16,
+        "ap_max": 21,
+        "rarity": "uncommon",
+        "gems": 1,
+        "item_effects": {
+            "dmgth": 5
+        },
+        "enhancement_text": "",
+        "enhancement": {
+            "1": {
+                "ap_min": 20,
+                "ap_max": 25
+            },
+            "2": {
+                "ap_min": 23,
+                "ap_max": 28
+            },
+            "3": {
+                "ap_min": 26,
+                "ap_max": 31
+            },
+            "4": {
+                "ap_min": 28,
+                "ap_max": 33
+            },
+            "5": {
+                "ap_min": 30,
+                "ap_max": 35
+            },
+            "6": {
+                "ap_min": 33,
+                "ap_max": 38
+            },
+            "7": {
+                "ap_min": 36,
+                "ap_max": 41
+            },
+            "8": {
+                "ap_min": 40,
+                "ap_max": 45
+            },
+            "9": {
+                "ap_min": 44,
+                "ap_max": 49
+            },
+            "10": {
+                "ap_min": 48,
+                "ap_max": 53
+            },
+            "11": {
+                "ap_min": 52,
+                "ap_max": 57
+            },
+            "12": {
+                "ap_min": 56,
+                "ap_max": 61
+            },
+            "13": {
+                "ap_min": 60,
+                "ap_max": 65
+            },
+            "14": {
+                "ap_min": 64,
+                "ap_max": 69
+            },
+            "15": {
+                "ap_min": 68,
+                "ap_max": 73
+            },
+            "16": {
+                "ap_min": 76,
+                "ap_max": 81
+            },
+            "17": {
+                "ap_min": 84,
+                "ap_max": 89
+            },
+            "18": {
+                "ap_min": 96,
+                "ap_max": 101
+            },
+            "19": {
+                "ap_min": 104,
+                "ap_max": 109
+            },
+            "20": {
+                "ap_min": 112,
+                "ap_max": 117
+            }
+        },
+        "name": "Yuria Amulet"
+    },
+    "10420": {
+        "ap_min": 14,
+        "ap_max": 18,
+        "rarity": "rare",
+        "gems": 1,
+        "item_effects": {
+            "acc": 20,
+            "chr": 1,
+            "special": "AP does not decrease in the rain."
+        },
+        "enhancement_text": "",
+        "enhancement": {
+            "1": {
+                "ap_min": 18,
+                "ap_max": 22
+            },
+            "2": {
+                "ap_min": 21,
+                "ap_max": 25
+            },
+            "3": {
+                "ap_min": 24,
+                "ap_max": 28
+            },
+            "4": {
+                "ap_min": 26,
+                "ap_max": 30
+            },
+            "5": {
+                "ap_min": 28,
+                "ap_max": 32
+            },
+            "6": {
+                "ap_min": 31,
+                "ap_max": 35
+            },
+            "7": {
+                "ap_min": 34,
+                "ap_max": 38
+            },
+            "8": {
+                "ap_min": 38,
+                "ap_max": 42
+            },
+            "9": {
+                "ap_min": 42,
+                "ap_max": 46
+            },
+            "10": {
+                "ap_min": 46,
+                "ap_max": 50
+            },
+            "11": {
+                "ap_min": 50,
+                "ap_max": 54
+            },
+            "12": {
+                "ap_min": 54,
+                "ap_max": 58
+            },
+            "13": {
+                "ap_min": 58,
+                "ap_max": 62
+            },
+            "14": {
+                "ap_min": 62,
+                "ap_max": 66
+            },
+            "15": {
+                "ap_min": 66,
+                "ap_max": 70
+            },
+            "16": {
+                "ap_min": 74,
+                "ap_max": 78
+            },
+            "17": {
+                "ap_min": 82,
+                "ap_max": 86
+            },
+            "18": {
+                "ap_min": 94,
+                "ap_max": 98
+            },
+            "19": {
+                "ap_min": 102,
+                "ap_max": 106
+            },
+            "20": {
+                "ap_min": 110,
+                "ap_max": 114
+            }
+        },
+        "name": "Azwell Amulet of Crimson Flame"
+    },
+    "10421": {
+        "ap_min": 14,
+        "ap_max": 18,
+        "rarity": "rare",
+        "gems": 1,
+        "item_effects": {
+            "acc": 20,
+            "as": 1,
+            "special": "AP does not decrease in the rain."
+        },
+        "enhancement_text": "",
+        "enhancement": {
+            "1": {
+                "ap_min": 18,
+                "ap_max": 22
+            },
+            "2": {
+                "ap_min": 21,
+                "ap_max": 25
+            },
+            "3": {
+                "ap_min": 24,
+                "ap_max": 28
+            },
+            "4": {
+                "ap_min": 26,
+                "ap_max": 30
+            },
+            "5": {
+                "ap_min": 28,
+                "ap_max": 32
+            },
+            "6": {
+                "ap_min": 31,
+                "ap_max": 35
+            },
+            "7": {
+                "ap_min": 34,
+                "ap_max": 38
+            },
+            "8": {
+                "ap_min": 38,
+                "ap_max": 42
+            },
+            "9": {
+                "ap_min": 42,
+                "ap_max": 46
+            },
+            "10": {
+                "ap_min": 46,
+                "ap_max": 50
+            },
+            "11": {
+                "ap_min": 50,
+                "ap_max": 54
+            },
+            "12": {
+                "ap_min": 54,
+                "ap_max": 58
+            },
+            "13": {
+                "ap_min": 58,
+                "ap_max": 62
+            },
+            "14": {
+                "ap_min": 62,
+                "ap_max": 66
+            },
+            "15": {
+                "ap_min": 66,
+                "ap_max": 70
+            },
+            "16": {
+                "ap_min": 74,
+                "ap_max": 78
+            },
+            "17": {
+                "ap_min": 82,
+                "ap_max": 86
+            },
+            "18": {
+                "ap_min": 94,
+                "ap_max": 98
+            },
+            "19": {
+                "ap_min": 102,
+                "ap_max": 106
+            },
+            "20": {
+                "ap_min": 110,
+                "ap_max": 114
+            }
+        },
+        "name": "Azwell Amulet of Destruction"
+    },
+    "10422": {
+        "ap_min": 14,
+        "ap_max": 18,
+        "rarity": "rare",
+        "gems": 1,
+        "item_effects": {
+            "acc": 20,
+            "cs": 1,
+            "special": "AP does not decrease in the rain."
+        },
+        "enhancement_text": "",
+        "enhancement": {
+            "1": {
+                "ap_min": 18,
+                "ap_max": 22
+            },
+            "2": {
+                "ap_min": 21,
+                "ap_max": 25
+            },
+            "3": {
+                "ap_min": 24,
+                "ap_max": 28
+            },
+            "4": {
+                "ap_min": 26,
+                "ap_max": 30
+            },
+            "5": {
+                "ap_min": 28,
+                "ap_max": 32
+            },
+            "6": {
+                "ap_min": 31,
+                "ap_max": 35
+            },
+            "7": {
+                "ap_min": 34,
+                "ap_max": 38
+            },
+            "8": {
+                "ap_min": 38,
+                "ap_max": 42
+            },
+            "9": {
+                "ap_min": 42,
+                "ap_max": 46
+            },
+            "10": {
+                "ap_min": 46,
+                "ap_max": 50
+            },
+            "11": {
+                "ap_min": 50,
+                "ap_max": 54
+            },
+            "12": {
+                "ap_min": 54,
+                "ap_max": 58
+            },
+            "13": {
+                "ap_min": 58,
+                "ap_max": 62
+            },
+            "14": {
+                "ap_min": 62,
+                "ap_max": 66
+            },
+            "15": {
+                "ap_min": 66,
+                "ap_max": 70
+            },
+            "16": {
+                "ap_min": 74,
+                "ap_max": 78
+            },
+            "17": {
+                "ap_min": 82,
+                "ap_max": 86
+            },
+            "18": {
+                "ap_min": 94,
+                "ap_max": 98
+            },
+            "19": {
+                "ap_min": 102,
+                "ap_max": 106
+            },
+            "20": {
+                "ap_min": 110,
+                "ap_max": 114
+            }
+        },
+        "name": "Azwell Amulet of Temptation"
+    },
+    "10423": {
+        "ap_min": 16,
+        "ap_max": 24,
+        "rarity": "epic",
+        "gems": 1,
+        "item_effects": {
+            "acc": 20,
+            "chr": 1,
+            "cs": 1,
+            "special": "AP does not decrease in the rain."
+        },
+        "enhancement_text": "",
+        "enhancement": {
+            "1": {
+                "ap_min": 20,
+                "ap_max": 28
+            },
+            "2": {
+                "ap_min": 23,
+                "ap_max": 31
+            },
+            "3": {
+                "ap_min": 26,
+                "ap_max": 34
+            },
+            "4": {
+                "ap_min": 28,
+                "ap_max": 36
+            },
+            "5": {
+                "ap_min": 30,
+                "ap_max": 38
+            },
+            "6": {
+                "ap_min": 33,
+                "ap_max": 41
+            },
+            "7": {
+                "ap_min": 36,
+                "ap_max": 44
+            },
+            "8": {
+                "ap_min": 40,
+                "ap_max": 48
+            },
+            "9": {
+                "ap_min": 44,
+                "ap_max": 52
+            },
+            "10": {
+                "ap_min": 48,
+                "ap_max": 56
+            },
+            "11": {
+                "ap_min": 52,
+                "ap_max": 60
+            },
+            "12": {
+                "ap_min": 56,
+                "ap_max": 64
+            },
+            "13": {
+                "ap_min": 60,
+                "ap_max": 68
+            },
+            "14": {
+                "ap_min": 64,
+                "ap_max": 72
+            },
+            "15": {
+                "ap_min": 68,
+                "ap_max": 76
+            },
+            "16": {
+                "ap_min": 76,
+                "ap_max": 84
+            },
+            "17": {
+                "ap_min": 84,
+                "ap_max": 92
+            },
+            "18": {
+                "ap_min": 96,
+                "ap_max": 104
+            },
+            "19": {
+                "ap_min": 104,
+                "ap_max": 112
+            },
+            "20": {
+                "ap_min": 112,
+                "ap_max": 120
+            }
+        },
+        "name": "Ultimate Azwell Amulet"
+    },
+    "10428": {
+        "ap_min": 10,
+        "ap_max": 14,
+        "rarity": "rare",
+        "gems": 1,
+        "item_effects": {
+            "dmgth": 10,
+            "chr": 1
+        },
+        "enhancement_text": "",
+        "enhancement": {
+            "1": {
+                "ap_min": 14,
+                "ap_max": 18
+            },
+            "2": {
+                "ap_min": 17,
+                "ap_max": 21
+            },
+            "3": {
+                "ap_min": 20,
+                "ap_max": 24
+            },
+            "4": {
+                "ap_min": 22,
+                "ap_max": 26
+            },
+            "5": {
+                "ap_min": 24,
+                "ap_max": 28
+            },
+            "6": {
+                "ap_min": 27,
+                "ap_max": 31
+            },
+            "7": {
+                "ap_min": 30,
+                "ap_max": 34
+            },
+            "8": {
+                "ap_min": 34,
+                "ap_max": 38
+            },
+            "9": {
+                "ap_min": 38,
+                "ap_max": 42
+            },
+            "10": {
+                "ap_min": 42,
+                "ap_max": 46
+            },
+            "11": {
+                "ap_min": 46,
+                "ap_max": 50
+            },
+            "12": {
+                "ap_min": 50,
+                "ap_max": 54
+            },
+            "13": {
+                "ap_min": 54,
+                "ap_max": 58
+            },
+            "14": {
+                "ap_min": 58,
+                "ap_max": 62
+            },
+            "15": {
+                "ap_min": 62,
+                "ap_max": 66
+            },
+            "16": {
+                "ap_min": 70,
+                "ap_max": 74
+            },
+            "17": {
+                "ap_min": 78,
+                "ap_max": 82
+            },
+            "18": {
+                "ap_min": 90,
+                "ap_max": 94
+            },
+            "19": {
+                "ap_min": 98,
+                "ap_max": 102
+            },
+            "20": {
+                "ap_min": 106,
+                "ap_max": 110
+            }
+        },
+        "name": "Seleth Amulet of Crimson Flame"
+    },
+    "10429": {
+        "ap_min": 10,
+        "ap_max": 14,
+        "rarity": "rare",
+        "gems": 1,
+        "item_effects": {
+            "dmgth": 10,
+            "as": 1
+        },
+        "enhancement_text": "",
+        "enhancement": {
+            "1": {
+                "ap_min": 14,
+                "ap_max": 18
+            },
+            "2": {
+                "ap_min": 17,
+                "ap_max": 21
+            },
+            "3": {
+                "ap_min": 20,
+                "ap_max": 24
+            },
+            "4": {
+                "ap_min": 22,
+                "ap_max": 26
+            },
+            "5": {
+                "ap_min": 24,
+                "ap_max": 28
+            },
+            "6": {
+                "ap_min": 27,
+                "ap_max": 31
+            },
+            "7": {
+                "ap_min": 30,
+                "ap_max": 34
+            },
+            "8": {
+                "ap_min": 34,
+                "ap_max": 38
+            },
+            "9": {
+                "ap_min": 38,
+                "ap_max": 42
+            },
+            "10": {
+                "ap_min": 42,
+                "ap_max": 46
+            },
+            "11": {
+                "ap_min": 46,
+                "ap_max": 50
+            },
+            "12": {
+                "ap_min": 50,
+                "ap_max": 54
+            },
+            "13": {
+                "ap_min": 54,
+                "ap_max": 58
+            },
+            "14": {
+                "ap_min": 58,
+                "ap_max": 62
+            },
+            "15": {
+                "ap_min": 62,
+                "ap_max": 66
+            },
+            "16": {
+                "ap_min": 70,
+                "ap_max": 74
+            },
+            "17": {
+                "ap_min": 78,
+                "ap_max": 82
+            },
+            "18": {
+                "ap_min": 90,
+                "ap_max": 94
+            },
+            "19": {
+                "ap_min": 98,
+                "ap_max": 102
+            },
+            "20": {
+                "ap_min": 106,
+                "ap_max": 110
+            }
+        },
+        "name": "Seleth Amulet of Destruction"
+    },
+    "10430": {
+        "ap_min": 10,
+        "ap_max": 14,
+        "rarity": "rare",
+        "gems": 1,
+        "item_effects": {
+            "dmgth": 10,
+            "cs": 1
+        },
+        "enhancement_text": "",
+        "enhancement": {
+            "1": {
+                "ap_min": 14,
+                "ap_max": 18
+            },
+            "2": {
+                "ap_min": 17,
+                "ap_max": 21
+            },
+            "3": {
+                "ap_min": 20,
+                "ap_max": 24
+            },
+            "4": {
+                "ap_min": 22,
+                "ap_max": 26
+            },
+            "5": {
+                "ap_min": 24,
+                "ap_max": 28
+            },
+            "6": {
+                "ap_min": 27,
+                "ap_max": 31
+            },
+            "7": {
+                "ap_min": 30,
+                "ap_max": 34
+            },
+            "8": {
+                "ap_min": 34,
+                "ap_max": 38
+            },
+            "9": {
+                "ap_min": 38,
+                "ap_max": 42
+            },
+            "10": {
+                "ap_min": 42,
+                "ap_max": 46
+            },
+            "11": {
+                "ap_min": 46,
+                "ap_max": 50
+            },
+            "12": {
+                "ap_min": 50,
+                "ap_max": 54
+            },
+            "13": {
+                "ap_min": 54,
+                "ap_max": 58
+            },
+            "14": {
+                "ap_min": 58,
+                "ap_max": 62
+            },
+            "15": {
+                "ap_min": 62,
+                "ap_max": 66
+            },
+            "16": {
+                "ap_min": 70,
+                "ap_max": 74
+            },
+            "17": {
+                "ap_min": 78,
+                "ap_max": 82
+            },
+            "18": {
+                "ap_min": 90,
+                "ap_max": 94
+            },
+            "19": {
+                "ap_min": 98,
+                "ap_max": 102
+            },
+            "20": {
+                "ap_min": 106,
+                "ap_max": 110
+            }
+        },
+        "name": "Seleth Amulet of Temptation"
+    },
+    "10431": {
+        "ap_min": 10,
+        "ap_max": 18,
+        "rarity": "epic",
+        "gems": 1,
+        "item_effects": {
+            "dmgth": 10,
+            "chr": 1,
+            "cs": 1
+        },
+        "enhancement_text": "",
+        "enhancement": {
+            "1": {
+                "ap_min": 14,
+                "ap_max": 22
+            },
+            "2": {
+                "ap_min": 17,
+                "ap_max": 25
+            },
+            "3": {
+                "ap_min": 20,
+                "ap_max": 28
+            },
+            "4": {
+                "ap_min": 22,
+                "ap_max": 30
+            },
+            "5": {
+                "ap_min": 24,
+                "ap_max": 32
+            },
+            "6": {
+                "ap_min": 27,
+                "ap_max": 35
+            },
+            "7": {
+                "ap_min": 30,
+                "ap_max": 38
+            },
+            "8": {
+                "ap_min": 34,
+                "ap_max": 42
+            },
+            "9": {
+                "ap_min": 38,
+                "ap_max": 46
+            },
+            "10": {
+                "ap_min": 42,
+                "ap_max": 50
+            },
+            "11": {
+                "ap_min": 46,
+                "ap_max": 54
+            },
+            "12": {
+                "ap_min": 50,
+                "ap_max": 58
+            },
+            "13": {
+                "ap_min": 54,
+                "ap_max": 62
+            },
+            "14": {
+                "ap_min": 58,
+                "ap_max": 66
+            },
+            "15": {
+                "ap_min": 62,
+                "ap_max": 70
+            },
+            "16": {
+                "ap_min": 70,
+                "ap_max": 78
+            },
+            "17": {
+                "ap_min": 78,
+                "ap_max": 86
+            },
+            "18": {
+                "ap_min": 90,
+                "ap_max": 98
+            },
+            "19": {
+                "ap_min": 98,
+                "ap_max": 106
+            },
+            "20": {
+                "ap_min": 106,
+                "ap_max": 114
+            }
+        },
+        "name": "Ultimate Seleth Amulet"
+    },
+    "10432": {
+        "ap_min": 13,
+        "ap_max": 27,
+        "rarity": "rare",
+        "gems": 1,
+        "item_effects": {
+            "chr": 1
+        },
+        "enhancement_text": "",
+        "enhancement": {
+            "1": {
+                "ap_min": 17,
+                "ap_max": 31
+            },
+            "2": {
+                "ap_min": 20,
+                "ap_max": 34
+            },
+            "3": {
+                "ap_min": 23,
+                "ap_max": 37
+            },
+            "4": {
+                "ap_min": 25,
+                "ap_max": 39
+            },
+            "5": {
+                "ap_min": 27,
+                "ap_max": 41
+            },
+            "6": {
+                "ap_min": 30,
+                "ap_max": 44
+            },
+            "7": {
+                "ap_min": 33,
+                "ap_max": 47
+            },
+            "8": {
+                "ap_min": 37,
+                "ap_max": 51
+            },
+            "9": {
+                "ap_min": 41,
+                "ap_max": 55
+            },
+            "10": {
+                "ap_min": 45,
+                "ap_max": 59
+            },
+            "11": {
+                "ap_min": 49,
+                "ap_max": 63
+            },
+            "12": {
+                "ap_min": 53,
+                "ap_max": 67
+            },
+            "13": {
+                "ap_min": 57,
+                "ap_max": 71
+            },
+            "14": {
+                "ap_min": 61,
+                "ap_max": 75
+            },
+            "15": {
+                "ap_min": 65,
+                "ap_max": 79
+            },
+            "16": {
+                "ap_min": 73,
+                "ap_max": 87
+            },
+            "17": {
+                "ap_min": 81,
+                "ap_max": 95
+            },
+            "18": {
+                "ap_min": 93,
+                "ap_max": 107
+            },
+            "19": {
+                "ap_min": 101,
+                "ap_max": 115
+            },
+            "20": {
+                "ap_min": 109,
+                "ap_max": 123
+            }
+        },
+        "name": "Kalis Amulet of Crimson Flame"
+    },
+    "10433": {
+        "ap_min": 13,
+        "ap_max": 27,
+        "rarity": "rare",
+        "gems": 1,
+        "item_effects": {
+            "as": 1
+        },
+        "enhancement_text": "",
+        "enhancement": {
+            "1": {
+                "ap_min": 17,
+                "ap_max": 31
+            },
+            "2": {
+                "ap_min": 20,
+                "ap_max": 34
+            },
+            "3": {
+                "ap_min": 23,
+                "ap_max": 37
+            },
+            "4": {
+                "ap_min": 25,
+                "ap_max": 39
+            },
+            "5": {
+                "ap_min": 27,
+                "ap_max": 41
+            },
+            "6": {
+                "ap_min": 30,
+                "ap_max": 44
+            },
+            "7": {
+                "ap_min": 33,
+                "ap_max": 47
+            },
+            "8": {
+                "ap_min": 37,
+                "ap_max": 51
+            },
+            "9": {
+                "ap_min": 41,
+                "ap_max": 55
+            },
+            "10": {
+                "ap_min": 45,
+                "ap_max": 59
+            },
+            "11": {
+                "ap_min": 49,
+                "ap_max": 63
+            },
+            "12": {
+                "ap_min": 53,
+                "ap_max": 67
+            },
+            "13": {
+                "ap_min": 57,
+                "ap_max": 71
+            },
+            "14": {
+                "ap_min": 61,
+                "ap_max": 75
+            },
+            "15": {
+                "ap_min": 65,
+                "ap_max": 79
+            },
+            "16": {
+                "ap_min": 73,
+                "ap_max": 87
+            },
+            "17": {
+                "ap_min": 81,
+                "ap_max": 95
+            },
+            "18": {
+                "ap_min": 93,
+                "ap_max": 107
+            },
+            "19": {
+                "ap_min": 101,
+                "ap_max": 115
+            },
+            "20": {
+                "ap_min": 109,
+                "ap_max": 123
+            }
+        },
+        "name": "Kalis Amulet of Destruction"
+    },
+    "10434": {
+        "ap_min": 13,
+        "ap_max": 27,
+        "rarity": "rare",
+        "gems": 1,
+        "item_effects": {
+            "as": 1
+        },
+        "enhancement_text": "",
+        "enhancement": {
+            "1": {
+                "ap_min": 17,
+                "ap_max": 31
+            },
+            "2": {
+                "ap_min": 20,
+                "ap_max": 34
+            },
+            "3": {
+                "ap_min": 23,
+                "ap_max": 37
+            },
+            "4": {
+                "ap_min": 25,
+                "ap_max": 39
+            },
+            "5": {
+                "ap_min": 27,
+                "ap_max": 41
+            },
+            "6": {
+                "ap_min": 30,
+                "ap_max": 44
+            },
+            "7": {
+                "ap_min": 33,
+                "ap_max": 47
+            },
+            "8": {
+                "ap_min": 37,
+                "ap_max": 51
+            },
+            "9": {
+                "ap_min": 41,
+                "ap_max": 55
+            },
+            "10": {
+                "ap_min": 45,
+                "ap_max": 59
+            },
+            "11": {
+                "ap_min": 49,
+                "ap_max": 63
+            },
+            "12": {
+                "ap_min": 53,
+                "ap_max": 67
+            },
+            "13": {
+                "ap_min": 57,
+                "ap_max": 71
+            },
+            "14": {
+                "ap_min": 61,
+                "ap_max": 75
+            },
+            "15": {
+                "ap_min": 65,
+                "ap_max": 79
+            },
+            "16": {
+                "ap_min": 73,
+                "ap_max": 87
+            },
+            "17": {
+                "ap_min": 81,
+                "ap_max": 95
+            },
+            "18": {
+                "ap_min": 93,
+                "ap_max": 107
+            },
+            "19": {
+                "ap_min": 101,
+                "ap_max": 115
+            },
+            "20": {
+                "ap_min": 109,
+                "ap_max": 123
+            }
+        },
+        "name": "Kalis Amulet of Temptation"
+    },
+    "10435": {
+        "ap_min": 13,
+        "ap_max": 31,
+        "rarity": "epic",
+        "gems": 1,
+        "item_effects": {
+            "chr": 1,
+            "cs": 1
+        },
+        "enhancement_text": "",
+        "enhancement": {
+            "1": {
+                "ap_min": 17,
+                "ap_max": 35
+            },
+            "2": {
+                "ap_min": 20,
+                "ap_max": 38
+            },
+            "3": {
+                "ap_min": 23,
+                "ap_max": 41
+            },
+            "4": {
+                "ap_min": 25,
+                "ap_max": 43
+            },
+            "5": {
+                "ap_min": 27,
+                "ap_max": 45
+            },
+            "6": {
+                "ap_min": 30,
+                "ap_max": 48
+            },
+            "7": {
+                "ap_min": 33,
+                "ap_max": 51
+            },
+            "8": {
+                "ap_min": 37,
+                "ap_max": 55
+            },
+            "9": {
+                "ap_min": 41,
+                "ap_max": 59
+            },
+            "10": {
+                "ap_min": 45,
+                "ap_max": 63
+            },
+            "11": {
+                "ap_min": 49,
+                "ap_max": 67
+            },
+            "12": {
+                "ap_min": 53,
+                "ap_max": 71
+            },
+            "13": {
+                "ap_min": 57,
+                "ap_max": 75
+            },
+            "14": {
+                "ap_min": 61,
+                "ap_max": 79
+            },
+            "15": {
+                "ap_min": 65,
+                "ap_max": 83
+            },
+            "16": {
+                "ap_min": 73,
+                "ap_max": 91
+            },
+            "17": {
+                "ap_min": 81,
+                "ap_max": 99
+            },
+            "18": {
+                "ap_min": 93,
+                "ap_max": 111
+            },
+            "19": {
+                "ap_min": 101,
+                "ap_max": 119
+            },
+            "20": {
+                "ap_min": 109,
+                "ap_max": 127
+            }
+        },
+        "name": "Ultimate Kalis Amulet"
+    },
+    "10436": {
+        "ap_min": 11,
+        "ap_max": 15,
+        "rarity": "rare",
+        "gems": 1,
+        "item_effects": {
+            "dmgaes": 5,
+            "chr": 1
+        },
+        "enhancement_text": "",
+        "enhancement": {
+            "1": {
+                "ap_min": 15,
+                "ap_max": 19
+            },
+            "2": {
+                "ap_min": 18,
+                "ap_max": 22
+            },
+            "3": {
+                "ap_min": 21,
+                "ap_max": 25
+            },
+            "4": {
+                "ap_min": 23,
+                "ap_max": 27
+            },
+            "5": {
+                "ap_min": 25,
+                "ap_max": 29
+            },
+            "6": {
+                "ap_min": 28,
+                "ap_max": 32
+            },
+            "7": {
+                "ap_min": 31,
+                "ap_max": 35
+            },
+            "8": {
+                "ap_min": 35,
+                "ap_max": 39
+            },
+            "9": {
+                "ap_min": 39,
+                "ap_max": 43
+            },
+            "10": {
+                "ap_min": 43,
+                "ap_max": 47
+            },
+            "11": {
+                "ap_min": 47,
+                "ap_max": 51
+            },
+            "12": {
+                "ap_min": 51,
+                "ap_max": 55
+            },
+            "13": {
+                "ap_min": 55,
+                "ap_max": 59
+            },
+            "14": {
+                "ap_min": 59,
+                "ap_max": 63
+            },
+            "15": {
+                "ap_min": 63,
+                "ap_max": 67
+            },
+            "16": {
+                "ap_min": 71,
+                "ap_max": 75
+            },
+            "17": {
+                "ap_min": 79,
+                "ap_max": 83
+            },
+            "18": {
+                "ap_min": 91,
+                "ap_max": 95
+            },
+            "19": {
+                "ap_min": 99,
+                "ap_max": 103
+            },
+            "20": {
+                "ap_min": 107,
+                "ap_max": 111
+            }
+        },
+        "name": "Bares Amulet of Crimson Flame"
+    },
+    "10437": {
+        "ap_min": 11,
+        "ap_max": 15,
+        "rarity": "rare",
+        "gems": 1,
+        "item_effects": {
+            "dmgaes": 5,
+            "as": 1
+        },
+        "enhancement_text": "",
+        "enhancement": {
+            "1": {
+                "ap_min": 15,
+                "ap_max": 19
+            },
+            "2": {
+                "ap_min": 18,
+                "ap_max": 22
+            },
+            "3": {
+                "ap_min": 21,
+                "ap_max": 25
+            },
+            "4": {
+                "ap_min": 23,
+                "ap_max": 27
+            },
+            "5": {
+                "ap_min": 25,
+                "ap_max": 29
+            },
+            "6": {
+                "ap_min": 28,
+                "ap_max": 32
+            },
+            "7": {
+                "ap_min": 31,
+                "ap_max": 35
+            },
+            "8": {
+                "ap_min": 35,
+                "ap_max": 39
+            },
+            "9": {
+                "ap_min": 39,
+                "ap_max": 43
+            },
+            "10": {
+                "ap_min": 43,
+                "ap_max": 47
+            },
+            "11": {
+                "ap_min": 47,
+                "ap_max": 51
+            },
+            "12": {
+                "ap_min": 51,
+                "ap_max": 55
+            },
+            "13": {
+                "ap_min": 55,
+                "ap_max": 59
+            },
+            "14": {
+                "ap_min": 59,
+                "ap_max": 63
+            },
+            "15": {
+                "ap_min": 63,
+                "ap_max": 67
+            },
+            "16": {
+                "ap_min": 71,
+                "ap_max": 75
+            },
+            "17": {
+                "ap_min": 79,
+                "ap_max": 83
+            },
+            "18": {
+                "ap_min": 91,
+                "ap_max": 95
+            },
+            "19": {
+                "ap_min": 99,
+                "ap_max": 103
+            },
+            "20": {
+                "ap_min": 107,
+                "ap_max": 111
+            }
+        },
+        "name": "Bares Amulet of Destruction"
+    },
+    "10438": {
+        "ap_min": 11,
+        "ap_max": 15,
+        "rarity": "rare",
+        "gems": 1,
+        "item_effects": {
+            "dmgaes": 5,
+            "cs": 1
+        },
+        "enhancement_text": "",
+        "enhancement": {
+            "1": {
+                "ap_min": 15,
+                "ap_max": 19
+            },
+            "2": {
+                "ap_min": 18,
+                "ap_max": 22
+            },
+            "3": {
+                "ap_min": 21,
+                "ap_max": 25
+            },
+            "4": {
+                "ap_min": 23,
+                "ap_max": 27
+            },
+            "5": {
+                "ap_min": 25,
+                "ap_max": 29
+            },
+            "6": {
+                "ap_min": 28,
+                "ap_max": 32
+            },
+            "7": {
+                "ap_min": 31,
+                "ap_max": 35
+            },
+            "8": {
+                "ap_min": 35,
+                "ap_max": 39
+            },
+            "9": {
+                "ap_min": 39,
+                "ap_max": 43
+            },
+            "10": {
+                "ap_min": 43,
+                "ap_max": 47
+            },
+            "11": {
+                "ap_min": 47,
+                "ap_max": 51
+            },
+            "12": {
+                "ap_min": 51,
+                "ap_max": 55
+            },
+            "13": {
+                "ap_min": 55,
+                "ap_max": 59
+            },
+            "14": {
+                "ap_min": 59,
+                "ap_max": 63
+            },
+            "15": {
+                "ap_min": 63,
+                "ap_max": 67
+            },
+            "16": {
+                "ap_min": 71,
+                "ap_max": 75
+            },
+            "17": {
+                "ap_min": 79,
+                "ap_max": 83
+            },
+            "18": {
+                "ap_min": 91,
+                "ap_max": 95
+            },
+            "19": {
+                "ap_min": 99,
+                "ap_max": 103
+            },
+            "20": {
+                "ap_min": 107,
+                "ap_max": 111
+            }
+        },
+        "name": "Bares Amulet of Temptation"
+    },
+    "10439": {
+        "ap_min": 11,
+        "ap_max": 19,
+        "rarity": "epic",
+        "gems": 1,
+        "item_effects": {
+            "dmgaes": 5,
+            "chr": 1,
+            "cs": 1
+        },
+        "enhancement_text": "",
+        "enhancement": {
+            "1": {
+                "ap_min": 15,
+                "ap_max": 23
+            },
+            "2": {
+                "ap_min": 18,
+                "ap_max": 26
+            },
+            "3": {
+                "ap_min": 21,
+                "ap_max": 29
+            },
+            "4": {
+                "ap_min": 23,
+                "ap_max": 31
+            },
+            "5": {
+                "ap_min": 25,
+                "ap_max": 33
+            },
+            "6": {
+                "ap_min": 28,
+                "ap_max": 36
+            },
+            "7": {
+                "ap_min": 31,
+                "ap_max": 39
+            },
+            "8": {
+                "ap_min": 35,
+                "ap_max": 43
+            },
+            "9": {
+                "ap_min": 39,
+                "ap_max": 47
+            },
+            "10": {
+                "ap_min": 43,
+                "ap_max": 51
+            },
+            "11": {
+                "ap_min": 47,
+                "ap_max": 55
+            },
+            "12": {
+                "ap_min": 51,
+                "ap_max": 59
+            },
+            "13": {
+                "ap_min": 55,
+                "ap_max": 63
+            },
+            "14": {
+                "ap_min": 59,
+                "ap_max": 67
+            },
+            "15": {
+                "ap_min": 63,
+                "ap_max": 71
+            },
+            "16": {
+                "ap_min": 71,
+                "ap_max": 79
+            },
+            "17": {
+                "ap_min": 79,
+                "ap_max": 87
+            },
+            "18": {
+                "ap_min": 91,
+                "ap_max": 99
+            },
+            "19": {
+                "ap_min": 99,
+                "ap_max": 107
+            },
+            "20": {
+                "ap_min": 107,
+                "ap_max": 115
+            }
+        },
+        "name": "Ultimate Bares Amulet"
+    },
+    "10440": {
+        "ap_min": 16,
+        "ap_max": 21,
+        "rarity": "rare",
+        "gems": 1,
+        "item_effects": {
+            "dmgth": 5,
+            "chr": 1
+        },
+        "enhancement_text": "",
+        "enhancement": {
+            "1": {
+                "ap_min": 20,
+                "ap_max": 25
+            },
+            "2": {
+                "ap_min": 23,
+                "ap_max": 28
+            },
+            "3": {
+                "ap_min": 26,
+                "ap_max": 31
+            },
+            "4": {
+                "ap_min": 28,
+                "ap_max": 33
+            },
+            "5": {
+                "ap_min": 30,
+                "ap_max": 35
+            },
+            "6": {
+                "ap_min": 33,
+                "ap_max": 38
+            },
+            "7": {
+                "ap_min": 36,
+                "ap_max": 41
+            },
+            "8": {
+                "ap_min": 40,
+                "ap_max": 45
+            },
+            "9": {
+                "ap_min": 44,
+                "ap_max": 49
+            },
+            "10": {
+                "ap_min": 48,
+                "ap_max": 53
+            },
+            "11": {
+                "ap_min": 52,
+                "ap_max": 57
+            },
+            "12": {
+                "ap_min": 56,
+                "ap_max": 61
+            },
+            "13": {
+                "ap_min": 60,
+                "ap_max": 65
+            },
+            "14": {
+                "ap_min": 64,
+                "ap_max": 69
+            },
+            "15": {
+                "ap_min": 68,
+                "ap_max": 73
+            },
+            "16": {
+                "ap_min": 76,
+                "ap_max": 81
+            },
+            "17": {
+                "ap_min": 84,
+                "ap_max": 89
+            },
+            "18": {
+                "ap_min": 96,
+                "ap_max": 101
+            },
+            "19": {
+                "ap_min": 104,
+                "ap_max": 109
+            },
+            "20": {
+                "ap_min": 112,
+                "ap_max": 117
+            }
+        },
+        "name": "Yuria Amulet of Crimson Flame"
+    },
+    "10441": {
+        "ap_min": 16,
+        "ap_max": 21,
+        "rarity": "rare",
+        "gems": 1,
+        "item_effects": {
+            "dmgth": 5,
+            "as": 1
+        },
+        "enhancement_text": "",
+        "enhancement": {
+            "1": {
+                "ap_min": 20,
+                "ap_max": 25
+            },
+            "2": {
+                "ap_min": 23,
+                "ap_max": 28
+            },
+            "3": {
+                "ap_min": 26,
+                "ap_max": 31
+            },
+            "4": {
+                "ap_min": 28,
+                "ap_max": 33
+            },
+            "5": {
+                "ap_min": 30,
+                "ap_max": 35
+            },
+            "6": {
+                "ap_min": 33,
+                "ap_max": 38
+            },
+            "7": {
+                "ap_min": 36,
+                "ap_max": 41
+            },
+            "8": {
+                "ap_min": 40,
+                "ap_max": 45
+            },
+            "9": {
+                "ap_min": 44,
+                "ap_max": 49
+            },
+            "10": {
+                "ap_min": 48,
+                "ap_max": 53
+            },
+            "11": {
+                "ap_min": 52,
+                "ap_max": 57
+            },
+            "12": {
+                "ap_min": 56,
+                "ap_max": 61
+            },
+            "13": {
+                "ap_min": 60,
+                "ap_max": 65
+            },
+            "14": {
+                "ap_min": 64,
+                "ap_max": 69
+            },
+            "15": {
+                "ap_min": 68,
+                "ap_max": 73
+            },
+            "16": {
+                "ap_min": 76,
+                "ap_max": 81
+            },
+            "17": {
+                "ap_min": 84,
+                "ap_max": 89
+            },
+            "18": {
+                "ap_min": 96,
+                "ap_max": 101
+            },
+            "19": {
+                "ap_min": 104,
+                "ap_max": 109
+            },
+            "20": {
+                "ap_min": 112,
+                "ap_max": 117
+            }
+        },
+        "name": "Yuria Amulet of Destruction"
+    },
+    "10442": {
+        "ap_min": 16,
+        "ap_max": 21,
+        "rarity": "rare",
+        "gems": 1,
+        "item_effects": {
+            "dmgth": 5,
+            "cs": 1
+        },
+        "enhancement_text": "",
+        "enhancement": {
+            "1": {
+                "ap_min": 20,
+                "ap_max": 25
+            },
+            "2": {
+                "ap_min": 23,
+                "ap_max": 28
+            },
+            "3": {
+                "ap_min": 26,
+                "ap_max": 31
+            },
+            "4": {
+                "ap_min": 28,
+                "ap_max": 33
+            },
+            "5": {
+                "ap_min": 30,
+                "ap_max": 35
+            },
+            "6": {
+                "ap_min": 33,
+                "ap_max": 38
+            },
+            "7": {
+                "ap_min": 36,
+                "ap_max": 41
+            },
+            "8": {
+                "ap_min": 40,
+                "ap_max": 45
+            },
+            "9": {
+                "ap_min": 44,
+                "ap_max": 49
+            },
+            "10": {
+                "ap_min": 48,
+                "ap_max": 53
+            },
+            "11": {
+                "ap_min": 52,
+                "ap_max": 57
+            },
+            "12": {
+                "ap_min": 56,
+                "ap_max": 61
+            },
+            "13": {
+                "ap_min": 60,
+                "ap_max": 65
+            },
+            "14": {
+                "ap_min": 64,
+                "ap_max": 69
+            },
+            "15": {
+                "ap_min": 68,
+                "ap_max": 73
+            },
+            "16": {
+                "ap_min": 76,
+                "ap_max": 81
+            },
+            "17": {
+                "ap_min": 84,
+                "ap_max": 89
+            },
+            "18": {
+                "ap_min": 96,
+                "ap_max": 101
+            },
+            "19": {
+                "ap_min": 104,
+                "ap_max": 109
+            },
+            "20": {
+                "ap_min": 112,
+                "ap_max": 117
+            }
+        },
+        "name": "Yuria Amulet of Temptation"
+    },
+    "10443": {
+        "ap_min": 16,
+        "ap_max": 25,
+        "rarity": "epic",
+        "gems": 1,
+        "item_effects": {
+            "dmgth": 5,
+            "chr": 1,
+            "cs": 1
+        },
+        "enhancement_text": "",
+        "enhancement": {
+            "1": {
+                "ap_min": 20,
+                "ap_max": 29
+            },
+            "2": {
+                "ap_min": 23,
+                "ap_max": 32
+            },
+            "3": {
+                "ap_min": 26,
+                "ap_max": 35
+            },
+            "4": {
+                "ap_min": 28,
+                "ap_max": 37
+            },
+            "5": {
+                "ap_min": 30,
+                "ap_max": 39
+            },
+            "6": {
+                "ap_min": 33,
+                "ap_max": 42
+            },
+            "7": {
+                "ap_min": 36,
+                "ap_max": 45
+            },
+            "8": {
+                "ap_min": 40,
+                "ap_max": 49
+            },
+            "9": {
+                "ap_min": 44,
+                "ap_max": 53
+            },
+            "10": {
+                "ap_min": 48,
+                "ap_max": 57
+            },
+            "11": {
+                "ap_min": 52,
+                "ap_max": 61
+            },
+            "12": {
+                "ap_min": 56,
+                "ap_max": 65
+            },
+            "13": {
+                "ap_min": 60,
+                "ap_max": 69
+            },
+            "14": {
+                "ap_min": 64,
+                "ap_max": 73
+            },
+            "15": {
+                "ap_min": 68,
+                "ap_max": 77
+            },
+            "16": {
+                "ap_min": 76,
+                "ap_max": 85
+            },
+            "17": {
+                "ap_min": 84,
+                "ap_max": 93
+            },
+            "18": {
+                "ap_min": 96,
+                "ap_max": 105
+            },
+            "19": {
+                "ap_min": 104,
+                "ap_max": 113
+            },
+            "20": {
+                "ap_min": 112,
+                "ap_max": 121
+            }
+        },
+        "name": "Ultimate Yuria Amulet"
+    },
+    "10456": {
+        "set": "Krea",
+        "ap_min": 17,
+        "ap_max": 19,
+        "rarity": "uncommon",
+        "gems": 2,
+        "item_effects": {},
+        "enhancement_text": "",
+        "enhancement": {
+            "1": {
+                "ap_min": 21,
+                "ap_max": 23
+            },
+            "2": {
+                "ap_min": 24,
+                "ap_max": 26
+            },
+            "3": {
+                "ap_min": 27,
+                "ap_max": 29
+            },
+            "4": {
+                "ap_min": 29,
+                "ap_max": 31
+            },
+            "5": {
+                "ap_min": 31,
+                "ap_max": 33
+            },
+            "6": {
+                "ap_min": 34,
+                "ap_max": 36
+            },
+            "7": {
+                "ap_min": 37,
+                "ap_max": 39
+            },
+            "8": {
+                "ap_min": 41,
+                "ap_max": 43
+            },
+            "9": {
+                "ap_min": 45,
+                "ap_max": 47
+            },
+            "10": {
+                "ap_min": 49,
+                "ap_max": 51
+            },
+            "11": {
+                "ap_min": 53,
+                "ap_max": 55
+            },
+            "12": {
+                "ap_min": 57,
+                "ap_max": 59
+            },
+            "13": {
+                "ap_min": 61,
+                "ap_max": 63
+            },
+            "14": {
+                "ap_min": 65,
+                "ap_max": 67
+            },
+            "15": {
+                "ap_min": 69,
+                "ap_max": 71
+            },
+            "16": {
+                "ap_min": 77,
+                "ap_max": 79
+            },
+            "17": {
+                "ap_min": 85,
+                "ap_max": 87
+            },
+            "18": {
+                "ap_min": 97,
+                "ap_max": 99
+            },
+            "19": {
+                "ap_min": 105,
+                "ap_max": 107
+            },
+            "20": {
+                "ap_min": 113,
+                "ap_max": 115
+            }
+        },
+        "name": "Krea Amulet"
+    },
+    "10457": {
+        "set": "Rosar",
+        "ap_min": 17,
+        "ap_max": 22,
+        "rarity": "uncommon",
+        "gems": 2,
+        "item_effects": {},
+        "enhancement_text": "",
+        "enhancement": {
+            "1": {
+                "ap_min": 21,
+                "ap_max": 26
+            },
+            "2": {
+                "ap_min": 24,
+                "ap_max": 29
+            },
+            "3": {
+                "ap_min": 27,
+                "ap_max": 32
+            },
+            "4": {
+                "ap_min": 29,
+                "ap_max": 34
+            },
+            "5": {
+                "ap_min": 31,
+                "ap_max": 36
+            },
+            "6": {
+                "ap_min": 34,
+                "ap_max": 39
+            },
+            "7": {
+                "ap_min": 37,
+                "ap_max": 42
+            },
+            "8": {
+                "ap_min": 41,
+                "ap_max": 46
+            },
+            "9": {
+                "ap_min": 45,
+                "ap_max": 50
+            },
+            "10": {
+                "ap_min": 49,
+                "ap_max": 54
+            },
+            "11": {
+                "ap_min": 53,
+                "ap_max": 58
+            },
+            "12": {
+                "ap_min": 57,
+                "ap_max": 62
+            },
+            "13": {
+                "ap_min": 61,
+                "ap_max": 66
+            },
+            "14": {
+                "ap_min": 65,
+                "ap_max": 70
+            },
+            "15": {
+                "ap_min": 69,
+                "ap_max": 74
+            },
+            "16": {
+                "ap_min": 77,
+                "ap_max": 82
+            },
+            "17": {
+                "ap_min": 85,
+                "ap_max": 90
+            },
+            "18": {
+                "ap_min": 97,
+                "ap_max": 102
+            },
+            "19": {
+                "ap_min": 105,
+                "ap_max": 110
+            },
+            "20": {
+                "ap_min": 113,
+                "ap_max": 118
+            }
+        },
+        "name": "Rosar Amulet"
+    },
+    "10458": {
+        "set": "Krea",
+        "ap_min": 17,
+        "ap_max": 19,
+        "rarity": "rare",
+        "gems": 2,
+        "item_effects": {
+            "chr": 1
+        },
+        "enhancement_text": "",
+        "enhancement": {
+            "1": {
+                "ap_min": 21,
+                "ap_max": 23
+            },
+            "2": {
+                "ap_min": 24,
+                "ap_max": 26
+            },
+            "3": {
+                "ap_min": 27,
+                "ap_max": 29
+            },
+            "4": {
+                "ap_min": 29,
+                "ap_max": 31
+            },
+            "5": {
+                "ap_min": 31,
+                "ap_max": 33
+            },
+            "6": {
+                "ap_min": 34,
+                "ap_max": 36
+            },
+            "7": {
+                "ap_min": 37,
+                "ap_max": 39
+            },
+            "8": {
+                "ap_min": 41,
+                "ap_max": 43
+            },
+            "9": {
+                "ap_min": 45,
+                "ap_max": 47
+            },
+            "10": {
+                "ap_min": 49,
+                "ap_max": 51
+            },
+            "11": {
+                "ap_min": 53,
+                "ap_max": 55
+            },
+            "12": {
+                "ap_min": 57,
+                "ap_max": 59
+            },
+            "13": {
+                "ap_min": 61,
+                "ap_max": 63
+            },
+            "14": {
+                "ap_min": 65,
+                "ap_max": 67
+            },
+            "15": {
+                "ap_min": 69,
+                "ap_max": 71
+            },
+            "16": {
+                "ap_min": 77,
+                "ap_max": 79
+            },
+            "17": {
+                "ap_min": 85,
+                "ap_max": 87
+            },
+            "18": {
+                "ap_min": 97,
+                "ap_max": 99
+            },
+            "19": {
+                "ap_min": 105,
+                "ap_max": 107
+            },
+            "20": {
+                "ap_min": 113,
+                "ap_max": 115
+            }
+        },
+        "name": "Krea Amulet of Crimson Flame"
+    },
+    "10459": {
+        "set": "Krea",
+        "ap_min": 17,
+        "ap_max": 19,
+        "rarity": "rare",
+        "gems": 2,
+        "item_effects": {
+            "as": 1
+        },
+        "enhancement_text": "",
+        "enhancement": {
+            "1": {
+                "ap_min": 21,
+                "ap_max": 23
+            },
+            "2": {
+                "ap_min": 24,
+                "ap_max": 26
+            },
+            "3": {
+                "ap_min": 27,
+                "ap_max": 29
+            },
+            "4": {
+                "ap_min": 29,
+                "ap_max": 31
+            },
+            "5": {
+                "ap_min": 31,
+                "ap_max": 33
+            },
+            "6": {
+                "ap_min": 34,
+                "ap_max": 36
+            },
+            "7": {
+                "ap_min": 37,
+                "ap_max": 39
+            },
+            "8": {
+                "ap_min": 41,
+                "ap_max": 43
+            },
+            "9": {
+                "ap_min": 45,
+                "ap_max": 47
+            },
+            "10": {
+                "ap_min": 49,
+                "ap_max": 51
+            },
+            "11": {
+                "ap_min": 53,
+                "ap_max": 55
+            },
+            "12": {
+                "ap_min": 57,
+                "ap_max": 59
+            },
+            "13": {
+                "ap_min": 61,
+                "ap_max": 63
+            },
+            "14": {
+                "ap_min": 65,
+                "ap_max": 67
+            },
+            "15": {
+                "ap_min": 69,
+                "ap_max": 71
+            },
+            "16": {
+                "ap_min": 77,
+                "ap_max": 79
+            },
+            "17": {
+                "ap_min": 85,
+                "ap_max": 87
+            },
+            "18": {
+                "ap_min": 97,
+                "ap_max": 99
+            },
+            "19": {
+                "ap_min": 105,
+                "ap_max": 107
+            },
+            "20": {
+                "ap_min": 113,
+                "ap_max": 115
+            }
+        },
+        "name": "Krea Amulet of Destruction"
+    },
+    "10460": {
+        "set": "Krea",
+        "ap_min": 17,
+        "ap_max": 19,
+        "rarity": "rare",
+        "gems": 2,
+        "item_effects": {
+            "cs": 1
+        },
+        "enhancement_text": "",
+        "enhancement": {
+            "1": {
+                "ap_min": 21,
+                "ap_max": 23
+            },
+            "2": {
+                "ap_min": 24,
+                "ap_max": 26
+            },
+            "3": {
+                "ap_min": 27,
+                "ap_max": 29
+            },
+            "4": {
+                "ap_min": 29,
+                "ap_max": 31
+            },
+            "5": {
+                "ap_min": 31,
+                "ap_max": 33
+            },
+            "6": {
+                "ap_min": 34,
+                "ap_max": 36
+            },
+            "7": {
+                "ap_min": 37,
+                "ap_max": 39
+            },
+            "8": {
+                "ap_min": 41,
+                "ap_max": 43
+            },
+            "9": {
+                "ap_min": 45,
+                "ap_max": 47
+            },
+            "10": {
+                "ap_min": 49,
+                "ap_max": 51
+            },
+            "11": {
+                "ap_min": 53,
+                "ap_max": 55
+            },
+            "12": {
+                "ap_min": 57,
+                "ap_max": 59
+            },
+            "13": {
+                "ap_min": 61,
+                "ap_max": 63
+            },
+            "14": {
+                "ap_min": 65,
+                "ap_max": 67
+            },
+            "15": {
+                "ap_min": 69,
+                "ap_max": 71
+            },
+            "16": {
+                "ap_min": 77,
+                "ap_max": 79
+            },
+            "17": {
+                "ap_min": 85,
+                "ap_max": 87
+            },
+            "18": {
+                "ap_min": 97,
+                "ap_max": 99
+            },
+            "19": {
+                "ap_min": 105,
+                "ap_max": 107
+            },
+            "20": {
+                "ap_min": 113,
+                "ap_max": 115
+            }
+        },
+        "name": "Krea Amulet of Temptation"
+    },
+    "10463": {
+        "set": "Krea",
+        "ap_min": 17,
+        "ap_max": 23,
+        "rarity": "epic",
+        "gems": 2,
+        "item_effects": {
+            "chr": 1,
+            "cs": 1
+        },
+        "enhancement_text": "",
+        "enhancement": {
+            "1": {
+                "ap_min": 21,
+                "ap_max": 27
+            },
+            "2": {
+                "ap_min": 24,
+                "ap_max": 30
+            },
+            "3": {
+                "ap_min": 27,
+                "ap_max": 33
+            },
+            "4": {
+                "ap_min": 29,
+                "ap_max": 35
+            },
+            "5": {
+                "ap_min": 31,
+                "ap_max": 37
+            },
+            "6": {
+                "ap_min": 34,
+                "ap_max": 40
+            },
+            "7": {
+                "ap_min": 37,
+                "ap_max": 43
+            },
+            "8": {
+                "ap_min": 41,
+                "ap_max": 47
+            },
+            "9": {
+                "ap_min": 45,
+                "ap_max": 51
+            },
+            "10": {
+                "ap_min": 49,
+                "ap_max": 55
+            },
+            "11": {
+                "ap_min": 53,
+                "ap_max": 59
+            },
+            "12": {
+                "ap_min": 57,
+                "ap_max": 63
+            },
+            "13": {
+                "ap_min": 61,
+                "ap_max": 67
+            },
+            "14": {
+                "ap_min": 65,
+                "ap_max": 71
+            },
+            "15": {
+                "ap_min": 69,
+                "ap_max": 75
+            },
+            "16": {
+                "ap_min": 77,
+                "ap_max": 83
+            },
+            "17": {
+                "ap_min": 85,
+                "ap_max": 91
+            },
+            "18": {
+                "ap_min": 97,
+                "ap_max": 103
+            },
+            "19": {
+                "ap_min": 105,
+                "ap_max": 111
+            },
+            "20": {
+                "ap_min": 113,
+                "ap_max": 119
+            }
+        },
+        "name": "Ultimate Krea Amulet"
+    },
+    "10464": {
+        "set": "Rosar",
+        "ap_min": 17,
+        "ap_max": 22,
+        "rarity": "rare",
+        "gems": 2,
+        "item_effects": {
+            "chr": 1
+        },
+        "enhancement_text": "",
+        "enhancement": {
+            "1": {
+                "ap_min": 21,
+                "ap_max": 26
+            },
+            "2": {
+                "ap_min": 24,
+                "ap_max": 29
+            },
+            "3": {
+                "ap_min": 27,
+                "ap_max": 32
+            },
+            "4": {
+                "ap_min": 29,
+                "ap_max": 34
+            },
+            "5": {
+                "ap_min": 31,
+                "ap_max": 36
+            },
+            "6": {
+                "ap_min": 34,
+                "ap_max": 39
+            },
+            "7": {
+                "ap_min": 37,
+                "ap_max": 42
+            },
+            "8": {
+                "ap_min": 41,
+                "ap_max": 46
+            },
+            "9": {
+                "ap_min": 45,
+                "ap_max": 50
+            },
+            "10": {
+                "ap_min": 49,
+                "ap_max": 54
+            },
+            "11": {
+                "ap_min": 53,
+                "ap_max": 58
+            },
+            "12": {
+                "ap_min": 57,
+                "ap_max": 62
+            },
+            "13": {
+                "ap_min": 61,
+                "ap_max": 66
+            },
+            "14": {
+                "ap_min": 65,
+                "ap_max": 70
+            },
+            "15": {
+                "ap_min": 69,
+                "ap_max": 74
+            },
+            "16": {
+                "ap_min": 77,
+                "ap_max": 82
+            },
+            "17": {
+                "ap_min": 85,
+                "ap_max": 90
+            },
+            "18": {
+                "ap_min": 97,
+                "ap_max": 102
+            },
+            "19": {
+                "ap_min": 105,
+                "ap_max": 110
+            },
+            "20": {
+                "ap_min": 113,
+                "ap_max": 118
+            }
+        },
+        "name": "Rosar Amulet of Crimson Flame"
+    },
+    "10465": {
+        "set": "Rosar",
+        "ap_min": 17,
+        "ap_max": 22,
+        "rarity": "rare",
+        "gems": 2,
+        "item_effects": {
+            "as": 1
+        },
+        "enhancement_text": "",
+        "enhancement": {
+            "1": {
+                "ap_min": 21,
+                "ap_max": 26
+            },
+            "2": {
+                "ap_min": 24,
+                "ap_max": 29
+            },
+            "3": {
+                "ap_min": 27,
+                "ap_max": 32
+            },
+            "4": {
+                "ap_min": 29,
+                "ap_max": 34
+            },
+            "5": {
+                "ap_min": 31,
+                "ap_max": 36
+            },
+            "6": {
+                "ap_min": 34,
+                "ap_max": 39
+            },
+            "7": {
+                "ap_min": 37,
+                "ap_max": 42
+            },
+            "8": {
+                "ap_min": 41,
+                "ap_max": 46
+            },
+            "9": {
+                "ap_min": 45,
+                "ap_max": 50
+            },
+            "10": {
+                "ap_min": 49,
+                "ap_max": 54
+            },
+            "11": {
+                "ap_min": 53,
+                "ap_max": 58
+            },
+            "12": {
+                "ap_min": 57,
+                "ap_max": 62
+            },
+            "13": {
+                "ap_min": 61,
+                "ap_max": 66
+            },
+            "14": {
+                "ap_min": 65,
+                "ap_max": 70
+            },
+            "15": {
+                "ap_min": 69,
+                "ap_max": 74
+            },
+            "16": {
+                "ap_min": 77,
+                "ap_max": 82
+            },
+            "17": {
+                "ap_min": 85,
+                "ap_max": 90
+            },
+            "18": {
+                "ap_min": 97,
+                "ap_max": 102
+            },
+            "19": {
+                "ap_min": 105,
+                "ap_max": 110
+            },
+            "20": {
+                "ap_min": 113,
+                "ap_max": 118
+            }
+        },
+        "name": "Rosar Amulet of Destruction"
+    },
+    "10466": {
+        "set": "Rosar",
+        "ap_min": 17,
+        "ap_max": 22,
+        "rarity": "rare",
+        "gems": 2,
+        "item_effects": {
+            "chr": 1,
+            "cs": 1
+        },
+        "enhancement_text": "",
+        "enhancement": {
+            "1": {
+                "ap_min": 21,
+                "ap_max": 26
+            },
+            "2": {
+                "ap_min": 24,
+                "ap_max": 29
+            },
+            "3": {
+                "ap_min": 27,
+                "ap_max": 32
+            },
+            "4": {
+                "ap_min": 29,
+                "ap_max": 34
+            },
+            "5": {
+                "ap_min": 31,
+                "ap_max": 36
+            },
+            "6": {
+                "ap_min": 34,
+                "ap_max": 39
+            },
+            "7": {
+                "ap_min": 37,
+                "ap_max": 42
+            },
+            "8": {
+                "ap_min": 41,
+                "ap_max": 46
+            },
+            "9": {
+                "ap_min": 45,
+                "ap_max": 50
+            },
+            "10": {
+                "ap_min": 49,
+                "ap_max": 54
+            },
+            "11": {
+                "ap_min": 53,
+                "ap_max": 58
+            },
+            "12": {
+                "ap_min": 57,
+                "ap_max": 62
+            },
+            "13": {
+                "ap_min": 61,
+                "ap_max": 66
+            },
+            "14": {
+                "ap_min": 65,
+                "ap_max": 70
+            },
+            "15": {
+                "ap_min": 69,
+                "ap_max": 74
+            },
+            "16": {
+                "ap_min": 77,
+                "ap_max": 82
+            },
+            "17": {
+                "ap_min": 85,
+                "ap_max": 90
+            },
+            "18": {
+                "ap_min": 97,
+                "ap_max": 102
+            },
+            "19": {
+                "ap_min": 105,
+                "ap_max": 110
+            },
+            "20": {
+                "ap_min": 113,
+                "ap_max": 118
+            }
+        },
+        "name": "Rosar Amulet of Temptation"
+    },
+    "10469": {
+        "set": "Rosar",
+        "ap_min": 17,
+        "ap_max": 26,
+        "rarity": "epic",
+        "gems": 2,
+        "item_effects": {
+            "chr": 1,
+            "cs": 1
+        },
+        "enhancement_text": "",
+        "enhancement": {
+            "1": {
+                "ap_min": 21,
+                "ap_max": 30
+            },
+            "2": {
+                "ap_min": 24,
+                "ap_max": 33
+            },
+            "3": {
+                "ap_min": 27,
+                "ap_max": 36
+            },
+            "4": {
+                "ap_min": 29,
+                "ap_max": 38
+            },
+            "5": {
+                "ap_min": 31,
+                "ap_max": 40
+            },
+            "6": {
+                "ap_min": 34,
+                "ap_max": 43
+            },
+            "7": {
+                "ap_min": 37,
+                "ap_max": 46
+            },
+            "8": {
+                "ap_min": 41,
+                "ap_max": 50
+            },
+            "9": {
+                "ap_min": 45,
+                "ap_max": 54
+            },
+            "10": {
+                "ap_min": 49,
+                "ap_max": 58
+            },
+            "11": {
+                "ap_min": 53,
+                "ap_max": 62
+            },
+            "12": {
+                "ap_min": 57,
+                "ap_max": 66
+            },
+            "13": {
+                "ap_min": 61,
+                "ap_max": 70
+            },
+            "14": {
+                "ap_min": 65,
+                "ap_max": 74
+            },
+            "15": {
+                "ap_min": 69,
+                "ap_max": 78
+            },
+            "16": {
+                "ap_min": 77,
+                "ap_max": 86
+            },
+            "17": {
+                "ap_min": 85,
+                "ap_max": 94
+            },
+            "18": {
+                "ap_min": 97,
+                "ap_max": 106
+            },
+            "19": {
+                "ap_min": 105,
+                "ap_max": 114
+            },
+            "20": {
+                "ap_min": 113,
+                "ap_max": 122
+            }
+        },
+        "name": "Ultimate Rosar Amulet"
+    },
+    "10474": {
+        "ap_min": 10,
+        "ap_max": 14,
+        "rarity": "rare",
+        "gems": 1,
+        "item_effects": {
+            "dmgaes": 5,
+            "acc": 10,
+            "wgt": -25,
+            "chr": 1,
+            "special": "5% chance to heal 5 HP on attack."
+        },
+        "enhancement_text": "",
+        "enhancement": {
+            "1": {
+                "ap_min": 14,
+                "ap_max": 18
+            },
+            "2": {
+                "ap_min": 17,
+                "ap_max": 21
+            },
+            "3": {
+                "ap_min": 20,
+                "ap_max": 24
+            },
+            "4": {
+                "ap_min": 22,
+                "ap_max": 26
+            },
+            "5": {
+                "ap_min": 24,
+                "ap_max": 28
+            },
+            "6": {
+                "ap_min": 27,
+                "ap_max": 31
+            },
+            "7": {
+                "ap_min": 30,
+                "ap_max": 34
+            },
+            "8": {
+                "ap_min": 34,
+                "ap_max": 38
+            },
+            "9": {
+                "ap_min": 38,
+                "ap_max": 42
+            },
+            "10": {
+                "ap_min": 42,
+                "ap_max": 46
+            },
+            "11": {
+                "ap_min": 46,
+                "ap_max": 50
+            },
+            "12": {
+                "ap_min": 50,
+                "ap_max": 54
+            },
+            "13": {
+                "ap_min": 54,
+                "ap_max": 58
+            },
+            "14": {
+                "ap_min": 58,
+                "ap_max": 62
+            },
+            "15": {
+                "ap_min": 62,
+                "ap_max": 66
+            },
+            "16": {
+                "ap_min": 70,
+                "ap_max": 74
+            },
+            "17": {
+                "ap_min": 78,
+                "ap_max": 82
+            },
+            "18": {
+                "ap_min": 90,
+                "ap_max": 94
+            },
+            "19": {
+                "ap_min": 98,
+                "ap_max": 102
+            },
+            "20": {
+                "ap_min": 106,
+                "ap_max": 110
+            }
+        },
+        "name": "Elsh Amulet of Crimson Flame"
+    },
+    "10475": {
+        "ap_min": 10,
+        "ap_max": 14,
+        "rarity": "rare",
+        "gems": 1,
+        "item_effects": {
+            "dmgaes": 5,
+            "acc": 10,
+            "wgt": -25,
+            "as": 1,
+            "special": "5% chance to heal 5 HP on attack."
+        },
+        "enhancement_text": "",
+        "enhancement": {
+            "1": {
+                "ap_min": 14,
+                "ap_max": 18
+            },
+            "2": {
+                "ap_min": 17,
+                "ap_max": 21
+            },
+            "3": {
+                "ap_min": 20,
+                "ap_max": 24
+            },
+            "4": {
+                "ap_min": 22,
+                "ap_max": 26
+            },
+            "5": {
+                "ap_min": 24,
+                "ap_max": 28
+            },
+            "6": {
+                "ap_min": 27,
+                "ap_max": 31
+            },
+            "7": {
+                "ap_min": 30,
+                "ap_max": 34
+            },
+            "8": {
+                "ap_min": 34,
+                "ap_max": 38
+            },
+            "9": {
+                "ap_min": 38,
+                "ap_max": 42
+            },
+            "10": {
+                "ap_min": 42,
+                "ap_max": 46
+            },
+            "11": {
+                "ap_min": 46,
+                "ap_max": 50
+            },
+            "12": {
+                "ap_min": 50,
+                "ap_max": 54
+            },
+            "13": {
+                "ap_min": 54,
+                "ap_max": 58
+            },
+            "14": {
+                "ap_min": 58,
+                "ap_max": 62
+            },
+            "15": {
+                "ap_min": 62,
+                "ap_max": 66
+            },
+            "16": {
+                "ap_min": 70,
+                "ap_max": 74
+            },
+            "17": {
+                "ap_min": 78,
+                "ap_max": 82
+            },
+            "18": {
+                "ap_min": 90,
+                "ap_max": 94
+            },
+            "19": {
+                "ap_min": 98,
+                "ap_max": 102
+            },
+            "20": {
+                "ap_min": 106,
+                "ap_max": 110
+            }
+        },
+        "name": "Elsh Amulet of Destruction"
+    },
+    "10476": {
+        "ap_min": 10,
+        "ap_max": 14,
+        "rarity": "rare",
+        "gems": 1,
+        "item_effects": {
+            "dmgaes": 5,
+            "acc": 10,
+            "wgt": -25,
+            "chr": 1,
+            "cs": 1,
+            "special": "5% chance to heal 5 HP on attack."
+        },
+        "enhancement_text": "",
+        "enhancement": {
+            "1": {
+                "ap_min": 14,
+                "ap_max": 18
+            },
+            "2": {
+                "ap_min": 17,
+                "ap_max": 21
+            },
+            "3": {
+                "ap_min": 20,
+                "ap_max": 24
+            },
+            "4": {
+                "ap_min": 22,
+                "ap_max": 26
+            },
+            "5": {
+                "ap_min": 24,
+                "ap_max": 28
+            },
+            "6": {
+                "ap_min": 27,
+                "ap_max": 31
+            },
+            "7": {
+                "ap_min": 30,
+                "ap_max": 34
+            },
+            "8": {
+                "ap_min": 34,
+                "ap_max": 38
+            },
+            "9": {
+                "ap_min": 38,
+                "ap_max": 42
+            },
+            "10": {
+                "ap_min": 42,
+                "ap_max": 46
+            },
+            "11": {
+                "ap_min": 46,
+                "ap_max": 50
+            },
+            "12": {
+                "ap_min": 50,
+                "ap_max": 54
+            },
+            "13": {
+                "ap_min": 54,
+                "ap_max": 58
+            },
+            "14": {
+                "ap_min": 58,
+                "ap_max": 62
+            },
+            "15": {
+                "ap_min": 62,
+                "ap_max": 66
+            },
+            "16": {
+                "ap_min": 70,
+                "ap_max": 74
+            },
+            "17": {
+                "ap_min": 78,
+                "ap_max": 82
+            },
+            "18": {
+                "ap_min": 90,
+                "ap_max": 94
+            },
+            "19": {
+                "ap_min": 98,
+                "ap_max": 102
+            },
+            "20": {
+                "ap_min": 106,
+                "ap_max": 110
+            }
+        },
+        "name": "Elsh Amulet of Temptation"
+    },
+    "10477": {
+        "ap_min": 10,
+        "ap_max": 18,
+        "rarity": "epic",
+        "gems": 1,
+        "item_effects": {
+            "dmgaes": 5,
+            "acc": 10,
+            "wgt": -25,
+            "chr": 1,
+            "cs": 1,
+            "special": "5% chance to heal 5 HP on attack."
+        },
+        "enhancement_text": "",
+        "enhancement": {
+            "1": {
+                "ap_min": 14,
+                "ap_max": 22
+            },
+            "2": {
+                "ap_min": 17,
+                "ap_max": 25
+            },
+            "3": {
+                "ap_min": 20,
+                "ap_max": 28
+            },
+            "4": {
+                "ap_min": 22,
+                "ap_max": 30
+            },
+            "5": {
+                "ap_min": 24,
+                "ap_max": 32
+            },
+            "6": {
+                "ap_min": 27,
+                "ap_max": 35
+            },
+            "7": {
+                "ap_min": 30,
+                "ap_max": 38
+            },
+            "8": {
+                "ap_min": 34,
+                "ap_max": 42
+            },
+            "9": {
+                "ap_min": 38,
+                "ap_max": 46
+            },
+            "10": {
+                "ap_min": 42,
+                "ap_max": 50
+            },
+            "11": {
+                "ap_min": 46,
+                "ap_max": 54
+            },
+            "12": {
+                "ap_min": 50,
+                "ap_max": 58
+            },
+            "13": {
+                "ap_min": 54,
+                "ap_max": 62
+            },
+            "14": {
+                "ap_min": 58,
+                "ap_max": 66
+            },
+            "15": {
+                "ap_min": 62,
+                "ap_max": 70
+            },
+            "16": {
+                "ap_min": 70,
+                "ap_max": 78
+            },
+            "17": {
+                "ap_min": 78,
+                "ap_max": 86
+            },
+            "18": {
+                "ap_min": 90,
+                "ap_max": 98
+            },
+            "19": {
+                "ap_min": 98,
+                "ap_max": 106
+            },
+            "20": {
+                "ap_min": 106,
+                "ap_max": 114
+            }
+        },
+        "name": "Ultimate Elsh Amulet"
+    }
+}

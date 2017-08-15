@@ -1,0 +1,709 @@
+{
+    "11801": {
+        "rarity": "uncommon",
+        "item_effects": {
+            "dmgth": 2
+        },
+        "enhancement_text": "",
+        "enhancement": {
+            "1": {
+                "dmgth": 3
+            },
+            "2": {
+                "dmgth": 4
+            },
+            "3": {
+                "dmgth": 5
+            },
+            "4": {
+                "dmgth": 6
+            },
+            "5": {
+                "dmgth": 8
+            }
+        },
+        "name": "Yuria Earring"
+    },
+    "11802": {
+        "dp": 0,
+        "ap": 2,
+        "rarity": "uncommon",
+        "item_effects": {},
+        "enhancement_text": "",
+        "enhancement": {
+            "1": {
+                "ap": 3
+            },
+            "2": {
+                "ap": 4
+            },
+            "3": {
+                "ap": 5
+            },
+            "4": {
+                "ap": 6
+            },
+            "5": {
+                "ap": 8
+            }
+        },
+        "name": "Bares Earring"
+    },
+    "11803": {
+        "dp": 1,
+        "ap": 0,
+        "rarity": "uncommon",
+        "item_effects": {},
+        "enhancement_text": "",
+        "enhancement": {
+            "1": {
+                "dp": 2
+            },
+            "2": {
+                "dp": 3
+            },
+            "3": {
+                "dp": 4
+            },
+            "4": {
+                "dp": 5
+            },
+            "5": {
+                "dp": 7
+            }
+        },
+        "name": "Hesus Earring"
+    },
+    "11804": {
+        "dp": 0,
+        "ap": 0,
+        "rarity": "uncommon",
+        "item_effects": {
+            "mpwpsp": 15
+        },
+        "enhancement_text": "",
+        "enhancement": {
+            "1": {
+                "mpwpsp": 30
+            },
+            "2": {
+                "mpwpsp": 45
+            },
+            "3": {
+                "mpwpsp": 60
+            },
+            "4": {
+                "mpwpsp": 75
+            },
+            "5": {
+                "mpwpsp": 100
+            }
+        },
+        "name": "Elisha Earring"
+    },
+    "11805": {
+        "dp": 0,
+        "ap": 0,
+        "rarity": "uncommon",
+        "item_effects": {
+            "acc": 8
+        },
+        "enhancement_text": "",
+        "enhancement": {
+            "1": {
+                "acc": 12
+            },
+            "2": {
+                "acc": 16
+            },
+            "3": {
+                "acc": 20
+            },
+            "4": {
+                "acc": 24
+            },
+            "5": {
+                "acc": 28
+            }
+        },
+        "name": "Kalis Earring"
+    },
+    "11806": {
+        "dp": 2,
+        "ap": 0,
+        "rarity": "uncommon",
+        "item_effects": {},
+        "enhancement_text": "",
+        "enhancement": {
+            "1": {
+                "dp": 3
+            },
+            "2": {
+                "dp": 4
+            },
+            "3": {
+                "dp": 5
+            },
+            "4": {
+                "dp": 6
+            },
+            "5": {
+                "dp": 8
+            }
+        },
+        "name": "Talis Earring"
+    },
+    "11807": {
+        "dp": 5,
+        "ap": 0,
+        "rarity": "rare",
+        "item_effects": {
+            "hp": 20
+        },
+        "enhancement_text": "",
+        "enhancement": {
+            "1": {
+                "dp": 7,
+                "hp": 35
+            },
+            "2": {
+                "dp": 9,
+                "hp": 50
+            },
+            "3": {
+                "dp": 11,
+                "hp": 65
+            },
+            "4": {
+                "dp": 13,
+                "hp": 80
+            },
+            "5": {
+                "dp": 15,
+                "hp": 95
+            }
+        },
+        "name": "Token of Friendship"
+    },
+    "11808": {
+        "dp": 0,
+        "ap": 5,
+        "rarity": "rare",
+        "item_effects": {},
+        "enhancement_text": "",
+        "enhancement": {
+            "1": {
+                "ap": 7
+            },
+            "2": {
+                "ap": 9
+            },
+            "3": {
+                "ap": 11
+            },
+            "4": {
+                "ap": 13
+            },
+            "5": {
+                "ap": 15
+            }
+        },
+        "name": "Witch's Earring"
+    },
+    "11810": {
+        "dp": 0,
+        "ap": 4,
+        "rarity": "rare",
+        "item_effects": {
+            "acc": 6
+        },
+        "enhancement_text": "",
+        "enhancement": {
+            "1": {
+                "ap": 5,
+                "acc": 10
+            },
+            "2": {
+                "ap": 6,
+                "acc": 14
+            },
+            "3": {
+                "ap": 7,
+                "acc": 18
+            },
+            "4": {
+                "ap": 8,
+                "acc": 22
+            },
+            "5": {
+                "ap": 9,
+                "acc": 26
+            }
+        },
+        "name": "Mesto Earring"
+    },
+    "11811": {
+        "dp": 4,
+        "ap": 0,
+        "rarity": "rare",
+        "item_effects": {
+            "acc": 6
+        },
+        "enhancement_text": "",
+        "enhancement": {
+            "1": {
+                "dp": 6,
+                "acc": 10
+            },
+            "2": {
+                "dp": 7,
+                "acc": 14
+            },
+            "3": {
+                "dp": 8,
+                "acc": 18
+            },
+            "4": {
+                "dp": 9,
+                "acc": 22
+            },
+            "5": {
+                "dp": 10,
+                "acc": 26
+            }
+        },
+        "name": "Ridell Earring"
+    },
+    "11812": {
+        "dp": 0,
+        "ap": 3,
+        "rarity": "uncommon",
+        "item_effects": {},
+        "enhancement_text": "",
+        "enhancement": {},
+        "name": "Earring of Dim Magical Power"
+    },
+    "11813": {
+        "dp": 0,
+        "ap": 4,
+        "rarity": "uncommon",
+        "item_effects": {},
+        "enhancement_text": "",
+        "enhancement": {},
+        "name": "Earring of Concentrated Magical Power"
+    },
+    "11814": {
+        "dp": 0,
+        "ap": 5,
+        "rarity": "rare",
+        "item_effects": {},
+        "enhancement_text": "",
+        "enhancement": {
+            "1": {
+                "ap": 6,
+                "dp": 1
+            },
+            "2": {
+                "ap": 7,
+                "dp": 2
+            },
+            "3": {
+                "ap": 8,
+                "dp": 3
+            },
+            "4": {
+                "ap": 9,
+                "dp": 4
+            },
+            "5": {
+                "ap": 10,
+                "dp": 5
+            }
+        },
+        "name": "Earring of Sealed Magical Power"
+    },
+    "11815": {
+        "dp": 0,
+        "ap": 5,
+        "rarity": "rare",
+        "item_effects": {
+            "hp": 100
+        },
+        "enhancement_text": "",
+        "enhancement": {
+            "1": {
+                "ap": 7
+            },
+            "2": {
+                "ap": 9
+            },
+            "3": {
+                "ap": 11
+            },
+            "4": {
+                "ap": 13
+            },
+            "5": {
+                "ap": 15
+            }
+        },
+        "name": "Blue Whale Molar Earring"
+    },
+    "11816": {
+        "dp": 0,
+        "ap": 4,
+        "rarity": "rare",
+        "item_effects": {
+            "mpwpsp": 25
+        },
+        "enhancement_text": "",
+        "enhancement": {
+            "1": {
+                "ap": 6
+            },
+            "2": {
+                "ap": 8
+            },
+            "3": {
+                "ap": 10
+            },
+            "4": {
+                "ap": 12
+            },
+            "5": {
+                "ap": 14
+            }
+        },
+        "name": "Blue Coral Earring"
+    },
+    "11817": {
+        "dp": 0,
+        "ap": 2,
+        "rarity": "rare",
+        "item_effects": {
+            "acc": 14,
+            "stam": 50
+        },
+        "enhancement_text": "",
+        "enhancement": {
+            "1": {
+                "ap": 4,
+                "acc": 18,
+                "stam": 50
+            },
+            "2": {
+                "ap": 6,
+                "acc": 22,
+                "stam": 50
+            },
+            "3": {
+                "ap": 8,
+                "acc": 26,
+                "stam": 50
+            },
+            "4": {
+                "ap": 10,
+                "acc": 30,
+                "stam": 50
+            },
+            "5": {
+                "ap": 12,
+                "acc": 34,
+                "stam": 50
+            }
+        },
+        "name": "Red Coral Earring"
+    },
+    "11827": {
+        "dp": 0,
+        "ap": 5,
+        "rarity": "rare",
+        "item_effects": {
+            "stam": 50,
+            "mpwpsp": 50
+        },
+        "enhancement_text": "",
+        "enhancement": {
+            "1": {
+                "ap": 7,
+                "stam": 70
+            },
+            "2": {
+                "ap": 9,
+                "stam": 90
+            },
+            "3": {
+                "ap": 11,
+                "stam": 110
+            },
+            "4": {
+                "ap": 13,
+                "stam": 130
+            },
+            "5": {
+                "ap": 15,
+                "stam": 150
+            }
+        },
+        "name": "Fugitive Khalk's Earring"
+    },
+    "11828": {
+        "dp": 0,
+        "ap": 7,
+        "rarity": "epic",
+        "item_effects": {
+            "bsr": 10
+        },
+        "enhancement_text": "",
+        "enhancement": {
+            "1": {
+                "ap": 9
+            },
+            "2": {
+                "ap": 11
+            },
+            "3": {
+                "ap": 13
+            },
+            "4": {
+                "ap": 15
+            },
+            "5": {
+                "ap": 17
+            }
+        },
+        "name": "Tungrad Earring"
+    },
+    "11829": {
+        "set": "Jarette",
+        "dp": 0,
+        "ap": 4,
+        "rarity": "rare",
+        "item_effects": {},
+        "enhancement_text": "",
+        "enhancement": {},
+        "name": "Jarette's Earring"
+    },
+    "11903": {
+        "dp": 3,
+        "ap": 0,
+        "rarity": "uncommon",
+        "item_effects": {
+            "hp": 30
+        },
+        "enhancement_text": "",
+        "enhancement": {},
+        "name": "Blood Ruby Earrings"
+    },
+    "11904": {
+        "dp": 4,
+        "ap": 0,
+        "rarity": "rare",
+        "item_effects": {
+            "hp": 40
+        },
+        "enhancement_text": "",
+        "enhancement": {},
+        "name": "Dark Blood Ruby Earrings"
+    },
+    "11905": {
+        "dp": 5,
+        "ap": 0,
+        "rarity": "epic",
+        "item_effects": {
+            "hp": 50
+        },
+        "enhancement_text": "",
+        "enhancement": {},
+        "name": "Corrupt Ruby Earrings"
+    },
+    "11908": {
+        "dp": 3,
+        "ap": 0,
+        "rarity": "uncommon",
+        "item_effects": {
+            "mpwpsp": 30
+        },
+        "enhancement_text": "",
+        "enhancement": {},
+        "name": "Ocean Sapphire Earring"
+    },
+    "11909": {
+        "dp": 4,
+        "ap": 0,
+        "rarity": "rare",
+        "item_effects": {
+            "mpwpsp": 40
+        },
+        "enhancement_text": "",
+        "enhancement": {},
+        "name": "Translucent Ocean Sapphire Earring"
+    },
+    "11910": {
+        "dp": 5,
+        "ap": 0,
+        "rarity": "epic",
+        "item_effects": {
+            "mpwpsp": 50
+        },
+        "enhancement_text": "",
+        "enhancement": {},
+        "name": "Sapphire Earring of Storms"
+    },
+    "11913": {
+        "dp": 3,
+        "ap": 0,
+        "rarity": "uncommon",
+        "item_effects": {
+            "stam": 60
+        },
+        "enhancement_text": "",
+        "enhancement": {},
+        "name": "Gold Topaz Earring"
+    },
+    "11914": {
+        "dp": 4,
+        "ap": 0,
+        "rarity": "rare",
+        "item_effects": {
+            "stam": 80
+        },
+        "enhancement_text": "",
+        "enhancement": {},
+        "name": "Shining Gold Topaz Earrings"
+    },
+    "11915": {
+        "dp": 5,
+        "ap": 0,
+        "rarity": "epic",
+        "item_effects": {
+            "stam": 100
+        },
+        "enhancement_text": "",
+        "enhancement": {},
+        "name": "Topaz Earrings of Regeneration"
+    },
+    "11918": {
+        "dp": 3,
+        "ap": 0,
+        "rarity": "uncommon",
+        "item_effects": {
+            "hprc": 3,
+            "mprc": 3,
+            "wprc": 3,
+            "sprc": 3
+        },
+        "enhancement_text": "",
+        "enhancement": {},
+        "name": "Forest Emerald Earring"
+    },
+    "11919": {
+        "dp": 4,
+        "ap": 0,
+        "rarity": "rare",
+        "item_effects": {
+            "hprc": 4,
+            "mprc": 4,
+            "wprc": 4,
+            "sprc": 4
+        },
+        "enhancement_text": "",
+        "enhancement": {},
+        "name": "Placid Forest Emerald Earring"
+    },
+    "11920": {
+        "dp": 5,
+        "ap": 0,
+        "rarity": "epic",
+        "item_effects": {
+            "hprc": 5,
+            "mprc": 5,
+            "wprc": 5,
+            "sprc": 5
+        },
+        "enhancement_text": "",
+        "enhancement": {},
+        "name": "Emerald Earring of Tranquility"
+    },
+    "11926": {
+        "dp": 6,
+        "ap": 0,
+        "rarity": "epic",
+        "item_effects": {
+            "hp": 50
+        },
+        "enhancement_text": "",
+        "enhancement": {
+            "1": {
+                "dp": 9
+            },
+            "2": {
+                "dp": 12
+            },
+            "3": {
+                "dp": 15
+            },
+            "4": {
+                "dp": 18
+            },
+            "5": {
+                "dp": 21
+            }
+        },
+        "name": "Manos Ruby Earrings"
+    },
+    "11927": {
+        "dp": 6,
+        "ap": 0,
+        "rarity": "epic",
+        "item_effects": {
+            "mpwpsp": 100
+        },
+        "enhancement_text": "",
+        "enhancement": {
+            "1": {
+                "dp": 9
+            },
+            "2": {
+                "dp": 12
+            },
+            "3": {
+                "dp": 15
+            },
+            "4": {
+                "dp": 18
+            },
+            "5": {
+                "dp": 21
+            }
+        },
+        "name": "Manos Sapphire Earrings"
+    },
+    "11928": {
+        "dp": 6,
+        "ap": 0,
+        "rarity": "epic",
+        "item_effects": {
+            "stam": 100
+        },
+        "enhancement_text": "",
+        "enhancement": {
+            "1": {
+                "dp": 9
+            },
+            "2": {
+                "dp": 12
+            },
+            "3": {
+                "dp": 15
+            },
+            "4": {
+                "dp": 18
+            },
+            "5": {
+                "dp": 21
+            }
+        },
+        "name": "Manos Topaz Earrings"
+    }
+}

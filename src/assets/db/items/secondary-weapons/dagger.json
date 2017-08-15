@@ -1,0 +1,2699 @@
+{
+    "10303": {
+        "ap_min": 3,
+        "ap_max": 3,
+        "dp": 0,
+        "rarity": "uncommon",
+        "gems": 1,
+        "item_effects": {
+            "acc": 20
+        },
+        "enhancement_text": "",
+        "enhancement": {
+            "1": {},
+            "2": {},
+            "3": {},
+            "4": {},
+            "5": {},
+            "6": {},
+            "7": {},
+            "8": {
+                "ap_min": 4,
+                "ap_max": 4
+            },
+            "9": {
+                "ap_min": 5,
+                "ap_max": 5
+            },
+            "10": {
+                "ap_min": 6,
+                "ap_max": 6
+            },
+            "11": {
+                "ap_min": 7,
+                "ap_max": 7
+            },
+            "12": {
+                "ap_min": 8,
+                "ap_max": 8
+            },
+            "13": {
+                "ap_min": 9,
+                "ap_max": 9
+            },
+            "14": {
+                "ap_min": 10,
+                "ap_max": 10
+            },
+            "15": {
+                "ap_min": 11,
+                "ap_max": 11
+            },
+            "16": {
+                "ap_min": 12,
+                "ap_max": 12,
+                "dp": 1
+            },
+            "17": {
+                "ap_min": 13,
+                "ap_max": 13,
+                "dp": 2
+            },
+            "18": {
+                "ap_min": 17,
+                "ap_max": 17,
+                "dp": 3
+            },
+            "19": {
+                "ap_min": 18,
+                "ap_max": 18,
+                "dp": 4
+            },
+            "20": {
+                "ap_min": 19,
+                "ap_max": 19,
+                "dp": 5
+            }
+        },
+        "name": "Bronze Dagger"
+    },
+    "10304": {
+        "ap_min": 6,
+        "ap_max": 6,
+        "rarity": "uncommon",
+        "gems": 1,
+        "item_effects": {},
+        "enhancement_text": "",
+        "enhancement": {
+            "1": {
+                "ap_min": 7,
+                "ap_max": 7
+            },
+            "2": {
+                "ap_min": 8,
+                "ap_max": 8
+            },
+            "3": {
+                "ap_min": 9,
+                "ap_max": 9
+            },
+            "4": {
+                "ap_min": 10,
+                "ap_max": 10
+            },
+            "5": {
+                "ap_min": 11,
+                "ap_max": 11
+            },
+            "6": {
+                "ap_min": 12,
+                "ap_max": 12
+            },
+            "7": {
+                "ap_min": 13,
+                "ap_max": 13
+            },
+            "8": {
+                "ap_min": 14,
+                "ap_max": 14
+            },
+            "9": {
+                "ap_min": 15,
+                "ap_max": 15
+            },
+            "10": {
+                "ap_min": 16,
+                "ap_max": 16
+            },
+            "11": {
+                "ap_min": 17,
+                "ap_max": 17
+            },
+            "12": {
+                "ap_min": 18,
+                "ap_max": 18
+            },
+            "13": {
+                "ap_min": 19,
+                "ap_max": 19
+            },
+            "14": {
+                "ap_min": 20,
+                "ap_max": 20
+            },
+            "15": {
+                "ap_min": 21,
+                "ap_max": 21
+            },
+            "16": {
+                "ap_min": 24,
+                "ap_max": 24
+            },
+            "17": {
+                "ap_min": 27,
+                "ap_max": 27
+            },
+            "18": {
+                "ap_min": 33,
+                "ap_max": 33
+            },
+            "19": {
+                "ap_min": 36,
+                "ap_max": 36
+            },
+            "20": {
+                "ap_min": 39,
+                "ap_max": 39
+            }
+        },
+        "name": "Steel Dagger"
+    },
+    "10305": {
+        "ap_min": 3,
+        "ap_max": 3,
+        "dp": 3,
+        "rarity": "uncommon",
+        "gems": 1,
+        "item_effects": {
+            "ev": 3,
+            "hp": 50
+        },
+        "enhancement_text": "",
+        "enhancement": {
+            "1": {
+                "ap_min": 3,
+                "ap_max": 3,
+                "dp": 4
+            },
+            "2": {
+                "ap_min": 3,
+                "ap_max": 3,
+                "dp": 5
+            },
+            "3": {
+                "ap_min": 3,
+                "ap_max": 3,
+                "dp": 6
+            },
+            "4": {
+                "ap_min": 3,
+                "ap_max": 3,
+                "dp": 7
+            },
+            "5": {
+                "ap_min": 3,
+                "ap_max": 3,
+                "dp": 8
+            },
+            "6": {
+                "ap_min": 3,
+                "ap_max": 3,
+                "dp": 9
+            },
+            "7": {
+                "ap_min": 3,
+                "ap_max": 3,
+                "dp": 10
+            },
+            "8": {
+                "ap_min": 4,
+                "ap_max": 4,
+                "dp": 11
+            },
+            "9": {
+                "ap_min": 5,
+                "ap_max": 5,
+                "dp": 12
+            },
+            "10": {
+                "ap_min": 6,
+                "ap_max": 6,
+                "dp": 13
+            },
+            "11": {
+                "ap_min": 7,
+                "ap_max": 7,
+                "dp": 14
+            },
+            "12": {
+                "ap_min": 8,
+                "ap_max": 8,
+                "dp": 15
+            },
+            "13": {
+                "ap_min": 9,
+                "ap_max": 9,
+                "dp": 16
+            },
+            "14": {
+                "ap_min": 10,
+                "ap_max": 10,
+                "dp": 17
+            },
+            "15": {
+                "ap_min": 11,
+                "ap_max": 11,
+                "dp": 18
+            },
+            "16": {
+                "ap_min": 12,
+                "ap_max": 12,
+                "dp": 20
+            },
+            "17": {
+                "ap_min": 13,
+                "ap_max": 13,
+                "dp": 22
+            },
+            "18": {
+                "ap_min": 14,
+                "ap_max": 14,
+                "dp": 27
+            },
+            "19": {
+                "ap_min": 15,
+                "ap_max": 15,
+                "dp": 29
+            },
+            "20": {
+                "ap_min": 16,
+                "ap_max": 16,
+                "dp": 31
+            }
+        },
+        "name": "Parrying Dagger"
+    },
+    "10306": {
+        "ap_min": 3,
+        "ap_max": 3,
+        "dp": 0,
+        "rarity": "rare",
+        "gems": 1,
+        "item_effects": {
+            "acc": 28,
+            "abad": 1
+        },
+        "enhancement_text": "",
+        "enhancement": {
+            "1": {},
+            "2": {},
+            "3": {},
+            "4": {},
+            "5": {},
+            "6": {},
+            "7": {},
+            "8": {
+                "ap_min": 4,
+                "ap_max": 4
+            },
+            "9": {
+                "ap_min": 5,
+                "ap_max": 5
+            },
+            "10": {
+                "ap_min": 6,
+                "ap_max": 6
+            },
+            "11": {
+                "ap_min": 7,
+                "ap_max": 7
+            },
+            "12": {
+                "ap_min": 8,
+                "ap_max": 8
+            },
+            "13": {
+                "ap_min": 9,
+                "ap_max": 9
+            },
+            "14": {
+                "ap_min": 10,
+                "ap_max": 10
+            },
+            "15": {
+                "ap_min": 11,
+                "ap_max": 11
+            },
+            "16": {
+                "ap_min": 12,
+                "ap_max": 12,
+                "dp": 1
+            },
+            "17": {
+                "ap_min": 13,
+                "ap_max": 13,
+                "dp": 2
+            },
+            "18": {
+                "ap_min": 17,
+                "ap_max": 17,
+                "dp": 3
+            },
+            "19": {
+                "ap_min": 18,
+                "ap_max": 18,
+                "dp": 4
+            },
+            "20": {
+                "ap_min": 19,
+                "ap_max": 19,
+                "dp": 5
+            }
+        },
+        "name": "Bronze Dagger of Crimson Flame"
+    },
+    "10307": {
+        "ap_min": 3,
+        "ap_max": 3,
+        "dp": 0,
+        "rarity": "rare",
+        "gems": 1,
+        "item_effects": {
+            "acc": 28,
+            "adad": 1
+        },
+        "enhancement_text": "",
+        "enhancement": {
+            "1": {},
+            "2": {},
+            "3": {},
+            "4": {},
+            "5": {},
+            "6": {},
+            "7": {},
+            "8": {
+                "ap_min": 4,
+                "ap_max": 4
+            },
+            "9": {
+                "ap_min": 5,
+                "ap_max": 5
+            },
+            "10": {
+                "ap_min": 6,
+                "ap_max": 6
+            },
+            "11": {
+                "ap_min": 7,
+                "ap_max": 7
+            },
+            "12": {
+                "ap_min": 8,
+                "ap_max": 8
+            },
+            "13": {
+                "ap_min": 9,
+                "ap_max": 9
+            },
+            "14": {
+                "ap_min": 10,
+                "ap_max": 10
+            },
+            "15": {
+                "ap_min": 11,
+                "ap_max": 11
+            },
+            "16": {
+                "ap_min": 12,
+                "ap_max": 12,
+                "dp": 1
+            },
+            "17": {
+                "ap_min": 13,
+                "ap_max": 13,
+                "dp": 2
+            },
+            "18": {
+                "ap_min": 17,
+                "ap_max": 17,
+                "dp": 3
+            },
+            "19": {
+                "ap_min": 18,
+                "ap_max": 18,
+                "dp": 4
+            },
+            "20": {
+                "ap_min": 19,
+                "ap_max": 19,
+                "dp": 5
+            }
+        },
+        "name": "Bronze Dagger of Destruction"
+    },
+    "10308": {
+        "ap_min": 3,
+        "ap_max": 3,
+        "dp": 0,
+        "rarity": "rare",
+        "gems": 1,
+        "item_effects": {
+            "acc": 28,
+            "aaad": 1
+        },
+        "enhancement_text": "",
+        "enhancement": {
+            "1": {},
+            "2": {},
+            "3": {},
+            "4": {},
+            "5": {},
+            "6": {},
+            "7": {},
+            "8": {
+                "ap_min": 4,
+                "ap_max": 4
+            },
+            "9": {
+                "ap_min": 5,
+                "ap_max": 5
+            },
+            "10": {
+                "ap_min": 6,
+                "ap_max": 6
+            },
+            "11": {
+                "ap_min": 7,
+                "ap_max": 7
+            },
+            "12": {
+                "ap_min": 8,
+                "ap_max": 8
+            },
+            "13": {
+                "ap_min": 9,
+                "ap_max": 9
+            },
+            "14": {
+                "ap_min": 10,
+                "ap_max": 10
+            },
+            "15": {
+                "ap_min": 11,
+                "ap_max": 11
+            },
+            "16": {
+                "ap_min": 12,
+                "ap_max": 12,
+                "dp": 1
+            },
+            "17": {
+                "ap_min": 13,
+                "ap_max": 13,
+                "dp": 2
+            },
+            "18": {
+                "ap_min": 17,
+                "ap_max": 17,
+                "dp": 3
+            },
+            "19": {
+                "ap_min": 18,
+                "ap_max": 18,
+                "dp": 4
+            },
+            "20": {
+                "ap_min": 19,
+                "ap_max": 19,
+                "dp": 5
+            }
+        },
+        "name": "Bronze Dagger of Temptation"
+    },
+    "10309": {
+        "ap_min": 3,
+        "ap_max": 3,
+        "dp": 0,
+        "rarity": "epic",
+        "gems": 1,
+        "item_effects": {
+            "acc": 28,
+            "assad": 1
+        },
+        "enhancement_text": "",
+        "enhancement": {
+            "1": {},
+            "2": {},
+            "3": {},
+            "4": {},
+            "5": {},
+            "6": {},
+            "7": {},
+            "8": {
+                "ap_min": 4,
+                "ap_max": 4
+            },
+            "9": {
+                "ap_min": 5,
+                "ap_max": 5
+            },
+            "10": {
+                "ap_min": 6,
+                "ap_max": 6
+            },
+            "11": {
+                "ap_min": 7,
+                "ap_max": 7
+            },
+            "12": {
+                "ap_min": 8,
+                "ap_max": 8
+            },
+            "13": {
+                "ap_min": 9,
+                "ap_max": 9
+            },
+            "14": {
+                "ap_min": 10,
+                "ap_max": 10
+            },
+            "15": {
+                "ap_min": 11,
+                "ap_max": 11
+            },
+            "16": {
+                "ap_min": 12,
+                "ap_max": 12,
+                "dp": 1
+            },
+            "17": {
+                "ap_min": 13,
+                "ap_max": 13,
+                "dp": 2
+            },
+            "18": {
+                "ap_min": 17,
+                "ap_max": 17,
+                "dp": 3
+            },
+            "19": {
+                "ap_min": 18,
+                "ap_max": 18,
+                "dp": 4
+            },
+            "20": {
+                "ap_min": 19,
+                "ap_max": 19,
+                "dp": 5
+            }
+        },
+        "name": "Ultimate Bronze Dagger"
+    },
+    "10310": {
+        "ap_min": 7,
+        "ap_max": 7,
+        "rarity": "rare",
+        "gems": 1,
+        "item_effects": {
+            "abad": 1
+        },
+        "enhancement_text": "",
+        "enhancement": {
+            "1": {
+                "ap_min": 8,
+                "ap_max": 8
+            },
+            "2": {
+                "ap_min": 9,
+                "ap_max": 9
+            },
+            "3": {
+                "ap_min": 10,
+                "ap_max": 10
+            },
+            "4": {
+                "ap_min": 11,
+                "ap_max": 11
+            },
+            "5": {
+                "ap_min": 12,
+                "ap_max": 12
+            },
+            "6": {
+                "ap_min": 13,
+                "ap_max": 13
+            },
+            "7": {
+                "ap_min": 14,
+                "ap_max": 14
+            },
+            "8": {
+                "ap_min": 15,
+                "ap_max": 15
+            },
+            "9": {
+                "ap_min": 16,
+                "ap_max": 16
+            },
+            "10": {
+                "ap_min": 17,
+                "ap_max": 17
+            },
+            "11": {
+                "ap_min": 18,
+                "ap_max": 18
+            },
+            "12": {
+                "ap_min": 19,
+                "ap_max": 19
+            },
+            "13": {
+                "ap_min": 20,
+                "ap_max": 20
+            },
+            "14": {
+                "ap_min": 21,
+                "ap_max": 21
+            },
+            "15": {
+                "ap_min": 22,
+                "ap_max": 22
+            },
+            "16": {
+                "ap_min": 25,
+                "ap_max": 25
+            },
+            "17": {
+                "ap_min": 28,
+                "ap_max": 28
+            },
+            "18": {
+                "ap_min": 34,
+                "ap_max": 34
+            },
+            "19": {
+                "ap_min": 37,
+                "ap_max": 37
+            },
+            "20": {
+                "ap_min": 40,
+                "ap_max": 40
+            }
+        },
+        "name": "Steel Dagger of Crimson Flame"
+    },
+    "10311": {
+        "ap_min": 7,
+        "ap_max": 7,
+        "rarity": "rare",
+        "gems": 1,
+        "item_effects": {
+            "adad": 1
+        },
+        "enhancement_text": "",
+        "enhancement": {
+            "1": {
+                "ap_min": 8,
+                "ap_max": 8
+            },
+            "2": {
+                "ap_min": 9,
+                "ap_max": 9
+            },
+            "3": {
+                "ap_min": 10,
+                "ap_max": 10
+            },
+            "4": {
+                "ap_min": 11,
+                "ap_max": 11
+            },
+            "5": {
+                "ap_min": 12,
+                "ap_max": 12
+            },
+            "6": {
+                "ap_min": 13,
+                "ap_max": 13
+            },
+            "7": {
+                "ap_min": 14,
+                "ap_max": 14
+            },
+            "8": {
+                "ap_min": 15,
+                "ap_max": 15
+            },
+            "9": {
+                "ap_min": 16,
+                "ap_max": 16
+            },
+            "10": {
+                "ap_min": 17,
+                "ap_max": 17
+            },
+            "11": {
+                "ap_min": 18,
+                "ap_max": 18
+            },
+            "12": {
+                "ap_min": 19,
+                "ap_max": 19
+            },
+            "13": {
+                "ap_min": 20,
+                "ap_max": 20
+            },
+            "14": {
+                "ap_min": 21,
+                "ap_max": 21
+            },
+            "15": {
+                "ap_min": 22,
+                "ap_max": 22
+            },
+            "16": {
+                "ap_min": 25,
+                "ap_max": 25
+            },
+            "17": {
+                "ap_min": 28,
+                "ap_max": 28
+            },
+            "18": {
+                "ap_min": 34,
+                "ap_max": 34
+            },
+            "19": {
+                "ap_min": 37,
+                "ap_max": 37
+            },
+            "20": {
+                "ap_min": 40,
+                "ap_max": 40
+            }
+        },
+        "name": "Steel Dagger of Destruction"
+    },
+    "10312": {
+        "ap_min": 7,
+        "ap_max": 7,
+        "rarity": "rare",
+        "gems": 1,
+        "item_effects": {
+            "aaad": 1
+        },
+        "enhancement_text": "",
+        "enhancement": {
+            "1": {
+                "ap_min": 8,
+                "ap_max": 8
+            },
+            "2": {
+                "ap_min": 9,
+                "ap_max": 9
+            },
+            "3": {
+                "ap_min": 10,
+                "ap_max": 10
+            },
+            "4": {
+                "ap_min": 11,
+                "ap_max": 11
+            },
+            "5": {
+                "ap_min": 12,
+                "ap_max": 12
+            },
+            "6": {
+                "ap_min": 13,
+                "ap_max": 13
+            },
+            "7": {
+                "ap_min": 14,
+                "ap_max": 14
+            },
+            "8": {
+                "ap_min": 15,
+                "ap_max": 15
+            },
+            "9": {
+                "ap_min": 16,
+                "ap_max": 16
+            },
+            "10": {
+                "ap_min": 17,
+                "ap_max": 17
+            },
+            "11": {
+                "ap_min": 18,
+                "ap_max": 18
+            },
+            "12": {
+                "ap_min": 19,
+                "ap_max": 19
+            },
+            "13": {
+                "ap_min": 20,
+                "ap_max": 20
+            },
+            "14": {
+                "ap_min": 21,
+                "ap_max": 21
+            },
+            "15": {
+                "ap_min": 22,
+                "ap_max": 22
+            },
+            "16": {
+                "ap_min": 25,
+                "ap_max": 25
+            },
+            "17": {
+                "ap_min": 28,
+                "ap_max": 28
+            },
+            "18": {
+                "ap_min": 34,
+                "ap_max": 34
+            },
+            "19": {
+                "ap_min": 37,
+                "ap_max": 37
+            },
+            "20": {
+                "ap_min": 40,
+                "ap_max": 40
+            }
+        },
+        "name": "Steel Dagger of Temptation"
+    },
+    "10313": {
+        "ap_min": 7,
+        "ap_max": 7,
+        "rarity": "epic",
+        "gems": 1,
+        "item_effects": {
+            "assad": 1
+        },
+        "enhancement_text": "",
+        "enhancement": {
+            "1": {
+                "ap_min": 8,
+                "ap_max": 8
+            },
+            "2": {
+                "ap_min": 9,
+                "ap_max": 9
+            },
+            "3": {
+                "ap_min": 10,
+                "ap_max": 10
+            },
+            "4": {
+                "ap_min": 11,
+                "ap_max": 11
+            },
+            "5": {
+                "ap_min": 12,
+                "ap_max": 12
+            },
+            "6": {
+                "ap_min": 13,
+                "ap_max": 13
+            },
+            "7": {
+                "ap_min": 14,
+                "ap_max": 14
+            },
+            "8": {
+                "ap_min": 15,
+                "ap_max": 15
+            },
+            "9": {
+                "ap_min": 16,
+                "ap_max": 16
+            },
+            "10": {
+                "ap_min": 17,
+                "ap_max": 17
+            },
+            "11": {
+                "ap_min": 18,
+                "ap_max": 18
+            },
+            "12": {
+                "ap_min": 19,
+                "ap_max": 19
+            },
+            "13": {
+                "ap_min": 20,
+                "ap_max": 20
+            },
+            "14": {
+                "ap_min": 21,
+                "ap_max": 21
+            },
+            "15": {
+                "ap_min": 22,
+                "ap_max": 22
+            },
+            "16": {
+                "ap_min": 25,
+                "ap_max": 25
+            },
+            "17": {
+                "ap_min": 28,
+                "ap_max": 28
+            },
+            "18": {
+                "ap_min": 34,
+                "ap_max": 34
+            },
+            "19": {
+                "ap_min": 37,
+                "ap_max": 37
+            },
+            "20": {
+                "ap_min": 40,
+                "ap_max": 40
+            }
+        },
+        "name": "Ultimate Steel Dagger"
+    },
+    "10314": {
+        "ap_min": 3,
+        "ap_max": 3,
+        "dp": 4,
+        "rarity": "rare",
+        "gems": 1,
+        "item_effects": {
+            "ev": 3,
+            "dr": 1,
+            "hp": 50,
+            "abad": 1
+        },
+        "enhancement_text": "",
+        "enhancement": {
+            "1": {
+                "ap_min": 3,
+                "ap_max": 3,
+                "dp": 5
+            },
+            "2": {
+                "ap_min": 3,
+                "ap_max": 3,
+                "dp": 6
+            },
+            "3": {
+                "ap_min": 3,
+                "ap_max": 3,
+                "dp": 7
+            },
+            "4": {
+                "ap_min": 3,
+                "ap_max": 3,
+                "dp": 8
+            },
+            "5": {
+                "ap_min": 3,
+                "ap_max": 3,
+                "dp": 9
+            },
+            "6": {
+                "ap_min": 3,
+                "ap_max": 3,
+                "dp": 10
+            },
+            "7": {
+                "ap_min": 3,
+                "ap_max": 3,
+                "dp": 11
+            },
+            "8": {
+                "ap_min": 4,
+                "ap_max": 4,
+                "dp": 12
+            },
+            "9": {
+                "ap_min": 5,
+                "ap_max": 5,
+                "dp": 13
+            },
+            "10": {
+                "ap_min": 6,
+                "ap_max": 6,
+                "dp": 14
+            },
+            "11": {
+                "ap_min": 7,
+                "ap_max": 7,
+                "dp": 15
+            },
+            "12": {
+                "ap_min": 8,
+                "ap_max": 8,
+                "dp": 16
+            },
+            "13": {
+                "ap_min": 9,
+                "ap_max": 9,
+                "dp": 17
+            },
+            "14": {
+                "ap_min": 10,
+                "ap_max": 10,
+                "dp": 18
+            },
+            "15": {
+                "ap_min": 11,
+                "ap_max": 11,
+                "dp": 19
+            },
+            "16": {
+                "ap_min": 12,
+                "ap_max": 12,
+                "dp": 21
+            },
+            "17": {
+                "ap_min": 13,
+                "ap_max": 13,
+                "dp": 23
+            },
+            "18": {
+                "ap_min": 14,
+                "ap_max": 14,
+                "dp": 28
+            },
+            "19": {
+                "ap_min": 15,
+                "ap_max": 15,
+                "dp": 30
+            },
+            "20": {
+                "ap_min": 16,
+                "ap_max": 16,
+                "dp": 32
+            }
+        },
+        "name": "Parrying Dagger of Crimson Flame"
+    },
+    "10315": {
+        "ap_min": 3,
+        "ap_max": 3,
+        "dp": 4,
+        "rarity": "rare",
+        "gems": 1,
+        "item_effects": {
+            "ev": 3,
+            "dr": 1,
+            "hp": 50,
+            "adad": 1
+        },
+        "enhancement_text": "",
+        "enhancement": {
+            "1": {
+                "ap_min": 3,
+                "ap_max": 3,
+                "dp": 5
+            },
+            "2": {
+                "ap_min": 3,
+                "ap_max": 3,
+                "dp": 6
+            },
+            "3": {
+                "ap_min": 3,
+                "ap_max": 3,
+                "dp": 7
+            },
+            "4": {
+                "ap_min": 3,
+                "ap_max": 3,
+                "dp": 8
+            },
+            "5": {
+                "ap_min": 3,
+                "ap_max": 3,
+                "dp": 9
+            },
+            "6": {
+                "ap_min": 3,
+                "ap_max": 3,
+                "dp": 10
+            },
+            "7": {
+                "ap_min": 3,
+                "ap_max": 3,
+                "dp": 11
+            },
+            "8": {
+                "ap_min": 4,
+                "ap_max": 4,
+                "dp": 12
+            },
+            "9": {
+                "ap_min": 5,
+                "ap_max": 5,
+                "dp": 13
+            },
+            "10": {
+                "ap_min": 6,
+                "ap_max": 6,
+                "dp": 14
+            },
+            "11": {
+                "ap_min": 7,
+                "ap_max": 7,
+                "dp": 15
+            },
+            "12": {
+                "ap_min": 8,
+                "ap_max": 8,
+                "dp": 16
+            },
+            "13": {
+                "ap_min": 9,
+                "ap_max": 9,
+                "dp": 17
+            },
+            "14": {
+                "ap_min": 10,
+                "ap_max": 10,
+                "dp": 18
+            },
+            "15": {
+                "ap_min": 11,
+                "ap_max": 11,
+                "dp": 19
+            },
+            "16": {
+                "ap_min": 12,
+                "ap_max": 12,
+                "dp": 21
+            },
+            "17": {
+                "ap_min": 13,
+                "ap_max": 13,
+                "dp": 23
+            },
+            "18": {
+                "ap_min": 14,
+                "ap_max": 14,
+                "dp": 28
+            },
+            "19": {
+                "ap_min": 15,
+                "ap_max": 15,
+                "dp": 30
+            },
+            "20": {
+                "ap_min": 16,
+                "ap_max": 16,
+                "dp": 32
+            }
+        },
+        "name": "Parrying Dagger of Destruction"
+    },
+    "10316": {
+        "ap_min": 3,
+        "ap_max": 3,
+        "dp": 4,
+        "rarity": "rare",
+        "gems": 1,
+        "item_effects": {
+            "ev": 3,
+            "dr": 1,
+            "hp": 50,
+            "aaad": 1
+        },
+        "enhancement_text": "",
+        "enhancement": {
+            "1": {
+                "ap_min": 3,
+                "ap_max": 3,
+                "dp": 5
+            },
+            "2": {
+                "ap_min": 3,
+                "ap_max": 3,
+                "dp": 6
+            },
+            "3": {
+                "ap_min": 3,
+                "ap_max": 3,
+                "dp": 7
+            },
+            "4": {
+                "ap_min": 3,
+                "ap_max": 3,
+                "dp": 8
+            },
+            "5": {
+                "ap_min": 3,
+                "ap_max": 3,
+                "dp": 9
+            },
+            "6": {
+                "ap_min": 3,
+                "ap_max": 3,
+                "dp": 10
+            },
+            "7": {
+                "ap_min": 3,
+                "ap_max": 3,
+                "dp": 11
+            },
+            "8": {
+                "ap_min": 4,
+                "ap_max": 4,
+                "dp": 12
+            },
+            "9": {
+                "ap_min": 5,
+                "ap_max": 5,
+                "dp": 13
+            },
+            "10": {
+                "ap_min": 6,
+                "ap_max": 6,
+                "dp": 14
+            },
+            "11": {
+                "ap_min": 7,
+                "ap_max": 7,
+                "dp": 15
+            },
+            "12": {
+                "ap_min": 8,
+                "ap_max": 8,
+                "dp": 16
+            },
+            "13": {
+                "ap_min": 9,
+                "ap_max": 9,
+                "dp": 17
+            },
+            "14": {
+                "ap_min": 10,
+                "ap_max": 10,
+                "dp": 18
+            },
+            "15": {
+                "ap_min": 11,
+                "ap_max": 11,
+                "dp": 19
+            },
+            "16": {
+                "ap_min": 12,
+                "ap_max": 12,
+                "dp": 21
+            },
+            "17": {
+                "ap_min": 13,
+                "ap_max": 13,
+                "dp": 23
+            },
+            "18": {
+                "ap_min": 14,
+                "ap_max": 14,
+                "dp": 28
+            },
+            "19": {
+                "ap_min": 15,
+                "ap_max": 15,
+                "dp": 30
+            },
+            "20": {
+                "ap_min": 16,
+                "ap_max": 16,
+                "dp": 32
+            }
+        },
+        "name": "Parrying Dagger of Temptation"
+    },
+    "10317": {
+        "ap_min": 3,
+        "ap_max": 3,
+        "dp": 4,
+        "rarity": "epic",
+        "gems": 1,
+        "item_effects": {
+            "ev": 3,
+            "dr": 1,
+            "hp": 100,
+            "assad": 1
+        },
+        "enhancement_text": "",
+        "enhancement": {
+            "1": {
+                "ap_min": 3,
+                "ap_max": 3,
+                "dp": 5
+            },
+            "2": {
+                "ap_min": 3,
+                "ap_max": 3,
+                "dp": 6
+            },
+            "3": {
+                "ap_min": 3,
+                "ap_max": 3,
+                "dp": 7
+            },
+            "4": {
+                "ap_min": 3,
+                "ap_max": 3,
+                "dp": 8
+            },
+            "5": {
+                "ap_min": 3,
+                "ap_max": 3,
+                "dp": 9
+            },
+            "6": {
+                "ap_min": 3,
+                "ap_max": 3,
+                "dp": 10
+            },
+            "7": {
+                "ap_min": 3,
+                "ap_max": 3,
+                "dp": 11
+            },
+            "8": {
+                "ap_min": 4,
+                "ap_max": 4,
+                "dp": 12
+            },
+            "9": {
+                "ap_min": 5,
+                "ap_max": 5,
+                "dp": 13
+            },
+            "10": {
+                "ap_min": 6,
+                "ap_max": 6,
+                "dp": 14
+            },
+            "11": {
+                "ap_min": 7,
+                "ap_max": 7,
+                "dp": 15
+            },
+            "12": {
+                "ap_min": 8,
+                "ap_max": 8,
+                "dp": 16
+            },
+            "13": {
+                "ap_min": 9,
+                "ap_max": 9,
+                "dp": 17
+            },
+            "14": {
+                "ap_min": 10,
+                "ap_max": 10,
+                "dp": 18
+            },
+            "15": {
+                "ap_min": 11,
+                "ap_max": 11,
+                "dp": 19
+            },
+            "16": {
+                "ap_min": 12,
+                "ap_max": 12,
+                "dp": 21
+            },
+            "17": {
+                "ap_min": 13,
+                "ap_max": 13,
+                "dp": 23
+            },
+            "18": {
+                "ap_min": 14,
+                "ap_max": 14,
+                "dp": 28
+            },
+            "19": {
+                "ap_min": 15,
+                "ap_max": 15,
+                "dp": 30
+            },
+            "20": {
+                "ap_min": 16,
+                "ap_max": 16,
+                "dp": 32
+            }
+        },
+        "name": "Ultimate Parrying Dagger"
+    },
+    "10324": {
+        "set": "Krea",
+        "ap_min": 1,
+        "ap_max": 3,
+        "dp": 4,
+        "rarity": "uncommon",
+        "gems": 2,
+        "item_effects": {},
+        "enhancement_text": "",
+        "enhancement": {
+            "1": {
+                "dp": 5
+            },
+            "2": {
+                "dp": 6
+            },
+            "3": {
+                "dp": 7
+            },
+            "4": {
+                "dp": 8
+            },
+            "5": {
+                "dp": 9
+            },
+            "6": {
+                "dp": 10
+            },
+            "7": {
+                "dp": 11
+            },
+            "8": {
+                "ap_min": 2,
+                "ap_max": 4,
+                "dp": 12
+            },
+            "9": {
+                "ap_min": 3,
+                "ap_max": 5,
+                "dp": 13
+            },
+            "10": {
+                "ap_min": 4,
+                "ap_max": 6,
+                "dp": 14
+            },
+            "11": {
+                "ap_min": 5,
+                "ap_max": 7,
+                "dp": 15
+            },
+            "12": {
+                "ap_min": 6,
+                "ap_max": 8,
+                "dp": 16
+            },
+            "13": {
+                "ap_min": 7,
+                "ap_max": 9,
+                "dp": 17
+            },
+            "14": {
+                "ap_min": 8,
+                "ap_max": 10,
+                "dp": 18
+            },
+            "15": {
+                "ap_min": 9,
+                "ap_max": 11,
+                "dp": 19
+            },
+            "16": {
+                "ap_min": 10,
+                "ap_max": 12,
+                "dp": 21
+            },
+            "17": {
+                "ap_min": 11,
+                "ap_max": 13,
+                "dp": 23
+            },
+            "18": {
+                "ap_min": 12,
+                "ap_max": 14,
+                "dp": 28
+            },
+            "19": {
+                "ap_min": 13,
+                "ap_max": 15,
+                "dp": 30
+            },
+            "20": {
+                "ap_min": 14,
+                "ap_max": 16,
+                "dp": 32
+            }
+        },
+        "name": "Krea Dagger"
+    },
+    "10325": {
+        "set": "Rosar",
+        "ap_min": 1,
+        "ap_max": 4,
+        "dp": 4,
+        "rarity": "uncommon",
+        "gems": 2,
+        "item_effects": {},
+        "enhancement_text": "",
+        "enhancement": {
+            "1": {
+                "ap_min": 1,
+                "ap_max": 4,
+                "dp": 5
+            },
+            "2": {
+                "ap_min": 1,
+                "ap_max": 4,
+                "dp": 6
+            },
+            "3": {
+                "ap_min": 1,
+                "ap_max": 4,
+                "dp": 7
+            },
+            "4": {
+                "ap_min": 1,
+                "ap_max": 4,
+                "dp": 8
+            },
+            "5": {
+                "ap_min": 1,
+                "ap_max": 4,
+                "dp": 9
+            },
+            "6": {
+                "ap_min": 1,
+                "ap_max": 4,
+                "dp": 10
+            },
+            "7": {
+                "ap_min": 1,
+                "ap_max": 4,
+                "dp": 11
+            },
+            "8": {
+                "ap_min": 2,
+                "ap_max": 5,
+                "dp": 12
+            },
+            "9": {
+                "ap_min": 3,
+                "ap_max": 6,
+                "dp": 13
+            },
+            "10": {
+                "ap_min": 4,
+                "ap_max": 7,
+                "dp": 14
+            },
+            "11": {
+                "ap_min": 5,
+                "ap_max": 8,
+                "dp": 15
+            },
+            "12": {
+                "ap_min": 6,
+                "ap_max": 9,
+                "dp": 16
+            },
+            "13": {
+                "ap_min": 7,
+                "ap_max": 10,
+                "dp": 17
+            },
+            "14": {
+                "ap_min": 8,
+                "ap_max": 11,
+                "dp": 18
+            },
+            "15": {
+                "ap_min": 9,
+                "ap_max": 12,
+                "dp": 19
+            },
+            "16": {
+                "ap_min": 10,
+                "ap_max": 13,
+                "dp": 21
+            },
+            "17": {
+                "ap_min": 11,
+                "ap_max": 14,
+                "dp": 23
+            },
+            "18": {
+                "ap_min": 12,
+                "ap_max": 15,
+                "dp": 28
+            },
+            "19": {
+                "ap_min": 13,
+                "ap_max": 16,
+                "dp": 30
+            },
+            "20": {
+                "ap_min": 14,
+                "ap_max": 17,
+                "dp": 32
+            }
+        },
+        "name": "Rosar Dagger"
+    },
+    "10326": {
+        "set": "Krea",
+        "ap_min": 1,
+        "ap_max": 3,
+        "dp": 4,
+        "rarity": "rare",
+        "gems": 2,
+        "item_effects": {
+            "abad": 1
+        },
+        "enhancement_text": "",
+        "enhancement": {
+            "1": {
+                "dp": 5
+            },
+            "2": {
+                "dp": 6
+            },
+            "3": {
+                "dp": 7
+            },
+            "4": {
+                "dp": 8
+            },
+            "5": {
+                "dp": 9
+            },
+            "6": {
+                "dp": 10
+            },
+            "7": {
+                "dp": 11
+            },
+            "8": {
+                "ap_min": 2,
+                "ap_max": 4,
+                "dp": 12
+            },
+            "9": {
+                "ap_min": 3,
+                "ap_max": 5,
+                "dp": 13
+            },
+            "10": {
+                "ap_min": 4,
+                "ap_max": 6,
+                "dp": 14
+            },
+            "11": {
+                "ap_min": 5,
+                "ap_max": 7,
+                "dp": 15
+            },
+            "12": {
+                "ap_min": 6,
+                "ap_max": 8,
+                "dp": 16
+            },
+            "13": {
+                "ap_min": 7,
+                "ap_max": 9,
+                "dp": 17
+            },
+            "14": {
+                "ap_min": 8,
+                "ap_max": 10,
+                "dp": 18
+            },
+            "15": {
+                "ap_min": 9,
+                "ap_max": 11,
+                "dp": 19
+            },
+            "16": {
+                "ap_min": 10,
+                "ap_max": 12,
+                "dp": 21
+            },
+            "17": {
+                "ap_min": 11,
+                "ap_max": 13,
+                "dp": 23
+            },
+            "18": {
+                "ap_min": 12,
+                "ap_max": 14,
+                "dp": 28
+            },
+            "19": {
+                "ap_min": 13,
+                "ap_max": 15,
+                "dp": 30
+            },
+            "20": {
+                "ap_min": 14,
+                "ap_max": 16,
+                "dp": 32
+            }
+        },
+        "name": "Krea Dagger of Crimson Flame"
+    },
+    "10327": {
+        "set": "Krea",
+        "ap_min": 1,
+        "ap_max": 3,
+        "dp": 4,
+        "rarity": "rare",
+        "gems": 2,
+        "item_effects": {
+            "adad": 1
+        },
+        "enhancement_text": "",
+        "enhancement": {
+            "1": {
+                "dp": 5
+            },
+            "2": {
+                "dp": 6
+            },
+            "3": {
+                "dp": 7
+            },
+            "4": {
+                "dp": 8
+            },
+            "5": {
+                "dp": 9
+            },
+            "6": {
+                "dp": 10
+            },
+            "7": {
+                "dp": 11
+            },
+            "8": {
+                "ap_min": 2,
+                "ap_max": 4,
+                "dp": 12
+            },
+            "9": {
+                "ap_min": 3,
+                "ap_max": 5,
+                "dp": 13
+            },
+            "10": {
+                "ap_min": 4,
+                "ap_max": 6,
+                "dp": 14
+            },
+            "11": {
+                "ap_min": 5,
+                "ap_max": 7,
+                "dp": 15
+            },
+            "12": {
+                "ap_min": 6,
+                "ap_max": 8,
+                "dp": 16
+            },
+            "13": {
+                "ap_min": 7,
+                "ap_max": 9,
+                "dp": 17
+            },
+            "14": {
+                "ap_min": 8,
+                "ap_max": 10,
+                "dp": 18
+            },
+            "15": {
+                "ap_min": 9,
+                "ap_max": 11,
+                "dp": 19
+            },
+            "16": {
+                "ap_min": 10,
+                "ap_max": 12,
+                "dp": 21
+            },
+            "17": {
+                "ap_min": 11,
+                "ap_max": 13,
+                "dp": 23
+            },
+            "18": {
+                "ap_min": 12,
+                "ap_max": 14,
+                "dp": 28
+            },
+            "19": {
+                "ap_min": 13,
+                "ap_max": 15,
+                "dp": 30
+            },
+            "20": {
+                "ap_min": 14,
+                "ap_max": 16,
+                "dp": 32
+            }
+        },
+        "name": "Krea Dagger of Destruction"
+    },
+    "10328": {
+        "set": "Krea",
+        "ap_min": 1,
+        "ap_max": 3,
+        "dp": 4,
+        "rarity": "rare",
+        "gems": 2,
+        "item_effects": {
+            "aaad": 1
+        },
+        "enhancement_text": "",
+        "enhancement": {
+            "1": {
+                "dp": 5
+            },
+            "2": {
+                "dp": 6
+            },
+            "3": {
+                "dp": 7
+            },
+            "4": {
+                "dp": 8
+            },
+            "5": {
+                "dp": 9
+            },
+            "6": {
+                "dp": 10
+            },
+            "7": {
+                "dp": 11
+            },
+            "8": {
+                "ap_min": 2,
+                "ap_max": 4,
+                "dp": 12
+            },
+            "9": {
+                "ap_min": 3,
+                "ap_max": 5,
+                "dp": 13
+            },
+            "10": {
+                "ap_min": 4,
+                "ap_max": 6,
+                "dp": 14
+            },
+            "11": {
+                "ap_min": 5,
+                "ap_max": 7,
+                "dp": 15
+            },
+            "12": {
+                "ap_min": 6,
+                "ap_max": 8,
+                "dp": 16
+            },
+            "13": {
+                "ap_min": 7,
+                "ap_max": 9,
+                "dp": 17
+            },
+            "14": {
+                "ap_min": 8,
+                "ap_max": 10,
+                "dp": 18
+            },
+            "15": {
+                "ap_min": 9,
+                "ap_max": 11,
+                "dp": 19
+            },
+            "16": {
+                "ap_min": 10,
+                "ap_max": 12,
+                "dp": 21
+            },
+            "17": {
+                "ap_min": 11,
+                "ap_max": 13,
+                "dp": 23
+            },
+            "18": {
+                "ap_min": 12,
+                "ap_max": 14,
+                "dp": 28
+            },
+            "19": {
+                "ap_min": 13,
+                "ap_max": 15,
+                "dp": 30
+            },
+            "20": {
+                "ap_min": 14,
+                "ap_max": 16,
+                "dp": 32
+            }
+        },
+        "name": "Krea Dagger of Temptation"
+    },
+    "10331": {
+        "set": "Krea",
+        "ap_min": 1,
+        "ap_max": 3,
+        "dp": 6,
+        "rarity": "epic",
+        "gems": 2,
+        "item_effects": {
+            "assad": 1
+        },
+        "enhancement_text": "",
+        "enhancement": {
+            "1": {
+                "dp": 5
+            },
+            "2": {
+                "dp": 6
+            },
+            "3": {
+                "dp": 7
+            },
+            "4": {
+                "dp": 8
+            },
+            "5": {
+                "dp": 9
+            },
+            "6": {
+                "dp": 10
+            },
+            "7": {
+                "dp": 11
+            },
+            "8": {
+                "ap_min": 2,
+                "ap_max": 4,
+                "dp": 12
+            },
+            "9": {
+                "ap_min": 3,
+                "ap_max": 5,
+                "dp": 13
+            },
+            "10": {
+                "ap_min": 4,
+                "ap_max": 6,
+                "dp": 14
+            },
+            "11": {
+                "ap_min": 5,
+                "ap_max": 7,
+                "dp": 15
+            },
+            "12": {
+                "ap_min": 6,
+                "ap_max": 8,
+                "dp": 16
+            },
+            "13": {
+                "ap_min": 7,
+                "ap_max": 9,
+                "dp": 17
+            },
+            "14": {
+                "ap_min": 8,
+                "ap_max": 10,
+                "dp": 18
+            },
+            "15": {
+                "ap_min": 9,
+                "ap_max": 11,
+                "dp": 21
+            },
+            "16": {
+                "ap_min": 10,
+                "ap_max": 12,
+                "dp": 23
+            },
+            "17": {
+                "ap_min": 11,
+                "ap_max": 13,
+                "dp": 25
+            },
+            "18": {
+                "ap_min": 12,
+                "ap_max": 14,
+                "dp": 30
+            },
+            "19": {
+                "ap_min": 13,
+                "ap_max": 15,
+                "dp": 32
+            },
+            "20": {
+                "ap_min": 14,
+                "ap_max": 16,
+                "dp": 34
+            }
+        },
+        "name": "Ultimate Krea Dagger"
+    },
+    "10332": {
+        "set": "Rosar",
+        "ap_min": 1,
+        "ap_max": 4,
+        "dp": 4,
+        "rarity": "rare",
+        "gems": 2,
+        "item_effects": {
+            "abad": 1
+        },
+        "enhancement_text": "",
+        "enhancement": {
+            "1": {
+                "dp": 5
+            },
+            "2": {
+                "dp": 6
+            },
+            "3": {
+                "dp": 7
+            },
+            "4": {
+                "dp": 8
+            },
+            "5": {
+                "dp": 9
+            },
+            "6": {
+                "dp": 10
+            },
+            "7": {
+                "dp": 11
+            },
+            "8": {
+                "ap_min": 2,
+                "ap_max": 5,
+                "dp": 12
+            },
+            "9": {
+                "ap_min": 3,
+                "ap_max": 6,
+                "dp": 13
+            },
+            "10": {
+                "ap_min": 4,
+                "ap_max": 7,
+                "dp": 14
+            },
+            "11": {
+                "ap_min": 5,
+                "ap_max": 8,
+                "dp": 15
+            },
+            "12": {
+                "ap_min": 6,
+                "ap_max": 9,
+                "dp": 16
+            },
+            "13": {
+                "ap_min": 7,
+                "ap_max": 10,
+                "dp": 17
+            },
+            "14": {
+                "ap_min": 8,
+                "ap_max": 11,
+                "dp": 18
+            },
+            "15": {
+                "ap_min": 9,
+                "ap_max": 12,
+                "dp": 19
+            },
+            "16": {
+                "ap_min": 10,
+                "ap_max": 13,
+                "dp": 21
+            },
+            "17": {
+                "ap_min": 11,
+                "ap_max": 14,
+                "dp": 23
+            },
+            "18": {
+                "ap_min": 12,
+                "ap_max": 15,
+                "dp": 28
+            },
+            "19": {
+                "ap_min": 13,
+                "ap_max": 16,
+                "dp": 30
+            },
+            "20": {
+                "ap_min": 14,
+                "ap_max": 17,
+                "dp": 32
+            }
+        },
+        "name": "Rosar Dagger of Crimson Flame"
+    },
+    "10333": {
+        "set": "Rosar",
+        "ap_min": 1,
+        "ap_max": 4,
+        "dp": 4,
+        "rarity": "rare",
+        "gems": 2,
+        "item_effects": {
+            "adad": 1
+        },
+        "enhancement_text": "",
+        "enhancement": {
+            "1": {
+                "dp": 5
+            },
+            "2": {
+                "dp": 6
+            },
+            "3": {
+                "dp": 7
+            },
+            "4": {
+                "dp": 8
+            },
+            "5": {
+                "dp": 9
+            },
+            "6": {
+                "dp": 10
+            },
+            "7": {
+                "dp": 11
+            },
+            "8": {
+                "ap_min": 2,
+                "ap_max": 5,
+                "dp": 12
+            },
+            "9": {
+                "ap_min": 3,
+                "ap_max": 6,
+                "dp": 13
+            },
+            "10": {
+                "ap_min": 4,
+                "ap_max": 7,
+                "dp": 14
+            },
+            "11": {
+                "ap_min": 5,
+                "ap_max": 8,
+                "dp": 15
+            },
+            "12": {
+                "ap_min": 6,
+                "ap_max": 9,
+                "dp": 16
+            },
+            "13": {
+                "ap_min": 7,
+                "ap_max": 10,
+                "dp": 17
+            },
+            "14": {
+                "ap_min": 8,
+                "ap_max": 11,
+                "dp": 18
+            },
+            "15": {
+                "ap_min": 9,
+                "ap_max": 12,
+                "dp": 19
+            },
+            "16": {
+                "ap_min": 10,
+                "ap_max": 13,
+                "dp": 21
+            },
+            "17": {
+                "ap_min": 11,
+                "ap_max": 14,
+                "dp": 23
+            },
+            "18": {
+                "ap_min": 12,
+                "ap_max": 15,
+                "dp": 28
+            },
+            "19": {
+                "ap_min": 13,
+                "ap_max": 16,
+                "dp": 30
+            },
+            "20": {
+                "ap_min": 14,
+                "ap_max": 17,
+                "dp": 32
+            }
+        },
+        "name": "Rosar Dagger of Destruction"
+    },
+    "10334": {
+        "set": "Rosar",
+        "ap_min": 1,
+        "ap_max": 4,
+        "dp": 4,
+        "rarity": "rare",
+        "gems": 2,
+        "item_effects": {
+            "aaad": 1
+        },
+        "enhancement_text": "",
+        "enhancement": {
+            "1": {
+                "dp": 5
+            },
+            "2": {
+                "dp": 6
+            },
+            "3": {
+                "dp": 7
+            },
+            "4": {
+                "dp": 8
+            },
+            "5": {
+                "dp": 9
+            },
+            "6": {
+                "dp": 10
+            },
+            "7": {
+                "dp": 11
+            },
+            "8": {
+                "ap_min": 2,
+                "ap_max": 5,
+                "dp": 12
+            },
+            "9": {
+                "ap_min": 3,
+                "ap_max": 6,
+                "dp": 13
+            },
+            "10": {
+                "ap_min": 4,
+                "ap_max": 7,
+                "dp": 14
+            },
+            "11": {
+                "ap_min": 5,
+                "ap_max": 8,
+                "dp": 15
+            },
+            "12": {
+                "ap_min": 6,
+                "ap_max": 9,
+                "dp": 16
+            },
+            "13": {
+                "ap_min": 7,
+                "ap_max": 10,
+                "dp": 17
+            },
+            "14": {
+                "ap_min": 8,
+                "ap_max": 11,
+                "dp": 18
+            },
+            "15": {
+                "ap_min": 9,
+                "ap_max": 12,
+                "dp": 19
+            },
+            "16": {
+                "ap_min": 10,
+                "ap_max": 13,
+                "dp": 21
+            },
+            "17": {
+                "ap_min": 11,
+                "ap_max": 14,
+                "dp": 23
+            },
+            "18": {
+                "ap_min": 12,
+                "ap_max": 15,
+                "dp": 28
+            },
+            "19": {
+                "ap_min": 13,
+                "ap_max": 16,
+                "dp": 30
+            },
+            "20": {
+                "ap_min": 14,
+                "ap_max": 17,
+                "dp": 32
+            }
+        },
+        "name": "Rosar Dagger of Temptation"
+    },
+    "10337": {
+        "set": "Rosar",
+        "ap_min": 1,
+        "ap_max": 4,
+        "dp": 6,
+        "rarity": "epic",
+        "gems": 2,
+        "item_effects": {
+            "assad": 1
+        },
+        "enhancement_text": "",
+        "enhancement": {
+            "1": {
+                "dp": 7
+            },
+            "2": {
+                "dp": 8
+            },
+            "3": {
+                "dp": 9
+            },
+            "4": {
+                "dp": 10
+            },
+            "5": {
+                "dp": 11
+            },
+            "6": {
+                "dp": 12
+            },
+            "7": {
+                "dp": 13
+            },
+            "8": {
+                "ap_min": 2,
+                "ap_max": 5,
+                "dp": 14
+            },
+            "9": {
+                "ap_min": 3,
+                "ap_max": 6,
+                "dp": 15
+            },
+            "10": {
+                "ap_min": 4,
+                "ap_max": 7,
+                "dp": 16
+            },
+            "11": {
+                "ap_min": 5,
+                "ap_max": 8,
+                "dp": 17
+            },
+            "12": {
+                "ap_min": 6,
+                "ap_max": 9,
+                "dp": 18
+            },
+            "13": {
+                "ap_min": 7,
+                "ap_max": 10,
+                "dp": 19
+            },
+            "14": {
+                "ap_min": 8,
+                "ap_max": 11,
+                "dp": 20
+            },
+            "15": {
+                "ap_min": 9,
+                "ap_max": 12,
+                "dp": 21
+            },
+            "16": {
+                "ap_min": 10,
+                "ap_max": 13,
+                "dp": 23
+            },
+            "17": {
+                "ap_min": 11,
+                "ap_max": 14,
+                "dp": 25
+            },
+            "18": {
+                "ap_min": 12,
+                "ap_max": 15,
+                "dp": 30
+            },
+            "19": {
+                "ap_min": 13,
+                "ap_max": 16,
+                "dp": 32
+            },
+            "20": {
+                "ap_min": 14,
+                "ap_max": 17,
+                "dp": 34
+            }
+        },
+        "name": "Ultimate Rosar Dagger"
+    },
+    "10338": {
+        "ap_min": 6,
+        "ap_max": 8,
+        "rarity": "epic",
+        "gems": 2,
+        "item_effects": {
+            "kb": 10,
+            "kd": 10,
+            "ssfr": 10,
+            "gr": 10
+        },
+        "enhancement_text": "",
+        "enhancement": {
+            "1": {
+                "ap_min": 7,
+                "ap_max": 9
+            },
+            "2": {
+                "ap_min": 8,
+                "ap_max": 10
+            },
+            "3": {
+                "ap_min": 9,
+                "ap_max": 11
+            },
+            "4": {
+                "ap_min": 10,
+                "ap_max": 12
+            },
+            "5": {
+                "ap_min": 11,
+                "ap_max": 13
+            },
+            "6": {
+                "ap_min": 12,
+                "ap_max": 14
+            },
+            "7": {
+                "ap_min": 13,
+                "ap_max": 15
+            },
+            "8": {
+                "ap_min": 14,
+                "ap_max": 16
+            },
+            "9": {
+                "ap_min": 15,
+                "ap_max": 17
+            },
+            "10": {
+                "ap_min": 16,
+                "ap_max": 18
+            },
+            "11": {
+                "ap_min": 18,
+                "ap_max": 20
+            },
+            "12": {
+                "ap_min": 20,
+                "ap_max": 22
+            },
+            "13": {
+                "ap_min": 22,
+                "ap_max": 24
+            },
+            "14": {
+                "ap_min": 24,
+                "ap_max": 26
+            },
+            "15": {
+                "ap_min": 26,
+                "ap_max": 28
+            },
+            "16": {
+                "ap_min": 29,
+                "ap_max": 31
+            },
+            "17": {
+                "ap_min": 32,
+                "ap_max": 34
+            },
+            "18": {
+                "ap_min": 38,
+                "ap_max": 40
+            },
+            "19": {
+                "ap_min": 41,
+                "ap_max": 43
+            },
+            "20": {
+                "ap_min": 44,
+                "ap_max": 46
+            }
+        },
+        "name": "Nouver Dagger"
+    },
+    "10340": {
+        "ap_min": 4,
+        "ap_max": 6,
+        "dp": 4,
+        "rarity": "epic",
+        "gems": 2,
+        "item_effects": {
+            "iar": 10
+        },
+        "enhancement_text": "",
+        "enhancement": {
+            "1": {
+                "ap_min": 5,
+                "ap_max": 7
+            },
+            "2": {
+                "ap_min": 6,
+                "ap_max": 8
+            },
+            "3": {
+                "ap_min": 7,
+                "ap_max": 9
+            },
+            "4": {
+                "ap_min": 8,
+                "ap_max": 10
+            },
+            "5": {
+                "ap_min": 9,
+                "ap_max": 11
+            },
+            "6": {
+                "ap_min": 10,
+                "ap_max": 12
+            },
+            "7": {
+                "ap_min": 11,
+                "ap_max": 13,
+                "dp": 5
+            },
+            "8": {
+                "ap_min": 12,
+                "ap_max": 14,
+                "dp": 6
+            },
+            "9": {
+                "ap_min": 13,
+                "ap_max": 15,
+                "dp": 7
+            },
+            "10": {
+                "ap_min": 14,
+                "ap_max": 16,
+                "dp": 8
+            },
+            "11": {
+                "ap_min": 15,
+                "ap_max": 17,
+                "dp": 9
+            },
+            "12": {
+                "ap_min": 16,
+                "ap_max": 18,
+                "dp": 10
+            },
+            "13": {
+                "ap_min": 17,
+                "ap_max": 19,
+                "dp": 11
+            },
+            "14": {
+                "ap_min": 18,
+                "ap_max": 20,
+                "dp": 12
+            },
+            "15": {
+                "ap_min": 19,
+                "ap_max": 21,
+                "dp": 13
+            },
+            "16": {
+                "ap_min": 20,
+                "ap_max": 22,
+                "dp": 15
+            },
+            "17": {
+                "ap_min": 21,
+                "ap_max": 23,
+                "dp": 17
+            },
+            "18": {
+                "ap_min": 24,
+                "ap_max": 26,
+                "dp": 20
+            },
+            "19": {
+                "ap_min": 25,
+                "ap_max": 27,
+                "dp": 22
+            },
+            "20": {
+                "ap_min": 26,
+                "ap_max": 28,
+                "dp": 24
+            }
+        },
+        "name": "Kutum Dagger"
+    },
+    "10344": {
+        "ap_min": 7,
+        "ap_max": 9,
+        "dp": 17,
+        "rarity": "uncommon",
+        "gems": 2,
+        "item_effects": {},
+        "enhancement_text": "",
+        "enhancement": {},
+        "name": "Dim Magical Dagger"
+    },
+    "10345": {
+        "ap_min": 7,
+        "ap_max": 9,
+        "dp": 17,
+        "rarity": "uncommon",
+        "gems": 2,
+        "item_effects": {},
+        "enhancement_text": "",
+        "enhancement": {},
+        "name": "Dagger of Concentrated Magical Power"
+    },
+    "10346": {
+        "ap_min": 7,
+        "ap_max": 9,
+        "dp": 18,
+        "rarity": "rare",
+        "gems": 2,
+        "item_effects": {},
+        "enhancement_text": "",
+        "enhancement": {},
+        "name": "Dagger of Sealed Magical Power"
+    }
+}
