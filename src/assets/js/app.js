@@ -533,7 +533,7 @@
                 .appendTo(item_element);
         }
 
-        if (!tooltip && BDOcalculator.isGemable(item_type)) {
+        if (!tooltip && BDOcalculator.isGemable(item_type) && item.gems > 0) {
             // item gems
             item_element.append('<div class="item-gems">' +
                 '<strong>Gem Slots:</strong>' +
@@ -613,9 +613,9 @@
                     }
                 }
             }
+            
+            stat_element.appendTo(item_element);
         }
-
-        stat_element.appendTo(item_element);
 
         if (!tooltip) {
             var enhance_max = getEnhancementMax(item);

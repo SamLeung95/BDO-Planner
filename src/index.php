@@ -1,8 +1,8 @@
 <?php
     include $_SERVER['DOCUMENT_ROOT'].'/php/inline/get_full_link.php';
     $__version_major = 1;
-    $__version_minor = 1;
-    $__version_revision = 3;
+    $__version_minor = 2;
+    $__version_revision = 1;
     $__vr_str = "?".$__version_major.$__version_minor.$__version_revision;
 ?>
 <!DOCTYPE html>
