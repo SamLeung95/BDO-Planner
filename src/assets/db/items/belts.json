@@ -1,7 +1,5 @@
 {
     "12201": {
-        "dp": 0,
-        "ap": 0,
         "rarity": "uncommon",
         "item_effects": {
             "dmgth": 2,
@@ -28,7 +26,6 @@
         "name": "Yuria Belt"
     },
     "12202": {
-        "dp": 0,
         "ap": 2,
         "rarity": "uncommon",
         "item_effects": {
@@ -56,7 +53,6 @@
     },
     "12203": {
         "dp": 2,
-        "ap": 0,
         "rarity": "uncommon",
         "item_effects": {
             "wgt": 30
@@ -82,8 +78,6 @@
         "name": "Hesus Belt"
     },
     "12204": {
-        "dp": 0,
-        "ap": 0,
         "rarity": "uncommon",
         "item_effects": {
             "wgt": 20,
@@ -110,8 +104,6 @@
         "name": "Elisha Belt"
     },
     "12205": {
-        "dp": 0,
-        "ap": 0,
         "rarity": "uncommon",
         "item_effects": {
             "wgt": 40,
@@ -139,7 +131,6 @@
     },
     "12206": {
         "dp": 2,
-        "ap": 0,
         "rarity": "uncommon",
         "item_effects": {
             "wgt": 40
@@ -166,7 +157,6 @@
     },
     "12208": {
         "dp": 4,
-        "ap": 0,
         "rarity": "rare",
         "item_effects": {
             "wgt": 60
@@ -197,7 +187,6 @@
         "name": "Rhutum Elite Belt"
     },
     "12210": {
-        "dp": 0,
         "ap": 5,
         "rarity": "rare",
         "item_effects": {
@@ -230,7 +219,6 @@
         "name": "Tree Spirit Belt"
     },
     "12211": {
-        "dp": 0,
         "ap": 3,
         "rarity": "rare",
         "item_effects": {
@@ -264,7 +252,6 @@
     },
     "12216": {
         "dp": 3,
-        "ap": 0,
         "rarity": "rare",
         "item_effects": {
             "wgt": 50
@@ -313,7 +300,6 @@
     },
     "12229": {
         "dp": 5,
-        "ap": 0,
         "rarity": "epic",
         "item_effects": {
             "hp": 25,
@@ -345,7 +331,6 @@
         "name": "Centaurus Belt"
     },
     "12230": {
-        "dp": 0,
         "ap": 5,
         "rarity": "epic",
         "item_effects": {
@@ -373,7 +358,6 @@
     },
     "12231": {
         "set": "Jarette",
-        "dp": 0,
         "ap": 4,
         "rarity": "rare",
         "item_effects": {},
@@ -383,7 +367,6 @@
     },
     "12308": {
         "dp": 1,
-        "ap": 0,
         "rarity": "uncommon",
         "item_effects": {
             "wgt": 50,
@@ -394,8 +377,6 @@
         "name": "Blue Coral Belt"
     },
     "12318": {
-        "dp": 0,
-        "ap": 0,
         "rarity": "uncommon",
         "item_effects": {
             "wgt": 50,
@@ -409,7 +390,6 @@
         "name": "Golden Coral Belt"
     },
     "12313": {
-        "dp": 0,
         "ap": 1,
         "rarity": "uncommon",
         "item_effects": {
@@ -421,7 +401,6 @@
         "name": "Green Coral Belt"
     },
     "12303": {
-        "dp": 0,
         "ap": 1,
         "rarity": "uncommon",
         "item_effects": {
@@ -433,8 +412,6 @@
         "name": "Red Coral Belt"
     },
     "12323": {
-        "dp": 0,
-        "ap": 0,
         "rarity": "uncommon",
         "item_effects": {
             "wgt": 50,
@@ -446,7 +423,6 @@
     },
     "12309": {
         "dp": 2,
-        "ap": 0,
         "rarity": "rare",
         "item_effects": {
             "wgt": 60,
@@ -457,8 +433,6 @@
         "name": "Brilliant Blue Coral Belt"
     },
     "12319": {
-        "dp": 0,
-        "ap": 0,
         "rarity": "rare",
         "item_effects": {
             "wgt": 60,
@@ -472,7 +446,6 @@
         "name": "Brilliant Golden Coral Belt"
     },
     "12314": {
-        "dp": 0,
         "ap": 2,
         "rarity": "rare",
         "item_effects": {
@@ -484,7 +457,6 @@
         "name": "Brilliant Green Coral Belt"
     },
     "12304": {
-        "dp": 0,
         "ap": 2,
         "rarity": "rare",
         "item_effects": {
@@ -496,7 +468,6 @@
         "name": "Brilliant Red Coral Belt"
     },
     "12324": {
-        "dp": 0,
         "ap": 1,
         "rarity": "rare",
         "item_effects": {
@@ -509,7 +480,6 @@
     },
     "12310": {
         "dp": 3,
-        "ap": 0,
         "rarity": "epic",
         "item_effects": {
             "wgt": 70,
@@ -520,8 +490,6 @@
         "name": "Daybreak Blue Coral Belt"
     },
     "12320": {
-        "dp": 0,
-        "ap": 0,
         "rarity": "epic",
         "item_effects": {
             "wgt": 70,
@@ -535,7 +503,6 @@
         "name": "Golden Sun Coral Belt"
     },
     "12315": {
-        "dp": 0,
         "ap": 3,
         "rarity": "epic",
         "item_effects": {
@@ -547,7 +514,6 @@
         "name": "Prairie Green Coral Belt"
     },
     "12305": {
-        "dp": 0,
         "ap": 3,
         "rarity": "epic",
         "item_effects": {
@@ -559,7 +525,6 @@
         "name": "Twilight Red Coral Belt"
     },
     "12325": {
-        "dp": 0,
         "ap": 2,
         "rarity": "epic",
         "item_effects": {
@@ -572,7 +537,6 @@
     },
     "12327": {
         "dp": 3,
-        "ap": 0,
         "rarity": "epic",
         "item_effects": {
             "wgt": 80,
@@ -622,8 +586,6 @@
         "name": "Manos Blue Coral Belt"
     },
     "12329": {
-        "dp": 0,
-        "ap": 0,
         "rarity": "epic",
         "item_effects": {
             "wgt": 100,
@@ -655,7 +617,6 @@
         "name": "Manos Golden Coral Belt"
     },
     "12328": {
-        "dp": 0,
         "ap": 3,
         "rarity": "epic",
         "item_effects": {
@@ -688,7 +649,6 @@
         "name": "Manos Green Coral Belt"
     },
     "12326": {
-        "dp": 0,
         "ap": 3,
         "rarity": "epic",
         "item_effects": {
@@ -722,7 +682,6 @@
         "name": "Manos Red Coral Belt"
     },
     "12330": {
-        "dp": 0,
         "ap": 2,
         "rarity": "epic",
         "item_effects": {
@@ -791,5 +750,17 @@
             }
         },
         "name": "Helm Destroyer's Belt"
+    },
+    "12238": {
+        "set": "Asula",
+        "ap": 6,
+        "rarity": "rare",
+        "item_effects": {
+            "wgt": 100
+        },
+        "enhancement_text": "",
+        "enhancement": {
+        },
+        "name": "Asula's Crimson Eye Belt"
     }
 }

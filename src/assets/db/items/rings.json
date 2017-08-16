@@ -1,7 +1,5 @@
 {
     "12001": {
-        "dp": 0,
-        "ap": 0,
         "rarity": "uncommon",
         "item_effects": {
             "dmgth": 2
@@ -27,7 +25,6 @@
         "name": "Yuria Ring"
     },
     "12002": {
-        "dp": 0,
         "ap": 2,
         "rarity": "uncommon",
         "item_effects": {},
@@ -53,7 +50,6 @@
     },
     "12003": {
         "dp": 1,
-        "ap": 0,
         "rarity": "uncommon",
         "item_effects": {},
         "enhancement_text": "",
@@ -77,8 +73,6 @@
         "name": "Hesus Ring"
     },
     "12004": {
-        "dp": 0,
-        "ap": 0,
         "rarity": "uncommon",
         "item_effects": {
             "hp": 15
@@ -104,8 +98,6 @@
         "name": "Elisha Ring"
     },
     "12005": {
-        "dp": 0,
-        "ap": 0,
         "rarity": "uncommon",
         "item_effects": {
             "acc": 8
@@ -132,7 +124,6 @@
     },
     "12006": {
         "dp": 2,
-        "ap": 0,
         "rarity": "uncommon",
         "item_effects": {},
         "enhancement_text": "",
@@ -156,7 +147,6 @@
         "name": "Talis Ring"
     },
     "12007": {
-        "dp": 0,
         "ap": 5,
         "rarity": "rare",
         "item_effects": {},
@@ -182,7 +172,6 @@
     },
     "12008": {
         "dp": 5,
-        "ap": 0,
         "rarity": "rare",
         "item_effects": {
             "hp": 20
@@ -213,7 +202,6 @@
         "name": "Shrine Guardian Token"
     },
     "12010": {
-        "dp": 0,
         "ap": 2,
         "rarity": "uncommon",
         "item_effects": {
@@ -245,8 +233,6 @@
         "name": "Ring of Good Deeds"
     },
     "12011": {
-        "dp": 0,
-        "ap": 0,
         "rarity": "rare",
         "item_effects": {
             "acc": 6,
@@ -310,7 +296,6 @@
         "name": "Outlaw's Ring"
     },
     "12013": {
-        "dp": 0,
         "ap": 3,
         "rarity": "uncommon",
         "item_effects": {},
@@ -319,7 +304,6 @@
         "name": "Ring of Dim Magical Power"
     },
     "12014": {
-        "dp": 0,
         "ap": 4,
         "rarity": "uncommon",
         "item_effects": {},
@@ -358,7 +342,6 @@
         "name": "Ring of Sealed Magical Power"
     },
     "12017": {
-        "dp": 0,
         "ap": 5,
         "rarity": "rare",
         "item_effects": {
@@ -422,7 +405,6 @@
         "name": "Red Coral Ring"
     },
     "12027": {
-        "dp": 0,
         "ap": 7,
         "rarity": "rare",
         "item_effects": {
@@ -433,7 +415,6 @@
         "name": "Sahazad's Ring of Monarch"
     },
     "12028": {
-        "dp": 0,
         "ap": 7,
         "rarity": "rare",
         "item_effects": {
@@ -445,7 +426,6 @@
     },
     "12029": {
         "dp": 7,
-        "ap": 0,
         "rarity": "rare",
         "item_effects": {
             "hp": 50
@@ -456,7 +436,6 @@
     },
     "12030": {
         "dp": 7,
-        "ap": 0,
         "rarity": "rare",
         "item_effects": {
             "mpwpsp": 50
@@ -466,7 +445,6 @@
         "name": "Saya's Ring of Eternity"
     },
     "12031": {
-        "dp": 0,
         "ap": 5,
         "rarity": "epic",
         "item_effects": {},
@@ -492,7 +470,6 @@
     },
     "12032": {
         "dp": 5,
-        "ap": 0,
         "rarity": "epic",
         "item_effects": {
             "hp": 25,
@@ -525,7 +502,6 @@
     },
     "12035": {
         "set": "Jarette",
-        "dp": 0,
         "ap": 4,
         "rarity": "rare",
         "item_effects": {},
@@ -534,8 +510,6 @@
         "name": "Jarette's Ring"
     },
     "12103": {
-        "dp": 0,
-        "ap": 0,
         "rarity": "uncommon",
         "item_effects": {
             "dmgth": 3,
@@ -546,8 +520,6 @@
         "name": "Blood Ruby Ring"
     },
     "12104": {
-        "dp": 0,
-        "ap": 0,
         "rarity": "rare",
         "item_effects": {
             "dmgth": 4,
@@ -558,8 +530,6 @@
         "name": "Dark Blood Ruby Ring"
     },
     "12105": {
-        "dp": 0,
-        "ap": 0,
         "rarity": "epic",
         "item_effects": {
             "dmgth": 5,
@@ -570,8 +540,6 @@
         "name": "Corrupt Ruby Ring"
     },
     "12108": {
-        "dp": 0,
-        "ap": 0,
         "rarity": "uncommon",
         "item_effects": {
             "dmgtdh": 3,
@@ -582,8 +550,6 @@
         "name": "Ocean Sapphire Ring"
     },
     "12109": {
-        "dp": 0,
-        "ap": 0,
         "rarity": "rare",
         "item_effects": {
             "dmgtdh": 4,
@@ -594,8 +560,6 @@
         "name": "Translucent Ocean Sapphire Ring"
     },
     "12110": {
-        "dp": 0,
-        "ap": 0,
         "rarity": "epic",
         "item_effects": {
             "dmgtdh": 5,
@@ -606,8 +570,6 @@
         "name": "Sapphire Ring of Storms"
     },
     "12113": {
-        "dp": 0,
-        "ap": 0,
         "rarity": "uncommon",
         "item_effects": {
             "dmgaes": 20,
@@ -618,8 +580,6 @@
         "name": "Gold Topaz Ring"
     },
     "12114": {
-        "dp": 0,
-        "ap": 0,
         "rarity": "rare",
         "item_effects": {
             "dmgth": 4,
@@ -630,8 +590,6 @@
         "name": "Shining Gold Topaz Ring"
     },
     "12115": {
-        "dp": 0,
-        "ap": 0,
         "rarity": "epic",
         "item_effects": {
             "dmgaes": 5,
@@ -642,8 +600,6 @@
         "name": "Topaz Ring of Regeneration"
     },
     "12118": {
-        "dp": 0,
-        "ap": 0,
         "rarity": "uncommon",
         "item_effects": {
             "acc": 3,
@@ -654,8 +610,6 @@
         "name": "Forest Emerald Ring"
     },
     "12119": {
-        "dp": 0,
-        "ap": 0,
         "rarity": "rare",
         "item_effects": {
             "acc": 4,
@@ -666,8 +620,6 @@
         "name": "Placid Forest Emerald Ring"
     },
     "12120": {
-        "dp": 0,
-        "ap": 0,
         "rarity": "epic",
         "item_effects": {
             "acc": 5,
@@ -678,8 +630,6 @@
         "name": "Emerald Ring of Tranquility"
     },
     "12126": {
-        "dp": 0,
-        "ap": 0,
         "rarity": "epic",
         "item_effects": {
             "dmgth": 6,
@@ -706,8 +656,6 @@
         "name": "Manos Ruby Ring"
     },
     "12128": {
-        "dp": 0,
-        "ap": 0,
         "rarity": "epic",
         "item_effects": {
             "dmgaes": 6,
@@ -732,5 +680,15 @@
             }
         },
         "name": "Manos Topaz Ring"
+    },
+    "12044": {
+        "set": "Asula",
+        "dp": 2,
+        "ap": 7,
+        "rarity": "rare",
+        "item_effects": {},
+        "enhancement_text": "",
+        "enhancement": {},
+        "name": "Asula's Crimson Eye Ring"
     }
 }

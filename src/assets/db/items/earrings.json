@@ -25,7 +25,6 @@
         "name": "Yuria Earring"
     },
     "11802": {
-        "dp": 0,
         "ap": 2,
         "rarity": "uncommon",
         "item_effects": {},
@@ -51,7 +50,6 @@
     },
     "11803": {
         "dp": 1,
-        "ap": 0,
         "rarity": "uncommon",
         "item_effects": {},
         "enhancement_text": "",
@@ -75,8 +73,6 @@
         "name": "Hesus Earring"
     },
     "11804": {
-        "dp": 0,
-        "ap": 0,
         "rarity": "uncommon",
         "item_effects": {
             "mpwpsp": 15
@@ -102,8 +98,6 @@
         "name": "Elisha Earring"
     },
     "11805": {
-        "dp": 0,
-        "ap": 0,
         "rarity": "uncommon",
         "item_effects": {
             "acc": 8
@@ -130,7 +124,6 @@
     },
     "11806": {
         "dp": 2,
-        "ap": 0,
         "rarity": "uncommon",
         "item_effects": {},
         "enhancement_text": "",
@@ -155,7 +148,6 @@
     },
     "11807": {
         "dp": 5,
-        "ap": 0,
         "rarity": "rare",
         "item_effects": {
             "hp": 20
@@ -186,7 +178,6 @@
         "name": "Token of Friendship"
     },
     "11808": {
-        "dp": 0,
         "ap": 5,
         "rarity": "rare",
         "item_effects": {},
@@ -211,7 +202,6 @@
         "name": "Witch's Earring"
     },
     "11810": {
-        "dp": 0,
         "ap": 4,
         "rarity": "rare",
         "item_effects": {
@@ -244,7 +234,6 @@
     },
     "11811": {
         "dp": 4,
-        "ap": 0,
         "rarity": "rare",
         "item_effects": {
             "acc": 6
@@ -275,7 +264,6 @@
         "name": "Ridell Earring"
     },
     "11812": {
-        "dp": 0,
         "ap": 3,
         "rarity": "uncommon",
         "item_effects": {},
@@ -284,7 +272,6 @@
         "name": "Earring of Dim Magical Power"
     },
     "11813": {
-        "dp": 0,
         "ap": 4,
         "rarity": "uncommon",
         "item_effects": {},
@@ -323,7 +310,6 @@
         "name": "Earring of Sealed Magical Power"
     },
     "11815": {
-        "dp": 0,
         "ap": 5,
         "rarity": "rare",
         "item_effects": {
@@ -350,7 +336,6 @@
         "name": "Blue Whale Molar Earring"
     },
     "11816": {
-        "dp": 0,
         "ap": 4,
         "rarity": "rare",
         "item_effects": {
@@ -377,7 +362,6 @@
         "name": "Blue Coral Earring"
     },
     "11817": {
-        "dp": 0,
         "ap": 2,
         "rarity": "rare",
         "item_effects": {
@@ -415,7 +399,6 @@
         "name": "Red Coral Earring"
     },
     "11827": {
-        "dp": 0,
         "ap": 5,
         "rarity": "rare",
         "item_effects": {
@@ -448,7 +431,6 @@
         "name": "Fugitive Khalk's Earring"
     },
     "11828": {
-        "dp": 0,
         "ap": 7,
         "rarity": "epic",
         "item_effects": {
@@ -476,7 +458,6 @@
     },
     "11829": {
         "set": "Jarette",
-        "dp": 0,
         "ap": 4,
         "rarity": "rare",
         "item_effects": {},
@@ -486,7 +467,6 @@
     },
     "11903": {
         "dp": 3,
-        "ap": 0,
         "rarity": "uncommon",
         "item_effects": {
             "hp": 30
@@ -497,7 +477,6 @@
     },
     "11904": {
         "dp": 4,
-        "ap": 0,
         "rarity": "rare",
         "item_effects": {
             "hp": 40
@@ -508,7 +487,6 @@
     },
     "11905": {
         "dp": 5,
-        "ap": 0,
         "rarity": "epic",
         "item_effects": {
             "hp": 50
@@ -519,7 +497,6 @@
     },
     "11908": {
         "dp": 3,
-        "ap": 0,
         "rarity": "uncommon",
         "item_effects": {
             "mpwpsp": 30
@@ -530,7 +507,6 @@
     },
     "11909": {
         "dp": 4,
-        "ap": 0,
         "rarity": "rare",
         "item_effects": {
             "mpwpsp": 40
@@ -541,7 +517,6 @@
     },
     "11910": {
         "dp": 5,
-        "ap": 0,
         "rarity": "epic",
         "item_effects": {
             "mpwpsp": 50
@@ -552,7 +527,6 @@
     },
     "11913": {
         "dp": 3,
-        "ap": 0,
         "rarity": "uncommon",
         "item_effects": {
             "stam": 60
@@ -563,7 +537,6 @@
     },
     "11914": {
         "dp": 4,
-        "ap": 0,
         "rarity": "rare",
         "item_effects": {
             "stam": 80
@@ -574,7 +547,6 @@
     },
     "11915": {
         "dp": 5,
-        "ap": 0,
         "rarity": "epic",
         "item_effects": {
             "stam": 100
@@ -585,7 +557,6 @@
     },
     "11918": {
         "dp": 3,
-        "ap": 0,
         "rarity": "uncommon",
         "item_effects": {
             "hprc": 3,
@@ -599,7 +570,6 @@
     },
     "11919": {
         "dp": 4,
-        "ap": 0,
         "rarity": "rare",
         "item_effects": {
             "hprc": 4,
@@ -613,7 +583,6 @@
     },
     "11920": {
         "dp": 5,
-        "ap": 0,
         "rarity": "epic",
         "item_effects": {
             "hprc": 5,
@@ -627,7 +596,6 @@
     },
     "11926": {
         "dp": 6,
-        "ap": 0,
         "rarity": "epic",
         "item_effects": {
             "hp": 50
@@ -654,7 +622,6 @@
     },
     "11927": {
         "dp": 6,
-        "ap": 0,
         "rarity": "epic",
         "item_effects": {
             "mpwpsp": 100
@@ -681,7 +648,6 @@
     },
     "11928": {
         "dp": 6,
-        "ap": 0,
         "rarity": "epic",
         "item_effects": {
             "stam": 100
@@ -705,5 +671,16 @@
             }
         },
         "name": "Manos Topaz Earrings"
+    },
+    "11838": {
+        "set": "Asula",
+        "ap": 7,
+        "rarity": "rare",
+        "item_effects": {
+            "hp": 25
+        },
+        "enhancement_text": "",
+        "enhancement": {},
+        "name": "Asula's Crimson Eye Earring"
     }
 }
