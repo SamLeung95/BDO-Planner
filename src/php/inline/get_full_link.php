@@ -15,6 +15,8 @@ function get_full_link($short_link) {
         die('Unable to connect to database [' . $db->connect_error . ']');
     }
     
+    $short_link = preg_replace('/[^\d\w]/', '', $short_link);
+    
     $sql = <<<SQL
         SELECT *
         FROM `short_links`
