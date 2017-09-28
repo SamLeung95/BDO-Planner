@@ -762,5 +762,37 @@
         "enhancement": {
         },
         "name": "Asula's Crimson Eye Belt"
+    },
+    "12236": {
+        "ap": 5,
+        "rarity": "epic",
+        "item_effects": {
+            "hp": 0,
+            "wgt": 80
+        },
+        "enhancement_text": "",
+        "enhancement": {
+            "1": {
+                "ap": 8,
+                "hp": 25
+            },
+            "2": {
+                "ap": 11,
+                "hp": 50
+            },
+            "3": {
+                "ap": 14,
+                "hp": 75
+            },
+            "4": {
+                "ap": 17,
+                "hp": 100
+            },
+            "5": {
+                "ap": 20,
+                "hp": 125
+            }
+        },
+        "name": "Valtarra Eclipsed Belt"
     }
 }

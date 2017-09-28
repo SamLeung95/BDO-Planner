@@ -1069,5 +1069,71 @@
         "enhancement_text": "",
         "enhancement": {},
         "name": "Shining Alchemy Stone of Life"
-    }
+    },
+    "45301": {
+        "rarity": "uncommon",
+        "item_effects": {
+            "alccktime": -1.1,
+            "prsr": 11,
+            "gatfislv": 2
+        },
+        "enhancement_text": "",
+        "enhancement": {},
+        "name": "Life Spirit Stone"
+    },
+    "45302": {
+        "rarity": "rare",
+        "item_effects": {
+            "alccktime": -1.1,
+            "prsr": 11,
+            "gatfislv": 2,
+            "gatidr": 10
+        },
+        "enhancement_text": "",
+        "enhancement": {},
+        "name": "Life Spirit Stone"
+    },
+    "45299": {
+        "rarity": "uncommon",
+        "item_effects": {
+            "dr": 6,
+            "ev": 4,
+        },
+        "enhancement_text": "",
+        "enhancement": {},
+        "name": "Guardian Spirit Stone"
+    },
+    "45300": {
+        "rarity": "rare",
+        "item_effects": {
+            "dr": 6,
+            "ev": 4,
+            "hp": 110
+        },
+        "enhancement_text": "",
+        "enhancement": {},
+        "name": "Guardian Spirit Stone"
+    },
+    "45297": {
+        "rarity": "uncommon",
+        "item_effects": {
+            "hap": 6,
+            "acc": 4,
+        },
+        "enhancement_text": "",
+        "enhancement": {},
+        "name": "Destruction Spirit Stone"
+    },
+    "45298": {
+        "rarity": "rare",
+        "item_effects": {
+            "hap": 6,
+            "acc": 4,
+            "asp": 4,
+            "csp": 4
+        },
+        "enhancement_text": "",
+        "enhancement": {},
+        "name": "Destruction Spirit Stone"
+    },
 }

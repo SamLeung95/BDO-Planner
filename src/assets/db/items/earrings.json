@@ -682,5 +682,52 @@
         "enhancement_text": "",
         "enhancement": {},
         "name": "Asula's Crimson Eye Earring"
+    },
+    "11834": {
+        "dp": 0,
+        "ap": 5,
+        "rarity": "epic",
+        "item_effects": {
+            "dmgakm": 3
+        },
+        "enhancement_text": "",
+        "enhancement": {
+            "1": {
+                "ap": 7,
+                "dp": 1,
+                "dmgakm": 4
+            },
+            "2": {
+                "ap": 9,
+                "dp": 2,
+                "dmgakm": 5
+            },
+            "3": {
+                "ap": 11,
+                "dp": 3,
+                "dmgakm": 6
+            },
+            "4": {
+                "ap": 13,
+                "dp": 4,
+                "dmgakm": 7
+            },
+            "5": {
+                "ap": 15,
+                "dp": 5,
+                "dmgakm": 8
+            }
+        },
+        "name": "Narc Ear Accessory"
+    },
+    "11831": {
+        "ap": 8,
+        "rarity": "rare",
+        "item_effects": {
+            "hp": 25
+        },
+        "enhancement_text": "",
+        "enhancement": {},
+        "name": "Anbelif Earring"
     }
 }
