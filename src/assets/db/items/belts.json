@@ -794,5 +794,27 @@
             }
         },
         "name": "Valtarra Eclipsed Belt"
+    },
+    "12242": {
+        "set": "Treant",
+        "ap": 3,
+        "rarity": "rare",
+        "item_effects": {
+            "wgt": 80
+        },
+        "enhancement_text": "",
+        "enhancement": {},
+        "name": "Root Treant's Stem Ring"
+    },
+    "12243": {
+        "set": "Treant",
+        "ap": 4,
+        "rarity": "rare",
+        "item_effects": {
+            "wgt": 50
+        },
+        "enhancement_text": "",
+        "enhancement": {},
+        "name": "Treant Spirit's Hope Belt"
     }
 }

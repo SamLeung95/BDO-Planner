@@ -211,5 +211,41 @@
                 "acc": 20
             }
         }
+    },
+    "Loure": {
+        "pieces": {
+            "2": {
+                "ms": 1
+            },
+            "4": {
+                "as": 1,
+                "cs": 1,
+                "mpwpsp": 30
+            }
+        }
+    },
+    "ValRings1": {
+        "pieces": {
+            "2": {
+                "dmgaes": 7
+            }
+        }
+    },
+    "ValRings2": {
+        "pieces": {
+            "2": {
+                "dmsr": 5
+            }
+        }
+    },
+    "Treant": {
+        "pieces": {
+            "3": {
+                "dr": 5
+            },
+            "5": {
+                "wgt": 100
+            }
+        }
     }
 }

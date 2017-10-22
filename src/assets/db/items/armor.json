@@ -3886,5 +3886,15 @@
         "enhancement_text": "",
         "enhancement": {},
         "name": "Roaring Magical Armor"
+    },
+    "10994": {
+        "set": "Loure",
+        "dp": 36,
+        "rarity": "rare",
+        "gems": 1,
+        "item_effects": {},
+        "enhancement_text": "",
+        "enhancement": {},
+        "name": "Loure's Lost Armor"
     }
 }

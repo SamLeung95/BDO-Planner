@@ -729,5 +729,37 @@
         "enhancement_text": "",
         "enhancement": {},
         "name": "Anbelif Earring"
+    },
+    "11840": {
+        "ap": 3,
+        "rarity": "epic",
+        "item_effects": {
+            "adad": 1
+        },
+        "enhancement_text": "",
+        "enhancement": {},
+        "name": "Chimera's Pupil Gem"
+    },
+    "11843": {
+        "set": "Treant",
+        "ap": 2,
+        "rarity": "rare",
+        "item_effects": {
+            "acc": 16
+        },
+        "enhancement_text": "",
+        "enhancement": {},
+        "name": "Root Treant's Leaf Earring"
+    },
+    "11844": {
+        "set": "Treant",
+        "ap": 4,
+        "rarity": "rare",
+        "item_effects": {
+            "acc": 4
+        },
+        "enhancement_text": "",
+        "enhancement": {},
+        "name": "Treant Spirit's Whisper Earring"
     }
 }

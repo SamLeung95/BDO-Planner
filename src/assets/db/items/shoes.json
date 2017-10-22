@@ -3727,5 +3727,15 @@
             }
         },
         "name": "Ultimate Steel Taritas Shoes"
+    },
+    "10996": {
+        "set": "Loure",
+        "dp": 23,
+        "rarity": "rare",
+        "gems": 1,
+        "item_effects": {},
+        "enhancement_text": "",
+        "enhancement": {},
+        "name": "Loure's Lost Shoes"
     }
 }

@@ -405,6 +405,7 @@
         "name": "Red Coral Ring"
     },
     "12027": {
+        "set": "ValRings1",
         "ap": 7,
         "rarity": "rare",
         "item_effects": {
@@ -415,6 +416,7 @@
         "name": "Sahazad's Ring of Monarch"
     },
     "12028": {
+        "set": "ValRings1",
         "ap": 7,
         "rarity": "rare",
         "item_effects": {
@@ -425,6 +427,7 @@
         "name": "Barhan's Ring of Conquest"
     },
     "12029": {
+        "set": "ValRings2",
         "dp": 7,
         "rarity": "rare",
         "item_effects": {
@@ -435,6 +438,7 @@
         "name": "Manmehan's Ring of Gold"
     },
     "12030": {
+        "set": "ValRings2",
         "dp": 7,
         "rarity": "rare",
         "item_effects": {
@@ -690,5 +694,27 @@
         "enhancement_text": "",
         "enhancement": {},
         "name": "Asula's Crimson Eye Ring"
+    },
+    "12049": {
+        "set": "Treant",
+        "ap": 2,
+        "rarity": "rare",
+        "item_effects": {
+            "acc": 16
+        },
+        "enhancement_text": "",
+        "enhancement": {},
+        "name": "Root Treant's Stem Ring"
+    },
+    "12050": {
+        "set": "Treant",
+        "ap": 4,
+        "rarity": "rare",
+        "item_effects": {
+            "acc": 4
+        },
+        "enhancement_text": "",
+        "enhancement": {},
+        "name": "Treant Spirit's Echo Ring"
     }
 }

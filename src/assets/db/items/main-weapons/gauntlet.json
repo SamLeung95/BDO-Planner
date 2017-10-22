@@ -3964,5 +3964,33 @@
             }
         },
         "name": "Ultimate Elsh Gauntlet"
+    },
+    "11282": {
+        "ap_min": 42,
+        "ap_max": 50,
+        "rarity": "rare",
+        "gems": 2,
+        "item_effects": {
+            "as": 1,
+            "cs": 1,
+            "chr": 1
+        },
+        "enhancement_text": "",
+        "enhancement": {},
+        "name": "Delphad Castillion's Carnage Gauntlet"
+    },
+    "11286": {
+        "ap_min": 52,
+        "ap_max": 60,
+        "rarity": "rare",
+        "gems": 2,
+        "item_effects": {
+            "as": 1,
+            "cs": 1,
+            "chr": 1
+        },
+        "enhancement_text": "",
+        "enhancement": {},
+        "name": "Ultimate Delphad Castillion's Carnage Gauntlet"
     }
 }

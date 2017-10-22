@@ -3808,5 +3808,15 @@
             }
         },
         "name": "Griffon's Helmet"
+    },
+    "10993": {
+        "set": "Loure",
+        "dp": 33,
+        "rarity": "rare",
+        "gems": 1,
+        "item_effects": {},
+        "enhancement_text": "",
+        "enhancement": {},
+        "name": "Loure's Lost Helmet"
     }
 }
