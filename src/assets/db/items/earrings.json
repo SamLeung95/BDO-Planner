@@ -761,5 +761,13 @@
         "enhancement_text": "",
         "enhancement": {},
         "name": "Treant Spirit's Whisper Earring"
+    },
+    "11847": {
+        "ap": 13,
+        "rarity": "epic",
+        "item_effects": {},
+        "enhancement_text": "",
+        "enhancement": {},
+        "name": "Capotia Earring"
     }
 }

@@ -716,5 +716,13 @@
         "enhancement_text": "",
         "enhancement": {},
         "name": "Treant Spirit's Echo Ring"
+    },
+    "12053": {
+        "ap": 14,
+        "rarity": "epic",
+        "item_effects": {},
+        "enhancement_text": "",
+        "enhancement": {},
+        "name": "Capotia Ring"
     }
 }
