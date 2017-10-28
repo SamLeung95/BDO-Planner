@@ -1,5 +1,5 @@
 {
-    "14503": {
+    "13103": {
         "ap_min": 3,
         "ap_max": 3,
         "dp": 0,
@@ -75,15 +75,15 @@
                 "dp": 5
             }
         },
-        "name": "Quitar Kunai"
+        "name": "Black Horn Warrior Bow"
     },
-    "14504": {
-        "ap_min": 5,
-        "ap_max": 5,
+    "13104": {
+        "ap_min": 6,
+        "ap_max": 6,
         "rarity": "uncommon",
         "gems": 1,
         "item_effects": {},
-        "enhancement_text": "Increased AP",
+        "enhancement_text": "",
         "enhancement": {
             "1": {
                 "ap_min": 7,
@@ -166,9 +166,9 @@
                 "ap_max": 39
             }
         },
-        "name": "Estique Kunai"
+        "name": "White Horn Bow"
     },
-    "14505": {
+    "13105": {
         "ap_min": 3,
         "ap_max": 3,
         "dp": 3,
@@ -281,9 +281,9 @@
                 "dp": 31
             }
         },
-        "name": "Tadd Kunai"
+        "name": "White Horn Warrior Bow"
     },
-    "14506": {
+    "13106": {
         "ap_min": 3,
         "ap_max": 3,
         "dp": 0,
@@ -360,9 +360,9 @@
                 "dp": 5
             }
         },
-        "name": "Quitar Kunai of Crimson Flame"
+        "name": "Black Horn Warrior Bow of Crimson Flame"
     },
-    "14507": {
+    "13107": {
         "ap_min": 3,
         "ap_max": 3,
         "dp": 0,
@@ -439,9 +439,9 @@
                 "dp": 5
             }
         },
-        "name": "Quitar Kunai of Destruction"
+        "name": "Black Horn Warrior Bow of Destruction"
     },
-    "14508": {
+    "13108": {
         "ap_min": 3,
         "ap_max": 3,
         "dp": 0,
@@ -518,9 +518,9 @@
                 "dp": 5
             }
         },
-        "name": "Quitar Kunai of Temptation"
+        "name": "Black Horn Warrior Bow of Temptation"
     },
-    "14509": {
+    "13109": {
         "ap_min": 3,
         "ap_max": 3,
         "dp": 0,
@@ -597,77 +597,77 @@
                 "dp": 5
             }
         },
-        "name": "Ultimate Quitar Kunai"
+        "name": "Ultimate Black Horn Warrior Bow"
     },
-    "14510": {
-        "ap_min": 6,
-        "ap_max": 6,
+    "13110": {
+        "ap_min": 7,
+        "ap_max": 7,
         "rarity": "rare",
         "gems": 1,
         "item_effects": {
             "abad": 1
         },
-        "enhancement_text": "Increased AP",
+        "enhancement_text": "",
         "enhancement": {
             "1": {
-                "ap_min": 7,
-                "ap_max": 7
-            },
-            "2": {
                 "ap_min": 8,
                 "ap_max": 8
             },
-            "3": {
+            "2": {
                 "ap_min": 9,
                 "ap_max": 9
             },
-            "4": {
+            "3": {
                 "ap_min": 10,
                 "ap_max": 10
             },
-            "5": {
+            "4": {
                 "ap_min": 11,
                 "ap_max": 11
             },
-            "6": {
+            "5": {
                 "ap_min": 12,
                 "ap_max": 12
             },
-            "7": {
+            "6": {
                 "ap_min": 13,
                 "ap_max": 13
             },
-            "8": {
+            "7": {
                 "ap_min": 14,
                 "ap_max": 14
             },
-            "9": {
+            "8": {
                 "ap_min": 15,
                 "ap_max": 15
             },
-            "10": {
+            "9": {
                 "ap_min": 16,
                 "ap_max": 16
             },
-            "11": {
+            "10": {
                 "ap_min": 17,
                 "ap_max": 17
             },
-            "12": {
+            "11": {
                 "ap_min": 18,
                 "ap_max": 18
             },
-            "13": {
+            "12": {
                 "ap_min": 19,
                 "ap_max": 19
             },
-            "14": {
+            "13": {
                 "ap_min": 20,
                 "ap_max": 20
             },
-            "15": {
+            "14": {
                 "ap_min": 21,
                 "ap_max": 21
+            },
+            "15": {
+                "ap_min": 22,
+                "ap_max": 22
             },
             "16": {
                 "ap_min": 25,
@@ -690,77 +690,77 @@
                 "ap_max": 40
             }
         },
-        "name": "Estique Kunai of Crimson Flame"
+        "name": "White Horn Bow of Crimson Flame"
     },
-    "14511": {
-        "ap_min": 6,
-        "ap_max": 6,
+    "13111": {
+        "ap_min": 7,
+        "ap_max": 7,
         "rarity": "rare",
         "gems": 1,
         "item_effects": {
             "adad": 1
         },
-        "enhancement_text": "Increased AP",
+        "enhancement_text": "",
         "enhancement": {
             "1": {
-                "ap_min": 7,
-                "ap_max": 7
-            },
-            "2": {
                 "ap_min": 8,
                 "ap_max": 8
             },
-            "3": {
+            "2": {
                 "ap_min": 9,
                 "ap_max": 9
             },
-            "4": {
+            "3": {
                 "ap_min": 10,
                 "ap_max": 10
             },
-            "5": {
+            "4": {
                 "ap_min": 11,
                 "ap_max": 11
             },
-            "6": {
+            "5": {
                 "ap_min": 12,
                 "ap_max": 12
             },
-            "7": {
+            "6": {
                 "ap_min": 13,
                 "ap_max": 13
             },
-            "8": {
+            "7": {
                 "ap_min": 14,
                 "ap_max": 14
             },
-            "9": {
+            "8": {
                 "ap_min": 15,
                 "ap_max": 15
             },
-            "10": {
+            "9": {
                 "ap_min": 16,
                 "ap_max": 16
             },
-            "11": {
+            "10": {
                 "ap_min": 17,
                 "ap_max": 17
             },
-            "12": {
+            "11": {
                 "ap_min": 18,
                 "ap_max": 18
             },
-            "13": {
+            "12": {
                 "ap_min": 19,
                 "ap_max": 19
             },
-            "14": {
+            "13": {
                 "ap_min": 20,
                 "ap_max": 20
             },
-            "15": {
+            "14": {
                 "ap_min": 21,
                 "ap_max": 21
+            },
+            "15": {
+                "ap_min": 22,
+                "ap_max": 22
             },
             "16": {
                 "ap_min": 25,
@@ -783,77 +783,77 @@
                 "ap_max": 40
             }
         },
-        "name": "Estique Kunai of Destruction"
+        "name": "White Horn Bow of Destruction"
     },
-    "14512": {
-        "ap_min": 6,
-        "ap_max": 6,
+    "13112": {
+        "ap_min": 7,
+        "ap_max": 7,
         "rarity": "rare",
         "gems": 1,
         "item_effects": {
             "aaad": 1
         },
-        "enhancement_text": "Increased AP",
+        "enhancement_text": "",
         "enhancement": {
             "1": {
-                "ap_min": 7,
-                "ap_max": 7
-            },
-            "2": {
                 "ap_min": 8,
                 "ap_max": 8
             },
-            "3": {
+            "2": {
                 "ap_min": 9,
                 "ap_max": 9
             },
-            "4": {
+            "3": {
                 "ap_min": 10,
                 "ap_max": 10
             },
-            "5": {
+            "4": {
                 "ap_min": 11,
                 "ap_max": 11
             },
-            "6": {
+            "5": {
                 "ap_min": 12,
                 "ap_max": 12
             },
-            "7": {
+            "6": {
                 "ap_min": 13,
                 "ap_max": 13
             },
-            "8": {
+            "7": {
                 "ap_min": 14,
                 "ap_max": 14
             },
-            "9": {
+            "8": {
                 "ap_min": 15,
                 "ap_max": 15
             },
-            "10": {
+            "9": {
                 "ap_min": 16,
                 "ap_max": 16
             },
-            "11": {
+            "10": {
                 "ap_min": 17,
                 "ap_max": 17
             },
-            "12": {
+            "11": {
                 "ap_min": 18,
                 "ap_max": 18
             },
-            "13": {
+            "12": {
                 "ap_min": 19,
                 "ap_max": 19
             },
-            "14": {
+            "13": {
                 "ap_min": 20,
                 "ap_max": 20
             },
-            "15": {
+            "14": {
                 "ap_min": 21,
                 "ap_max": 21
+            },
+            "15": {
+                "ap_min": 22,
+                "ap_max": 22
             },
             "16": {
                 "ap_min": 25,
@@ -876,77 +876,77 @@
                 "ap_max": 40
             }
         },
-        "name": "Estique Kunai of Temptation"
+        "name": "White Horn Bow of Temptation"
     },
-    "14513": {
-        "ap_min": 6,
-        "ap_max": 6,
+    "13113": {
+        "ap_min": 7,
+        "ap_max": 7,
         "rarity": "epic",
         "gems": 1,
         "item_effects": {
             "assad": 1
         },
-        "enhancement_text": "Increased AP",
+        "enhancement_text": "",
         "enhancement": {
             "1": {
-                "ap_min": 7,
-                "ap_max": 7
-            },
-            "2": {
                 "ap_min": 8,
                 "ap_max": 8
             },
-            "3": {
+            "2": {
                 "ap_min": 9,
                 "ap_max": 9
             },
-            "4": {
+            "3": {
                 "ap_min": 10,
                 "ap_max": 10
             },
-            "5": {
+            "4": {
                 "ap_min": 11,
                 "ap_max": 11
             },
-            "6": {
+            "5": {
                 "ap_min": 12,
                 "ap_max": 12
             },
-            "7": {
+            "6": {
                 "ap_min": 13,
                 "ap_max": 13
             },
-            "8": {
+            "7": {
                 "ap_min": 14,
                 "ap_max": 14
             },
-            "9": {
+            "8": {
                 "ap_min": 15,
                 "ap_max": 15
             },
-            "10": {
+            "9": {
                 "ap_min": 16,
                 "ap_max": 16
             },
-            "11": {
+            "10": {
                 "ap_min": 17,
                 "ap_max": 17
             },
-            "12": {
+            "11": {
                 "ap_min": 18,
                 "ap_max": 18
             },
-            "13": {
+            "12": {
                 "ap_min": 19,
                 "ap_max": 19
             },
-            "14": {
+            "13": {
                 "ap_min": 20,
                 "ap_max": 20
             },
-            "15": {
+            "14": {
                 "ap_min": 21,
                 "ap_max": 21
+            },
+            "15": {
+                "ap_min": 22,
+                "ap_max": 22
             },
             "16": {
                 "ap_min": 25,
@@ -969,9 +969,9 @@
                 "ap_max": 40
             }
         },
-        "name": "Ultimate Estique Kunai"
+        "name": "Ultimate White Horn Bow"
     },
-    "14514": {
+    "13114": {
         "ap_min": 3,
         "ap_max": 3,
         "dp": 4,
@@ -979,7 +979,6 @@
         "gems": 1,
         "item_effects": {
             "ev": 3,
-            "dr": 1,
             "hp": 50,
             "abad": 1
         },
@@ -1086,9 +1085,9 @@
                 "dp": 32
             }
         },
-        "name": "Tadd Kunai of Crimson Flame"
+        "name": "White Horn Warrior Bow of Crimson Flame"
     },
-    "14515": {
+    "13115": {
         "ap_min": 3,
         "ap_max": 3,
         "dp": 4,
@@ -1096,7 +1095,6 @@
         "gems": 1,
         "item_effects": {
             "ev": 3,
-            "dr": 1,
             "hp": 50,
             "adad": 1
         },
@@ -1203,9 +1201,9 @@
                 "dp": 32
             }
         },
-        "name": "Tadd Kunai of Destruction"
+        "name": "White Horn Warrior Bow of Destruction"
     },
-    "14516": {
+    "13116": {
         "ap_min": 3,
         "ap_max": 3,
         "dp": 4,
@@ -1213,7 +1211,6 @@
         "gems": 1,
         "item_effects": {
             "ev": 3,
-            "dr": 1,
             "hp": 50,
             "aaad": 1
         },
@@ -1320,9 +1317,9 @@
                 "dp": 32
             }
         },
-        "name": "Tadd Kunai of Temptation"
+        "name": "White Horn Warrior Bow of Temptation"
     },
-    "14517": {
+    "13117": {
         "ap_min": 3,
         "ap_max": 3,
         "dp": 4,
@@ -1330,7 +1327,6 @@
         "gems": 1,
         "item_effects": {
             "ev": 3,
-            "dr": 1,
             "hp": 100,
             "assad": 1
         },
@@ -1437,9 +1433,9 @@
                 "dp": 32
             }
         },
-        "name": "Ultimate Tadd Kunai"
+        "name": "Ultimate White Horn Warrior Bow"
     },
-    "14524": {
+    "13124": {
         "set": "Krea",
         "ap_min": 1,
         "ap_max": 3,
@@ -1536,9 +1532,9 @@
                 "dp": 32
             }
         },
-        "name": "Krea Kunai"
+        "name": "Krea Horn Bow"
     },
-    "14525": {
+    "13125": {
         "set": "Rosar",
         "ap_min": 1,
         "ap_max": 4,
@@ -1649,9 +1645,9 @@
                 "dp": 32
             }
         },
-        "name": "Rosar Kunai"
+        "name": "Rosar Horn Bow"
     },
-    "14526": {
+    "13126": {
         "set": "Krea",
         "ap_min": 1,
         "ap_max": 3,
@@ -1750,9 +1746,9 @@
                 "dp": 32
             }
         },
-        "name": "Krea Kunai of Crimson Flame"
+        "name": "Krea Horn Bow of Crimson Flame"
     },
-    "14527": {
+    "13127": {
         "set": "Krea",
         "ap_min": 1,
         "ap_max": 3,
@@ -1851,9 +1847,9 @@
                 "dp": 32
             }
         },
-        "name": "Krea Kunai of Destruction"
+        "name": "Krea Horn Bow of Destruction"
     },
-    "14528": {
+    "13128": {
         "set": "Krea",
         "ap_min": 1,
         "ap_max": 3,
@@ -1952,9 +1948,9 @@
                 "dp": 32
             }
         },
-        "name": "Krea Kunai of Temptation"
+        "name": "Krea Horn Bow of Temptation"
     },
-    "14531": {
+    "13131": {
         "set": "Krea",
         "ap_min": 1,
         "ap_max": 3,
@@ -2053,9 +2049,9 @@
                 "dp": 34
             }
         },
-        "name": "Ultimate Krea Kunai"
+        "name": "Ultimate Krea Horn Bow"
     },
-    "14532": {
+    "13132": {
         "set": "Rosar",
         "ap_min": 1,
         "ap_max": 4,
@@ -2154,9 +2150,9 @@
                 "dp": 32
             }
         },
-        "name": "Rosar Kunai of Crimson Flame"
+        "name": "Rosar Horn Bow of Crimson Flame"
     },
-    "14533": {
+    "13133": {
         "set": "Rosar",
         "ap_min": 1,
         "ap_max": 4,
@@ -2255,9 +2251,9 @@
                 "dp": 32
             }
         },
-        "name": "Rosar Kunai of Destruction"
+        "name": "Rosar Horn Bow of Destruction"
     },
-    "14534": {
+    "13134": {
         "set": "Rosar",
         "ap_min": 1,
         "ap_max": 4,
@@ -2356,9 +2352,9 @@
                 "dp": 32
             }
         },
-        "name": "Rosar Kunai of Temptation"
+        "name": "Rosar Horn Bow of Temptation"
     },
-    "14537": {
+    "13137": {
         "set": "Rosar",
         "ap_min": 1,
         "ap_max": 4,
@@ -2457,9 +2453,9 @@
                 "dp": 34
             }
         },
-        "name": "Ultimate Rosar Kunai"
+        "name": "Ultimate Rosar Horn Bow"
     },
-    "14538": {
+    "13138": {
         "ap_min": 6,
         "ap_max": 8,
         "rarity": "epic",
@@ -2553,9 +2549,9 @@
                 "ap_max": 46
             }
         },
-        "name": "Nouver Kunai"
+        "name": "Nouver Horn Bow"
     },
-    "14540": {
+    "13140": {
         "ap_min": 4,
         "ap_max": 6,
         "dp": 4,
@@ -2661,9 +2657,9 @@
                 "dp": 24
             }
         },
-        "name": "Kutum Kunai"
+        "name": "Kutum Horn Bow"
     },
-    "14544": {
+    "13144": {
         "ap_min": 7,
         "ap_max": 9,
         "dp": 17,
@@ -2672,9 +2668,9 @@
         "item_effects": {},
         "enhancement_text": "",
         "enhancement": {},
-        "name": "Dim Magical Kunai"
+        "name": "Dim Magical Horn Bow"
     },
-    "14545": {
+    "13145": {
         "ap_min": 7,
         "ap_max": 9,
         "dp": 17,
@@ -2683,9 +2679,9 @@
         "item_effects": {},
         "enhancement_text": "",
         "enhancement": {},
-        "name": "Kunai of Concentrated Magical Power"
+        "name": "Horn Bow of Concentrated Magical Power"
     },
-    "14546": {
+    "13146": {
         "ap_min": 7,
         "ap_max": 9,
         "dp": 18,
@@ -2694,6 +2690,32 @@
         "item_effects": {},
         "enhancement_text": "",
         "enhancement": {},
-        "name": "Kunai of Sealed Magical Power"
+        "name": "Horn Bow of Sealed Magical Power"
+    },
+    "13147": {
+        "ap_min": 12,
+        "ap_max": 13,
+        "dp": 15,
+        "rarity": "rare",
+        "gems": 2,
+        "item_effects": {
+            "mpwpsp": 10
+        },
+        "enhancement_text": "",
+        "enhancement": {},
+        "name": "Freed Magical Horn Bow"
+    },
+    "13148": {
+        "ap_min": 17,
+        "ap_max": 18,
+        "dp": 12,
+        "rarity": "epic",
+        "gems": 2,
+        "item_effects": {
+            "mpwpsp": 15
+        },
+        "enhancement_text": "",
+        "enhancement": {},
+        "name": "Roaring Magical Horn Bow"
     }
 }

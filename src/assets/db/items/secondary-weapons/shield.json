@@ -2762,5 +2762,31 @@
         "enhancement_text": "",
         "enhancement": {},
         "name": "Shield of Sealed Magical Power"
+    },
+    "10147": {
+        "ap_min": 12,
+        "ap_max": 13,
+        "dp": 15,
+        "rarity": "rare",
+        "gems": 2,
+        "item_effects": {
+            "mpwpsp": 10
+        },
+        "enhancement_text": "",
+        "enhancement": {},
+        "name": "Freed Magical Shield"
+    },
+    "10148": {
+        "ap_min": 17,
+        "ap_max": 18,
+        "dp": 12,
+        "rarity": "epic",
+        "gems": 2,
+        "item_effects": {
+            "mpwpsp": 15
+        },
+        "enhancement_text": "",
+        "enhancement": {},
+        "name": "Roaring Magical Shield"
     }
 }
