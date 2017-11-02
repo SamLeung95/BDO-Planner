@@ -368,5 +368,98 @@
             }
         },
         "name": "Ultimate Frosty Cloud Kerispear"
+    },
+    "14776": {
+        "ap_min": 13,
+        "ap_max": 22,
+        "rarity": "epic",
+        "gems": 0,
+        "item_effects": {
+            "dmgaes": 5
+        },
+        "enhancement_text": "",
+        "enhancement": {
+            "1": {
+                "ap_min": 17,
+                "ap_max": 26
+            },
+            "2": {
+                "ap_min": 20,
+                "ap_max": 29
+            },
+            "3": {
+                "ap_min": 23,
+                "ap_max": 32
+            },
+            "4": {
+                "ap_min": 25,
+                "ap_max": 32
+            },
+            "5": {
+                "ap_min": 27,
+                "ap_max": 36
+            },
+            "6": {
+                "ap_min": 30,
+                "ap_max": 39
+            },
+            "7": {
+                "ap_min": 33,
+                "ap_max": 42
+            },
+            "8": {
+                "ap_min": 37,
+                "ap_max": 46
+            },
+            "9": {
+                "ap_min": 41,
+                "ap_max": 50
+            },
+            "10": {
+                "ap_min": 45,
+                "ap_max": 54
+            },
+            "11": {
+                "ap_min": 49,
+                "ap_max": 58
+            },
+            "12": {
+                "ap_min": 53,
+                "ap_max": 62
+            },
+            "13": {
+                "ap_min": 57,
+                "ap_max": 66
+            },
+            "14": {
+                "ap_min": 59,
+                "ap_max": 68
+            },
+            "15": {
+                "ap_min": 65,
+                "ap_max": 74
+            },
+            "16": {
+                "ap_min": 73,
+                "ap_max": 82
+            },
+            "17": {
+                "ap_min": 81,
+                "ap_max": 90
+            },
+            "18": {
+                "ap_min": 93,
+                "ap_max": 102
+            },
+            "19": {
+                "ap_min": 101,
+                "ap_max": 110
+            },
+            "20": {
+                "ap_min": 109,
+                "ap_max": 118
+            }
+        },
+        "name": "Ultimate Sundo Kerispear"
     }
 }
