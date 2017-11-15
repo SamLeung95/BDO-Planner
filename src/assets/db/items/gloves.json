@@ -3744,5 +3744,77 @@
         "enhancement_text": "",
         "enhancement": {},
         "name": "Loure's Lost Gloves"
+    },
+    "11072": {
+        "set": "Lemoria",
+        "dp": 1,
+        "rarity": "rare",
+        "gems": 1,
+        "item_effects": {
+        },
+        "enhancement_text": "Increased Accuracy & effect increases during Enhancement",
+        "enhancement": {
+            "1": {
+                "dp": 3
+            },
+            "2": {
+                "dp": 5
+            },
+            "3": {
+                "dp": 7
+            },
+            "4": {
+                "dp": 9
+            },
+            "5": {
+                "dp": 11
+            },
+            "6": {
+                "dp": 13
+            },
+            "7": {
+                "dp": 15
+            },
+            "8": {
+                "dp": 17
+            },
+            "9": {
+                "dp": 19
+            },
+            "10": {
+                "dp": 21
+            },
+            "11": {
+                "dp": 23
+            },
+            "12": {
+                "dp": 25
+            },
+            "13": {
+                "dp": 27
+            },
+            "14": {
+                "dp": 29
+            },
+            "15": {
+                "dp": 31
+            },
+            "16": {
+                "dp": 36
+            },
+            "17": {
+                "dp": 41
+            },
+            "18": {
+                "dp": 49
+            },
+            "19": {
+                "dp": 54
+            },
+            "20": {
+                "dp": 59
+            }
+        },
+        "name": "Lemoria Gloves"
     }
 }

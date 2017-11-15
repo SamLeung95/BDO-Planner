@@ -816,5 +816,32 @@
         "enhancement_text": "",
         "enhancement": {},
         "name": "Treant Spirit's Hope Belt"
+    },
+    "12237": {
+        "ap": 6,
+        "rarity": "epic",
+        "item_effects": {
+            "bsr": 20,
+            "wgt": 80
+        },
+        "enhancement_text": "",
+        "enhancement": {
+            "1": {
+                "ap": 9
+            },
+            "2": {
+                "ap": 12
+            },
+            "3": {
+                "ap": 15
+            },
+            "4": {
+                "ap": 18
+            },
+            "5": {
+                "ap": 21
+            }
+        },
+        "name": "Tungrad Belt"
     }
 }

@@ -769,5 +769,16 @@
         "enhancement_text": "",
         "enhancement": {},
         "name": "Capotia Earring"
+    },
+    "11837": {
+        "set": "Grana",
+        "ap": 8,
+        "rarity": "epic",
+        "item_effects": {
+            "acc": 14
+        },
+        "enhancement_text": "",
+        "enhancement": {},
+        "name": "Grana Oath Earring"
     }
 }

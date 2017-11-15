@@ -818,5 +818,17 @@
         "enhancement_text": "",
         "enhancement": {},
         "name": "Treant Spirit's Cheer Necklace"
+    },
+    "11639": {
+        "set": "Grana",
+        "dp": 5,
+        "ap": 10,
+        "rarity": "epic",
+        "item_effects": {
+            "hp": 50
+        },
+        "enhancement_text": "",
+        "enhancement": {},
+        "name": "Grana Guardian Necklace"
     }
 }

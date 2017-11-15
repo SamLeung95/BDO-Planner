@@ -658,6 +658,13 @@
         "symbol": "%",
         "target": ".special-stats"
     },
+    "skexp": {
+        "title": "Skill EXP",
+        "desc": "",
+        "total": 0,
+        "symbol": "%",
+        "target": ".general-stats"
+    },
     "special": { // this one must be the last one of the list. Short version: I am lazy. Longer version: Effects like fdr is added to it, so if it runs before eg. fdr, then it wont show as an active effect.
         "title": "Gear Specials",
         "desc": "",

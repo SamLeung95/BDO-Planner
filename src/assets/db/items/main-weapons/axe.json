@@ -283,6 +283,7 @@
         "name": "Seleth Axe"
     },
     "10609": {
+        "set": "Lemoria",
         "ap_min": 18,
         "ap_max": 22,
         "rarity": "rare",

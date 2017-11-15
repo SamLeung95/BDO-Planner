@@ -283,6 +283,7 @@
         "name": "Seleth Amulet"
     },
     "10409": {
+        "set": "Lemoria",
         "ap_min": 18,
         "ap_max": 22,
         "rarity": "rare",

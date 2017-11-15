@@ -724,5 +724,46 @@
         "enhancement_text": "",
         "enhancement": {},
         "name": "Capotia Ring"
+    },
+    "12043": {
+        "set": "Grana",
+        "dp": 2,
+        "ap": 8,
+        "rarity": "epic",
+        "item_effects": {
+        },
+        "enhancement_text": "",
+        "enhancement": {},
+        "name": "Grana Harmony Ring"
+    },
+    "12042": {
+        "dp": 0,
+        "ap": 5,
+        "rarity": "epic",
+        "item_effects": {},
+        "enhancement_text": "",
+        "enhancement": {
+            "1": {
+                "ap": 7,
+                "dp": 1
+            },
+            "2": {
+                "ap": 9,
+                "dp": 2
+            },
+            "3": {
+                "ap": 11,
+                "dp": 3
+            },
+            "4": {
+                "ap": 13,
+                "dp": 4
+            },
+            "5": {
+                "ap": 15,
+                "dp": 5
+            }
+        },
+        "name": "Forest Ronaros Ring"
     }
 }
