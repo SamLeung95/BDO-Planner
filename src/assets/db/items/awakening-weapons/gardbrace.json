@@ -11,83 +11,103 @@
         "enhancement": {
             "1": {
                 "ap_min": 20,
-                "ap_max": 29
+                "ap_max": 29,
+                "dmgth": 7
             },
             "2": {
                 "ap_min": 23,
-                "ap_max": 32
+                "ap_max": 32,
+                "dmgth": 7
             },
             "3": {
                 "ap_min": 26,
-                "ap_max": 35
+                "ap_max": 35,
+                "dmgth": 7
             },
             "4": {
                 "ap_min": 28,
-                "ap_max": 37
+                "ap_max": 37,
+                "dmgth": 7
             },
             "5": {
                 "ap_min": 30,
-                "ap_max": 39
+                "ap_max": 39,
+                "dmgth": 7
             },
             "6": {
                 "ap_min": 33,
-                "ap_max": 42
+                "ap_max": 42,
+                "dmgth": 8
             },
             "7": {
                 "ap_min": 36,
-                "ap_max": 45
+                "ap_max": 45,
+                "dmgth": 8
             },
             "8": {
                 "ap_min": 40,
-                "ap_max": 49
+                "ap_max": 49,
+                "dmgth": 8
             },
             "9": {
                 "ap_min": 44,
-                "ap_max": 53
+                "ap_max": 53,
+                "dmgth": 8
             },
             "10": {
                 "ap_min": 48,
-                "ap_max": 57
+                "ap_max": 57,
+                "dmgth": 9
             },
             "11": {
                 "ap_min": 52,
-                "ap_max": 61
+                "ap_max": 61,
+                "dmgth": 9
             },
             "12": {
                 "ap_min": 56,
-                "ap_max": 65
+                "ap_max": 65,
+                "dmgth": 9
             },
             "13": {
                 "ap_min": 60,
-                "ap_max": 69
+                "ap_max": 69,
+                "dmgth": 10
             },
             "14": {
                 "ap_min": 64,
-                "ap_max": 73
+                "ap_max": 73,
+                "dmgth": 10
             },
             "15": {
                 "ap_min": 68,
-                "ap_max": 77
+                "ap_max": 77,
+                "dmgth": 10
             },
             "16": {
                 "ap_min": 76,
-                "ap_max": 85
+                "ap_max": 85,
+                "dmgth": 11
             },
             "17": {
                 "ap_min": 84,
-                "ap_max": 93
+                "ap_max": 93,
+                "dmgth": 11
             },
             "18": {
                 "ap_min": 96,
-                "ap_max": 105
+                "ap_max": 105,
+                "dmgth": 11
             },
             "19": {
                 "ap_min": 104,
-                "ap_max": 113
+                "ap_max": 113,
+                "dmgth": 12
             },
             "20": {
                 "ap_min": 112,
-                "ap_max": 121
+                "ap_max": 121,
+                "dmgth": 12
             }
         },
         "name": "Backflow Gardbrace"
@@ -97,88 +117,110 @@
         "ap_max": 27,
         "rarity": "epic",
         "gems": 0,
-        "item_effects": {},
+        "item_effects": {
+            "dmgth": 0
+        },
         "enhancement_text": "",
         "enhancement": {
             "1": {
                 "ap_min": 22,
-                "ap_max": 31
+                "ap_max": 31,
+                "dmgth": 0
             },
             "2": {
                 "ap_min": 25,
-                "ap_max": 34
+                "ap_max": 34,
+                "dmgth": 0
             },
             "3": {
                 "ap_min": 28,
-                "ap_max": 37
+                "ap_max": 37,
+                "dmgth": 0
             },
             "4": {
                 "ap_min": 30,
-                "ap_max": 39
+                "ap_max": 39,
+                "dmgth": 0
             },
             "5": {
                 "ap_min": 32,
-                "ap_max": 41
+                "ap_max": 41,
+                "dmgth": 0
             },
             "6": {
                 "ap_min": 35,
-                "ap_max": 44
+                "ap_max": 44,
+                "dmgth": 1
             },
             "7": {
                 "ap_min": 38,
-                "ap_max": 47
+                "ap_max": 47,
+                "dmgth": 1
             },
             "8": {
                 "ap_min": 43,
-                "ap_max": 52
+                "ap_max": 52,
+                "dmgth": 1
             },
             "9": {
                 "ap_min": 48,
-                "ap_max": 57
+                "ap_max": 57,
+                "dmgth": 1
             },
             "10": {
                 "ap_min": 53,
-                "ap_max": 62
+                "ap_max": 62,
+                "dmgth": 2
             },
             "11": {
                 "ap_min": 58,
-                "ap_max": 67
+                "ap_max": 67,
+                "dmgth": 2
             },
             "12": {
                 "ap_min": 63,
-                "ap_max": 72
+                "ap_max": 72,
+                "dmgth": 2
             },
             "13": {
                 "ap_min": 68,
-                "ap_max": 77
+                "ap_max": 77,
+                "dmgth": 3
             },
             "14": {
                 "ap_min": 73,
-                "ap_max": 82
+                "ap_max": 82,
+                "dmgth": 3
             },
             "15": {
                 "ap_min": 78,
-                "ap_max": 87
+                "ap_max": 87,
+                "dmgth": 3
             },
             "16": {
                 "ap_min": 86,
-                "ap_max": 95
+                "ap_max": 95,
+                "dmgth": 4
             },
             "17": {
                 "ap_min": 94,
-                "ap_max": 103
+                "ap_max": 103,
+                "dmgth": 4
             },
             "18": {
                 "ap_min": 106,
-                "ap_max": 115
+                "ap_max": 115,
+                "dmgth": 4
             },
             "19": {
                 "ap_min": 114,
-                "ap_max": 123
+                "ap_max": 123,
+                "dmgth": 5
             },
             "20": {
                 "ap_min": 122,
-                "ap_max": 131
+                "ap_max": 131,
+                "dmgth": 5
             }
         },
         "name": "Dandelion Gardbrace"
@@ -195,83 +237,103 @@
         "enhancement": {
             "1": {
                 "ap_min": 15,
-                "ap_max": 24
+                "ap_max": 24,
+                "dmgaes": 5
             },
             "2": {
                 "ap_min": 18,
-                "ap_max": 27
+                "ap_max": 27,
+                "dmgaes": 5
             },
             "3": {
                 "ap_min": 21,
-                "ap_max": 30
+                "ap_max": 30,
+                "dmgaes": 5
             },
             "4": {
                 "ap_min": 23,
-                "ap_max": 32
+                "ap_max": 32,
+                "dmgaes": 5
             },
             "5": {
                 "ap_min": 25,
-                "ap_max": 34
+                "ap_max": 34,
+                "dmgaes": 5
             },
             "6": {
                 "ap_min": 28,
-                "ap_max": 37
+                "ap_max": 37,
+                "dmgaes": 6
             },
             "7": {
                 "ap_min": 31,
-                "ap_max": 40
+                "ap_max": 40,
+                "dmgaes": 6
             },
             "8": {
                 "ap_min": 35,
-                "ap_max": 44
+                "ap_max": 44,
+                "dmgaes": 6
             },
             "9": {
                 "ap_min": 39,
-                "ap_max": 48
+                "ap_max": 48,
+                "dmgaes": 6
             },
             "10": {
                 "ap_min": 43,
-                "ap_max": 52
+                "ap_max": 52,
+                "dmgaes": 7
             },
             "11": {
                 "ap_min": 47,
-                "ap_max": 56
+                "ap_max": 56,
+                "dmgaes": 7
             },
             "12": {
                 "ap_min": 51,
-                "ap_max": 60
+                "ap_max": 60,
+                "dmgaes": 7
             },
             "13": {
                 "ap_min": 55,
-                "ap_max": 64
+                "ap_max": 64,
+                "dmgaes": 8
             },
             "14": {
                 "ap_min": 59,
-                "ap_max": 68
+                "ap_max": 68,
+                "dmgaes": 8
             },
             "15": {
                 "ap_min": 63,
-                "ap_max": 72
+                "ap_max": 72,
+                "dmgaes": 8
             },
             "16": {
                 "ap_min": 71,
-                "ap_max": 80
+                "ap_max": 80,
+                "dmgaes": 9
             },
             "17": {
                 "ap_min": 79,
-                "ap_max": 88
+                "ap_max": 88,
+                "dmgaes": 9
             },
             "18": {
                 "ap_min": 91,
-                "ap_max": 100
+                "ap_max": 100,
+                "dmgaes": 9
             },
             "19": {
                 "ap_min": 99,
-                "ap_max": 108
+                "ap_max": 108,
+                "dmgaes": 10
             },
             "20": {
                 "ap_min": 107,
-                "ap_max": 116
+                "ap_max": 116,
+                "dmgaes": 10
             }
         },
         "name": "Iron Chain Gardbrace"
@@ -288,83 +350,103 @@
         "enhancement": {
             "1": {
                 "ap_min": 22,
-                "ap_max": 31
+                "ap_max": 31,
+                "dmgth": 7
             },
             "2": {
                 "ap_min": 25,
-                "ap_max": 34
+                "ap_max": 34,
+                "dmgth": 7
             },
             "3": {
                 "ap_min": 28,
-                "ap_max": 37
+                "ap_max": 37,
+                "dmgth": 7
             },
             "4": {
                 "ap_min": 30,
-                "ap_max": 39
+                "ap_max": 39,
+                "dmgth": 7
             },
             "5": {
                 "ap_min": 32,
-                "ap_max": 41
+                "ap_max": 41,
+                "dmgth": 7
             },
             "6": {
                 "ap_min": 35,
-                "ap_max": 44
+                "ap_max": 44,
+                "dmgth": 8
             },
             "7": {
                 "ap_min": 38,
-                "ap_max": 47
+                "ap_max": 47,
+                "dmgth": 8
             },
             "8": {
                 "ap_min": 42,
-                "ap_max": 51
+                "ap_max": 51,
+                "dmgth": 8
             },
             "9": {
                 "ap_min": 46,
-                "ap_max": 55
+                "ap_max": 55,
+                "dmgth": 8
             },
             "10": {
                 "ap_min": 50,
-                "ap_max": 59
+                "ap_max": 59,
+                "dmgth": 9
             },
             "11": {
                 "ap_min": 54,
-                "ap_max": 63
+                "ap_max": 63,
+                "dmgth": 9
             },
             "12": {
                 "ap_min": 58,
-                "ap_max": 67
+                "ap_max": 67,
+                "dmgth": 9
             },
             "13": {
                 "ap_min": 62,
-                "ap_max": 71
+                "ap_max": 71,
+                "dmgth": 10
             },
             "14": {
                 "ap_min": 66,
-                "ap_max": 75
+                "ap_max": 75,
+                "dmgth": 10
             },
             "15": {
                 "ap_min": 70,
-                "ap_max": 79
+                "ap_max": 79,
+                "dmgth": 10
             },
             "16": {
                 "ap_min": 78,
-                "ap_max": 87
+                "ap_max": 87,
+                "dmgth": 11
             },
             "17": {
                 "ap_min": 86,
-                "ap_max": 95
+                "ap_max": 95,
+                "dmgth": 11
             },
             "18": {
                 "ap_min": 98,
-                "ap_max": 107
+                "ap_max": 107,
+                "dmgth": 11
             },
             "19": {
                 "ap_min": 106,
-                "ap_max": 115
+                "ap_max": 115,
+                "dmgth": 12
             },
             "20": {
                 "ap_min": 114,
-                "ap_max": 123
+                "ap_max": 123,
+                "dmgth": 12
             }
         },
         "name": "Ultimate Backflow Gardbrace"
@@ -381,83 +463,103 @@
         "enhancement": {
             "1": {
                 "ap_min": 17,
-                "ap_max": 26
+                "ap_max": 26,
+                "dmgaes": 5
             },
             "2": {
                 "ap_min": 20,
-                "ap_max": 29
+                "ap_max": 29,
+                "dmgaes": 5
             },
             "3": {
                 "ap_min": 23,
-                "ap_max": 32
+                "ap_max": 32,
+                "dmgaes": 5
             },
             "4": {
                 "ap_min": 25,
-                "ap_max": 32
+                "ap_max": 32,
+                "dmgaes": 5
             },
             "5": {
                 "ap_min": 27,
-                "ap_max": 36
+                "ap_max": 36,
+                "dmgaes": 5
             },
             "6": {
                 "ap_min": 30,
-                "ap_max": 39
+                "ap_max": 39,
+                "dmgaes": 6
             },
             "7": {
                 "ap_min": 33,
-                "ap_max": 42
+                "ap_max": 42,
+                "dmgaes": 6
             },
             "8": {
                 "ap_min": 37,
-                "ap_max": 46
+                "ap_max": 46,
+                "dmgaes": 6
             },
             "9": {
                 "ap_min": 41,
-                "ap_max": 50
+                "ap_max": 50,
+                "dmgaes": 6
             },
             "10": {
                 "ap_min": 45,
-                "ap_max": 54
+                "ap_max": 54,
+                "dmgaes": 7
             },
             "11": {
                 "ap_min": 49,
-                "ap_max": 58
+                "ap_max": 58,
+                "dmgaes": 7
             },
             "12": {
                 "ap_min": 53,
-                "ap_max": 62
+                "ap_max": 62,
+                "dmgaes": 7
             },
             "13": {
                 "ap_min": 57,
-                "ap_max": 66
+                "ap_max": 66,
+                "dmgaes": 8
             },
             "14": {
                 "ap_min": 59,
-                "ap_max": 68
+                "ap_max": 68,
+                "dmgaes": 8
             },
             "15": {
                 "ap_min": 65,
-                "ap_max": 74
+                "ap_max": 74,
+                "dmgaes": 8
             },
             "16": {
                 "ap_min": 73,
-                "ap_max": 82
+                "ap_max": 82,
+                "dmgaes": 9
             },
             "17": {
                 "ap_min": 81,
-                "ap_max": 90
+                "ap_max": 90,
+                "dmgaes": 9
             },
             "18": {
                 "ap_min": 93,
-                "ap_max": 102
+                "ap_max": 102,
+                "dmgaes": 9
             },
             "19": {
                 "ap_min": 101,
-                "ap_max": 110
+                "ap_max": 110,
+                "dmgaes": 10
             },
             "20": {
                 "ap_min": 109,
-                "ap_max": 118
+                "ap_max": 118,
+                "dmgaes": 10
             }
         },
         "name": "Ultimate Iron Chain Gardbrace"
