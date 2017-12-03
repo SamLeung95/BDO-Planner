@@ -55,24 +55,36 @@
         "dp": 2,
         "rarity": "uncommon",
         "item_effects": {
-            "wgt": 30
+            "wgt": 30,
+            "ev": 2,
+            "hev": 2
         },
         "enhancement_text": "",
         "enhancement": {
             "1": {
-                "dp": 3
+                "dp": 3,
+                "ev": 3,
+                "hev": 3
             },
             "2": {
-                "dp": 4
+                "dp": 4,
+                "ev": 4,
+                "hev": 4
             },
             "3": {
-                "dp": 5
+                "dp": 5,
+                "ev": 5,
+                "hev": 5
             },
             "4": {
-                "dp": 6
+                "dp": 6,
+                "ev": 6,
+                "hev": 6
             },
             "5": {
-                "dp": 8
+                "dp": 8,
+                "ev": 8,
+                "hev": 8
             }
         },
         "name": "Hesus Belt"
@@ -133,24 +145,36 @@
         "dp": 2,
         "rarity": "uncommon",
         "item_effects": {
-            "wgt": 40
+            "wgt": 40,
+            "ev": 1,
+            "dr": 1
         },
         "enhancement_text": "",
         "enhancement": {
             "1": {
-                "dp": 3
+                "dp": 3,
+                "ev": 1,
+                "dr": 2
             },
             "2": {
-                "dp": 4
+                "dp": 4,
+                "ev": 1,
+                "dr": 3
             },
             "3": {
-                "dp": 5
+                "dp": 5,
+                "ev": 1,
+                "dr": 4
             },
             "4": {
-                "dp": 6
+                "dp": 6,
+                "ev": 1,
+                "dr": 5
             },
             "5": {
-                "dp": 8
+                "dp": 8,
+                "ev": 1,
+                "dr": 7
             }
         },
         "name": "Talis Belt"
@@ -159,29 +183,35 @@
         "dp": 4,
         "rarity": "rare",
         "item_effects": {
-            "wgt": 60
+            "wgt": 60,
+            "dr": 4
         },
         "enhancement_text": "",
         "enhancement": {
             "1": {
                 "dp": 6,
-                "wgt": 70
+                "wgt": 70,
+                "dr": 6
             },
             "2": {
                 "dp": 8,
-                "wgt": 80
+                "wgt": 80,
+                "dr": 8
             },
             "3": {
                 "dp": 10,
-                "wgt": 90
+                "wgt": 90,
+                "dr": 10
             },
             "4": {
                 "dp": 12,
-                "wgt": 100
+                "wgt": 100,
+                "dr": 12
             },
             "5": {
                 "dp": 14,
-                "wgt": 110
+                "wgt": 110,
+                "dr": 14
             }
         },
         "name": "Rhutum Elite Belt"
@@ -223,29 +253,35 @@
         "rarity": "rare",
         "item_effects": {
             "wgt": 60,
-            "stam": 50
+            "stam": 50,
+            "acc": 2
         },
         "enhancement_text": "",
         "enhancement": {
             "1": {
                 "ap": 5,
-                "wgt": 70
+                "wgt": 70,
+                "acc": 4
             },
             "2": {
                 "ap": 7,
-                "wgt": 80
+                "wgt": 80,
+                "acc": 6
             },
             "3": {
                 "ap": 9,
-                "wgt": 90
+                "wgt": 90,
+                "acc": 8
             },
             "4": {
                 "ap": 11,
-                "wgt": 100
+                "wgt": 100,
+                "acc": 10
             },
             "5": {
                 "ap": 13,
-                "wgt": 110
+                "wgt": 110,
+                "acc": 12
             }
         },
         "name": "Belt of Shultz the Gladiator"
@@ -254,7 +290,8 @@
         "dp": 3,
         "rarity": "rare",
         "item_effects": {
-            "wgt": 50
+            "wgt": 50,
+            "dr": 3
         },
         "enhancement_text": "",
         "enhancement": {},
@@ -266,34 +303,46 @@
         "ap": 4,
         "rarity": "rare",
         "item_effects": {
-            "wgt": 60
+            "wgt": 60,
+            "dr": 4,
+            "acc": 2
         },
         "enhancement_text": "Set effect enabled when equipped with “Ancient Guardian's Seal”",
         "enhancement": {
             "1": {
                 "ap": 5,
                 "dp": 5,
-                "wgt": 70
+                "wgt": 70,
+                "dr": 5,
+                "acc": 4
             },
             "2": {
                 "ap": 6,
                 "dp": 6,
-                "wgt": 80
+                "wgt": 80,
+                "dr": 6,
+                "acc": 6
             },
             "3": {
                 "ap": 7,
                 "dp": 7,
-                "wgt": 90
+                "wgt": 90,
+                "dr": 7,
+                "acc": 8
             },
             "4": {
                 "ap": 8,
                 "dp": 8,
-                "wgt": 100
+                "wgt": 100,
+                "dr": 8,
+                "acc": 10
             },
             "5": {
                 "ap": 9,
                 "dp": 9,
-                "wgt": 110
+                "wgt": 110,
+                "dr": 9,
+                "acc": 12
             }
         },
         "name": "Ancient Weapon Core"
@@ -303,29 +352,47 @@
         "rarity": "epic",
         "item_effects": {
             "hp": 25,
-            "wgt": 80
+            "wgt": 80,
+            "ev": 5,
+            "hev": 10,
+            "acc": 2
         },
         "enhancement_text": "",
         "enhancement": {
             "1": {
                 "hp": 50,
-                "dp": 8
+                "dp": 8,
+                "ev": 8,
+                "hev": 16,
+                "acc": 4
             },
             "2": {
                 "hp": 75,
-                "dp": 11
+                "dp": 11,
+                "ev": 11,
+                "hev": 22,
+                "acc": 6
             },
             "3": {
                 "hp": 100,
-                "dp": 14
+                "dp": 14,
+                "ev": 14,
+                "hev": 28,
+                "acc": 8
             },
             "4": {
                 "hp": 125,
-                "dp": 17
+                "dp": 17,
+                "ev": 17,
+                "hev": 34,
+                "acc": 10
             },
             "5": {
                 "hp": 150,
-                "dp": 20
+                "dp": 20,
+                "ev": 20,
+                "hev": 40,
+                "acc": 12
             }
         },
         "name": "Centaurus Belt"
@@ -334,24 +401,30 @@
         "ap": 5,
         "rarity": "epic",
         "item_effects": {
-            "wgt": 80
+            "wgt": 80,
+            "acc": 2
         },
         "enhancement_text": "",
         "enhancement": {
             "1": {
-                "ap": 8
+                "ap": 8,
+                "acc": 4
             },
             "2": {
-                "ap": 11
+                "ap": 11,
+                "acc": 6
             },
             "3": {
-                "ap": 14
+                "ap": 14,
+                "acc": 8
             },
             "4": {
-                "ap": 17
+                "ap": 17,
+                "acc": 10
             },
             "5": {
-                "ap": 20
+                "ap": 20,
+                "acc": 12
             }
         },
         "name": "Basilisk's Belt"
@@ -370,7 +443,9 @@
         "rarity": "uncommon",
         "item_effects": {
             "wgt": 50,
-            "mpwpsp": 30
+            "mpwpsp": 30,
+            "ev": 1,
+            "hev": 1
         },
         "enhancement_text": "",
         "enhancement": {},
@@ -426,7 +501,9 @@
         "rarity": "rare",
         "item_effects": {
             "wgt": 60,
-            "mpwpsp": 40
+            "mpwpsp": 40,
+            "ev": 2,
+            "hev": 2
         },
         "enhancement_text": "",
         "enhancement": {},
@@ -439,7 +516,8 @@
             "hprc": 4,
             "mprc": 4,
             "wprc": 4,
-            "sprc": 4
+            "sprc": 4,
+            "acc": 2
         },
         "enhancement_text": "",
         "enhancement": {},
@@ -450,7 +528,8 @@
         "rarity": "rare",
         "item_effects": {
             "wgt": 60,
-            "stam": 80
+            "stam": 80,
+            "acc": 2
         },
         "enhancement_text": "",
         "enhancement": {},
@@ -461,7 +540,8 @@
         "rarity": "rare",
         "item_effects": {
             "wgt": 60,
-            "hp": 40
+            "hp": 40,
+            "acc": 2
         },
         "enhancement_text": "",
         "enhancement": {},
@@ -472,7 +552,8 @@
         "rarity": "rare",
         "item_effects": {
             "wgt": 60,
-            "dmgaes": 4
+            "dmgaes": 4,
+            "acc": 2
         },
         "enhancement_text": "",
         "enhancement": {},
@@ -483,7 +564,10 @@
         "rarity": "epic",
         "item_effects": {
             "wgt": 70,
-            "mpwpsp": 70
+            "mpwpsp": 70,
+            "ev": 3,
+            "hev": 3,
+            "acc": 4
         },
         "enhancement_text": "",
         "enhancement": {},
@@ -496,7 +580,8 @@
             "hprc": 5,
             "mprc": 5,
             "wprc": 5,
-            "sprc": 5
+            "sprc": 5,
+            "acc": 4
         },
         "enhancement_text": "",
         "enhancement": {},
@@ -507,7 +592,8 @@
         "rarity": "epic",
         "item_effects": {
             "wgt": 70,
-            "stam": 100
+            "stam": 100,
+            "acc": 4
         },
         "enhancement_text": "",
         "enhancement": {},
@@ -518,7 +604,8 @@
         "rarity": "epic",
         "item_effects": {
             "wgt": 70,
-            "hp": 70
+            "hp": 70,
+            "acc": 4
         },
         "enhancement_text": "",
         "enhancement": {},
@@ -529,7 +616,8 @@
         "rarity": "epic",
         "item_effects": {
             "wgt": 70,
-            "dmgaes": 5
+            "dmgaes": 5,
+            "acc": 4
         },
         "enhancement_text": "",
         "enhancement": {},
@@ -543,7 +631,11 @@
             "kb": 2,
             "kd": 2,
             "ssfr": 2,
-            "gr": 2
+            "gr": 2,
+            "ev": 3,
+            "hev": 3,
+            "acc": 2,
+            "dr": 0
         },
         "enhancement_text": "",
         "enhancement": {
@@ -552,35 +644,55 @@
                 "kb": 3,
                 "kd": 3,
                 "ssfr": 3,
-                "gr": 3
+                "gr": 3,
+                "ev": 3,
+                "hev": 3,
+                "acc": 4,
+                "dr": 3
             },
             "2": {
                 "dp": 9,
                 "kb": 4,
                 "kd": 4,
                 "ssfr": 4,
-                "gr": 4
+                "gr": 4,
+                "ev": 3,
+                "hev": 3,
+                "acc": 6,
+                "dr": 6
             },
             "3": {
                 "dp": 12,
                 "kb": 5,
                 "kd": 5,
                 "ssfr": 5,
-                "gr": 5
+                "gr": 5,
+                "ev": 3,
+                "hev": 3,
+                "acc": 8,
+                "dr": 9
             },
             "4": {
                 "dp": 15,
                 "kb": 6,
                 "kd": 6,
                 "ssfr": 6,
-                "gr": 6
+                "gr": 6,
+                "ev": 3,
+                "hev": 3,
+                "acc": 10,
+                "dr": 11
             },
             "5": {
                 "dp": 18,
                 "kb": 7,
                 "kd": 7,
                 "ssfr": 7,
-                "gr": 7
+                "gr": 7,
+                "ev": 3,
+                "hev": 3,
+                "acc": 12,
+                "dr": 13
             }
         },
         "name": "Manos Blue Coral Belt"
@@ -589,29 +701,35 @@
         "rarity": "epic",
         "item_effects": {
             "wgt": 100,
-            "ms": 1
+            "ms": 1,
+            "acc": 2
         },
         "enhancement_text": "",
         "enhancement": {
             "1": {
                 "wgt": 200,
-                "ms": 1
+                "ms": 1,
+                "acc": 4
             },
             "2": {
                 "wgt": 300,
-                "ms": 2
+                "ms": 2,
+                "acc": 6
             },
             "3": {
                 "wgt": 400,
-                "ms": 2
+                "ms": 2,
+                "acc": 8
             },
             "4": {
                 "wgt": 500,
-                "ms": 3
+                "ms": 3,
+                "acc": 10
             },
             "5": {
                 "wgt": 600,
-                "ms": 3
+                "ms": 3,
+                "acc": 12
             }
         },
         "name": "Manos Golden Coral Belt"
@@ -621,29 +739,35 @@
         "rarity": "epic",
         "item_effects": {
             "wgt": 70,
-            "ms": 2
+            "ms": 2,
+            "acc": 2
         },
         "enhancement_text": "",
         "enhancement": {
             "1": {
                 "ap": 6,
-                "wgt": 80
+                "wgt": 80,
+                "acc": 4
             },
             "2": {
                 "ap": 9,
-                "wgt": 90
+                "wgt": 90,
+                "acc": 6
             },
             "3": {
                 "ap": 12,
-                "wgt": 100
+                "wgt": 100,
+                "acc": 8
             },
             "4": {
                 "ap": 15,
-                "wgt": 110
+                "wgt": 110,
+                "acc": 10
             },
             "5": {
                 "ap": 18,
-                "wgt": 120
+                "wgt": 120,
+                "acc": 12
             }
         },
         "name": "Manos Green Coral Belt"
@@ -654,29 +778,35 @@
         "item_effects": {
             "wgt": 70,
             "as": 1,
-            "cs": 1
+            "cs": 1,
+            "acc": 2
         },
         "enhancement_text": "",
         "enhancement": {
             "1": {
                 "ap": 6,
-                "wgt": 80
+                "wgt": 80,
+                "acc": 4
             },
             "2": {
                 "ap": 9,
-                "wgt": 90
+                "wgt": 90,
+                "acc": 6
             },
             "3": {
                 "ap": 12,
-                "wgt": 100
+                "wgt": 100,
+                "acc": 8
             },
             "4": {
                 "ap": 15,
-                "wgt": 110
+                "wgt": 110,
+                "acc": 10
             },
             "5": {
                 "ap": 18,
-                "wgt": 120
+                "wgt": 120,
+                "acc": 12
             }
         },
         "name": "Manos Red Coral Belt"
@@ -686,29 +816,35 @@
         "rarity": "epic",
         "item_effects": {
             "wgt": 70,
-            "iar": 2
+            "iar": 2,
+            "acc": 2
         },
         "enhancement_text": "",
         "enhancement": {
             "1": {
                 "ap": 5,
-                "iar": 3
+                "iar": 3,
+                "acc": 4
             },
             "2": {
                 "ap": 8,
-                "iar": 4
+                "iar": 4,
+                "acc": 6
             },
             "3": {
                 "ap": 11,
-                "iar": 5
+                "iar": 5,
+                "acc": 8
             },
             "4": {
                 "ap": 14,
-                "iar": 6
+                "iar": 6,
+                "acc": 10
             },
             "5": {
                 "ap": 17,
-                "iar": 7
+                "iar": 7,
+                "acc": 12
             }
         },
         "name": "Manos White Coral Belt"
@@ -768,29 +904,35 @@
         "rarity": "epic",
         "item_effects": {
             "hp": 0,
-            "wgt": 80
+            "wgt": 80,
+            "acc": 2
         },
         "enhancement_text": "",
         "enhancement": {
             "1": {
                 "ap": 8,
-                "hp": 25
+                "hp": 25,
+                "acc": 4
             },
             "2": {
                 "ap": 11,
-                "hp": 50
+                "hp": 50,
+                "acc": 6
             },
             "3": {
                 "ap": 14,
-                "hp": 75
+                "hp": 75,
+                "acc": 8
             },
             "4": {
                 "ap": 17,
-                "hp": 100
+                "hp": 100,
+                "acc": 10
             },
             "5": {
                 "ap": 20,
-                "hp": 125
+                "hp": 125,
+                "acc": 12
             }
         },
         "name": "Valtarra Eclipsed Belt"
@@ -800,18 +942,20 @@
         "ap": 3,
         "rarity": "rare",
         "item_effects": {
-            "wgt": 80
+            "wgt": 80,
+            "acc": 2
         },
         "enhancement_text": "",
         "enhancement": {},
-        "name": "Root Treant's Stem Ring"
+        "name": "Root Treant's Petal Belt"
     },
     "12243": {
         "set": "Treant",
         "ap": 4,
         "rarity": "rare",
         "item_effects": {
-            "wgt": 50
+            "wgt": 50,
+            "acc": 2
         },
         "enhancement_text": "",
         "enhancement": {},
@@ -822,26 +966,40 @@
         "rarity": "epic",
         "item_effects": {
             "bsr": 20,
-            "wgt": 80
+            "wgt": 80,
+            "acc": 2
         },
         "enhancement_text": "",
         "enhancement": {
             "1": {
-                "ap": 9
+                "ap": 9,
+                "acc": 4
             },
             "2": {
-                "ap": 12
+                "ap": 12,
+                "acc": 6
             },
             "3": {
-                "ap": 15
+                "ap": 15,
+                "acc": 8
             },
             "4": {
-                "ap": 18
+                "ap": 18,
+                "acc": 10
             },
             "5": {
-                "ap": 21
+                "ap": 21,
+                "acc": 12
             }
         },
         "name": "Tungrad Belt"
-    }
+    },
+    "12245": {
+        "ap": 14,
+        "rarity": "epic",
+        "item_effects": {},
+        "enhancement_text": "",
+        "enhancement": {},
+        "name": "Capotia Belt"
+    },
 }

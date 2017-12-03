@@ -51,23 +51,36 @@
     "11603": {
         "dp": 2,
         "rarity": "uncommon",
-        "item_effects": {},
+        "item_effects": {
+            "ev": 2,
+            "hev": 2
+        },
         "enhancement_text": "",
         "enhancement": {
             "1": {
-                "dp": 4
+                "dp": 4,
+                "ev": 4,
+                "hev": 4
             },
             "2": {
-                "dp": 6
+                "dp": 6,
+                "ev": 6,
+                "hev": 6
             },
             "3": {
-                "dp": 8
+                "dp": 8,
+                "ev": 8,
+                "hev": 8
             },
             "4": {
-                "dp": 10
+                "dp": 10,
+                "ev": 10,
+                "hev": 10
             },
             "5": {
-                "dp": 12
+                "dp": 12,
+                "ev": 12,
+                "hev": 12
             }
         },
         "name": "Hesus Necklace"
@@ -131,23 +144,42 @@
     "11606": {
         "dp": 4,
         "rarity": "uncommon",
-        "item_effects": {},
+        "item_effects": {
+            "ev": 2,
+            "hev": 2,
+            "dr": 2
+        },
         "enhancement_text": "",
         "enhancement": {
             "1": {
-                "dp": 6
+                "dp": 6,
+                "ev": 3,
+                "hev": 3,
+                "dr": 3
             },
             "2": {
-                "dp": 8
+                "dp": 8,
+                "ev": 4,
+                "hev": 4,
+                "dr": 4
             },
             "3": {
-                "dp": 10
+                "dp": 10,
+                "ev": 5,
+                "hev": 5,
+                "dr": 5
             },
             "4": {
-                "dp": 12
+                "dp": 12,
+                "ev": 6,
+                "hev": 6,
+                "dr": 6
             },
             "5": {
-                "dp": 14
+                "dp": 14,
+                "ev": 7,
+                "hev": 7,
+                "dr": 7
             }
         },
         "name": "Talis Necklace"
@@ -155,23 +187,30 @@
     "11607": {
         "ap": 10,
         "rarity": "epic",
-        "item_effects": {},
+        "item_effects": {
+            "acc": 4
+        },
         "enhancement_text": "",
         "enhancement": {
             "1": {
-                "ap": 15
+                "ap": 15,
+                "acc": 8
             },
             "2": {
-                "ap": 20
+                "ap": 20,
+                "acc": 12
             },
             "3": {
-                "ap": 25
+                "ap": 25,
+                "acc": 16
             },
             "4": {
-                "ap": 30
+                "ap": 30,
+                "acc": 20
             },
             "5": {
-                "ap": 35
+                "ap": 35,
+                "acc": 24
             }
         },
         "name": "Ogre Ring"
@@ -211,28 +250,41 @@
         "dp": 5,
         "ap": 5,
         "rarity": "rare",
-        "item_effects": {},
+        "item_effects": {
+            "dr": 5,
+            "acc": 4
+        },
         "enhancement_text": "",
         "enhancement": {
             "1": {
                 "ap": 6,
-                "dp": 6
+                "dp": 6,
+                "dr": 6,
+                "acc": 8
             },
             "2": {
                 "ap": 7,
-                "dp": 7
+                "dp": 7,
+                "dr": 7,
+                "acc": 12
             },
             "3": {
                 "ap": 8,
-                "dp": 8
+                "dp": 8,
+                "dr": 8,
+                "acc": 16
             },
             "4": {
                 "ap": 9,
-                "dp": 9
+                "dp": 9,
+                "dr": 9,
+                "acc": 20
             },
             "5": {
                 "ap": 10,
-                "dp": 10
+                "dp": 10,
+                "dr": 10,
+                "acc": 24
             }
         },
         "name": "Scarla Necklace"
@@ -240,23 +292,42 @@
     "11611": {
         "dp": 10,
         "rarity": "rare",
-        "item_effects": {},
+        "item_effects": {
+            "ev": 5,
+            "dr": 5,
+            "acc": 4
+        },
         "enhancement_text": "",
         "enhancement": {
             "1": {
-                "dp": 13
+                "dp": 13,
+                "ev": 7,
+                "dr": 6,
+                "acc": 8
             },
             "2": {
-                "dp": 16
+                "dp": 16,
+                "ev": 9,
+                "dr": 7,
+                "acc": 12
             },
             "3": {
-                "dp": 19
+                "dp": 19,
+                "ev": 11,
+                "dr": 8,
+                "acc": 16
             },
             "4": {
-                "dp": 22
+                "dp": 22,
+                "ev": 13,
+                "dr": 9,
+                "acc": 20
             },
             "5": {
-                "dp": 25
+                "dp": 25,
+                "ev": 15,
+                "dr": 10,
+                "acc": 24
             }
         },
         "name": "Bensho's Necklace"
@@ -266,28 +337,41 @@
         "dp": 3,
         "ap": 6,
         "rarity": "rare",
-        "item_effects": {},
+        "item_effects": {
+            "dr": 3,
+            "acc": 4
+        },
         "enhancement_text": "Set effect enabled when equipped with “Ancient Weapon Core”",
         "enhancement": {
             "1": {
                 "ap": 8,
-                "dp": 4
+                "dp": 4,
+                "dr": 4,
+                "acc": 8
             },
             "2": {
                 "ap": 10,
-                "dp": 5
+                "dp": 5,
+                "dr": 5,
+                "acc": 12
             },
             "3": {
                 "ap": 12,
-                "dp": 6
+                "dp": 6,
+                "dr": 6,
+                "acc": 16
             },
             "4": {
                 "ap": 14,
-                "dp": 7
+                "dp": 7,
+                "dr": 7,
+                "acc": 20
             },
             "5": {
                 "ap": 16,
-                "dp": 8
+                "dp": 8,
+                "dr": 8,
+                "acc": 24
             }
         },
         "name": "Ancient Guardian's Seal"
@@ -341,28 +425,41 @@
         "dp": 3,
         "ap": 7,
         "rarity": "epic",
-        "item_effects": {},
+        "item_effects": {
+            "ev": 3,
+            "hev": 6
+        },
         "enhancement_text": "",
         "enhancement": {
             "1": {
                 "ap": 10,
-                "dp": 5
+                "dp": 5,
+                "ev": 5,
+                "hev": 10
             },
             "2": {
                 "ap": 13,
-                "dp": 7
+                "dp": 7,
+                "ev": 7,
+                "hev": 14
             },
             "3": {
                 "ap": 16,
-                "dp": 9
+                "dp": 9,
+                "ev": 9,
+                "hev": 18
             },
             "4": {
                 "ap": 19,
-                "dp": 11
+                "dp": 11,
+                "ev": 11,
+                "hev": 22
             },
             "5": {
                 "ap": 22,
-                "dp": 13
+                "dp": 13,
+                "ev": 13,
+                "hev": 26
             }
         },
         "name": "Sicil's Necklace"
@@ -380,24 +477,30 @@
         "ap": 8,
         "rarity": "epic",
         "item_effects": {
-            "hp": 50
+            "hp": 50,
+            "acc": 4
         },
         "enhancement_text": "",
         "enhancement": {
             "1": {
-                "ap": 12
+                "ap": 12,
+                "acc": 8
             },
             "2": {
-                "ap": 16
+                "ap": 16,
+                "acc": 12
             },
             "3": {
-                "ap": 20
+                "ap": 20,
+                "acc": 16
             },
             "4": {
-                "ap": 24
+                "ap": 24,
+                "acc": 20
             },
             "5": {
-                "ap": 28
+                "ap": 28,
+                "acc": 24
             }
         },
         "name": "Serap's Necklace"
@@ -406,24 +509,30 @@
         "ap": 10,
         "rarity": "epic",
         "item_effects": {
-            "bsr": 20
+            "bsr": 20,
+            "acc": 4
         },
         "enhancement_text": "",
         "enhancement": {
             "1": {
-                "ap": 15
+                "ap": 15,
+                "acc": 8
             },
             "2": {
-                "ap": 20
+                "ap": 20,
+                "acc": 12
             },
             "3": {
-                "ap": 25
+                "ap": 25,
+                "acc": 16
             },
             "4": {
-                "ap": 30
+                "ap": 30,
+                "acc": 20
             },
             "5": {
-                "ap": 35
+                "ap": 35,
+                "acc": 24
             }
         },
         "name": "Tungrad Necklace"
@@ -431,23 +540,30 @@
     "11630": {
         "ap": 10,
         "rarity": "epic",
-        "item_effects": {},
+        "item_effects": {
+            "acc": 4
+        },
         "enhancement_text": "",
         "enhancement": {
             "1": {
-                "ap": 15
+                "ap": 15,
+                "acc": 8
             },
             "2": {
-                "ap": 20
+                "ap": 20,
+                "acc": 12
             },
             "3": {
-                "ap": 25
+                "ap": 25,
+                "acc": 16
             },
             "4": {
-                "ap": 30
+                "ap": 30,
+                "acc": 20
             },
             "5": {
-                "ap": 35
+                "ap": 35,
+                "acc": 24
             }
         },
         "name": "Laytenn's Power Stone"
@@ -455,23 +571,30 @@
     "11631": {
         "ap": 7,
         "rarity": "rare",
-        "item_effects": {},
+        "item_effects": {
+            "acc": 2
+        },
         "enhancement_text": "",
         "enhancement": {
             "1": {
-                "ap": 10
+                "ap": 10,
+                "acc": 4
             },
             "2": {
-                "ap": 13
+                "ap": 13,
+                "acc": 6
             },
             "3": {
-                "ap": 16
+                "ap": 16,
+                "acc": 8
             },
             "4": {
-                "ap": 19
+                "ap": 19,
+                "acc": 10
             },
             "5": {
-                "ap": 22
+                "ap": 22,
+                "acc": 12
             }
         },
         "name": "Necklace of Shultz the Gladiator"
@@ -480,7 +603,8 @@
         "ap": 4,
         "rarity": "rare",
         "item_effects": {
-            "gr": 25
+            "gr": 25,
+            "acc": 4
         },
         "enhancement_text": "",
         "enhancement": {},
@@ -490,7 +614,8 @@
         "ap": 5,
         "rarity": "epic",
         "item_effects": {
-            "gr": 30
+            "gr": 30,
+            "acc": 8
         },
         "enhancement_text": "",
         "enhancement": {},
@@ -500,7 +625,8 @@
         "ap": 4,
         "rarity": "rare",
         "item_effects": {
-            "kb": 25
+            "kb": 25,
+            "acc": 4
         },
         "enhancement_text": "",
         "enhancement": {},
@@ -510,7 +636,8 @@
         "ap": 5,
         "rarity": "epic",
         "item_effects": {
-            "kb": 30
+            "kb": 30,
+            "acc": 8
         },
         "enhancement_text": "",
         "enhancement": {},
@@ -520,7 +647,8 @@
         "ap": 4,
         "rarity": "rare",
         "item_effects": {
-            "kb": 25
+            "kb": 25,
+            "acc": 4
         },
         "enhancement_text": "",
         "enhancement": {},
@@ -530,7 +658,8 @@
         "ap": 5,
         "rarity": "epic",
         "item_effects": {
-            "kd": 30
+            "kd": 30,
+            "acc": 8
         },
         "enhancement_text": "",
         "enhancement": {},
@@ -540,7 +669,8 @@
         "ap": 4,
         "rarity": "rare",
         "item_effects": {
-            "sr": 25
+            "sr": 25,
+            "acc": 4
         },
         "enhancement_text": "",
         "enhancement": {},
@@ -550,7 +680,8 @@
         "ap": 5,
         "rarity": "epic",
         "item_effects": {
-            "sr": 30
+            "sr": 30,
+            "acc": 8
         },
         "enhancement_text": "",
         "enhancement": {},
@@ -560,29 +691,35 @@
         "ap": 6,
         "rarity": "epic",
         "item_effects": {
-            "gr": 30
+            "gr": 30,
+            "acc": 4
         },
         "enhancement_text": "",
         "enhancement": {
             "1": {
                 "ap": 9,
-                "gr": 32
+                "gr": 32,
+                "acc": 8
             },
             "2": {
                 "ap": 12,
-                "gr": 34
+                "gr": 34,
+                "acc": 12
             },
             "3": {
                 "ap": 15,
-                "gr": 36
+                "gr": 36,
+                "acc": 16
             },
             "4": {
                 "ap": 18,
-                "gr": 38
+                "gr": 38,
+                "acc": 20
             },
             "5": {
                 "ap": 21,
-                "gr": 40
+                "gr": 40,
+                "acc": 24
             }
         },
         "name": "Manos Ruby Necklace"
@@ -591,29 +728,35 @@
         "ap": 6,
         "rarity": "epic",
         "item_effects": {
-            "kb": 30
+            "kb": 30,
+            "acc": 4
         },
         "enhancement_text": "",
         "enhancement": {
             "1": {
                 "ap": 9,
-                "kb": 32
+                "kb": 32,
+                "acc": 8
             },
             "2": {
                 "ap": 12,
-                "kb": 34
+                "kb": 34,
+                "acc": 12
             },
             "3": {
                 "ap": 15,
-                "kb": 36
+                "kb": 36,
+                "acc": 16
             },
             "4": {
                 "ap": 18,
-                "kb": 38
+                "kb": 38,
+                "acc": 20
             },
             "5": {
                 "ap": 21,
-                "kb": 40
+                "kb": 40,
+                "acc": 24
             }
         },
         "name": "Manos Sapphire Necklace"
@@ -622,29 +765,35 @@
         "ap": 6,
         "rarity": "epic",
         "item_effects": {
-            "kd": 30
+            "kd": 30,
+            "acc": 4
         },
         "enhancement_text": "",
         "enhancement": {
             "1": {
                 "ap": 9,
-                "kd": 32
+                "kd": 32,
+                "acc": 8
             },
             "2": {
                 "ap": 12,
-                "kd": 34
+                "kd": 34,
+                "acc": 12
             },
             "3": {
                 "ap": 15,
-                "kd": 36
+                "kd": 36,
+                "acc": 16
             },
             "4": {
                 "ap": 18,
-                "kd": 38
+                "kd": 38,
+                "acc": 20
             },
             "5": {
                 "ap": 21,
-                "kd": 40
+                "kd": 40,
+                "acc": 24
             }
         },
         "name": "Manos Topaz Necklace"
@@ -653,29 +802,35 @@
         "ap": 6,
         "rarity": "epic",
         "item_effects": {
-            "ssfr": 30
+            "ssfr": 30,
+            "acc": 4
         },
         "enhancement_text": "",
         "enhancement": {
             "1": {
                 "ap": 9,
-                "ssfr": 32
+                "ssfr": 32,
+                "acc": 8
             },
             "2": {
                 "ap": 12,
-                "ssfr": 34
+                "ssfr": 34,
+                "acc": 12
             },
             "3": {
                 "ap": 15,
-                "ssfr": 36
+                "ssfr": 36,
+                "acc": 16
             },
             "4": {
                 "ap": 18,
-                "ssfr": 38
+                "ssfr": 38,
+                "acc": 20
             },
             "5": {
                 "ap": 21,
-                "ssfr": 40
+                "ssfr": 40,
+                "acc": 24
             }
         },
         "name": "Manos Emerald Necklace"
@@ -687,7 +842,8 @@
             "kb": 10,
             "kd": 10,
             "ssfr": 10,
-            "gr": 10
+            "gr": 10,
+            "acc": 4
         },
         "enhancement_text": "",
         "enhancement": {
@@ -696,35 +852,40 @@
                 "kb": 11,
                 "kd": 11,
                 "ssfr": 11,
-                "gr": 11
+                "gr": 11,
+                "acc": 8
             },
             "2": {
                 "ap": 12,
                 "kb": 12,
                 "kd": 12,
                 "ssfr": 12,
-                "gr": 12
+                "gr": 12,
+                "acc": 12
             },
             "3": {
                 "ap": 15,
                 "kb": 13,
                 "kd": 13,
                 "ssfr": 13,
-                "gr": 13
+                "gr": 13,
+                "acc": 16
             },
             "4": {
                 "ap": 18,
                 "kb": 14,
                 "kd": 14,
                 "ssfr": 14,
-                "gr": 14
+                "gr": 14,
+                "acc": 20
             },
             "5": {
                 "ap": 21,
                 "kb": 15,
                 "kd": 15,
                 "ssfr": 15,
-                "gr": 15
+                "gr": 15,
+                "acc": 24
             }
         },
         "name": "Manos Diamond Necklace"
@@ -781,7 +942,9 @@
         "dp": 3,
         "ap": 11,
         "rarity": "rare",
-        "item_effects": {},
+        "item_effects": {
+            "dr": 3
+        },
         "enhancement_text": "",
         "enhancement": {},
         "name": "Asula's Crimson Eye Necklace"
@@ -791,7 +954,9 @@
         "dp": 2,
         "rarity": "epic",
         "item_effects": {
-            "abad": 1
+            "abad": 1,
+            "dr": 2,
+            "acc": 8
         },
         "enhancement_text": "",
         "enhancement": {},
@@ -825,7 +990,10 @@
         "ap": 10,
         "rarity": "epic",
         "item_effects": {
-            "hp": 50
+            "hp": 50,
+            "ev": 3,
+            "dr": 2,
+            "acc": 6
         },
         "enhancement_text": "",
         "enhancement": {},

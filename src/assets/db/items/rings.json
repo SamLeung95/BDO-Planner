@@ -51,23 +51,36 @@
     "12003": {
         "dp": 1,
         "rarity": "uncommon",
-        "item_effects": {},
+        "item_effects": {
+            "ev": 1,
+            "hev": 2
+        },
         "enhancement_text": "",
         "enhancement": {
             "1": {
-                "dp": 2
+                "dp": 2,
+                "ev": 2,
+                "hev": 4
             },
             "2": {
-                "dp": 3
+                "dp": 3,
+                "ev": 3,
+                "hev": 6
             },
             "3": {
-                "dp": 4
+                "dp": 4,
+                "ev": 4,
+                "hev": 8
             },
             "4": {
-                "dp": 5
+                "dp": 5,
+                "ev": 5,
+                "hev": 10
             },
             "5": {
-                "dp": 7
+                "dp": 7,
+                "ev": 7,
+                "hev": 14
             }
         },
         "name": "Hesus Ring"
@@ -125,23 +138,36 @@
     "12006": {
         "dp": 2,
         "rarity": "uncommon",
-        "item_effects": {},
+        "item_effects": {
+            "ev": 1,
+            "dr": 1
+        },
         "enhancement_text": "",
         "enhancement": {
             "1": {
-                "dp": 3
+                "dp": 3,
+                "ev": 1,
+                "dr": 2
             },
             "2": {
-                "dp": 4
+                "dp": 4,
+                "ev": 1,
+                "dr": 3
             },
             "3": {
-                "dp": 5
+                "dp": 5,
+                "ev": 1,
+                "dr": 4
             },
             "4": {
-                "dp": 6
+                "dp": 6,
+                "ev": 1,
+                "dr": 5
             },
             "5": {
-                "dp": 8
+                "dp": 8,
+                "ev": 1,
+                "dr": 7
             }
         },
         "name": "Talis Ring"
@@ -149,23 +175,30 @@
     "12007": {
         "ap": 5,
         "rarity": "rare",
-        "item_effects": {},
+        "item_effects": {
+            "acc": 2
+        },
         "enhancement_text": "",
         "enhancement": {
             "1": {
-                "ap": 7
+                "ap": 7,
+                "acc": 4
             },
             "2": {
-                "ap": 9
+                "ap": 9,
+                "acc": 6
             },
             "3": {
-                "ap": 11
+                "ap": 11,
+                "acc": 8
             },
             "4": {
-                "ap": 13
+                "ap": 13,
+                "acc": 10
             },
             "5": {
-                "ap": 15
+                "ap": 15,
+                "acc": 12
             }
         },
         "name": "Mark of Shadow"
@@ -174,29 +207,35 @@
         "dp": 5,
         "rarity": "rare",
         "item_effects": {
-            "hp": 20
+            "hp": 20,
+            "dr": 5
         },
         "enhancement_text": "",
         "enhancement": {
             "1": {
                 "dp": 7,
-                "hp": 35
+                "hp": 35,
+                "dr": 7
             },
             "2": {
                 "dp": 9,
-                "hp": 50
+                "hp": 50,
+                "dr": 9
             },
             "3": {
                 "dp": 11,
-                "hp": 65
+                "hp": 65,
+                "dr": 11
             },
             "4": {
                 "dp": 13,
-                "hp": 80
+                "hp": 80,
+                "dr": 13
             },
             "5": {
                 "dp": 15,
-                "hp": 95
+                "hp": 95,
+                "dr": 15
             }
         },
         "name": "Shrine Guardian Token"
@@ -268,29 +307,35 @@
         "ap": 3,
         "rarity": "rare",
         "item_effects": {
-            "stam": 50
+            "stam": 50,
+            "dr": 4
         },
         "enhancement_text": "",
         "enhancement": {
             "1": {
                 "ap": 4,
-                "dp": 5
+                "dp": 5,
+                "dr": 5
             },
             "2": {
                 "ap": 5,
-                "dp": 6
+                "dp": 6,
+                "dr": 6
             },
             "3": {
                 "ap": 6,
-                "dp": 7
+                "dp": 7,
+                "dr": 7
             },
             "4": {
                 "ap": 7,
-                "dp": 8
+                "dp": 8,
+                "dr": 8
             },
             "5": {
                 "ap": 8,
-                "dp": 9
+                "dp": 9,
+                "dr": 9
             }
         },
         "name": "Outlaw's Ring"
@@ -345,29 +390,35 @@
         "ap": 5,
         "rarity": "rare",
         "item_effects": {
-            "mpwpsp": 25
+            "mpwpsp": 25,
+            "acc": 2
         },
         "enhancement_text": "",
         "enhancement": {
             "1": {
                 "ap": 6,
-                "mpwpsp": 30
+                "mpwpsp": 30,
+                "acc": 4
             },
             "2": {
                 "ap": 7,
-                "mpwpsp": 35
+                "mpwpsp": 35,
+                "acc": 6
             },
             "3": {
                 "ap": 8,
-                "mpwpsp": 40
+                "mpwpsp": 40,
+                "acc": 8
             },
             "4": {
                 "ap": 9,
-                "mpwpsp": 45
+                "mpwpsp": 45,
+                "acc": 10
             },
             "5": {
                 "ap": 10,
-                "mpwpsp": 50
+                "mpwpsp": 50,
+                "acc": 12
             }
         },
         "name": "Blue Coral Ring"
@@ -377,29 +428,35 @@
         "ap": 4,
         "rarity": "rare",
         "item_effects": {
-            "stam": 50
+            "stam": 50,
+            "dr": 3
         },
         "enhancement_text": "",
         "enhancement": {
             "1": {
                 "ap": 5,
-                "dp": 4
+                "dp": 4,
+                "dr": 4
             },
             "2": {
                 "ap": 6,
-                "dp": 5
+                "dp": 5,
+                "dr": 5
             },
             "3": {
                 "ap": 7,
-                "dp": 6
+                "dp": 6,
+                "dr": 6
             },
             "4": {
                 "ap": 8,
-                "dp": 7
+                "dp": 7,
+                "dr": 7
             },
             "5": {
                 "ap": 9,
-                "dp": 8
+                "dp": 8,
+                "dr": 8
             }
         },
         "name": "Red Coral Ring"
@@ -431,7 +488,9 @@
         "dp": 7,
         "rarity": "rare",
         "item_effects": {
-            "hp": 50
+            "hp": 50,
+            "ev": 3,
+            "dr": 4
         },
         "enhancement_text": "",
         "enhancement": {},
@@ -442,7 +501,9 @@
         "dp": 7,
         "rarity": "rare",
         "item_effects": {
-            "mpwpsp": 50
+            "mpwpsp": 50,
+            "ev": 3,
+            "dr": 4
         },
         "enhancement_text": "",
         "enhancement": {},
@@ -451,23 +512,30 @@
     "12031": {
         "ap": 5,
         "rarity": "epic",
-        "item_effects": {},
+        "item_effects": {
+            "acc": 2
+        },
         "enhancement_text": "",
         "enhancement": {
             "1": {
-                "ap": 8
+                "ap": 8,
+                "acc": 4
             },
             "2": {
-                "ap": 11
+                "ap": 11,
+                "acc": 6
             },
             "3": {
-                "ap": 14
+                "ap": 14,
+                "acc": 8
             },
             "4": {
-                "ap": 17
+                "ap": 17,
+                "acc": 10
             },
             "5": {
-                "ap": 20
+                "ap": 20,
+                "acc": 12
             }
         },
         "name": "Ring of Crescent Guardian"
@@ -477,29 +545,35 @@
         "rarity": "epic",
         "item_effects": {
             "hp": 25,
-            "mpwpsp": 25
+            "mpwpsp": 25,
+            "dr": 5
         },
         "enhancement_text": "",
         "enhancement": {
             "1": {
                 "dp": 8,
-                "hp": 40
+                "hp": 40,
+                "dr": 8
             },
             "2": {
                 "dp": 11,
-                "hp": 55
+                "hp": 55,
+                "dr": 11
             },
             "3": {
                 "dp": 14,
-                "hp": 70
+                "hp": 70,
+                "dr": 14
             },
             "4": {
                 "dp": 17,
-                "hp": 85
+                "hp": 85,
+                "dr": 17
             },
             "5": {
                 "dp": 20,
-                "hp": 100
+                "hp": 100,
+                "dr": 20
             }
         },
         "name": "Ring of Cadry Guardian"
@@ -527,7 +601,8 @@
         "rarity": "rare",
         "item_effects": {
             "dmgth": 4,
-            "hp": 40
+            "hp": 40,
+            "acc": 2
         },
         "enhancement_text": "",
         "enhancement": {},
@@ -537,41 +612,12 @@
         "rarity": "epic",
         "item_effects": {
             "dmgth": 5,
-            "hp": 50
+            "hp": 50,
+            "acc": 4
         },
         "enhancement_text": "",
         "enhancement": {},
         "name": "Corrupt Ruby Ring"
-    },
-    "12108": {
-        "rarity": "uncommon",
-        "item_effects": {
-            "dmgtdh": 3,
-            "hp": 30
-        },
-        "enhancement_text": "",
-        "enhancement": {},
-        "name": "Ocean Sapphire Ring"
-    },
-    "12109": {
-        "rarity": "rare",
-        "item_effects": {
-            "dmgtdh": 4,
-            "hp": 40
-        },
-        "enhancement_text": "",
-        "enhancement": {},
-        "name": "Translucent Ocean Sapphire Ring"
-    },
-    "12110": {
-        "rarity": "epic",
-        "item_effects": {
-            "dmgtdh": 5,
-            "hp": 50
-        },
-        "enhancement_text": "",
-        "enhancement": {},
-        "name": "Sapphire Ring of Storms"
     },
     "12113": {
         "rarity": "uncommon",
@@ -587,7 +633,8 @@
         "rarity": "rare",
         "item_effects": {
             "dmgth": 4,
-            "hp": 40
+            "hp": 40,
+            "acc": 2
         },
         "enhancement_text": "",
         "enhancement": {},
@@ -597,64 +644,41 @@
         "rarity": "epic",
         "item_effects": {
             "dmgaes": 5,
-            "hp": 50
+            "hp": 50,
+            "acc": 4
         },
         "enhancement_text": "",
         "enhancement": {},
         "name": "Topaz Ring of Regeneration"
     },
-    "12118": {
-        "rarity": "uncommon",
-        "item_effects": {
-            "acc": 3,
-            "hp": 30
-        },
-        "enhancement_text": "",
-        "enhancement": {},
-        "name": "Forest Emerald Ring"
-    },
-    "12119": {
-        "rarity": "rare",
-        "item_effects": {
-            "acc": 4,
-            "hp": 40
-        },
-        "enhancement_text": "",
-        "enhancement": {},
-        "name": "Placid Forest Emerald Ring"
-    },
-    "12120": {
-        "rarity": "epic",
-        "item_effects": {
-            "acc": 5,
-            "hp": 50
-        },
-        "enhancement_text": "",
-        "enhancement": {},
-        "name": "Emerald Ring of Tranquility"
-    },
     "12126": {
         "rarity": "epic",
         "item_effects": {
             "dmgth": 6,
-            "hp": 50
+            "hp": 50,
+            "acc": 2
         },
         "enhancement_text": "",
         "enhancement": {
             "1": {
-                "dmgth": 9
+                "dmgth": 9,
+                "acc": 4
             },
             "2": {
-                "dmgth": 12
+                "dmgth": 12,
+                "acc": 6
             },
             "3": {
-                "dmgth": 15
+                "dmgth": 15,
+                "acc": 8
             },
             "4": {
-                "dmgth": 18
+                "dmgth": 18,
+                "acc": 10
             },
             "5": {
-                "dmgth": 21
+                "dmgth": 21,
+                "acc": 12
             }
         },
         "name": "Manos Ruby Ring"
@@ -663,24 +687,30 @@
         "rarity": "epic",
         "item_effects": {
             "dmgaes": 6,
-            "hp": 50
+            "hp": 50,
+            "acc": 2
         },
         "enhancement_text": "",
         "enhancement": {
             "1": {
-                "dmgaes": 9
+                "dmgaes": 9,
+                "acc": 4
             },
             "2": {
-                "dmgaes": 12
+                "dmgaes": 12,
+                "acc": 6
             },
             "3": {
-                "dmgaes": 15
+                "dmgaes": 15,
+                "acc": 8
             },
             "4": {
-                "dmgaes": 18
+                "dmgaes": 18,
+                "acc": 10
             },
             "5": {
-                "dmgaes": 21
+                "dmgaes": 21,
+                "acc": 12
             }
         },
         "name": "Manos Topaz Ring"
@@ -690,7 +720,9 @@
         "dp": 2,
         "ap": 7,
         "rarity": "rare",
-        "item_effects": {},
+        "item_effects": {
+            "dr": 2
+        },
         "enhancement_text": "",
         "enhancement": {},
         "name": "Asula's Crimson Eye Ring"
@@ -720,7 +752,9 @@
     "12053": {
         "ap": 14,
         "rarity": "epic",
-        "item_effects": {},
+        "item_effects": {
+            "acc": 8
+        },
         "enhancement_text": "",
         "enhancement": {},
         "name": "Capotia Ring"
@@ -731,6 +765,9 @@
         "ap": 8,
         "rarity": "epic",
         "item_effects": {
+            "ev": 1,
+            "dr": 1,
+            "acc": 4
         },
         "enhancement_text": "",
         "enhancement": {},
@@ -740,28 +777,41 @@
         "dp": 0,
         "ap": 5,
         "rarity": "epic",
-        "item_effects": {},
+        "item_effects": {
+            "acc": 2,
+            "dr": 0
+        },
         "enhancement_text": "",
         "enhancement": {
             "1": {
                 "ap": 7,
-                "dp": 1
+                "dp": 1,
+                "acc": 4,
+                "dr": 1
             },
             "2": {
                 "ap": 9,
-                "dp": 2
+                "dp": 2,
+                "acc": 6,
+                "dr": 2
             },
             "3": {
                 "ap": 11,
-                "dp": 3
+                "dp": 3,
+                "acc": 8,
+                "dr": 3
             },
             "4": {
                 "ap": 13,
-                "dp": 4
+                "dp": 4,
+                "acc": 10,
+                "dr": 4
             },
             "5": {
                 "ap": 15,
-                "dp": 5
+                "dp": 5,
+                "acc": 12,
+                "dr": 5
             }
         },
         "name": "Forest Ronaros Ring"

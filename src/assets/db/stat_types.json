@@ -665,6 +665,20 @@
         "symbol": "%",
         "target": ".general-stats"
     },
+    "hev": { //Hidden Evasion (the number now in () on items in game), eg - Evasion: 25 (79)
+        "title": "Hidden Evasion",
+        "desc": "Decreases damage received from all targets",
+        "total": 0,
+        "symbol": "",
+        "target": ".defense-stats"
+    },
+    "hdr": { //Hidden Damage Reduction (the number now in () on items in game), eg - Damage Reduction: 49 (6)
+        "title": "Hidden Damage Reduction",
+        "desc": "Decreases damage received from all targets",
+        "total": 0,
+        "symbol": "",
+        "target": ".defense-stats"
+    },
     "special": { // this one must be the last one of the list. Short version: I am lazy. Longer version: Effects like fdr is added to it, so if it runs before eg. fdr, then it wont show as an active effect.
         "title": "Gear Specials",
         "desc": "",

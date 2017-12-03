@@ -51,23 +51,36 @@
     "11803": {
         "dp": 1,
         "rarity": "uncommon",
-        "item_effects": {},
+        "item_effects": {
+            "ev": 1,
+            "hev": 2
+        },
         "enhancement_text": "",
         "enhancement": {
             "1": {
-                "dp": 2
+                "dp": 2,
+                "ev": 2,
+                "hev": 4
             },
             "2": {
-                "dp": 3
+                "dp": 3,
+                "ev": 3,
+                "hev": 6
             },
             "3": {
-                "dp": 4
+                "dp": 4,
+                "ev": 4,
+                "hev": 8
             },
             "4": {
-                "dp": 5
+                "dp": 5,
+                "ev": 5,
+                "hev": 10
             },
             "5": {
-                "dp": 7
+                "dp": 7,
+                "ev": 7,
+                "hev": 14
             }
         },
         "name": "Hesus Earring"
@@ -125,23 +138,36 @@
     "11806": {
         "dp": 2,
         "rarity": "uncommon",
-        "item_effects": {},
+        "item_effects": {
+            "ev": 1,
+            "dr": 1
+        },
         "enhancement_text": "",
         "enhancement": {
             "1": {
-                "dp": 3
+                "dp": 3,
+                "ev": 1,
+                "dr": 2
             },
             "2": {
-                "dp": 4
+                "dp": 4,
+                "ev": 1,
+                "dr": 3
             },
             "3": {
-                "dp": 5
+                "dp": 5,
+                "ev": 1,
+                "dr": 4
             },
             "4": {
-                "dp": 6
+                "dp": 6,
+                "ev": 1,
+                "dr": 5
             },
             "5": {
-                "dp": 8
+                "dp": 8,
+                "ev": 1,
+                "dr": 7
             }
         },
         "name": "Talis Earring"
@@ -150,29 +176,35 @@
         "dp": 5,
         "rarity": "rare",
         "item_effects": {
-            "hp": 20
+            "hp": 20,
+            "dr": 5
         },
         "enhancement_text": "",
         "enhancement": {
             "1": {
                 "dp": 7,
-                "hp": 35
+                "hp": 35,
+                "dr": 7
             },
             "2": {
                 "dp": 9,
-                "hp": 50
+                "hp": 50,
+                "dr": 9
             },
             "3": {
                 "dp": 11,
-                "hp": 65
+                "hp": 65,
+                "dr": 11
             },
             "4": {
                 "dp": 13,
-                "hp": 80
+                "hp": 80,
+                "dr": 13
             },
             "5": {
                 "dp": 15,
-                "hp": 95
+                "hp": 95,
+                "dr": 15
             }
         },
         "name": "Token of Friendship"
@@ -180,23 +212,30 @@
     "11808": {
         "ap": 5,
         "rarity": "rare",
-        "item_effects": {},
+        "item_effects": {
+            "acc": 2
+        },
         "enhancement_text": "",
         "enhancement": {
             "1": {
-                "ap": 7
+                "ap": 7,
+                "acc": 4
             },
             "2": {
-                "ap": 9
+                "ap": 9,
+                "acc": 6
             },
             "3": {
-                "ap": 11
+                "ap": 11,
+                "acc": 8
             },
             "4": {
-                "ap": 13
+                "ap": 13,
+                "acc": 10
             },
             "5": {
-                "ap": 15
+                "ap": 15,
+                "acc": 12
             }
         },
         "name": "Witch's Earring"
@@ -236,29 +275,35 @@
         "dp": 5,
         "rarity": "rare",
         "item_effects": {
-            "acc": 6
+            "acc": 6,
+            "dr": 5
         },
         "enhancement_text": "",
         "enhancement": {
             "1": {
                 "dp": 6,
-                "acc": 10
+                "acc": 10,
+                "dr": 6
             },
             "2": {
                 "dp": 7,
-                "acc": 14
+                "acc": 14,
+                "dr": 7
             },
             "3": {
                 "dp": 8,
-                "acc": 18
+                "acc": 18,
+                "dr": 8
             },
             "4": {
                 "dp": 9,
-                "acc": 22
+                "acc": 22,
+                "dr": 9
             },
             "5": {
                 "dp": 10,
-                "acc": 26
+                "acc": 26,
+                "dr": 10
             }
         },
         "name": "Ridell Earring"
@@ -313,24 +358,30 @@
         "ap": 5,
         "rarity": "rare",
         "item_effects": {
-            "hp": 100
+            "hp": 100,
+            "acc": 2
         },
         "enhancement_text": "",
         "enhancement": {
             "1": {
-                "ap": 7
+                "ap": 7,
+                "acc": 4
             },
             "2": {
-                "ap": 9
+                "ap": 9,
+                "acc": 6
             },
             "3": {
-                "ap": 11
+                "ap": 11,
+                "acc": 8
             },
             "4": {
-                "ap": 13
+                "ap": 13,
+                "acc": 10
             },
             "5": {
-                "ap": 15
+                "ap": 15,
+                "acc": 12
             }
         },
         "name": "Blue Whale Molar Earring"
@@ -339,24 +390,30 @@
         "ap": 4,
         "rarity": "rare",
         "item_effects": {
-            "mpwpsp": 25
+            "mpwpsp": 25,
+            "acc": 2
         },
         "enhancement_text": "",
         "enhancement": {
             "1": {
-                "ap": 6
+                "ap": 6,
+                "acc": 4
             },
             "2": {
-                "ap": 8
+                "ap": 8,
+                "acc": 6
             },
             "3": {
-                "ap": 10
+                "ap": 10,
+                "acc": 8
             },
             "4": {
-                "ap": 12
+                "ap": 12,
+                "acc": 10
             },
             "5": {
-                "ap": 14
+                "ap": 14,
+                "acc": 12
             }
         },
         "name": "Blue Coral Earring"
@@ -403,29 +460,35 @@
         "rarity": "rare",
         "item_effects": {
             "stam": 50,
-            "mpwpsp": 50
+            "mpwpsp": 50,
+            "acc": 2
         },
         "enhancement_text": "",
         "enhancement": {
             "1": {
                 "ap": 7,
-                "stam": 70
+                "stam": 70,
+                "acc": 4
             },
             "2": {
                 "ap": 9,
-                "stam": 90
+                "stam": 90,
+                "acc": 6
             },
             "3": {
                 "ap": 11,
-                "stam": 110
+                "stam": 110,
+                "acc": 8
             },
             "4": {
                 "ap": 13,
-                "stam": 130
+                "stam": 130,
+                "acc": 10
             },
             "5": {
                 "ap": 15,
-                "stam": 150
+                "stam": 150,
+                "acc": 12
             }
         },
         "name": "Fugitive Khalk's Earring"
@@ -434,24 +497,30 @@
         "ap": 7,
         "rarity": "epic",
         "item_effects": {
-            "bsr": 10
+            "bsr": 10,
+            "acc": 2
         },
         "enhancement_text": "",
         "enhancement": {
             "1": {
-                "ap": 9
+                "ap": 9,
+                "acc": 4
             },
             "2": {
-                "ap": 11
+                "ap": 11,
+                "acc": 6
             },
             "3": {
-                "ap": 13
+                "ap": 13,
+                "acc": 8
             },
             "4": {
-                "ap": 15
+                "ap": 15,
+                "acc": 10
             },
             "5": {
-                "ap": 17
+                "ap": 17,
+                "acc": 12
             }
         },
         "name": "Tungrad Earring"
@@ -469,7 +538,9 @@
         "dp": 3,
         "rarity": "uncommon",
         "item_effects": {
-            "hp": 30
+            "hp": 30,
+            "ev": 3,
+            "hev": 3
         },
         "enhancement_text": "",
         "enhancement": {},
@@ -479,7 +550,9 @@
         "dp": 4,
         "rarity": "rare",
         "item_effects": {
-            "hp": 40
+            "hp": 40,
+            "ev": 4,
+            "hev": 4
         },
         "enhancement_text": "",
         "enhancement": {},
@@ -489,7 +562,9 @@
         "dp": 5,
         "rarity": "epic",
         "item_effects": {
-            "hp": 50
+            "hp": 50,
+            "ev": 5,
+            "hev": 5
         },
         "enhancement_text": "",
         "enhancement": {},
@@ -499,7 +574,9 @@
         "dp": 3,
         "rarity": "uncommon",
         "item_effects": {
-            "mpwpsp": 30
+            "mpwpsp": 30,
+            "ev": 3,
+            "hev": 3
         },
         "enhancement_text": "",
         "enhancement": {},
@@ -509,7 +586,9 @@
         "dp": 4,
         "rarity": "rare",
         "item_effects": {
-            "mpwpsp": 40
+            "mpwpsp": 40,
+            "ev": 4,
+            "hev": 4
         },
         "enhancement_text": "",
         "enhancement": {},
@@ -519,7 +598,9 @@
         "dp": 5,
         "rarity": "epic",
         "item_effects": {
-            "mpwpsp": 50
+            "mpwpsp": 50,
+            "ev": 5,
+            "hev": 5
         },
         "enhancement_text": "",
         "enhancement": {},
@@ -529,7 +610,9 @@
         "dp": 3,
         "rarity": "uncommon",
         "item_effects": {
-            "stam": 60
+            "stam": 60,
+            "ev": 3,
+            "hev": 3
         },
         "enhancement_text": "",
         "enhancement": {},
@@ -539,7 +622,9 @@
         "dp": 4,
         "rarity": "rare",
         "item_effects": {
-            "stam": 80
+            "stam": 80,
+            "ev": 4,
+            "hev": 4
         },
         "enhancement_text": "",
         "enhancement": {},
@@ -549,73 +634,54 @@
         "dp": 5,
         "rarity": "epic",
         "item_effects": {
-            "stam": 100
+            "stam": 100,
+            "ev": 5,
+            "hev": 5
         },
         "enhancement_text": "",
         "enhancement": {},
         "name": "Topaz Earrings of Regeneration"
     },
-    "11918": {
-        "dp": 3,
-        "rarity": "uncommon",
-        "item_effects": {
-            "hprc": 3,
-            "mprc": 3,
-            "wprc": 3,
-            "sprc": 3
-        },
-        "enhancement_text": "",
-        "enhancement": {},
-        "name": "Forest Emerald Earring"
-    },
-    "11919": {
-        "dp": 4,
-        "rarity": "rare",
-        "item_effects": {
-            "hprc": 4,
-            "mprc": 4,
-            "wprc": 4,
-            "sprc": 4
-        },
-        "enhancement_text": "",
-        "enhancement": {},
-        "name": "Placid Forest Emerald Earring"
-    },
-    "11920": {
-        "dp": 5,
-        "rarity": "epic",
-        "item_effects": {
-            "hprc": 5,
-            "mprc": 5,
-            "wprc": 5,
-            "sprc": 5
-        },
-        "enhancement_text": "",
-        "enhancement": {},
-        "name": "Emerald Earring of Tranquility"
-    },
     "11926": {
         "dp": 6,
         "rarity": "epic",
         "item_effects": {
-            "hp": 50
+            "hp": 50,
+            "ev": 5,
+            "hev": 5,
+            "dr": 1
         },
         "enhancement_text": "",
         "enhancement": {
             "1": {
-                "dp": 9
+                "dp": 9,
+                "ev": 5,
+                "hev": 5,
+                "dr": 4
             },
             "2": {
-                "dp": 12
+                "dp": 12,
+                "ev": 5,
+                "hev": 5,
+                "dr": 7
             },
             "3": {
-                "dp": 15
+                "dp": 15,
+                "ev": 5,
+                "hev": 5,
+                "dr": 10
             },
             "4": {
-                "dp": 18
+                "dp": 18,
+                "ev": 5,
+                "hev": 5,
+                "dr": 13
             },
             "5": {
-                "dp": 21
+                "dp": 21,
+                "ev": 5,
+                "hev": 5,
+                "dr": 16
             }
         },
         "name": "Manos Ruby Earrings"
@@ -624,24 +690,42 @@
         "dp": 6,
         "rarity": "epic",
         "item_effects": {
-            "mpwpsp": 100
+            "mpwpsp": 100,
+            "ev": 5,
+            "hev": 5,
+            "dr": 1
         },
         "enhancement_text": "",
         "enhancement": {
             "1": {
-                "dp": 9
+                "dp": 9,
+                "ev": 5,
+                "hev": 5,
+                "dr": 4
             },
             "2": {
-                "dp": 12
+                "dp": 12,
+                "ev": 5,
+                "hev": 5,
+                "dr": 7
             },
             "3": {
-                "dp": 15
+                "dp": 15,
+                "ev": 5,
+                "hev": 5,
+                "dr": 10
             },
             "4": {
-                "dp": 18
+                "dp": 18,
+                "ev": 5,
+                "hev": 5,
+                "dr": 13
             },
             "5": {
-                "dp": 21
+                "dp": 21,
+                "ev": 5,
+                "hev": 5,
+                "dr": 16
             }
         },
         "name": "Manos Sapphire Earrings"
@@ -650,24 +734,42 @@
         "dp": 6,
         "rarity": "epic",
         "item_effects": {
-            "stam": 100
+            "stam": 100,
+            "ev": 5,
+            "hev": 5,
+            "dr": 1
         },
         "enhancement_text": "",
         "enhancement": {
             "1": {
-                "dp": 9
+                "dp": 9,
+                "ev": 5,
+                "hev": 5,
+                "dr": 4
             },
             "2": {
-                "dp": 12
+                "dp": 12,
+                "ev": 5,
+                "hev": 5,
+                "dr": 7
             },
             "3": {
-                "dp": 15
+                "dp": 15,
+                "ev": 5,
+                "hev": 5,
+                "dr": 10
             },
             "4": {
-                "dp": 18
+                "dp": 18,
+                "ev": 5,
+                "hev": 5,
+                "dr": 13
             },
             "5": {
-                "dp": 21
+                "dp": 21,
+                "ev": 5,
+                "hev": 5,
+                "dr": 16
             }
         },
         "name": "Manos Topaz Earrings"
@@ -688,34 +790,46 @@
         "ap": 5,
         "rarity": "epic",
         "item_effects": {
-            "dmgakm": 3
+            "dmgakm": 3,
+            "acc": 2,
+            "dr": 0,
         },
         "enhancement_text": "",
         "enhancement": {
             "1": {
                 "ap": 7,
                 "dp": 1,
-                "dmgakm": 4
+                "dmgakm": 4,
+                "acc": 4,
+                "dr": 1
             },
             "2": {
                 "ap": 9,
                 "dp": 2,
-                "dmgakm": 5
+                "dmgakm": 5,
+                "acc": 6,
+                "dr": 2
             },
             "3": {
                 "ap": 11,
                 "dp": 3,
-                "dmgakm": 6
+                "dmgakm": 6,
+                "acc": 8,
+                "dr": 3
             },
             "4": {
                 "ap": 13,
                 "dp": 4,
-                "dmgakm": 7
+                "dmgakm": 7,
+                "acc": 10,
+                "dr": 4
             },
             "5": {
                 "ap": 15,
                 "dp": 5,
-                "dmgakm": 8
+                "dmgakm": 8,
+                "acc": 12,
+                "dr": 5
             }
         },
         "name": "Narc Ear Accessory"
@@ -724,7 +838,8 @@
         "ap": 8,
         "rarity": "rare",
         "item_effects": {
-            "hp": 25
+            "hp": 25,
+            "acc": 4
         },
         "enhancement_text": "",
         "enhancement": {},
@@ -765,7 +880,9 @@
     "11847": {
         "ap": 13,
         "rarity": "epic",
-        "item_effects": {},
+        "item_effects": {
+            "acc": 8
+        },
         "enhancement_text": "",
         "enhancement": {},
         "name": "Capotia Earring"
