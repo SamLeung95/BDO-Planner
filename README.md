@@ -9,7 +9,7 @@ The current live version of the planner can be accessed at [BDOPlanner.com](http
 
 Any features we're currently testing can be found on the Beta site [Beta.BDOPlanner.com](http://beta.bdoplanner.com) but there's no promises it'll actually work!
 
-## Current Version: 1.0.0
+## Current Version
 
 The Changelog can be viewed [here](https://github.com/Ihellmasker/BDO-Planner/blob/master/CHANGELOG.md).
 
@@ -26,6 +26,12 @@ If you find any issues, or have any suggestions or questions, then please create
 ## Important note about Repo
 
 This repository does not include all server-side scripts, but other than that everything should work.
+
+**ga.php** is simply a google analytic code block, feel free to remove the requirement for this file.
+**bdo_database.js** is a rewrite of *bdo_database.php*. You can do this through a simple .htaccess mod_rewrite.
+```
+RewriteRule ^assets/js/bdo_database.js$ php/bdo_database.php [NC,L]
+```
 
 ## Copyright & License
 
