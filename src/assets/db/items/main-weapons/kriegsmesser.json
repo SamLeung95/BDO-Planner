@@ -7,90 +7,129 @@
         "item_effects": {
             "dmgaes": 5,
             "acc": 10,
-            "wgt": -25,
             "special": "5% chance to heal 5 HP on attack."
         },
         "enhancement_text": "",
         "enhancement": {
             "1": {
                 "ap_min": 14,
-                "ap_max": 18
+                "ap_max": 18,
+                "dmgaes": 5,
+                "acc": 20
             },
             "2": {
                 "ap_min": 17,
-                "ap_max": 21
+                "ap_max": 21,
+                "dmgaes": 5,
+                "acc": 30
             },
             "3": {
                 "ap_min": 20,
-                "ap_max": 24
+                "ap_max": 24,
+                "dmgaes": 5,
+                "acc": 40
             },
             "4": {
                 "ap_min": 22,
-                "ap_max": 26
+                "ap_max": 26,
+                "dmgaes": 5,
+                "acc": 50
             },
             "5": {
                 "ap_min": 24,
-                "ap_max": 28
+                "ap_max": 28,
+                "dmgaes": 5,
+                "acc": 60
             },
             "6": {
                 "ap_min": 27,
-                "ap_max": 31
+                "ap_max": 31,
+                "dmgaes": 5,
+                "acc": 70
             },
             "7": {
                 "ap_min": 30,
-                "ap_max": 34
+                "ap_max": 34,
+                "dmgaes": 5,
+                "acc": 80
             },
             "8": {
                 "ap_min": 34,
-                "ap_max": 38
+                "ap_max": 38,
+                "dmgaes": 6,
+                "acc": 90
             },
             "9": {
                 "ap_min": 38,
-                "ap_max": 42
+                "ap_max": 42,
+                "dmgaes": 7,
+                "acc": 100
             },
             "10": {
                 "ap_min": 42,
-                "ap_max": 46
+                "ap_max": 46,
+                "dmgaes": 8,
+                "acc": 110
             },
             "11": {
                 "ap_min": 46,
-                "ap_max": 50
+                "ap_max": 50,
+                "dmgaes": 9,
+                "acc": 120
             },
             "12": {
                 "ap_min": 50,
-                "ap_max": 54
+                "ap_max": 54,
+                "dmgaes": 10,
+                "acc": 130
             },
             "13": {
                 "ap_min": 54,
-                "ap_max": 58
+                "ap_max": 58,
+                "dmgaes": 11,
+                "acc": 140
             },
             "14": {
                 "ap_min": 58,
-                "ap_max": 62
+                "ap_max": 62,
+                "dmgaes": 12,
+                "acc": 150
             },
             "15": {
                 "ap_min": 62,
-                "ap_max": 66
+                "ap_max": 66,
+                "dmgaes": 13,
+                "acc": 160
             },
             "16": {
                 "ap_min": 70,
-                "ap_max": 74
+                "ap_max": 74,
+                "dmgaes": 14,
+                "acc": 168
             },
             "17": {
                 "ap_min": 78,
-                "ap_max": 82
+                "ap_max": 82,
+                "dmgaes": 15,
+                "acc": 176
             },
             "18": {
                 "ap_min": 90,
-                "ap_max": 94
+                "ap_max": 94,
+                "dmgaes": 16,
+                "acc": 184
             },
             "19": {
                 "ap_min": 98,
-                "ap_max": 102
+                "ap_max": 102,
+                "dmgaes": 17,
+                "acc": 192
             },
             "20": {
                 "ap_min": 106,
-                "ap_max": 110
+                "ap_max": 110,
+                "dmgaes": 18,
+                "acc": 200
             }
         },
         "name": "Elsh Kriegsmesser"
@@ -108,83 +147,103 @@
         "enhancement": {
             "1": {
                 "ap_min": 18,
-                "ap_max": 22
+                "ap_max": 22,
+                "acc": 28
             },
             "2": {
                 "ap_min": 21,
-                "ap_max": 25
+                "ap_max": 25,
+                "acc": 34
             },
             "3": {
                 "ap_min": 24,
-                "ap_max": 28
+                "ap_max": 28,
+                "acc": 40
             },
             "4": {
                 "ap_min": 26,
-                "ap_max": 30
+                "ap_max": 30,
+                "acc": 44
             },
             "5": {
                 "ap_min": 28,
-                "ap_max": 32
+                "ap_max": 32,
+                "acc": 48
             },
             "6": {
                 "ap_min": 31,
-                "ap_max": 35
+                "ap_max": 35,
+                "acc": 54
             },
             "7": {
                 "ap_min": 34,
-                "ap_max": 38
+                "ap_max": 38,
+                "acc": 60
             },
             "8": {
                 "ap_min": 38,
-                "ap_max": 42
+                "ap_max": 42,
+                "acc": 64
             },
             "9": {
                 "ap_min": 42,
-                "ap_max": 46
+                "ap_max": 46,
+                "acc": 68
             },
             "10": {
                 "ap_min": 46,
-                "ap_max": 50
+                "ap_max": 50,
+                "acc": 72
             },
             "11": {
                 "ap_min": 50,
-                "ap_max": 54
+                "ap_max": 54,
+                "acc": 76
             },
             "12": {
                 "ap_min": 54,
-                "ap_max": 58
+                "ap_max": 58,
+                "acc": 82
             },
             "13": {
                 "ap_min": 58,
-                "ap_max": 62
+                "ap_max": 62,
+                "acc": 88
             },
             "14": {
                 "ap_min": 62,
-                "ap_max": 66
+                "ap_max": 66,
+                "acc": 94
             },
             "15": {
                 "ap_min": 66,
-                "ap_max": 70
+                "ap_max": 70,
+                "acc": 100
             },
             "16": {
                 "ap_min": 74,
-                "ap_max": 78
+                "ap_max": 78,
+                "acc": 106
             },
             "17": {
                 "ap_min": 82,
-                "ap_max": 86
+                "ap_max": 86,
+                "acc": 112
             },
             "18": {
                 "ap_min": 94,
-                "ap_max": 98
+                "ap_max": 98,
+                "acc": 118
             },
             "19": {
                 "ap_min": 102,
-                "ap_max": 106
+                "ap_max": 106,
+                "acc": 124
             },
             "20": {
                 "ap_min": 110,
-                "ap_max": 114
+                "ap_max": 114,
+                "acc": 130
             }
         },
         "name": "Azwell Kriegsmesser"
@@ -195,89 +254,130 @@
         "rarity": "uncommon",
         "gems": 1,
         "item_effects": {
-            "dmgth": 10
+            "dmgth": 10,
+            "acc": 0
         },
         "enhancement_text": "",
         "enhancement": {
             "1": {
                 "ap_min": 14,
-                "ap_max": 18
+                "ap_max": 18,
+                "acc": 8,
+                "dmgth": 11
             },
             "2": {
                 "ap_min": 17,
-                "ap_max": 21
+                "ap_max": 21,
+                "acc": 14,
+                "dmgth": 12
             },
             "3": {
                 "ap_min": 20,
-                "ap_max": 24
+                "ap_max": 24,
+                "acc": 20,
+                "dmgth": 13
             },
             "4": {
                 "ap_min": 22,
-                "ap_max": 26
+                "ap_max": 26,
+                "acc": 24,
+                "dmgth": 14
             },
             "5": {
                 "ap_min": 24,
-                "ap_max": 28
+                "ap_max": 28,
+                "acc": 28,
+                "dmgth": 15
             },
             "6": {
                 "ap_min": 27,
-                "ap_max": 31
+                "ap_max": 31,
+                "acc": 34,
+                "dmgth": 16
             },
             "7": {
                 "ap_min": 30,
-                "ap_max": 34
+                "ap_max": 34,
+                "acc": 40,
+                "dmgth": 17
             },
             "8": {
                 "ap_min": 34,
-                "ap_max": 38
+                "ap_max": 38,
+                "acc": 44,
+                "dmgth": 18
             },
             "9": {
                 "ap_min": 38,
-                "ap_max": 42
+                "ap_max": 42,
+                "acc": 48,
+                "dmgth": 19
             },
             "10": {
                 "ap_min": 42,
-                "ap_max": 46
+                "ap_max": 46,
+                "acc": 52,
+                "dmgth": 20
             },
             "11": {
                 "ap_min": 46,
-                "ap_max": 50
+                "ap_max": 50,
+                "acc": 56,
+                "dmgth": 21
             },
             "12": {
                 "ap_min": 50,
-                "ap_max": 54
+                "ap_max": 54,
+                "acc": 62,
+                "dmgth": 22
             },
             "13": {
                 "ap_min": 54,
-                "ap_max": 58
+                "ap_max": 58,
+                "acc": 68,
+                "dmgth": 23
             },
             "14": {
                 "ap_min": 58,
-                "ap_max": 62
+                "ap_max": 62,
+                "acc": 74,
+                "dmgth": 24
             },
             "15": {
                 "ap_min": 62,
-                "ap_max": 66
+                "ap_max": 66,
+                "acc": 80,
+                "dmgth": 25
             },
             "16": {
                 "ap_min": 70,
-                "ap_max": 74
+                "ap_max": 74,
+                "acc": 86,
+                "dmgth": 27
             },
             "17": {
                 "ap_min": 78,
-                "ap_max": 82
+                "ap_max": 82,
+                "acc": 92,
+                "dmgth": 29
             },
             "18": {
                 "ap_min": 90,
-                "ap_max": 94
+                "ap_max": 94,
+                "acc": 98,
+                "dmgth": 31
             },
             "19": {
                 "ap_min": 98,
-                "ap_max": 102
+                "ap_max": 102,
+                "acc": 104,
+                "dmgth": 33
             },
             "20": {
                 "ap_min": 106,
-                "ap_max": 110
+                "ap_max": 110,
+                "acc": 110,
+                "dmgth": 35
             }
         },
         "name": "Seleth Kriegsmesser"
@@ -289,89 +389,111 @@
         "rarity": "rare",
         "gems": 2,
         "item_effects": {
-            "chr": 3
+            "chr": 3,
+            "acc": 0,
+            "dmgaes": 5
         },
         "enhancement_text": "",
         "enhancement": {
             "1": {
                 "ap_min": 22,
-                "ap_max": 26
+                "ap_max": 26,
+                "acc": 8
             },
             "2": {
                 "ap_min": 25,
-                "ap_max": 29
+                "ap_max": 29,
+                "acc": 14
             },
             "3": {
                 "ap_min": 28,
-                "ap_max": 32
+                "ap_max": 32,
+                "acc": 20
             },
             "4": {
                 "ap_min": 30,
-                "ap_max": 34
+                "ap_max": 34,
+                "acc": 24
             },
             "5": {
                 "ap_min": 32,
-                "ap_max": 36
+                "ap_max": 36,
+                "acc": 28
             },
             "6": {
                 "ap_min": 35,
-                "ap_max": 39
+                "ap_max": 39,
+                "acc": 34
             },
             "7": {
                 "ap_min": 38,
-                "ap_max": 42
+                "ap_max": 42,
+                "acc": 40
             },
             "8": {
                 "ap_min": 43,
-                "ap_max": 47
+                "ap_max": 47,
+                "acc": 48
             },
             "9": {
                 "ap_min": 48,
-                "ap_max": 52
+                "ap_max": 52,
+                "acc": 56
             },
             "10": {
                 "ap_min": 53,
-                "ap_max": 57
+                "ap_max": 57,
+                "acc": 64
             },
             "11": {
                 "ap_min": 58,
-                "ap_max": 62
+                "ap_max": 62,
+                "acc": 76
             },
             "12": {
                 "ap_min": 63,
-                "ap_max": 67
+                "ap_max": 67,
+                "acc": 90
             },
             "13": {
                 "ap_min": 68,
-                "ap_max": 72
+                "ap_max": 72,
+                "acc": 104
             },
             "14": {
                 "ap_min": 73,
-                "ap_max": 77
+                "ap_max": 77,
+                "acc": 118
             },
             "15": {
                 "ap_min": 78,
-                "ap_max": 82
+                "ap_max": 82,
+                "acc": 132
             },
             "16": {
                 "ap_min": 86,
-                "ap_max": 90
+                "ap_max": 90,
+                "acc": 142
             },
             "17": {
                 "ap_min": 94,
-                "ap_max": 98
+                "ap_max": 98,
+                "acc": 152
             },
             "18": {
                 "ap_min": 106,
-                "ap_max": 110
+                "ap_max": 110,
+                "acc": 162
             },
             "19": {
                 "ap_min": 114,
-                "ap_max": 118
+                "ap_max": 118,
+                "acc": 172
             },
             "20": {
                 "ap_min": 122,
-                "ap_max": 126
+                "ap_max": 126,
+                "acc": 182
             }
         },
         "name": "Liverto Kriegsmesser"
@@ -382,89 +504,131 @@
         "rarity": "epic",
         "gems": 2,
         "item_effects": {
-            "as": 3
+            "as": 3,
+            "acc": 10,
+            "dmgaes": 10
         },
         "enhancement_text": "",
         "enhancement": {
             "1": {
                 "ap_min": 22,
-                "ap_max": 26
+                "ap_max": 26,
+                "acc": 20,
+                "dmgaes": 10
             },
             "2": {
                 "ap_min": 25,
-                "ap_max": 29
+                "ap_max": 29,
+                "acc": 30,
+                "dmgaes": 10
             },
             "3": {
                 "ap_min": 28,
-                "ap_max": 32
+                "ap_max": 32,
+                "acc": 40,
+                "dmgaes": 10
             },
             "4": {
                 "ap_min": 30,
-                "ap_max": 34
+                "ap_max": 34,
+                "acc": 50,
+                "dmgaes": 10
             },
             "5": {
                 "ap_min": 32,
-                "ap_max": 36
+                "ap_max": 36,
+                "acc": 60,
+                "dmgaes": 10
             },
             "6": {
                 "ap_min": 35,
-                "ap_max": 39
+                "ap_max": 39,
+                "acc": 70,
+                "dmgaes": 10
             },
             "7": {
                 "ap_min": 38,
-                "ap_max": 42
+                "ap_max": 42,
+                "acc": 80,
+                "dmgaes": 10
             },
             "8": {
                 "ap_min": 43,
-                "ap_max": 47
+                "ap_max": 47,
+                "acc": 90,
+                "dmgaes": 10
             },
             "9": {
                 "ap_min": 48,
-                "ap_max": 52
+                "ap_max": 52,
+                "acc": 100,
+                "dmgaes": 10
             },
             "10": {
                 "ap_min": 53,
-                "ap_max": 57
+                "ap_max": 57,
+                "acc": 110,
+                "dmgaes": 10
             },
             "11": {
                 "ap_min": 58,
-                "ap_max": 62
+                "ap_max": 62,
+                "acc": 120,
+                "dmgaes": 11
             },
             "12": {
                 "ap_min": 63,
-                "ap_max": 67
+                "ap_max": 67,
+                "acc": 130,
+                "dmgaes": 12
             },
             "13": {
                 "ap_min": 68,
-                "ap_max": 72
+                "ap_max": 72,
+                "acc": 140,
+                "dmgaes": 13
             },
             "14": {
                 "ap_min": 73,
-                "ap_max": 77
+                "ap_max": 77,
+                "acc": 150,
+                "dmgaes": 14
             },
             "15": {
                 "ap_min": 78,
-                "ap_max": 82
+                "ap_max": 82,
+                "acc": 160,
+                "dmgaes": 15
             },
             "16": {
                 "ap_min": 86,
-                "ap_max": 90
+                "ap_max": 90,
+                "acc": 168,
+                "dmgaes": 16
             },
             "17": {
                 "ap_min": 94,
-                "ap_max": 98
+                "ap_max": 98,
+                "acc": 176,
+                "dmgaes": 17
             },
             "18": {
                 "ap_min": 106,
-                "ap_max": 110
+                "ap_max": 110,
+                "acc": 184,
+                "dmgaes": 18
             },
             "19": {
                 "ap_min": 114,
-                "ap_max": 118
+                "ap_max": 118,
+                "acc": 192,
+                "dmgaes": 19
             },
             "20": {
                 "ap_min": 122,
-                "ap_max": 126
+                "ap_max": 126,
+                "acc": 200,
+                "dmgaes": 20
             }
         },
         "name": "Kzarka Kriegsmesser"
@@ -474,88 +638,110 @@
         "ap_max": 27,
         "rarity": "uncommon",
         "gems": 1,
-        "item_effects": {},
+        "item_effects": {
+            "acc": 0
+        },
         "enhancement_text": "",
         "enhancement": {
             "1": {
                 "ap_min": 17,
-                "ap_max": 31
+                "ap_max": 31,
+                "acc": 8
             },
             "2": {
                 "ap_min": 20,
-                "ap_max": 34
+                "ap_max": 34,
+                "acc": 14
             },
             "3": {
                 "ap_min": 23,
-                "ap_max": 37
+                "ap_max": 37,
+                "acc": 20
             },
             "4": {
                 "ap_min": 25,
-                "ap_max": 39
+                "ap_max": 39,
+                "acc": 24
             },
             "5": {
                 "ap_min": 27,
-                "ap_max": 41
+                "ap_max": 41,
+                "acc": 28
             },
             "6": {
                 "ap_min": 30,
-                "ap_max": 44
+                "ap_max": 44,
+                "acc": 34
             },
             "7": {
                 "ap_min": 33,
-                "ap_max": 47
+                "ap_max": 47,
+                "acc": 40
             },
             "8": {
                 "ap_min": 37,
-                "ap_max": 51
+                "ap_max": 51,
+                "acc": 44
             },
             "9": {
                 "ap_min": 41,
-                "ap_max": 55
+                "ap_max": 55,
+                "acc": 48
             },
             "10": {
                 "ap_min": 45,
-                "ap_max": 59
+                "ap_max": 59,
+                "acc": 52
             },
             "11": {
                 "ap_min": 49,
-                "ap_max": 63
+                "ap_max": 63,
+                "acc": 56
             },
             "12": {
                 "ap_min": 53,
-                "ap_max": 67
+                "ap_max": 67,
+                "acc": 62
             },
             "13": {
                 "ap_min": 57,
-                "ap_max": 71
+                "ap_max": 71,
+                "acc": 68
             },
             "14": {
                 "ap_min": 61,
-                "ap_max": 75
+                "ap_max": 75,
+                "acc": 74
             },
             "15": {
                 "ap_min": 65,
-                "ap_max": 79
+                "ap_max": 79,
+                "acc": 80
             },
             "16": {
                 "ap_min": 73,
-                "ap_max": 87
+                "ap_max": 87,
+                "acc": 86
             },
             "17": {
                 "ap_min": 81,
-                "ap_max": 95
+                "ap_max": 95,
+                "acc": 92
             },
             "18": {
                 "ap_min": 93,
-                "ap_max": 107
+                "ap_max": 107,
+                "acc": 98
             },
             "19": {
                 "ap_min": 101,
-                "ap_max": 115
+                "ap_max": 115,
+                "acc": 104
             },
             "20": {
                 "ap_min": 109,
-                "ap_max": 123
+                "ap_max": 123,
+                "acc": 110
             }
         },
         "name": "Kalis Kriegsmesser"
@@ -566,89 +752,130 @@
         "rarity": "uncommon",
         "gems": 1,
         "item_effects": {
-            "dmgaes": 5
+            "dmgaes": 5,
+            "acc": 0
         },
         "enhancement_text": "",
         "enhancement": {
             "1": {
                 "ap_min": 15,
-                "ap_max": 19
+                "ap_max": 19,
+                "acc": 8,
+                "dmgaes": 6
             },
             "2": {
                 "ap_min": 18,
-                "ap_max": 22
+                "ap_max": 22,
+                "acc": 14,
+                "dmgaes": 7
             },
             "3": {
                 "ap_min": 21,
-                "ap_max": 25
+                "ap_max": 25,
+                "acc": 20,
+                "dmgaes": 8
             },
             "4": {
                 "ap_min": 23,
-                "ap_max": 27
+                "ap_max": 27,
+                "acc": 24,
+                "dmgaes": 9
             },
             "5": {
                 "ap_min": 25,
-                "ap_max": 29
+                "ap_max": 29,
+                "acc": 28,
+                "dmgaes": 10
             },
             "6": {
                 "ap_min": 28,
-                "ap_max": 32
+                "ap_max": 32,
+                "acc": 34,
+                "dmgaes": 11
             },
             "7": {
                 "ap_min": 31,
-                "ap_max": 35
+                "ap_max": 35,
+                "acc": 40,
+                "dmgaes": 12
             },
             "8": {
                 "ap_min": 35,
-                "ap_max": 39
+                "ap_max": 39,
+                "acc": 44,
+                "dmgaes": 13
             },
             "9": {
                 "ap_min": 39,
-                "ap_max": 43
+                "ap_max": 43,
+                "acc": 48,
+                "dmgaes": 14
             },
             "10": {
                 "ap_min": 43,
-                "ap_max": 47
+                "ap_max": 47,
+                "acc": 52,
+                "dmgaes": 15
             },
             "11": {
                 "ap_min": 47,
-                "ap_max": 51
+                "ap_max": 51,
+                "acc": 56,
+                "dmgaes": 16
             },
             "12": {
                 "ap_min": 51,
-                "ap_max": 55
+                "ap_max": 55,
+                "acc": 62,
+                "dmgaes": 17
             },
             "13": {
                 "ap_min": 55,
-                "ap_max": 59
+                "ap_max": 59,
+                "acc": 68,
+                "dmgaes": 18
             },
             "14": {
                 "ap_min": 59,
-                "ap_max": 63
+                "ap_max": 63,
+                "acc": 74,
+                "dmgaes": 19
             },
             "15": {
                 "ap_min": 63,
-                "ap_max": 67
+                "ap_max": 67,
+                "acc": 80,
+                "dmgaes": 20
             },
             "16": {
                 "ap_min": 71,
-                "ap_max": 75
+                "ap_max": 75,
+                "acc": 86,
+                "dmgaes": 21
             },
             "17": {
                 "ap_min": 79,
-                "ap_max": 83
+                "ap_max": 83,
+                "acc": 92,
+                "dmgaes": 22
             },
             "18": {
                 "ap_min": 91,
-                "ap_max": 95
+                "ap_max": 95,
+                "acc": 98,
+                "dmgaes": 23
             },
             "19": {
                 "ap_min": 99,
-                "ap_max": 103
+                "ap_max": 103,
+                "acc": 104,
+                "dmgaes": 24
             },
             "20": {
                 "ap_min": 107,
-                "ap_max": 111
+                "ap_max": 111,
+                "acc": 110,
+                "dmgaes": 25
             }
         },
         "name": "Bares Kriegsmesser"
@@ -659,89 +886,130 @@
         "rarity": "uncommon",
         "gems": 1,
         "item_effects": {
-            "dmgth": 5
+            "dmgth": 5,
+            "acc": 0
         },
         "enhancement_text": "",
         "enhancement": {
             "1": {
                 "ap_min": 20,
-                "ap_max": 25
+                "ap_max": 25,
+                "acc": 8,
+                "dmgth": 6
             },
             "2": {
                 "ap_min": 23,
-                "ap_max": 28
+                "ap_max": 28,
+                "acc": 14,
+                "dmgth": 7
             },
             "3": {
                 "ap_min": 26,
-                "ap_max": 31
+                "ap_max": 31,
+                "acc": 20,
+                "dmgth": 8
             },
             "4": {
                 "ap_min": 28,
-                "ap_max": 33
+                "ap_max": 33,
+                "acc": 24,
+                "dmgth": 9
             },
             "5": {
                 "ap_min": 30,
-                "ap_max": 35
+                "ap_max": 35,
+                "acc": 28,
+                "dmgth": 10
             },
             "6": {
                 "ap_min": 33,
-                "ap_max": 38
+                "ap_max": 38,
+                "acc": 34,
+                "dmgth": 11
             },
             "7": {
                 "ap_min": 36,
-                "ap_max": 41
+                "ap_max": 41,
+                "acc": 40,
+                "dmgth": 12
             },
             "8": {
                 "ap_min": 40,
-                "ap_max": 45
+                "ap_max": 45,
+                "acc": 44,
+                "dmgth": 13
             },
             "9": {
                 "ap_min": 44,
-                "ap_max": 49
+                "ap_max": 49,
+                "acc": 48,
+                "dmgth": 14
             },
             "10": {
                 "ap_min": 48,
-                "ap_max": 53
+                "ap_max": 53,
+                "acc": 52,
+                "dmgth": 15
             },
             "11": {
                 "ap_min": 52,
-                "ap_max": 57
+                "ap_max": 57,
+                "acc": 56,
+                "dmgth": 16
             },
             "12": {
                 "ap_min": 56,
-                "ap_max": 61
+                "ap_max": 61,
+                "acc": 62,
+                "dmgth": 17
             },
             "13": {
                 "ap_min": 60,
-                "ap_max": 65
+                "ap_max": 65,
+                "acc": 68,
+                "dmgth": 18
             },
             "14": {
                 "ap_min": 64,
-                "ap_max": 69
+                "ap_max": 69,
+                "acc": 74,
+                "dmgth": 19
             },
             "15": {
                 "ap_min": 68,
-                "ap_max": 73
+                "ap_max": 73,
+                "acc": 80,
+                "dmgth": 20
             },
             "16": {
                 "ap_min": 76,
-                "ap_max": 81
+                "ap_max": 81,
+                "acc": 86,
+                "dmgth": 21
             },
             "17": {
                 "ap_min": 84,
-                "ap_max": 89
+                "ap_max": 89,
+                "acc": 92,
+                "dmgth": 22
             },
             "18": {
                 "ap_min": 96,
-                "ap_max": 101
+                "ap_max": 101,
+                "acc": 98,
+                "dmgth": 23
             },
             "19": {
                 "ap_min": 104,
-                "ap_max": 109
+                "ap_max": 109,
+                "acc": 104,
+                "dmgth": 24
             },
             "20": {
                 "ap_min": 112,
-                "ap_max": 117
+                "ap_max": 117,
+                "acc": 110,
+                "dmgth": 25
             }
         },
         "name": "Yuria Kriegsmesser"
@@ -760,83 +1028,103 @@
         "enhancement": {
             "1": {
                 "ap_min": 18,
-                "ap_max": 22
+                "ap_max": 22,
+                "acc": 28
             },
             "2": {
                 "ap_min": 21,
-                "ap_max": 25
+                "ap_max": 25,
+                "acc": 34
             },
             "3": {
                 "ap_min": 24,
-                "ap_max": 28
+                "ap_max": 28,
+                "acc": 40
             },
             "4": {
                 "ap_min": 26,
-                "ap_max": 30
+                "ap_max": 30,
+                "acc": 44
             },
             "5": {
                 "ap_min": 28,
-                "ap_max": 32
+                "ap_max": 32,
+                "acc": 48
             },
             "6": {
                 "ap_min": 31,
-                "ap_max": 35
+                "ap_max": 35,
+                "acc": 54
             },
             "7": {
                 "ap_min": 34,
-                "ap_max": 38
+                "ap_max": 38,
+                "acc": 60
             },
             "8": {
                 "ap_min": 38,
-                "ap_max": 42
+                "ap_max": 42,
+                "acc": 64
             },
             "9": {
                 "ap_min": 42,
-                "ap_max": 46
+                "ap_max": 46,
+                "acc": 72
             },
             "10": {
                 "ap_min": 46,
-                "ap_max": 50
+                "ap_max": 50,
+                "acc": 80
             },
             "11": {
                 "ap_min": 50,
-                "ap_max": 54
+                "ap_max": 54,
+                "acc": 88
             },
             "12": {
                 "ap_min": 54,
-                "ap_max": 58
+                "ap_max": 58,
+                "acc": 96
             },
             "13": {
                 "ap_min": 58,
-                "ap_max": 62
+                "ap_max": 62,
+                "acc": 104
             },
             "14": {
                 "ap_min": 62,
-                "ap_max": 66
+                "ap_max": 66,
+                "acc": 112
             },
             "15": {
                 "ap_min": 66,
-                "ap_max": 70
+                "ap_max": 70,
+                "acc": 120
             },
             "16": {
                 "ap_min": 74,
-                "ap_max": 78
+                "ap_max": 78,
+                "acc": 128
             },
             "17": {
                 "ap_min": 82,
-                "ap_max": 86
+                "ap_max": 86,
+                "acc": 136
             },
             "18": {
                 "ap_min": 94,
-                "ap_max": 98
+                "ap_max": 98,
+                "acc": 144
             },
             "19": {
                 "ap_min": 102,
-                "ap_max": 106
+                "ap_max": 106,
+                "acc": 152
             },
             "20": {
                 "ap_min": 110,
-                "ap_max": 114
+                "ap_max": 114,
+                "acc": 160
             }
         },
         "name": "Azwell Kriegsmesser of Crimson Flame"
@@ -855,83 +1143,103 @@
         "enhancement": {
             "1": {
                 "ap_min": 18,
-                "ap_max": 22
+                "ap_max": 22,
+                "acc": 28
             },
             "2": {
                 "ap_min": 21,
-                "ap_max": 25
+                "ap_max": 25,
+                "acc": 34
             },
             "3": {
                 "ap_min": 24,
-                "ap_max": 28
+                "ap_max": 28,
+                "acc": 40
             },
             "4": {
                 "ap_min": 26,
-                "ap_max": 30
+                "ap_max": 30,
+                "acc": 44
             },
             "5": {
                 "ap_min": 28,
-                "ap_max": 32
+                "ap_max": 32,
+                "acc": 48
             },
             "6": {
                 "ap_min": 31,
-                "ap_max": 35
+                "ap_max": 35,
+                "acc": 54
             },
             "7": {
                 "ap_min": 34,
-                "ap_max": 38
+                "ap_max": 38,
+                "acc": 60
             },
             "8": {
                 "ap_min": 38,
-                "ap_max": 42
+                "ap_max": 42,
+                "acc": 64
             },
             "9": {
                 "ap_min": 42,
-                "ap_max": 46
+                "ap_max": 46,
+                "acc": 72
             },
             "10": {
                 "ap_min": 46,
-                "ap_max": 50
+                "ap_max": 50,
+                "acc": 80
             },
             "11": {
                 "ap_min": 50,
-                "ap_max": 54
+                "ap_max": 54,
+                "acc": 88
             },
             "12": {
                 "ap_min": 54,
-                "ap_max": 58
+                "ap_max": 58,
+                "acc": 96
             },
             "13": {
                 "ap_min": 58,
-                "ap_max": 62
+                "ap_max": 62,
+                "acc": 104
             },
             "14": {
                 "ap_min": 62,
-                "ap_max": 66
+                "ap_max": 66,
+                "acc": 112
             },
             "15": {
                 "ap_min": 66,
-                "ap_max": 70
+                "ap_max": 70,
+                "acc": 120
             },
             "16": {
                 "ap_min": 74,
-                "ap_max": 78
+                "ap_max": 78,
+                "acc": 128
             },
             "17": {
                 "ap_min": 82,
-                "ap_max": 86
+                "ap_max": 86,
+                "acc": 136
             },
             "18": {
                 "ap_min": 94,
-                "ap_max": 98
+                "ap_max": 98,
+                "acc": 144
             },
             "19": {
                 "ap_min": 102,
-                "ap_max": 106
+                "ap_max": 106,
+                "acc": 152
             },
             "20": {
                 "ap_min": 110,
-                "ap_max": 114
+                "ap_max": 114,
+                "acc": 160
             }
         },
         "name": "Azwell Kriegsmesser of Destruction"
@@ -951,83 +1259,103 @@
         "enhancement": {
             "1": {
                 "ap_min": 18,
-                "ap_max": 22
+                "ap_max": 22,
+                "acc": 28
             },
             "2": {
                 "ap_min": 21,
-                "ap_max": 25
+                "ap_max": 25,
+                "acc": 34
             },
             "3": {
                 "ap_min": 24,
-                "ap_max": 28
+                "ap_max": 28,
+                "acc": 40
             },
             "4": {
                 "ap_min": 26,
-                "ap_max": 30
+                "ap_max": 30,
+                "acc": 44
             },
             "5": {
                 "ap_min": 28,
-                "ap_max": 32
+                "ap_max": 32,
+                "acc": 48
             },
             "6": {
                 "ap_min": 31,
-                "ap_max": 35
+                "ap_max": 35,
+                "acc": 54
             },
             "7": {
                 "ap_min": 34,
-                "ap_max": 38
+                "ap_max": 38,
+                "acc": 60
             },
             "8": {
                 "ap_min": 38,
-                "ap_max": 42
+                "ap_max": 42,
+                "acc": 64
             },
             "9": {
                 "ap_min": 42,
-                "ap_max": 46
+                "ap_max": 46,
+                "acc": 72
             },
             "10": {
                 "ap_min": 46,
-                "ap_max": 50
+                "ap_max": 50,
+                "acc": 80
             },
             "11": {
                 "ap_min": 50,
-                "ap_max": 54
+                "ap_max": 54,
+                "acc": 88
             },
             "12": {
                 "ap_min": 54,
-                "ap_max": 58
+                "ap_max": 58,
+                "acc": 96
             },
             "13": {
                 "ap_min": 58,
-                "ap_max": 62
+                "ap_max": 62,
+                "acc": 104
             },
             "14": {
                 "ap_min": 62,
-                "ap_max": 66
+                "ap_max": 66,
+                "acc": 112
             },
             "15": {
                 "ap_min": 66,
-                "ap_max": 70
+                "ap_max": 70,
+                "acc": 120
             },
             "16": {
                 "ap_min": 74,
-                "ap_max": 78
+                "ap_max": 78,
+                "acc": 128
             },
             "17": {
                 "ap_min": 82,
-                "ap_max": 86
+                "ap_max": 86,
+                "acc": 136
             },
             "18": {
                 "ap_min": 94,
-                "ap_max": 98
+                "ap_max": 98,
+                "acc": 144
             },
             "19": {
                 "ap_min": 102,
-                "ap_max": 106
+                "ap_max": 106,
+                "acc": 152
             },
             "20": {
                 "ap_min": 110,
-                "ap_max": 114
+                "ap_max": 114,
+                "acc": 160
             }
         },
         "name": "Azwell Kriegsmesser of Temptation"
@@ -1047,83 +1375,103 @@
         "enhancement": {
             "1": {
                 "ap_min": 20,
-                "ap_max": 28
+                "ap_max": 28,
+                "acc": 28
             },
             "2": {
                 "ap_min": 23,
-                "ap_max": 31
+                "ap_max": 31,
+                "acc": 34
             },
             "3": {
                 "ap_min": 26,
-                "ap_max": 34
+                "ap_max": 34,
+                "acc": 40
             },
             "4": {
                 "ap_min": 28,
-                "ap_max": 36
+                "ap_max": 36,
+                "acc": 44
             },
             "5": {
                 "ap_min": 30,
-                "ap_max": 38
+                "ap_max": 38,
+                "acc": 48
             },
             "6": {
                 "ap_min": 33,
-                "ap_max": 41
+                "ap_max": 41,
+                "acc": 54
             },
             "7": {
                 "ap_min": 36,
-                "ap_max": 44
+                "ap_max": 44,
+                "acc": 60
             },
             "8": {
                 "ap_min": 40,
-                "ap_max": 48
+                "ap_max": 48,
+                "acc": 64
             },
             "9": {
                 "ap_min": 44,
-                "ap_max": 52
+                "ap_max": 52,
+                "acc": 72
             },
             "10": {
                 "ap_min": 48,
-                "ap_max": 56
+                "ap_max": 56,
+                "acc": 80
             },
             "11": {
                 "ap_min": 52,
-                "ap_max": 60
+                "ap_max": 60,
+                "acc": 92
             },
             "12": {
                 "ap_min": 56,
-                "ap_max": 64
+                "ap_max": 64,
+                "acc": 104
             },
             "13": {
                 "ap_min": 60,
-                "ap_max": 68
+                "ap_max": 68,
+                "acc": 116
             },
             "14": {
                 "ap_min": 64,
-                "ap_max": 72
+                "ap_max": 72,
+                "acc": 128
             },
             "15": {
                 "ap_min": 68,
-                "ap_max": 76
+                "ap_max": 76,
+                "acc": 140
             },
             "16": {
                 "ap_min": 76,
-                "ap_max": 84
+                "ap_max": 84,
+                "acc": 152
             },
             "17": {
                 "ap_min": 84,
-                "ap_max": 92
+                "ap_max": 92,
+                "acc": 164
             },
             "18": {
                 "ap_min": 96,
-                "ap_max": 104
+                "ap_max": 104,
+                "acc": 176
             },
             "19": {
                 "ap_min": 104,
-                "ap_max": 112
+                "ap_max": 112,
+                "acc": 188
             },
             "20": {
                 "ap_min": 112,
-                "ap_max": 120
+                "ap_max": 120,
+                "acc": 200
             }
         },
         "name": "Ultimate Azwell Kriegsmesser"
@@ -1135,89 +1483,130 @@
         "gems": 1,
         "item_effects": {
             "dmgth": 10,
-            "chr": 1
+            "chr": 1,
+            "acc": 0
         },
         "enhancement_text": "",
         "enhancement": {
             "1": {
                 "ap_min": 14,
-                "ap_max": 18
+                "ap_max": 18,
+                "acc": 8,
+                "dmgth": 11
             },
             "2": {
                 "ap_min": 17,
-                "ap_max": 21
+                "ap_max": 21,
+                "acc": 14,
+                "dmgth": 12
             },
             "3": {
                 "ap_min": 20,
-                "ap_max": 24
+                "ap_max": 24,
+                "acc": 20,
+                "dmgth": 13
             },
             "4": {
                 "ap_min": 22,
-                "ap_max": 26
+                "ap_max": 26,
+                "acc": 24,
+                "dmgth": 14
             },
             "5": {
                 "ap_min": 24,
-                "ap_max": 28
+                "ap_max": 28,
+                "acc": 28,
+                "dmgth": 15
             },
             "6": {
                 "ap_min": 27,
-                "ap_max": 31
+                "ap_max": 31,
+                "acc": 34,
+                "dmgth": 16
             },
             "7": {
                 "ap_min": 30,
-                "ap_max": 34
+                "ap_max": 34,
+                "acc": 40,
+                "dmgth": 17
             },
             "8": {
                 "ap_min": 34,
-                "ap_max": 38
+                "ap_max": 38,
+                "acc": 44,
+                "dmgth": 18
             },
             "9": {
                 "ap_min": 38,
-                "ap_max": 42
+                "ap_max": 42,
+                "acc": 48,
+                "dmgth": 19
             },
             "10": {
                 "ap_min": 42,
-                "ap_max": 46
+                "ap_max": 46,
+                "acc": 52,
+                "dmgth": 20
             },
             "11": {
                 "ap_min": 46,
-                "ap_max": 50
+                "ap_max": 50,
+                "acc": 60,
+                "dmgth": 21
             },
             "12": {
                 "ap_min": 50,
-                "ap_max": 54
+                "ap_max": 54,
+                "acc": 70,
+                "dmgth": 22
             },
             "13": {
                 "ap_min": 54,
-                "ap_max": 58
+                "ap_max": 58,
+                "acc": 80,
+                "dmgth": 23
             },
             "14": {
                 "ap_min": 58,
-                "ap_max": 62
+                "ap_max": 62,
+                "acc": 90,
+                "dmgth": 24
             },
             "15": {
                 "ap_min": 62,
-                "ap_max": 66
+                "ap_max": 66,
+                "acc": 100,
+                "dmgth": 25
             },
             "16": {
                 "ap_min": 70,
-                "ap_max": 74
+                "ap_max": 74,
+                "acc": 110,
+                "dmgth": 27
             },
             "17": {
                 "ap_min": 78,
-                "ap_max": 82
+                "ap_max": 82,
+                "acc": 120,
+                "dmgth": 29
             },
             "18": {
                 "ap_min": 90,
-                "ap_max": 94
+                "ap_max": 94,
+                "acc": 130,
+                "dmgth": 31
             },
             "19": {
                 "ap_min": 98,
-                "ap_max": 102
+                "ap_max": 102,
+                "acc": 140,
+                "dmgth": 33
             },
             "20": {
                 "ap_min": 106,
-                "ap_max": 110
+                "ap_max": 110,
+                "acc": 150,
+                "dmgth": 35
             }
         },
         "name": "Seleth Kriegsmesser of Crimson Flame"
@@ -1229,89 +1618,130 @@
         "gems": 1,
         "item_effects": {
             "dmgth": 10,
-            "as": 1
+            "as": 1,
+            "acc": 0
         },
         "enhancement_text": "",
         "enhancement": {
             "1": {
                 "ap_min": 14,
-                "ap_max": 18
+                "ap_max": 18,
+                "acc": 8,
+                "dmgth": 11
             },
             "2": {
                 "ap_min": 17,
-                "ap_max": 21
+                "ap_max": 21,
+                "acc": 14,
+                "dmgth": 12
             },
             "3": {
                 "ap_min": 20,
-                "ap_max": 24
+                "ap_max": 24,
+                "acc": 20,
+                "dmgth": 13
             },
             "4": {
                 "ap_min": 22,
-                "ap_max": 26
+                "ap_max": 26,
+                "acc": 24,
+                "dmgth": 14
             },
             "5": {
                 "ap_min": 24,
-                "ap_max": 28
+                "ap_max": 28,
+                "acc": 28,
+                "dmgth": 15
             },
             "6": {
                 "ap_min": 27,
-                "ap_max": 31
+                "ap_max": 31,
+                "acc": 34,
+                "dmgth": 16
             },
             "7": {
                 "ap_min": 30,
-                "ap_max": 34
+                "ap_max": 34,
+                "acc": 40,
+                "dmgth": 17
             },
             "8": {
                 "ap_min": 34,
-                "ap_max": 38
+                "ap_max": 38,
+                "acc": 44,
+                "dmgth": 18
             },
             "9": {
                 "ap_min": 38,
-                "ap_max": 42
+                "ap_max": 42,
+                "acc": 48,
+                "dmgth": 19
             },
             "10": {
                 "ap_min": 42,
-                "ap_max": 46
+                "ap_max": 46,
+                "acc": 52,
+                "dmgth": 20
             },
             "11": {
                 "ap_min": 46,
-                "ap_max": 50
+                "ap_max": 50,
+                "acc": 60,
+                "dmgth": 21
             },
             "12": {
                 "ap_min": 50,
-                "ap_max": 54
+                "ap_max": 54,
+                "acc": 70,
+                "dmgth": 22
             },
             "13": {
                 "ap_min": 54,
-                "ap_max": 58
+                "ap_max": 58,
+                "acc": 80,
+                "dmgth": 23
             },
             "14": {
                 "ap_min": 58,
-                "ap_max": 62
+                "ap_max": 62,
+                "acc": 90,
+                "dmgth": 24
             },
             "15": {
                 "ap_min": 62,
-                "ap_max": 66
+                "ap_max": 66,
+                "acc": 100,
+                "dmgth": 25
             },
             "16": {
                 "ap_min": 70,
-                "ap_max": 74
+                "ap_max": 74,
+                "acc": 110,
+                "dmgth": 27
             },
             "17": {
                 "ap_min": 78,
-                "ap_max": 82
+                "ap_max": 82,
+                "acc": 120,
+                "dmgth": 29
             },
             "18": {
                 "ap_min": 90,
-                "ap_max": 94
+                "ap_max": 94,
+                "acc": 130,
+                "dmgth": 31
             },
             "19": {
                 "ap_min": 98,
-                "ap_max": 102
+                "ap_max": 102,
+                "acc": 140,
+                "dmgth": 33
             },
             "20": {
                 "ap_min": 106,
-                "ap_max": 110
+                "ap_max": 110,
+                "acc": 150,
+                "dmgth": 35
             }
         },
         "name": "Seleth Kriegsmesser of Destruction"
@@ -1324,89 +1754,130 @@
         "item_effects": {
             "dmgth": 10,
             "chr": 1,
-            "as": 1
+            "as": 1,
+            "acc": 0
         },
         "enhancement_text": "",
         "enhancement": {
             "1": {
                 "ap_min": 14,
-                "ap_max": 18
+                "ap_max": 18,
+                "acc": 8,
+                "dmgth": 11
             },
             "2": {
                 "ap_min": 17,
-                "ap_max": 21
+                "ap_max": 21,
+                "acc": 14,
+                "dmgth": 12
             },
             "3": {
                 "ap_min": 20,
-                "ap_max": 24
+                "ap_max": 24,
+                "acc": 20,
+                "dmgth": 13
             },
             "4": {
                 "ap_min": 22,
-                "ap_max": 26
+                "ap_max": 26,
+                "acc": 24,
+                "dmgth": 14
             },
             "5": {
                 "ap_min": 24,
-                "ap_max": 28
+                "ap_max": 28,
+                "acc": 28,
+                "dmgth": 15
             },
             "6": {
                 "ap_min": 27,
-                "ap_max": 31
+                "ap_max": 31,
+                "acc": 34,
+                "dmgth": 16
             },
             "7": {
                 "ap_min": 30,
-                "ap_max": 34
+                "ap_max": 34,
+                "acc": 40,
+                "dmgth": 17
             },
             "8": {
                 "ap_min": 34,
-                "ap_max": 38
+                "ap_max": 38,
+                "acc": 44,
+                "dmgth": 18
             },
             "9": {
                 "ap_min": 38,
-                "ap_max": 42
+                "ap_max": 42,
+                "acc": 48,
+                "dmgth": 19
             },
             "10": {
                 "ap_min": 42,
-                "ap_max": 46
+                "ap_max": 46,
+                "acc": 52,
+                "dmgth": 20
             },
             "11": {
                 "ap_min": 46,
-                "ap_max": 50
+                "ap_max": 50,
+                "acc": 60,
+                "dmgth": 21
             },
             "12": {
                 "ap_min": 50,
-                "ap_max": 54
+                "ap_max": 54,
+                "acc": 70,
+                "dmgth": 22
             },
             "13": {
                 "ap_min": 54,
-                "ap_max": 58
+                "ap_max": 58,
+                "acc": 80,
+                "dmgth": 23
             },
             "14": {
                 "ap_min": 58,
-                "ap_max": 62
+                "ap_max": 62,
+                "acc": 90,
+                "dmgth": 24
             },
             "15": {
                 "ap_min": 62,
-                "ap_max": 66
+                "ap_max": 66,
+                "acc": 100,
+                "dmgth": 25
             },
             "16": {
                 "ap_min": 70,
-                "ap_max": 74
+                "ap_max": 74,
+                "acc": 110,
+                "dmgth": 27
             },
             "17": {
                 "ap_min": 78,
-                "ap_max": 82
+                "ap_max": 82,
+                "acc": 120,
+                "dmgth": 29
             },
             "18": {
                 "ap_min": 90,
-                "ap_max": 94
+                "ap_max": 94,
+                "acc": 130,
+                "dmgth": 31
             },
             "19": {
                 "ap_min": 98,
-                "ap_max": 102
+                "ap_max": 102,
+                "acc": 140,
+                "dmgth": 33
             },
             "20": {
                 "ap_min": 106,
-                "ap_max": 110
+                "ap_max": 110,
+                "acc": 150,
+                "dmgth": 35
             }
         },
         "name": "Seleth Kriegsmesser of Temptation"
@@ -1419,89 +1890,130 @@
         "item_effects": {
             "dmgth": 10,
             "chr": 1,
-            "as": 1
+            "as": 1,
+            "acc": 0
         },
         "enhancement_text": "",
         "enhancement": {
             "1": {
                 "ap_min": 14,
-                "ap_max": 22
+                "ap_max": 22,
+                "acc": 8,
+                "dmgth": 11
             },
             "2": {
                 "ap_min": 17,
-                "ap_max": 25
+                "ap_max": 25,
+                "acc": 14,
+                "dmgth": 12
             },
             "3": {
                 "ap_min": 20,
-                "ap_max": 28
+                "ap_max": 28,
+                "acc": 20,
+                "dmgth": 13
             },
             "4": {
                 "ap_min": 22,
-                "ap_max": 30
+                "ap_max": 30,
+                "acc": 24,
+                "dmgth": 14
             },
             "5": {
                 "ap_min": 24,
-                "ap_max": 32
+                "ap_max": 32,
+                "acc": 28,
+                "dmgth": 15
             },
             "6": {
                 "ap_min": 27,
-                "ap_max": 35
+                "ap_max": 35,
+                "acc": 34,
+                "dmgth": 16
             },
             "7": {
                 "ap_min": 30,
-                "ap_max": 38
+                "ap_max": 38,
+                "acc": 40,
+                "dmgth": 17
             },
             "8": {
                 "ap_min": 34,
-                "ap_max": 42
+                "ap_max": 42,
+                "acc": 44,
+                "dmgth": 18
             },
             "9": {
                 "ap_min": 38,
-                "ap_max": 46
+                "ap_max": 46,
+                "acc": 48,
+                "dmgth": 19
             },
             "10": {
                 "ap_min": 42,
-                "ap_max": 50
+                "ap_max": 50,
+                "acc": 52,
+                "dmgth": 20
             },
             "11": {
                 "ap_min": 46,
-                "ap_max": 54
+                "ap_max": 54,
+                "acc": 64,
+                "dmgth": 21
             },
             "12": {
                 "ap_min": 50,
-                "ap_max": 58
+                "ap_max": 58,
+                "acc": 78,
+                "dmgth": 22
             },
             "13": {
                 "ap_min": 54,
-                "ap_max": 62
+                "ap_max": 62,
+                "acc": 92,
+                "dmgth": 23
             },
             "14": {
                 "ap_min": 58,
-                "ap_max": 66
+                "ap_max": 66,
+                "acc": 106,
+                "dmgth": 24
             },
             "15": {
                 "ap_min": 62,
-                "ap_max": 70
+                "ap_max": 70,
+                "acc": 120,
+                "dmgth": 25
             },
             "16": {
                 "ap_min": 70,
-                "ap_max": 78
+                "ap_max": 78,
+                "acc": 130,
+                "dmgth": 27
             },
             "17": {
                 "ap_min": 78,
-                "ap_max": 86
+                "ap_max": 86,
+                "acc": 140,
+                "dmgth": 29
             },
             "18": {
                 "ap_min": 90,
-                "ap_max": 98
+                "ap_max": 98,
+                "acc": 150,
+                "dmgth": 31
             },
             "19": {
                 "ap_min": 98,
-                "ap_max": 106
+                "ap_max": 106,
+                "acc": 160,
+                "dmgth": 33
             },
             "20": {
                 "ap_min": 106,
-                "ap_max": 114
+                "ap_max": 114,
+                "acc": 170,
+                "dmgth": 35
             }
         },
         "name": "Ultimate Seleth Kriegsmesser"
@@ -1512,89 +2024,110 @@
         "rarity": "rare",
         "gems": 1,
         "item_effects": {
-            "chr": 1
+            "chr": 1,
+            "acc": 0
         },
         "enhancement_text": "",
         "enhancement": {
             "1": {
                 "ap_min": 17,
-                "ap_max": 31
+                "ap_max": 31,
+                "acc": 8
             },
             "2": {
                 "ap_min": 20,
-                "ap_max": 34
+                "ap_max": 34,
+                "acc": 14
             },
             "3": {
                 "ap_min": 23,
-                "ap_max": 37
+                "ap_max": 37,
+                "acc": 20
             },
             "4": {
                 "ap_min": 25,
-                "ap_max": 39
+                "ap_max": 39,
+                "acc": 24
             },
             "5": {
                 "ap_min": 27,
-                "ap_max": 41
+                "ap_max": 41,
+                "acc": 28
             },
             "6": {
                 "ap_min": 30,
-                "ap_max": 44
+                "ap_max": 44,
+                "acc": 34
             },
             "7": {
                 "ap_min": 33,
-                "ap_max": 47
+                "ap_max": 47,
+                "acc": 40
             },
             "8": {
                 "ap_min": 37,
-                "ap_max": 51
+                "ap_max": 51,
+                "acc": 44
             },
             "9": {
                 "ap_min": 41,
-                "ap_max": 55
+                "ap_max": 55,
+                "acc": 48
             },
             "10": {
                 "ap_min": 45,
-                "ap_max": 59
+                "ap_max": 59,
+                "acc": 52
             },
             "11": {
                 "ap_min": 49,
-                "ap_max": 63
+                "ap_max": 63,
+                "acc": 60
             },
             "12": {
                 "ap_min": 53,
-                "ap_max": 67
+                "ap_max": 67,
+                "acc": 70
             },
             "13": {
                 "ap_min": 57,
-                "ap_max": 71
+                "ap_max": 71,
+                "acc": 80
             },
             "14": {
                 "ap_min": 61,
-                "ap_max": 75
+                "ap_max": 75,
+                "acc": 90
             },
             "15": {
                 "ap_min": 65,
-                "ap_max": 79
+                "ap_max": 79,
+                "acc": 100
             },
             "16": {
                 "ap_min": 73,
-                "ap_max": 87
+                "ap_max": 87,
+                "acc": 110
             },
             "17": {
                 "ap_min": 81,
-                "ap_max": 95
+                "ap_max": 95,
+                "acc": 120
             },
             "18": {
                 "ap_min": 93,
-                "ap_max": 107
+                "ap_max": 107,
+                "acc": 130
             },
             "19": {
                 "ap_min": 101,
-                "ap_max": 115
+                "ap_max": 115,
+                "acc": 140
             },
             "20": {
                 "ap_min": 109,
-                "ap_max": 123
+                "ap_max": 123,
+                "acc": 150
             }
         },
         "name": "Kalis Kriegsmesser of Crimson Flame"
@@ -1605,89 +2138,110 @@
         "rarity": "rare",
         "gems": 1,
         "item_effects": {
-            "as": 1
+            "as": 1,
+            "acc": 0
         },
         "enhancement_text": "",
         "enhancement": {
             "1": {
                 "ap_min": 17,
-                "ap_max": 31
+                "ap_max": 31,
+                "acc": 8
             },
             "2": {
                 "ap_min": 20,
-                "ap_max": 34
+                "ap_max": 34,
+                "acc": 14
             },
             "3": {
                 "ap_min": 23,
-                "ap_max": 37
+                "ap_max": 37,
+                "acc": 20
             },
             "4": {
                 "ap_min": 25,
-                "ap_max": 39
+                "ap_max": 39,
+                "acc": 24
             },
             "5": {
                 "ap_min": 27,
-                "ap_max": 41
+                "ap_max": 41,
+                "acc": 28
             },
             "6": {
                 "ap_min": 30,
-                "ap_max": 44
+                "ap_max": 44,
+                "acc": 34
             },
             "7": {
                 "ap_min": 33,
-                "ap_max": 47
+                "ap_max": 47,
+                "acc": 40
             },
             "8": {
                 "ap_min": 37,
-                "ap_max": 51
+                "ap_max": 51,
+                "acc": 44
             },
             "9": {
                 "ap_min": 41,
-                "ap_max": 55
+                "ap_max": 55,
+                "acc": 48
             },
             "10": {
                 "ap_min": 45,
-                "ap_max": 59
+                "ap_max": 59,
+                "acc": 52
             },
             "11": {
                 "ap_min": 49,
-                "ap_max": 63
+                "ap_max": 63,
+                "acc": 60
             },
             "12": {
                 "ap_min": 53,
-                "ap_max": 67
+                "ap_max": 67,
+                "acc": 70
             },
             "13": {
                 "ap_min": 57,
-                "ap_max": 71
+                "ap_max": 71,
+                "acc": 80
             },
             "14": {
                 "ap_min": 61,
-                "ap_max": 75
+                "ap_max": 75,
+                "acc": 90
             },
             "15": {
                 "ap_min": 65,
-                "ap_max": 79
+                "ap_max": 79,
+                "acc": 100
             },
             "16": {
                 "ap_min": 73,
-                "ap_max": 87
+                "ap_max": 87,
+                "acc": 110
             },
             "17": {
                 "ap_min": 81,
-                "ap_max": 95
+                "ap_max": 95,
+                "acc": 120
             },
             "18": {
                 "ap_min": 93,
-                "ap_max": 107
+                "ap_max": 107,
+                "acc": 130
             },
             "19": {
                 "ap_min": 101,
-                "ap_max": 115
+                "ap_max": 115,
+                "acc": 140
             },
             "20": {
                 "ap_min": 109,
-                "ap_max": 123
+                "ap_max": 123,
+                "acc": 150
             }
         },
         "name": "Kalis Kriegsmesser of Destruction"
@@ -1699,89 +2253,110 @@
         "gems": 1,
         "item_effects": {
             "chr": 1,
-            "as": 1
+            "as": 1,
+            "acc": 0
         },
         "enhancement_text": "",
         "enhancement": {
             "1": {
                 "ap_min": 17,
-                "ap_max": 31
+                "ap_max": 31,
+                "acc": 8
             },
             "2": {
                 "ap_min": 20,
-                "ap_max": 34
+                "ap_max": 34,
+                "acc": 14
             },
             "3": {
                 "ap_min": 23,
-                "ap_max": 37
+                "ap_max": 37,
+                "acc": 20
             },
             "4": {
                 "ap_min": 25,
-                "ap_max": 39
+                "ap_max": 39,
+                "acc": 24
             },
             "5": {
                 "ap_min": 27,
-                "ap_max": 41
+                "ap_max": 41,
+                "acc": 28
             },
             "6": {
                 "ap_min": 30,
-                "ap_max": 44
+                "ap_max": 44,
+                "acc": 34
             },
             "7": {
                 "ap_min": 33,
-                "ap_max": 47
+                "ap_max": 47,
+                "acc": 40
             },
             "8": {
                 "ap_min": 37,
-                "ap_max": 51
+                "ap_max": 51,
+                "acc": 44
             },
             "9": {
                 "ap_min": 41,
-                "ap_max": 55
+                "ap_max": 55,
+                "acc": 48
             },
             "10": {
                 "ap_min": 45,
-                "ap_max": 59
+                "ap_max": 59,
+                "acc": 52
             },
             "11": {
                 "ap_min": 49,
-                "ap_max": 63
+                "ap_max": 63,
+                "acc": 60
             },
             "12": {
                 "ap_min": 53,
-                "ap_max": 67
+                "ap_max": 67,
+                "acc": 70
             },
             "13": {
                 "ap_min": 57,
-                "ap_max": 71
+                "ap_max": 71,
+                "acc": 80
             },
             "14": {
                 "ap_min": 61,
-                "ap_max": 75
+                "ap_max": 75,
+                "acc": 90
             },
             "15": {
                 "ap_min": 65,
-                "ap_max": 79
+                "ap_max": 79,
+                "acc": 100
             },
             "16": {
                 "ap_min": 73,
-                "ap_max": 87
+                "ap_max": 87,
+                "acc": 110
             },
             "17": {
                 "ap_min": 81,
-                "ap_max": 95
+                "ap_max": 95,
+                "acc": 120
             },
             "18": {
                 "ap_min": 93,
-                "ap_max": 107
+                "ap_max": 107,
+                "acc": 130
             },
             "19": {
                 "ap_min": 101,
-                "ap_max": 115
+                "ap_max": 115,
+                "acc": 140
             },
             "20": {
                 "ap_min": 109,
-                "ap_max": 123
+                "ap_max": 123,
+                "acc": 150
             }
         },
         "name": "Kalis Kriegsmesser of Temptation"
@@ -1793,89 +2368,110 @@
         "gems": 1,
         "item_effects": {
             "chr": 1,
-            "as": 1
+            "as": 1,
+            "acc": 0
         },
         "enhancement_text": "",
         "enhancement": {
             "1": {
                 "ap_min": 17,
-                "ap_max": 35
+                "ap_max": 35,
+                "acc": 8
             },
             "2": {
                 "ap_min": 20,
-                "ap_max": 38
+                "ap_max": 38,
+                "acc": 14
             },
             "3": {
                 "ap_min": 23,
-                "ap_max": 41
+                "ap_max": 41,
+                "acc": 20
             },
             "4": {
                 "ap_min": 25,
-                "ap_max": 43
+                "ap_max": 43,
+                "acc": 24
             },
             "5": {
                 "ap_min": 27,
-                "ap_max": 45
+                "ap_max": 45,
+                "acc": 28
             },
             "6": {
                 "ap_min": 30,
-                "ap_max": 48
+                "ap_max": 48,
+                "acc": 34
             },
             "7": {
                 "ap_min": 33,
-                "ap_max": 51
+                "ap_max": 51,
+                "acc": 40
             },
             "8": {
                 "ap_min": 37,
-                "ap_max": 55
+                "ap_max": 55,
+                "acc": 44
             },
             "9": {
                 "ap_min": 41,
-                "ap_max": 59
+                "ap_max": 59,
+                "acc": 48
             },
             "10": {
                 "ap_min": 45,
-                "ap_max": 63
+                "ap_max": 63,
+                "acc": 52
             },
             "11": {
                 "ap_min": 49,
-                "ap_max": 67
+                "ap_max": 67,
+                "acc": 64
             },
             "12": {
                 "ap_min": 53,
-                "ap_max": 71
+                "ap_max": 71,
+                "acc": 78
             },
             "13": {
                 "ap_min": 57,
-                "ap_max": 75
+                "ap_max": 75,
+                "acc": 92
             },
             "14": {
                 "ap_min": 61,
-                "ap_max": 79
+                "ap_max": 79,
+                "acc": 106
             },
             "15": {
                 "ap_min": 65,
-                "ap_max": 83
+                "ap_max": 83,
+                "acc": 120
             },
             "16": {
                 "ap_min": 73,
-                "ap_max": 91
+                "ap_max": 91,
+                "acc": 130
             },
             "17": {
                 "ap_min": 81,
-                "ap_max": 99
+                "ap_max": 99,
+                "acc": 140
             },
             "18": {
                 "ap_min": 93,
-                "ap_max": 111
+                "ap_max": 111,
+                "acc": 150
             },
             "19": {
                 "ap_min": 101,
-                "ap_max": 119
+                "ap_max": 119,
+                "acc": 160
             },
             "20": {
                 "ap_min": 109,
-                "ap_max": 127
+                "ap_max": 127,
+                "acc": 170
             }
         },
         "name": "Ultimate Kalis Kriegsmesser"
@@ -1887,89 +2483,130 @@
         "gems": 1,
         "item_effects": {
             "dmgaes": 5,
-            "chr": 1
+            "chr": 1,
+            "acc": 0
         },
         "enhancement_text": "",
         "enhancement": {
             "1": {
                 "ap_min": 15,
-                "ap_max": 19
+                "ap_max": 19,
+                "acc": 8,
+                "dmgaes": 6
             },
             "2": {
                 "ap_min": 18,
-                "ap_max": 22
+                "ap_max": 22,
+                "acc": 14,
+                "dmgaes": 7
             },
             "3": {
                 "ap_min": 21,
-                "ap_max": 25
+                "ap_max": 25,
+                "acc": 20,
+                "dmgaes": 8
             },
             "4": {
                 "ap_min": 23,
-                "ap_max": 27
+                "ap_max": 27,
+                "acc": 24,
+                "dmgaes": 9
             },
             "5": {
                 "ap_min": 25,
-                "ap_max": 29
+                "ap_max": 29,
+                "acc": 28,
+                "dmgaes": 10
             },
             "6": {
                 "ap_min": 28,
-                "ap_max": 32
+                "ap_max": 32,
+                "acc": 34,
+                "dmgaes": 11
             },
             "7": {
                 "ap_min": 31,
-                "ap_max": 35
+                "ap_max": 35,
+                "acc": 40,
+                "dmgaes": 12
             },
             "8": {
                 "ap_min": 35,
-                "ap_max": 39
+                "ap_max": 39,
+                "acc": 44,
+                "dmgaes": 13
             },
             "9": {
                 "ap_min": 39,
-                "ap_max": 43
+                "ap_max": 43,
+                "acc": 48,
+                "dmgaes": 14
             },
             "10": {
                 "ap_min": 43,
-                "ap_max": 47
+                "ap_max": 47,
+                "acc": 52,
+                "dmgaes": 15
             },
             "11": {
                 "ap_min": 47,
-                "ap_max": 51
+                "ap_max": 51,
+                "acc": 60,
+                "dmgaes": 16
             },
             "12": {
                 "ap_min": 51,
-                "ap_max": 55
+                "ap_max": 55,
+                "acc": 70,
+                "dmgaes": 17
             },
             "13": {
                 "ap_min": 55,
-                "ap_max": 59
+                "ap_max": 59,
+                "acc": 80,
+                "dmgaes": 18
             },
             "14": {
                 "ap_min": 59,
-                "ap_max": 63
+                "ap_max": 63,
+                "acc": 90,
+                "dmgaes": 19
             },
             "15": {
                 "ap_min": 63,
-                "ap_max": 67
+                "ap_max": 67,
+                "acc": 100,
+                "dmgaes": 20
             },
             "16": {
                 "ap_min": 71,
-                "ap_max": 75
+                "ap_max": 75,
+                "acc": 110,
+                "dmgaes": 21
             },
             "17": {
                 "ap_min": 79,
-                "ap_max": 83
+                "ap_max": 83,
+                "acc": 120,
+                "dmgaes": 22
             },
             "18": {
                 "ap_min": 91,
-                "ap_max": 95
+                "ap_max": 95,
+                "acc": 130,
+                "dmgaes": 23
             },
             "19": {
                 "ap_min": 99,
-                "ap_max": 103
+                "ap_max": 103,
+                "acc": 140,
+                "dmgaes": 24
             },
             "20": {
                 "ap_min": 107,
-                "ap_max": 111
+                "ap_max": 111,
+                "acc": 150,
+                "dmgaes": 25
             }
         },
         "name": "Bares Kriegsmesser of Crimson Flame"
@@ -1981,89 +2618,130 @@
         "gems": 1,
         "item_effects": {
             "dmgaes": 5,
-            "as": 1
+            "as": 1,
+            "acc": 0
         },
         "enhancement_text": "",
         "enhancement": {
             "1": {
                 "ap_min": 15,
-                "ap_max": 19
+                "ap_max": 19,
+                "acc": 8,
+                "dmgaes": 6
             },
             "2": {
                 "ap_min": 18,
-                "ap_max": 22
+                "ap_max": 22,
+                "acc": 14,
+                "dmgaes": 7
             },
             "3": {
                 "ap_min": 21,
-                "ap_max": 25
+                "ap_max": 25,
+                "acc": 20,
+                "dmgaes": 8
             },
             "4": {
                 "ap_min": 23,
-                "ap_max": 27
+                "ap_max": 27,
+                "acc": 24,
+                "dmgaes": 9
             },
             "5": {
                 "ap_min": 25,
-                "ap_max": 29
+                "ap_max": 29,
+                "acc": 28,
+                "dmgaes": 10
             },
             "6": {
                 "ap_min": 28,
-                "ap_max": 32
+                "ap_max": 32,
+                "acc": 34,
+                "dmgaes": 11
             },
             "7": {
                 "ap_min": 31,
-                "ap_max": 35
+                "ap_max": 35,
+                "acc": 40,
+                "dmgaes": 12
             },
             "8": {
                 "ap_min": 35,
-                "ap_max": 39
+                "ap_max": 39,
+                "acc": 44,
+                "dmgaes": 13
             },
             "9": {
                 "ap_min": 39,
-                "ap_max": 43
+                "ap_max": 43,
+                "acc": 48,
+                "dmgaes": 14
             },
             "10": {
                 "ap_min": 43,
-                "ap_max": 47
+                "ap_max": 47,
+                "acc": 52,
+                "dmgaes": 15
             },
             "11": {
                 "ap_min": 47,
-                "ap_max": 51
+                "ap_max": 51,
+                "acc": 60,
+                "dmgaes": 16
             },
             "12": {
                 "ap_min": 51,
-                "ap_max": 55
+                "ap_max": 55,
+                "acc": 70,
+                "dmgaes": 17
             },
             "13": {
                 "ap_min": 55,
-                "ap_max": 59
+                "ap_max": 59,
+                "acc": 80,
+                "dmgaes": 18
             },
             "14": {
                 "ap_min": 59,
-                "ap_max": 63
+                "ap_max": 63,
+                "acc": 90,
+                "dmgaes": 19
             },
             "15": {
                 "ap_min": 63,
-                "ap_max": 67
+                "ap_max": 67,
+                "acc": 100,
+                "dmgaes": 20
             },
             "16": {
                 "ap_min": 71,
-                "ap_max": 75
+                "ap_max": 75,
+                "acc": 110,
+                "dmgaes": 21
             },
             "17": {
                 "ap_min": 79,
-                "ap_max": 83
+                "ap_max": 83,
+                "acc": 120,
+                "dmgaes": 22
             },
             "18": {
                 "ap_min": 91,
-                "ap_max": 95
+                "ap_max": 95,
+                "acc": 130,
+                "dmgaes": 23
             },
             "19": {
                 "ap_min": 99,
-                "ap_max": 103
+                "ap_max": 103,
+                "acc": 140,
+                "dmgaes": 24
             },
             "20": {
                 "ap_min": 107,
-                "ap_max": 111
+                "ap_max": 111,
+                "acc": 150,
+                "dmgaes": 25
             }
         },
         "name": "Bares Kriegsmesser of Destruction"
@@ -2076,89 +2754,130 @@
         "item_effects": {
             "dmgaes": 5,
             "chr": 1,
-            "as": 1
+            "as": 1,
+            "acc": 0
         },
         "enhancement_text": "",
         "enhancement": {
             "1": {
                 "ap_min": 15,
-                "ap_max": 19
+                "ap_max": 19,
+                "acc": 8,
+                "dmgaes": 6
             },
             "2": {
                 "ap_min": 18,
-                "ap_max": 22
+                "ap_max": 22,
+                "acc": 14,
+                "dmgaes": 7
             },
             "3": {
                 "ap_min": 21,
-                "ap_max": 25
+                "ap_max": 25,
+                "acc": 20,
+                "dmgaes": 8
             },
             "4": {
                 "ap_min": 23,
-                "ap_max": 27
+                "ap_max": 27,
+                "acc": 24,
+                "dmgaes": 9
             },
             "5": {
                 "ap_min": 25,
-                "ap_max": 29
+                "ap_max": 29,
+                "acc": 28,
+                "dmgaes": 10
             },
             "6": {
                 "ap_min": 28,
-                "ap_max": 32
+                "ap_max": 32,
+                "acc": 34,
+                "dmgaes": 11
             },
             "7": {
                 "ap_min": 31,
-                "ap_max": 35
+                "ap_max": 35,
+                "acc": 40,
+                "dmgaes": 12
             },
             "8": {
                 "ap_min": 35,
-                "ap_max": 39
+                "ap_max": 39,
+                "acc": 44,
+                "dmgaes": 13
             },
             "9": {
                 "ap_min": 39,
-                "ap_max": 43
+                "ap_max": 43,
+                "acc": 48,
+                "dmgaes": 14
             },
             "10": {
                 "ap_min": 43,
-                "ap_max": 47
+                "ap_max": 47,
+                "acc": 52,
+                "dmgaes": 15
             },
             "11": {
                 "ap_min": 47,
-                "ap_max": 51
+                "ap_max": 51,
+                "acc": 60,
+                "dmgaes": 16
             },
             "12": {
                 "ap_min": 51,
-                "ap_max": 55
+                "ap_max": 55,
+                "acc": 70,
+                "dmgaes": 17
             },
             "13": {
                 "ap_min": 55,
-                "ap_max": 59
+                "ap_max": 59,
+                "acc": 80,
+                "dmgaes": 18
             },
             "14": {
                 "ap_min": 59,
-                "ap_max": 63
+                "ap_max": 63,
+                "acc": 90,
+                "dmgaes": 19
             },
             "15": {
                 "ap_min": 63,
-                "ap_max": 67
+                "ap_max": 67,
+                "acc": 100,
+                "dmgaes": 20
             },
             "16": {
                 "ap_min": 71,
-                "ap_max": 75
+                "ap_max": 75,
+                "acc": 110,
+                "dmgaes": 21
             },
             "17": {
                 "ap_min": 79,
-                "ap_max": 83
+                "ap_max": 83,
+                "acc": 120,
+                "dmgaes": 22
             },
             "18": {
                 "ap_min": 91,
-                "ap_max": 95
+                "ap_max": 95,
+                "acc": 130,
+                "dmgaes": 23
             },
             "19": {
                 "ap_min": 99,
-                "ap_max": 103
+                "ap_max": 103,
+                "acc": 140,
+                "dmgaes": 24
             },
             "20": {
                 "ap_min": 107,
-                "ap_max": 111
+                "ap_max": 111,
+                "acc": 150,
+                "dmgaes": 25
             }
         },
         "name": "Bares Kriegsmesser of Temptation"
@@ -2171,89 +2890,130 @@
         "item_effects": {
             "dmgaes": 5,
             "chr": 1,
-            "as": 1
+            "as": 1,
+            "acc": 0
         },
         "enhancement_text": "",
         "enhancement": {
             "1": {
                 "ap_min": 15,
-                "ap_max": 23
+                "ap_max": 23,
+                "acc": 8,
+                "dmgaes": 6
             },
             "2": {
                 "ap_min": 18,
-                "ap_max": 26
+                "ap_max": 26,
+                "acc": 14,
+                "dmgaes": 7
             },
             "3": {
                 "ap_min": 21,
-                "ap_max": 29
+                "ap_max": 29,
+                "acc": 20,
+                "dmgaes": 8
             },
             "4": {
                 "ap_min": 23,
-                "ap_max": 31
+                "ap_max": 31,
+                "acc": 24,
+                "dmgaes": 9
             },
             "5": {
                 "ap_min": 25,
-                "ap_max": 33
+                "ap_max": 33,
+                "acc": 28,
+                "dmgaes": 10
             },
             "6": {
                 "ap_min": 28,
-                "ap_max": 36
+                "ap_max": 36,
+                "acc": 34,
+                "dmgaes": 11
             },
             "7": {
                 "ap_min": 31,
-                "ap_max": 39
+                "ap_max": 39,
+                "acc": 40,
+                "dmgaes": 12
             },
             "8": {
                 "ap_min": 35,
-                "ap_max": 43
+                "ap_max": 43,
+                "acc": 44,
+                "dmgaes": 13
             },
             "9": {
                 "ap_min": 39,
-                "ap_max": 47
+                "ap_max": 47,
+                "acc": 48,
+                "dmgaes": 14
             },
             "10": {
                 "ap_min": 43,
-                "ap_max": 51
+                "ap_max": 51,
+                "acc": 52,
+                "dmgaes": 15
             },
             "11": {
                 "ap_min": 47,
-                "ap_max": 55
+                "ap_max": 55,
+                "acc": 64,
+                "dmgaes": 16
             },
             "12": {
                 "ap_min": 51,
-                "ap_max": 59
+                "ap_max": 59,
+                "acc": 78,
+                "dmgaes": 17
             },
             "13": {
                 "ap_min": 55,
-                "ap_max": 63
+                "ap_max": 63,
+                "acc": 92,
+                "dmgaes": 18
             },
             "14": {
                 "ap_min": 59,
-                "ap_max": 67
+                "ap_max": 67,
+                "acc": 106,
+                "dmgaes": 19
             },
             "15": {
                 "ap_min": 63,
-                "ap_max": 71
+                "ap_max": 71,
+                "acc": 120,
+                "dmgaes": 20
             },
             "16": {
                 "ap_min": 71,
-                "ap_max": 79
+                "ap_max": 79,
+                "acc": 130,
+                "dmgaes": 21
             },
             "17": {
                 "ap_min": 79,
-                "ap_max": 87
+                "ap_max": 87,
+                "acc": 140,
+                "dmgaes": 22
             },
             "18": {
                 "ap_min": 91,
-                "ap_max": 99
+                "ap_max": 99,
+                "acc": 150,
+                "dmgaes": 23
             },
             "19": {
                 "ap_min": 99,
-                "ap_max": 107
+                "ap_max": 107,
+                "acc": 160,
+                "dmgaes": 24
             },
             "20": {
                 "ap_min": 107,
-                "ap_max": 115
+                "ap_max": 115,
+                "acc": 170,
+                "dmgaes": 25
             }
         },
         "name": "Ultimate Bares Kriegsmesser"
@@ -2265,89 +3025,130 @@
         "gems": 1,
         "item_effects": {
             "dmgth": 5,
-            "chr": 1
+            "chr": 1,
+            "acc": 0
         },
         "enhancement_text": "",
         "enhancement": {
             "1": {
                 "ap_min": 20,
-                "ap_max": 25
+                "ap_max": 25,
+                "acc": 8,
+                "dmgth": 6
             },
             "2": {
                 "ap_min": 23,
-                "ap_max": 28
+                "ap_max": 28,
+                "acc": 14,
+                "dmgth": 7
             },
             "3": {
                 "ap_min": 26,
-                "ap_max": 31
+                "ap_max": 31,
+                "acc": 20,
+                "dmgth": 8
             },
             "4": {
                 "ap_min": 28,
-                "ap_max": 33
+                "ap_max": 33,
+                "acc": 24,
+                "dmgth": 9
             },
             "5": {
                 "ap_min": 30,
-                "ap_max": 35
+                "ap_max": 35,
+                "acc": 28,
+                "dmgth": 10
             },
             "6": {
                 "ap_min": 33,
-                "ap_max": 38
+                "ap_max": 38,
+                "acc": 34,
+                "dmgth": 11
             },
             "7": {
                 "ap_min": 36,
-                "ap_max": 41
+                "ap_max": 41,
+                "acc": 40,
+                "dmgth": 12
             },
             "8": {
                 "ap_min": 40,
-                "ap_max": 45
+                "ap_max": 45,
+                "acc": 44,
+                "dmgth": 13
             },
             "9": {
                 "ap_min": 44,
-                "ap_max": 49
+                "ap_max": 49,
+                "acc": 48,
+                "dmgth": 14
             },
             "10": {
                 "ap_min": 48,
-                "ap_max": 53
+                "ap_max": 53,
+                "acc": 52,
+                "dmgth": 15
             },
             "11": {
                 "ap_min": 52,
-                "ap_max": 57
+                "ap_max": 57,
+                "acc": 60,
+                "dmgth": 16
             },
             "12": {
                 "ap_min": 56,
-                "ap_max": 61
+                "ap_max": 61,
+                "acc": 70,
+                "dmgth": 17
             },
             "13": {
                 "ap_min": 60,
-                "ap_max": 65
+                "ap_max": 65,
+                "acc": 80,
+                "dmgth": 18
             },
             "14": {
                 "ap_min": 64,
-                "ap_max": 69
+                "ap_max": 69,
+                "acc": 90,
+                "dmgth": 19
             },
             "15": {
                 "ap_min": 68,
-                "ap_max": 73
+                "ap_max": 73,
+                "acc": 100,
+                "dmgth": 20
             },
             "16": {
                 "ap_min": 76,
-                "ap_max": 81
+                "ap_max": 81,
+                "acc": 110,
+                "dmgth": 21
             },
             "17": {
                 "ap_min": 84,
-                "ap_max": 89
+                "ap_max": 89,
+                "acc": 120,
+                "dmgth": 22
             },
             "18": {
                 "ap_min": 96,
-                "ap_max": 101
+                "ap_max": 101,
+                "acc": 130,
+                "dmgth": 23
             },
             "19": {
                 "ap_min": 104,
-                "ap_max": 109
+                "ap_max": 109,
+                "acc": 140,
+                "dmgth": 24
             },
             "20": {
                 "ap_min": 112,
-                "ap_max": 117
+                "ap_max": 117,
+                "acc": 150,
+                "dmgth": 25
             }
         },
         "name": "Yuria Kriegsmesser of Crimson Flame"
@@ -2359,89 +3160,130 @@
         "gems": 1,
         "item_effects": {
             "dmgth": 5,
-            "as": 1
+            "as": 1,
+            "acc": 0
         },
         "enhancement_text": "",
         "enhancement": {
             "1": {
                 "ap_min": 20,
-                "ap_max": 25
+                "ap_max": 25,
+                "acc": 8,
+                "dmgth": 6
             },
             "2": {
                 "ap_min": 23,
-                "ap_max": 28
+                "ap_max": 28,
+                "acc": 14,
+                "dmgth": 7
             },
             "3": {
                 "ap_min": 26,
-                "ap_max": 31
+                "ap_max": 31,
+                "acc": 20,
+                "dmgth": 8
             },
             "4": {
                 "ap_min": 28,
-                "ap_max": 33
+                "ap_max": 33,
+                "acc": 24,
+                "dmgth": 9
             },
             "5": {
                 "ap_min": 30,
-                "ap_max": 35
+                "ap_max": 35,
+                "acc": 28,
+                "dmgth": 10
             },
             "6": {
                 "ap_min": 33,
-                "ap_max": 38
+                "ap_max": 38,
+                "acc": 34,
+                "dmgth": 11
             },
             "7": {
                 "ap_min": 36,
-                "ap_max": 41
+                "ap_max": 41,
+                "acc": 40,
+                "dmgth": 12
             },
             "8": {
                 "ap_min": 40,
-                "ap_max": 45
+                "ap_max": 45,
+                "acc": 44,
+                "dmgth": 13
             },
             "9": {
                 "ap_min": 44,
-                "ap_max": 49
+                "ap_max": 49,
+                "acc": 48,
+                "dmgth": 14
             },
             "10": {
                 "ap_min": 48,
-                "ap_max": 53
+                "ap_max": 53,
+                "acc": 52,
+                "dmgth": 15
             },
             "11": {
                 "ap_min": 52,
-                "ap_max": 57
+                "ap_max": 57,
+                "acc": 60,
+                "dmgth": 16
             },
             "12": {
                 "ap_min": 56,
-                "ap_max": 61
+                "ap_max": 61,
+                "acc": 70,
+                "dmgth": 17
             },
             "13": {
                 "ap_min": 60,
-                "ap_max": 65
+                "ap_max": 65,
+                "acc": 80,
+                "dmgth": 18
             },
             "14": {
                 "ap_min": 64,
-                "ap_max": 69
+                "ap_max": 69,
+                "acc": 90,
+                "dmgth": 19
             },
             "15": {
                 "ap_min": 68,
-                "ap_max": 73
+                "ap_max": 73,
+                "acc": 100,
+                "dmgth": 20
             },
             "16": {
                 "ap_min": 76,
-                "ap_max": 81
+                "ap_max": 81,
+                "acc": 110,
+                "dmgth": 21
             },
             "17": {
                 "ap_min": 84,
-                "ap_max": 89
+                "ap_max": 89,
+                "acc": 120,
+                "dmgth": 22
             },
             "18": {
                 "ap_min": 96,
-                "ap_max": 101
+                "ap_max": 101,
+                "acc": 130,
+                "dmgth": 23
             },
             "19": {
                 "ap_min": 104,
-                "ap_max": 109
+                "ap_max": 109,
+                "acc": 140,
+                "dmgth": 24
             },
             "20": {
                 "ap_min": 112,
-                "ap_max": 117
+                "ap_max": 117,
+                "acc": 150,
+                "dmgth": 25
             }
         },
         "name": "Yuria Kriegsmesser of Destruction"
@@ -2454,89 +3296,130 @@
         "item_effects": {
             "dmgth": 5,
             "chr": 1,
-            "as": 1
+            "as": 1,
+            "acc": 0
         },
         "enhancement_text": "",
         "enhancement": {
             "1": {
                 "ap_min": 20,
-                "ap_max": 25
+                "ap_max": 25,
+                "acc": 8,
+                "dmgth": 6
             },
             "2": {
                 "ap_min": 23,
-                "ap_max": 28
+                "ap_max": 28,
+                "acc": 14,
+                "dmgth": 7
             },
             "3": {
                 "ap_min": 26,
-                "ap_max": 31
+                "ap_max": 31,
+                "acc": 20,
+                "dmgth": 8
             },
             "4": {
                 "ap_min": 28,
-                "ap_max": 33
+                "ap_max": 33,
+                "acc": 24,
+                "dmgth": 9
             },
             "5": {
                 "ap_min": 30,
-                "ap_max": 35
+                "ap_max": 35,
+                "acc": 28,
+                "dmgth": 10
             },
             "6": {
                 "ap_min": 33,
-                "ap_max": 38
+                "ap_max": 38,
+                "acc": 34,
+                "dmgth": 11
             },
             "7": {
                 "ap_min": 36,
-                "ap_max": 41
+                "ap_max": 41,
+                "acc": 40,
+                "dmgth": 12
             },
             "8": {
                 "ap_min": 40,
-                "ap_max": 45
+                "ap_max": 45,
+                "acc": 44,
+                "dmgth": 13
             },
             "9": {
                 "ap_min": 44,
-                "ap_max": 49
+                "ap_max": 49,
+                "acc": 48,
+                "dmgth": 14
             },
             "10": {
                 "ap_min": 48,
-                "ap_max": 53
+                "ap_max": 53,
+                "acc": 52,
+                "dmgth": 15
             },
             "11": {
                 "ap_min": 52,
-                "ap_max": 57
+                "ap_max": 57,
+                "acc": 60,
+                "dmgth": 16
             },
             "12": {
                 "ap_min": 56,
-                "ap_max": 61
+                "ap_max": 61,
+                "acc": 70,
+                "dmgth": 17
             },
             "13": {
                 "ap_min": 60,
-                "ap_max": 65
+                "ap_max": 65,
+                "acc": 80,
+                "dmgth": 18
             },
             "14": {
                 "ap_min": 64,
-                "ap_max": 69
+                "ap_max": 69,
+                "acc": 90,
+                "dmgth": 19
             },
             "15": {
                 "ap_min": 68,
-                "ap_max": 73
+                "ap_max": 73,
+                "acc": 100,
+                "dmgth": 20
             },
             "16": {
                 "ap_min": 76,
-                "ap_max": 81
+                "ap_max": 81,
+                "acc": 110,
+                "dmgth": 21
             },
             "17": {
                 "ap_min": 84,
-                "ap_max": 89
+                "ap_max": 89,
+                "acc": 120,
+                "dmgth": 22
             },
             "18": {
                 "ap_min": 96,
-                "ap_max": 101
+                "ap_max": 101,
+                "acc": 130,
+                "dmgth": 23
             },
             "19": {
                 "ap_min": 104,
-                "ap_max": 109
+                "ap_max": 109,
+                "acc": 140,
+                "dmgth": 24
             },
             "20": {
                 "ap_min": 112,
-                "ap_max": 117
+                "ap_max": 117,
+                "acc": 150,
+                "dmgth": 25
             }
         },
         "name": "Yuria Kriegsmesser of Temptation"
@@ -2549,89 +3432,130 @@
         "item_effects": {
             "dmgth": 5,
             "chr": 1,
-            "as": 1
+            "as": 1,
+            "acc": 0
         },
         "enhancement_text": "",
         "enhancement": {
             "1": {
                 "ap_min": 20,
-                "ap_max": 29
+                "ap_max": 29,
+                "acc": 8,
+                "dmgth": 6
             },
             "2": {
                 "ap_min": 23,
-                "ap_max": 32
+                "ap_max": 32,
+                "acc": 14,
+                "dmgth": 7
             },
             "3": {
                 "ap_min": 26,
-                "ap_max": 35
+                "ap_max": 35,
+                "acc": 20,
+                "dmgth": 8
             },
             "4": {
                 "ap_min": 28,
-                "ap_max": 37
+                "ap_max": 37,
+                "acc": 24,
+                "dmgth": 9
             },
             "5": {
                 "ap_min": 30,
-                "ap_max": 39
+                "ap_max": 39,
+                "acc": 28,
+                "dmgth": 10
             },
             "6": {
                 "ap_min": 33,
-                "ap_max": 42
+                "ap_max": 42,
+                "acc": 34,
+                "dmgth": 11
             },
             "7": {
                 "ap_min": 36,
-                "ap_max": 45
+                "ap_max": 45,
+                "acc": 40,
+                "dmgth": 12
             },
             "8": {
                 "ap_min": 40,
-                "ap_max": 49
+                "ap_max": 49,
+                "acc": 44,
+                "dmgth": 13
             },
             "9": {
                 "ap_min": 44,
-                "ap_max": 53
+                "ap_max": 53,
+                "acc": 48,
+                "dmgth": 14
             },
             "10": {
                 "ap_min": 48,
-                "ap_max": 57
+                "ap_max": 57,
+                "acc": 52,
+                "dmgth": 15
             },
             "11": {
                 "ap_min": 52,
-                "ap_max": 61
+                "ap_max": 61,
+                "acc": 64,
+                "dmgth": 16
             },
             "12": {
                 "ap_min": 56,
-                "ap_max": 65
+                "ap_max": 65,
+                "acc": 78,
+                "dmgth": 17
             },
             "13": {
                 "ap_min": 60,
-                "ap_max": 69
+                "ap_max": 69,
+                "acc": 92,
+                "dmgth": 18
             },
             "14": {
                 "ap_min": 64,
-                "ap_max": 73
+                "ap_max": 73,
+                "acc": 106,
+                "dmgth": 19
             },
             "15": {
                 "ap_min": 68,
-                "ap_max": 77
+                "ap_max": 77,
+                "acc": 120,
+                "dmgth": 20
             },
             "16": {
                 "ap_min": 76,
-                "ap_max": 85
+                "ap_max": 85,
+                "acc": 130,
+                "dmgth": 21
             },
             "17": {
                 "ap_min": 84,
-                "ap_max": 93
+                "ap_max": 93,
+                "acc": 140,
+                "dmgth": 22
             },
             "18": {
                 "ap_min": 96,
-                "ap_max": 105
+                "ap_max": 105,
+                "acc": 150,
+                "dmgth": 23
             },
             "19": {
                 "ap_min": 104,
-                "ap_max": 113
+                "ap_max": 113,
+                "acc": 160,
+                "dmgth": 24
             },
             "20": {
                 "ap_min": 112,
-                "ap_max": 121
+                "ap_max": 121,
+                "acc": 170,
+                "dmgth": 25
             }
         },
         "name": "Ultimate Yuria Kriegsmesser"
@@ -2642,88 +3566,110 @@
         "ap_max": 19,
         "rarity": "uncommon",
         "gems": 2,
-        "item_effects": {},
+        "item_effects": {
+            "acc": 0
+        },
         "enhancement_text": "",
         "enhancement": {
             "1": {
                 "ap_min": 21,
-                "ap_max": 23
+                "ap_max": 23,
+                "acc": 8
             },
             "2": {
                 "ap_min": 24,
-                "ap_max": 26
+                "ap_max": 26,
+                "acc": 14
             },
             "3": {
                 "ap_min": 27,
-                "ap_max": 29
+                "ap_max": 29,
+                "acc": 20
             },
             "4": {
                 "ap_min": 29,
-                "ap_max": 31
+                "ap_max": 31,
+                "acc": 24
             },
             "5": {
                 "ap_min": 31,
-                "ap_max": 33
+                "ap_max": 33,
+                "acc": 28
             },
             "6": {
                 "ap_min": 34,
-                "ap_max": 36
+                "ap_max": 36,
+                "acc": 34
             },
             "7": {
                 "ap_min": 37,
-                "ap_max": 39
+                "ap_max": 39,
+                "acc": 40
             },
             "8": {
                 "ap_min": 41,
-                "ap_max": 43
+                "ap_max": 43,
+                "acc": 44
             },
             "9": {
                 "ap_min": 45,
-                "ap_max": 47
+                "ap_max": 47,
+                "acc": 48
             },
             "10": {
                 "ap_min": 49,
-                "ap_max": 51
+                "ap_max": 51,
+                "acc": 52
             },
             "11": {
                 "ap_min": 53,
-                "ap_max": 55
+                "ap_max": 55,
+                "acc": 56
             },
             "12": {
                 "ap_min": 57,
-                "ap_max": 59
+                "ap_max": 59,
+                "acc": 62
             },
             "13": {
                 "ap_min": 61,
-                "ap_max": 63
+                "ap_max": 63,
+                "acc": 68
             },
             "14": {
                 "ap_min": 65,
-                "ap_max": 67
+                "ap_max": 67,
+                "acc": 74
             },
             "15": {
                 "ap_min": 69,
-                "ap_max": 71
+                "ap_max": 71,
+                "acc": 80
             },
             "16": {
                 "ap_min": 77,
-                "ap_max": 79
+                "ap_max": 79,
+                "acc": 86
             },
             "17": {
                 "ap_min": 85,
-                "ap_max": 87
+                "ap_max": 87,
+                "acc": 92
             },
             "18": {
                 "ap_min": 97,
-                "ap_max": 99
+                "ap_max": 99,
+                "acc": 98
             },
             "19": {
                 "ap_min": 105,
-                "ap_max": 107
+                "ap_max": 107,
+                "acc": 104
             },
             "20": {
                 "ap_min": 113,
-                "ap_max": 115
+                "ap_max": 115,
+                "acc": 110
             }
         },
         "name": "Krea Kriegsmesser"
@@ -2734,88 +3680,110 @@
         "ap_max": 22,
         "rarity": "uncommon",
         "gems": 2,
-        "item_effects": {},
+        "item_effects": {
+            "acc": 0
+        },
         "enhancement_text": "",
         "enhancement": {
             "1": {
                 "ap_min": 21,
-                "ap_max": 26
+                "ap_max": 26,
+                "acc": 8
             },
             "2": {
                 "ap_min": 24,
-                "ap_max": 29
+                "ap_max": 29,
+                "acc": 14
             },
             "3": {
                 "ap_min": 27,
-                "ap_max": 32
+                "ap_max": 32,
+                "acc": 20
             },
             "4": {
                 "ap_min": 29,
-                "ap_max": 34
+                "ap_max": 34,
+                "acc": 24
             },
             "5": {
                 "ap_min": 31,
-                "ap_max": 36
+                "ap_max": 36,
+                "acc": 28
             },
             "6": {
                 "ap_min": 34,
-                "ap_max": 39
+                "ap_max": 39,
+                "acc": 34
             },
             "7": {
                 "ap_min": 37,
-                "ap_max": 42
+                "ap_max": 42,
+                "acc": 40
             },
             "8": {
                 "ap_min": 41,
-                "ap_max": 46
+                "ap_max": 46,
+                "acc": 44
             },
             "9": {
                 "ap_min": 45,
-                "ap_max": 50
+                "ap_max": 50,
+                "acc": 48
             },
             "10": {
                 "ap_min": 49,
-                "ap_max": 54
+                "ap_max": 54,
+                "acc": 52
             },
             "11": {
                 "ap_min": 53,
-                "ap_max": 58
+                "ap_max": 58,
+                "acc": 56
             },
             "12": {
                 "ap_min": 57,
-                "ap_max": 62
+                "ap_max": 62,
+                "acc": 62
             },
             "13": {
                 "ap_min": 61,
-                "ap_max": 66
+                "ap_max": 66,
+                "acc": 68
             },
             "14": {
                 "ap_min": 65,
-                "ap_max": 70
+                "ap_max": 70,
+                "acc": 74
             },
             "15": {
                 "ap_min": 69,
-                "ap_max": 74
+                "ap_max": 74,
+                "acc": 80
             },
             "16": {
                 "ap_min": 77,
-                "ap_max": 82
+                "ap_max": 82,
+                "acc": 86
             },
             "17": {
                 "ap_min": 85,
-                "ap_max": 90
+                "ap_max": 90,
+                "acc": 92
             },
             "18": {
                 "ap_min": 97,
-                "ap_max": 102
+                "ap_max": 102,
+                "acc": 98
             },
             "19": {
                 "ap_min": 105,
-                "ap_max": 110
+                "ap_max": 110,
+                "acc": 104
             },
             "20": {
                 "ap_min": 113,
-                "ap_max": 118
+                "ap_max": 118,
+                "acc": 110
             }
         },
         "name": "Rosar Kriegsmesser"
@@ -2827,89 +3795,110 @@
         "rarity": "rare",
         "gems": 2,
         "item_effects": {
-            "chr": 1
+            "chr": 1,
+            "acc": 0
         },
         "enhancement_text": "",
         "enhancement": {
             "1": {
                 "ap_min": 21,
-                "ap_max": 23
+                "ap_max": 23,
+                "acc": 8
             },
             "2": {
                 "ap_min": 24,
-                "ap_max": 26
+                "ap_max": 26,
+                "acc": 14
             },
             "3": {
                 "ap_min": 27,
-                "ap_max": 29
+                "ap_max": 29,
+                "acc": 20
             },
             "4": {
                 "ap_min": 29,
-                "ap_max": 31
+                "ap_max": 31,
+                "acc": 24
             },
             "5": {
                 "ap_min": 31,
-                "ap_max": 33
+                "ap_max": 33,
+                "acc": 28
             },
             "6": {
                 "ap_min": 34,
-                "ap_max": 36
+                "ap_max": 36,
+                "acc": 34
             },
             "7": {
                 "ap_min": 37,
-                "ap_max": 39
+                "ap_max": 39,
+                "acc": 40
             },
             "8": {
                 "ap_min": 41,
-                "ap_max": 43
+                "ap_max": 43,
+                "acc": 44
             },
             "9": {
                 "ap_min": 45,
-                "ap_max": 47
+                "ap_max": 47,
+                "acc": 48
             },
             "10": {
                 "ap_min": 49,
-                "ap_max": 51
+                "ap_max": 51,
+                "acc": 52
             },
             "11": {
                 "ap_min": 53,
-                "ap_max": 55
+                "ap_max": 55,
+                "acc": 60
             },
             "12": {
                 "ap_min": 57,
-                "ap_max": 59
+                "ap_max": 59,
+                "acc": 70
             },
             "13": {
                 "ap_min": 61,
-                "ap_max": 63
+                "ap_max": 63,
+                "acc": 80
             },
             "14": {
                 "ap_min": 65,
-                "ap_max": 67
+                "ap_max": 67,
+                "acc": 90
             },
             "15": {
                 "ap_min": 69,
-                "ap_max": 71
+                "ap_max": 71,
+                "acc": 100
             },
             "16": {
                 "ap_min": 77,
-                "ap_max": 79
+                "ap_max": 79,
+                "acc": 110
             },
             "17": {
                 "ap_min": 85,
-                "ap_max": 87
+                "ap_max": 87,
+                "acc": 120
             },
             "18": {
                 "ap_min": 97,
-                "ap_max": 99
+                "ap_max": 99,
+                "acc": 130
             },
             "19": {
                 "ap_min": 105,
-                "ap_max": 107
+                "ap_max": 107,
+                "acc": 140
             },
             "20": {
                 "ap_min": 113,
-                "ap_max": 115
+                "ap_max": 115,
+                "acc": 150
             }
         },
         "name": "Krea Kriegsmesser of Crimson Flame"
@@ -2921,89 +3910,110 @@
         "rarity": "rare",
         "gems": 2,
         "item_effects": {
-            "as": 1
+            "as": 1,
+            "acc": 0
         },
         "enhancement_text": "",
         "enhancement": {
             "1": {
                 "ap_min": 21,
-                "ap_max": 23
+                "ap_max": 23,
+                "acc": 8
             },
             "2": {
                 "ap_min": 24,
-                "ap_max": 26
+                "ap_max": 26,
+                "acc": 14
             },
             "3": {
                 "ap_min": 27,
-                "ap_max": 29
+                "ap_max": 29,
+                "acc": 20
             },
             "4": {
                 "ap_min": 29,
-                "ap_max": 31
+                "ap_max": 31,
+                "acc": 24
             },
             "5": {
                 "ap_min": 31,
-                "ap_max": 33
+                "ap_max": 33,
+                "acc": 28
             },
             "6": {
                 "ap_min": 34,
-                "ap_max": 36
+                "ap_max": 36,
+                "acc": 34
             },
             "7": {
                 "ap_min": 37,
-                "ap_max": 39
+                "ap_max": 39,
+                "acc": 40
             },
             "8": {
                 "ap_min": 41,
-                "ap_max": 43
+                "ap_max": 43,
+                "acc": 44
             },
             "9": {
                 "ap_min": 45,
-                "ap_max": 47
+                "ap_max": 47,
+                "acc": 48
             },
             "10": {
                 "ap_min": 49,
-                "ap_max": 51
+                "ap_max": 51,
+                "acc": 52
             },
             "11": {
                 "ap_min": 53,
-                "ap_max": 55
+                "ap_max": 55,
+                "acc": 60
             },
             "12": {
                 "ap_min": 57,
-                "ap_max": 59
+                "ap_max": 59,
+                "acc": 70
             },
             "13": {
                 "ap_min": 61,
-                "ap_max": 63
+                "ap_max": 63,
+                "acc": 80
             },
             "14": {
                 "ap_min": 65,
-                "ap_max": 67
+                "ap_max": 67,
+                "acc": 90
             },
             "15": {
                 "ap_min": 69,
-                "ap_max": 71
+                "ap_max": 71,
+                "acc": 100
             },
             "16": {
                 "ap_min": 77,
-                "ap_max": 79
+                "ap_max": 79,
+                "acc": 110
             },
             "17": {
                 "ap_min": 85,
-                "ap_max": 87
+                "ap_max": 87,
+                "acc": 120
             },
             "18": {
                 "ap_min": 97,
-                "ap_max": 99
+                "ap_max": 99,
+                "acc": 130
             },
             "19": {
                 "ap_min": 105,
-                "ap_max": 107
+                "ap_max": 107,
+                "acc": 140
             },
             "20": {
                 "ap_min": 113,
-                "ap_max": 115
+                "ap_max": 115,
+                "acc": 150
             }
         },
         "name": "Krea Kriegsmesser of Destruction"
@@ -3016,89 +4026,110 @@
         "gems": 2,
         "item_effects": {
             "chr": 1,
-            "as": 1
+            "as": 1,
+            "acc": 0
         },
         "enhancement_text": "",
         "enhancement": {
             "1": {
                 "ap_min": 21,
-                "ap_max": 23
+                "ap_max": 23,
+                "acc": 8
             },
             "2": {
                 "ap_min": 24,
-                "ap_max": 26
+                "ap_max": 26,
+                "acc": 14
             },
             "3": {
                 "ap_min": 27,
-                "ap_max": 29
+                "ap_max": 29,
+                "acc": 20
             },
             "4": {
                 "ap_min": 29,
-                "ap_max": 31
+                "ap_max": 31,
+                "acc": 24
             },
             "5": {
                 "ap_min": 31,
-                "ap_max": 33
+                "ap_max": 33,
+                "acc": 28
             },
             "6": {
                 "ap_min": 34,
-                "ap_max": 36
+                "ap_max": 36,
+                "acc": 34
             },
             "7": {
                 "ap_min": 37,
-                "ap_max": 39
+                "ap_max": 39,
+                "acc": 40
             },
             "8": {
                 "ap_min": 41,
-                "ap_max": 43
+                "ap_max": 43,
+                "acc": 44
             },
             "9": {
                 "ap_min": 45,
-                "ap_max": 47
+                "ap_max": 47,
+                "acc": 48
             },
             "10": {
                 "ap_min": 49,
-                "ap_max": 51
+                "ap_max": 51,
+                "acc": 52
             },
             "11": {
                 "ap_min": 53,
-                "ap_max": 55
+                "ap_max": 55,
+                "acc": 60
             },
             "12": {
                 "ap_min": 57,
-                "ap_max": 59
+                "ap_max": 59,
+                "acc": 70
             },
             "13": {
                 "ap_min": 61,
-                "ap_max": 63
+                "ap_max": 63,
+                "acc": 80
             },
             "14": {
                 "ap_min": 65,
-                "ap_max": 67
+                "ap_max": 67,
+                "acc": 90
             },
             "15": {
                 "ap_min": 69,
-                "ap_max": 71
+                "ap_max": 71,
+                "acc": 100
             },
             "16": {
                 "ap_min": 77,
-                "ap_max": 79
+                "ap_max": 79,
+                "acc": 110
             },
             "17": {
                 "ap_min": 85,
-                "ap_max": 87
+                "ap_max": 87,
+                "acc": 120
             },
             "18": {
                 "ap_min": 97,
-                "ap_max": 99
+                "ap_max": 99,
+                "acc": 130
             },
             "19": {
                 "ap_min": 105,
-                "ap_max": 107
+                "ap_max": 107,
+                "acc": 140
             },
             "20": {
                 "ap_min": 113,
-                "ap_max": 115
+                "ap_max": 115,
+                "acc": 150
             }
         },
         "name": "Krea Kriegsmesser of Temptation"
@@ -3111,89 +4142,110 @@
         "gems": 2,
         "item_effects": {
             "chr": 1,
-            "as": 1
+            "as": 1,
+            "acc": 0
         },
         "enhancement_text": "",
         "enhancement": {
             "1": {
                 "ap_min": 21,
-                "ap_max": 27
+                "ap_max": 27,
+                "acc": 8
             },
             "2": {
                 "ap_min": 24,
-                "ap_max": 30
+                "ap_max": 30,
+                "acc": 14
             },
             "3": {
                 "ap_min": 27,
-                "ap_max": 33
+                "ap_max": 33,
+                "acc": 20
             },
             "4": {
                 "ap_min": 29,
-                "ap_max": 35
+                "ap_max": 35,
+                "acc": 24
             },
             "5": {
                 "ap_min": 31,
-                "ap_max": 37
+                "ap_max": 37,
+                "acc": 28
             },
             "6": {
                 "ap_min": 34,
-                "ap_max": 40
+                "ap_max": 40,
+                "acc": 34
             },
             "7": {
                 "ap_min": 37,
-                "ap_max": 43
+                "ap_max": 43,
+                "acc": 40
             },
             "8": {
                 "ap_min": 41,
-                "ap_max": 47
+                "ap_max": 47,
+                "acc": 44
             },
             "9": {
                 "ap_min": 45,
-                "ap_max": 51
+                "ap_max": 51,
+                "acc": 48
             },
             "10": {
                 "ap_min": 49,
-                "ap_max": 55
+                "ap_max": 55,
+                "acc": 52
             },
             "11": {
                 "ap_min": 53,
-                "ap_max": 59
+                "ap_max": 59,
+                "acc": 64
             },
             "12": {
                 "ap_min": 57,
-                "ap_max": 63
+                "ap_max": 63,
+                "acc": 78
             },
             "13": {
                 "ap_min": 61,
-                "ap_max": 67
+                "ap_max": 67,
+                "acc": 92
             },
             "14": {
                 "ap_min": 65,
-                "ap_max": 71
+                "ap_max": 71,
+                "acc": 106
             },
             "15": {
                 "ap_min": 69,
-                "ap_max": 75
+                "ap_max": 75,
+                "acc": 120
             },
             "16": {
                 "ap_min": 77,
-                "ap_max": 83
+                "ap_max": 83,
+                "acc": 130
             },
             "17": {
                 "ap_min": 85,
-                "ap_max": 91
+                "ap_max": 91,
+                "acc": 140
             },
             "18": {
                 "ap_min": 97,
-                "ap_max": 103
+                "ap_max": 103,
+                "acc": 150
             },
             "19": {
                 "ap_min": 105,
-                "ap_max": 111
+                "ap_max": 111,
+                "acc": 160
             },
             "20": {
                 "ap_min": 113,
-                "ap_max": 119
+                "ap_max": 119,
+                "acc": 170
             }
         },
         "name": "Ultimate Krea Kriegsmesser"
@@ -3205,89 +4257,110 @@
         "rarity": "rare",
         "gems": 2,
         "item_effects": {
-            "chr": 1
+            "chr": 1,
+            "acc": 0
         },
         "enhancement_text": "",
         "enhancement": {
             "1": {
                 "ap_min": 21,
-                "ap_max": 26
+                "ap_max": 26,
+                "acc": 8
             },
             "2": {
                 "ap_min": 24,
-                "ap_max": 29
+                "ap_max": 29,
+                "acc": 14
             },
             "3": {
                 "ap_min": 27,
-                "ap_max": 32
+                "ap_max": 32,
+                "acc": 20
             },
             "4": {
                 "ap_min": 29,
-                "ap_max": 34
+                "ap_max": 34,
+                "acc": 24
             },
             "5": {
                 "ap_min": 31,
-                "ap_max": 36
+                "ap_max": 36,
+                "acc": 28
             },
             "6": {
                 "ap_min": 34,
-                "ap_max": 39
+                "ap_max": 39,
+                "acc": 34
             },
             "7": {
                 "ap_min": 37,
-                "ap_max": 42
+                "ap_max": 42,
+                "acc": 40
             },
             "8": {
                 "ap_min": 41,
-                "ap_max": 46
+                "ap_max": 46,
+                "acc": 44
             },
             "9": {
                 "ap_min": 45,
-                "ap_max": 50
+                "ap_max": 50,
+                "acc": 48
             },
             "10": {
                 "ap_min": 49,
-                "ap_max": 54
+                "ap_max": 54,
+                "acc": 52
             },
             "11": {
                 "ap_min": 53,
-                "ap_max": 58
+                "ap_max": 58,
+                "acc": 60
             },
             "12": {
                 "ap_min": 57,
-                "ap_max": 62
+                "ap_max": 62,
+                "acc": 70
             },
             "13": {
                 "ap_min": 61,
-                "ap_max": 66
+                "ap_max": 66,
+                "acc": 80
             },
             "14": {
                 "ap_min": 65,
-                "ap_max": 70
+                "ap_max": 70,
+                "acc": 90
             },
             "15": {
                 "ap_min": 69,
-                "ap_max": 74
+                "ap_max": 74,
+                "acc": 100
             },
             "16": {
                 "ap_min": 77,
-                "ap_max": 82
+                "ap_max": 82,
+                "acc": 110
             },
             "17": {
                 "ap_min": 85,
-                "ap_max": 90
+                "ap_max": 90,
+                "acc": 120
             },
             "18": {
                 "ap_min": 97,
-                "ap_max": 102
+                "ap_max": 102,
+                "acc": 130
             },
             "19": {
                 "ap_min": 105,
-                "ap_max": 110
+                "ap_max": 110,
+                "acc": 140
             },
             "20": {
                 "ap_min": 113,
-                "ap_max": 118
+                "ap_max": 118,
+                "acc": 150
             }
         },
         "name": "Rosar Kriegsmesser of Crimson Flame"
@@ -3299,89 +4372,110 @@
         "rarity": "rare",
         "gems": 2,
         "item_effects": {
-            "as": 1
+            "as": 1,
+            "acc": 0
         },
         "enhancement_text": "",
         "enhancement": {
             "1": {
                 "ap_min": 21,
-                "ap_max": 26
+                "ap_max": 26,
+                "acc": 8
             },
             "2": {
                 "ap_min": 24,
-                "ap_max": 29
+                "ap_max": 29,
+                "acc": 14
             },
             "3": {
                 "ap_min": 27,
-                "ap_max": 32
+                "ap_max": 32,
+                "acc": 20
             },
             "4": {
                 "ap_min": 29,
-                "ap_max": 34
+                "ap_max": 34,
+                "acc": 24
             },
             "5": {
                 "ap_min": 31,
-                "ap_max": 36
+                "ap_max": 36,
+                "acc": 28
             },
             "6": {
                 "ap_min": 34,
-                "ap_max": 39
+                "ap_max": 39,
+                "acc": 34
             },
             "7": {
                 "ap_min": 37,
-                "ap_max": 42
+                "ap_max": 42,
+                "acc": 40
             },
             "8": {
                 "ap_min": 41,
-                "ap_max": 46
+                "ap_max": 46,
+                "acc": 44
             },
             "9": {
                 "ap_min": 45,
-                "ap_max": 50
+                "ap_max": 50,
+                "acc": 48
             },
             "10": {
                 "ap_min": 49,
-                "ap_max": 54
+                "ap_max": 54,
+                "acc": 52
             },
             "11": {
                 "ap_min": 53,
-                "ap_max": 58
+                "ap_max": 58,
+                "acc": 60
             },
             "12": {
                 "ap_min": 57,
-                "ap_max": 62
+                "ap_max": 62,
+                "acc": 70
             },
             "13": {
                 "ap_min": 61,
-                "ap_max": 66
+                "ap_max": 66,
+                "acc": 80
             },
             "14": {
                 "ap_min": 65,
-                "ap_max": 70
+                "ap_max": 70,
+                "acc": 90
             },
             "15": {
                 "ap_min": 69,
-                "ap_max": 74
+                "ap_max": 74,
+                "acc": 100
             },
             "16": {
                 "ap_min": 77,
-                "ap_max": 82
+                "ap_max": 82,
+                "acc": 110
             },
             "17": {
                 "ap_min": 85,
-                "ap_max": 90
+                "ap_max": 90,
+                "acc": 120
             },
             "18": {
                 "ap_min": 97,
-                "ap_max": 102
+                "ap_max": 102,
+                "acc": 130
             },
             "19": {
                 "ap_min": 105,
-                "ap_max": 110
+                "ap_max": 110,
+                "acc": 140
             },
             "20": {
                 "ap_min": 113,
-                "ap_max": 118
+                "ap_max": 118,
+                "acc": 150
             }
         },
         "name": "Rosar Kriegsmesser of Destruction"
@@ -3394,89 +4488,110 @@
         "gems": 2,
         "item_effects": {
             "chr": 1,
-            "as": 1
+            "as": 1,
+            "acc": 0
         },
         "enhancement_text": "",
         "enhancement": {
             "1": {
                 "ap_min": 21,
-                "ap_max": 26
+                "ap_max": 26,
+                "acc": 8
             },
             "2": {
                 "ap_min": 24,
-                "ap_max": 29
+                "ap_max": 29,
+                "acc": 14
             },
             "3": {
                 "ap_min": 27,
-                "ap_max": 32
+                "ap_max": 32,
+                "acc": 20
             },
             "4": {
                 "ap_min": 29,
-                "ap_max": 34
+                "ap_max": 34,
+                "acc": 24
             },
             "5": {
                 "ap_min": 31,
-                "ap_max": 36
+                "ap_max": 36,
+                "acc": 28
             },
             "6": {
                 "ap_min": 34,
-                "ap_max": 39
+                "ap_max": 39,
+                "acc": 34
             },
             "7": {
                 "ap_min": 37,
-                "ap_max": 42
+                "ap_max": 42,
+                "acc": 40
             },
             "8": {
                 "ap_min": 41,
-                "ap_max": 46
+                "ap_max": 46,
+                "acc": 44
             },
             "9": {
                 "ap_min": 45,
-                "ap_max": 50
+                "ap_max": 50,
+                "acc": 48
             },
             "10": {
                 "ap_min": 49,
-                "ap_max": 54
+                "ap_max": 54,
+                "acc": 52
             },
             "11": {
                 "ap_min": 53,
-                "ap_max": 58
+                "ap_max": 58,
+                "acc": 60
             },
             "12": {
                 "ap_min": 57,
-                "ap_max": 62
+                "ap_max": 62,
+                "acc": 70
             },
             "13": {
                 "ap_min": 61,
-                "ap_max": 66
+                "ap_max": 66,
+                "acc": 80
             },
             "14": {
                 "ap_min": 65,
-                "ap_max": 70
+                "ap_max": 70,
+                "acc": 90
             },
             "15": {
                 "ap_min": 69,
-                "ap_max": 74
+                "ap_max": 74,
+                "acc": 100
             },
             "16": {
                 "ap_min": 77,
-                "ap_max": 82
+                "ap_max": 82,
+                "acc": 110
             },
             "17": {
                 "ap_min": 85,
-                "ap_max": 90
+                "ap_max": 90,
+                "acc": 120
             },
             "18": {
                 "ap_min": 97,
-                "ap_max": 102
+                "ap_max": 102,
+                "acc": 130
             },
             "19": {
                 "ap_min": 105,
-                "ap_max": 110
+                "ap_max": 110,
+                "acc": 140
             },
             "20": {
                 "ap_min": 113,
-                "ap_max": 118
+                "ap_max": 118,
+                "acc": 150
             }
         },
         "name": "Rosar Kriegsmesser of Temptation"
@@ -3489,89 +4604,110 @@
         "gems": 2,
         "item_effects": {
             "chr": 1,
-            "as": 1
+            "as": 1,
+            "acc": 0
         },
         "enhancement_text": "",
         "enhancement": {
             "1": {
                 "ap_min": 21,
-                "ap_max": 30
+                "ap_max": 30,
+                "acc": 8
             },
             "2": {
                 "ap_min": 24,
-                "ap_max": 33
+                "ap_max": 33,
+                "acc": 14
             },
             "3": {
                 "ap_min": 27,
-                "ap_max": 36
+                "ap_max": 36,
+                "acc": 20
             },
             "4": {
                 "ap_min": 29,
-                "ap_max": 38
+                "ap_max": 38,
+                "acc": 24
             },
             "5": {
                 "ap_min": 31,
-                "ap_max": 40
+                "ap_max": 40,
+                "acc": 28
             },
             "6": {
                 "ap_min": 34,
-                "ap_max": 43
+                "ap_max": 43,
+                "acc": 34
             },
             "7": {
                 "ap_min": 37,
-                "ap_max": 46
+                "ap_max": 46,
+                "acc": 40
             },
             "8": {
                 "ap_min": 41,
-                "ap_max": 50
+                "ap_max": 50,
+                "acc": 44
             },
             "9": {
                 "ap_min": 45,
-                "ap_max": 54
+                "ap_max": 54,
+                "acc": 48
             },
             "10": {
                 "ap_min": 49,
-                "ap_max": 58
+                "ap_max": 58,
+                "acc": 52
             },
             "11": {
                 "ap_min": 53,
-                "ap_max": 62
+                "ap_max": 62,
+                "acc": 64
             },
             "12": {
                 "ap_min": 57,
-                "ap_max": 66
+                "ap_max": 66,
+                "acc": 78
             },
             "13": {
                 "ap_min": 61,
-                "ap_max": 70
+                "ap_max": 70,
+                "acc": 92
             },
             "14": {
                 "ap_min": 65,
-                "ap_max": 74
+                "ap_max": 74,
+                "acc": 106
             },
             "15": {
                 "ap_min": 69,
-                "ap_max": 78
+                "ap_max": 78,
+                "acc": 120
             },
             "16": {
                 "ap_min": 77,
-                "ap_max": 86
+                "ap_max": 86,
+                "acc": 130
             },
             "17": {
                 "ap_min": 85,
-                "ap_max": 94
+                "ap_max": 94,
+                "acc": 140
             },
             "18": {
                 "ap_min": 97,
-                "ap_max": 106
+                "ap_max": 106,
+                "acc": 150
             },
             "19": {
                 "ap_min": 105,
-                "ap_max": 114
+                "ap_max": 114,
+                "acc": 160
             },
             "20": {
                 "ap_min": 113,
-                "ap_max": 122
+                "ap_max": 122,
+                "acc": 170
             }
         },
         "name": "Ultimate Rosar Kriegsmesser"
@@ -3584,7 +4720,6 @@
         "item_effects": {
             "dmgaes": 5,
             "acc": 10,
-            "wgt": -25,
             "chr": 1,
             "special": "5% chance to heal 5 HP on attack."
         },
@@ -3592,83 +4727,123 @@
         "enhancement": {
             "1": {
                 "ap_min": 14,
-                "ap_max": 18
+                "ap_max": 18,
+                "dmgaes": 5,
+                "acc": 20
             },
             "2": {
                 "ap_min": 17,
-                "ap_max": 21
+                "ap_max": 21,
+                "dmgaes": 5,
+                "acc": 30
             },
             "3": {
                 "ap_min": 20,
-                "ap_max": 24
+                "ap_max": 24,
+                "dmgaes": 5,
+                "acc": 40
             },
             "4": {
                 "ap_min": 22,
-                "ap_max": 26
+                "ap_max": 26,
+                "dmgaes": 5,
+                "acc": 50
             },
             "5": {
                 "ap_min": 24,
-                "ap_max": 28
+                "ap_max": 28,
+                "dmgaes": 5,
+                "acc": 60
             },
             "6": {
                 "ap_min": 27,
-                "ap_max": 31
+                "ap_max": 31,
+                "dmgaes": 5,
+                "acc": 70
             },
             "7": {
                 "ap_min": 30,
-                "ap_max": 34
+                "ap_max": 34,
+                "dmgaes": 5,
+                "acc": 80
             },
             "8": {
                 "ap_min": 34,
-                "ap_max": 38
+                "ap_max": 38,
+                "dmgaes": 6,
+                "acc": 90
             },
             "9": {
                 "ap_min": 38,
-                "ap_max": 42
+                "ap_max": 42,
+                "dmgaes": 7,
+                "acc": 100
             },
             "10": {
                 "ap_min": 42,
-                "ap_max": 46
+                "ap_max": 46,
+                "dmgaes": 8,
+                "acc": 110
             },
             "11": {
                 "ap_min": 46,
-                "ap_max": 50
+                "ap_max": 50,
+                "dmgaes": 9,
+                "acc": 120
             },
             "12": {
                 "ap_min": 50,
-                "ap_max": 54
+                "ap_max": 54,
+                "dmgaes": 10,
+                "acc": 130
             },
             "13": {
                 "ap_min": 54,
-                "ap_max": 58
+                "ap_max": 58,
+                "dmgaes": 11,
+                "acc": 140
             },
             "14": {
                 "ap_min": 58,
-                "ap_max": 62
+                "ap_max": 62,
+                "dmgaes": 12,
+                "acc": 150
             },
             "15": {
                 "ap_min": 62,
-                "ap_max": 66
+                "ap_max": 66,
+                "dmgaes": 13,
+                "acc": 160
             },
             "16": {
                 "ap_min": 70,
-                "ap_max": 74
+                "ap_max": 74,
+                "dmgaes": 14,
+                "acc": 168
             },
             "17": {
                 "ap_min": 78,
-                "ap_max": 82
+                "ap_max": 82,
+                "dmgaes": 15,
+                "acc": 176
             },
             "18": {
                 "ap_min": 90,
-                "ap_max": 94
+                "ap_max": 94,
+                "dmgaes": 16,
+                "acc": 184
             },
             "19": {
                 "ap_min": 98,
-                "ap_max": 102
+                "ap_max": 102,
+                "dmgaes": 17,
+                "acc": 192
             },
             "20": {
                 "ap_min": 106,
-                "ap_max": 110
+                "ap_max": 110,
+                "dmgaes": 18,
+                "acc": 200
             }
         },
         "name": "Elsh Kriegsmesser of Crimson Flame"
@@ -3681,7 +4856,6 @@
         "item_effects": {
             "dmgaes": 5,
             "acc": 10,
-            "wgt": -25,
             "as": 1,
             "special": "5% chance to heal 5 HP on attack."
         },
@@ -3689,83 +4863,123 @@
         "enhancement": {
             "1": {
                 "ap_min": 14,
-                "ap_max": 18
+                "ap_max": 18,
+                "dmgaes": 5,
+                "acc": 20
             },
             "2": {
                 "ap_min": 17,
-                "ap_max": 21
+                "ap_max": 21,
+                "dmgaes": 5,
+                "acc": 30
             },
             "3": {
                 "ap_min": 20,
-                "ap_max": 24
+                "ap_max": 24,
+                "dmgaes": 5,
+                "acc": 40
             },
             "4": {
                 "ap_min": 22,
-                "ap_max": 26
+                "ap_max": 26,
+                "dmgaes": 5,
+                "acc": 50
             },
             "5": {
                 "ap_min": 24,
-                "ap_max": 28
+                "ap_max": 28,
+                "dmgaes": 5,
+                "acc": 60
             },
             "6": {
                 "ap_min": 27,
-                "ap_max": 31
+                "ap_max": 31,
+                "dmgaes": 5,
+                "acc": 70
             },
             "7": {
                 "ap_min": 30,
-                "ap_max": 34
+                "ap_max": 34,
+                "dmgaes": 5,
+                "acc": 80
             },
             "8": {
                 "ap_min": 34,
-                "ap_max": 38
+                "ap_max": 38,
+                "dmgaes": 6,
+                "acc": 90
             },
             "9": {
                 "ap_min": 38,
-                "ap_max": 42
+                "ap_max": 42,
+                "dmgaes": 7,
+                "acc": 100
             },
             "10": {
                 "ap_min": 42,
-                "ap_max": 46
+                "ap_max": 46,
+                "dmgaes": 8,
+                "acc": 110
             },
             "11": {
                 "ap_min": 46,
-                "ap_max": 50
+                "ap_max": 50,
+                "dmgaes": 9,
+                "acc": 120
             },
             "12": {
                 "ap_min": 50,
-                "ap_max": 54
+                "ap_max": 54,
+                "dmgaes": 10,
+                "acc": 130
             },
             "13": {
                 "ap_min": 54,
-                "ap_max": 58
+                "ap_max": 58,
+                "dmgaes": 11,
+                "acc": 140
             },
             "14": {
                 "ap_min": 58,
-                "ap_max": 62
+                "ap_max": 62,
+                "dmgaes": 12,
+                "acc": 150
             },
             "15": {
                 "ap_min": 62,
-                "ap_max": 66
+                "ap_max": 66,
+                "dmgaes": 13,
+                "acc": 160
             },
             "16": {
                 "ap_min": 70,
-                "ap_max": 74
+                "ap_max": 74,
+                "dmgaes": 14,
+                "acc": 168
             },
             "17": {
                 "ap_min": 78,
-                "ap_max": 82
+                "ap_max": 82,
+                "dmgaes": 15,
+                "acc": 176
             },
             "18": {
                 "ap_min": 90,
-                "ap_max": 94
+                "ap_max": 94,
+                "dmgaes": 16,
+                "acc": 184
             },
             "19": {
                 "ap_min": 98,
-                "ap_max": 102
+                "ap_max": 102,
+                "dmgaes": 17,
+                "acc": 192
             },
             "20": {
                 "ap_min": 106,
-                "ap_max": 110
+                "ap_max": 110,
+                "dmgaes": 18,
+                "acc": 200
             }
         },
         "name": "Elsh Kriegsmesser of Destruction"
@@ -3778,7 +4992,6 @@
         "item_effects": {
             "dmgaes": 5,
             "acc": 10,
-            "wgt": -25,
             "chr": 1,
             "as": 1,
             "special": "5% chance to heal 5 HP on attack."
@@ -3787,83 +5000,123 @@
         "enhancement": {
             "1": {
                 "ap_min": 14,
-                "ap_max": 18
+                "ap_max": 18,
+                "dmgaes": 5,
+                "acc": 20
             },
             "2": {
                 "ap_min": 17,
-                "ap_max": 21
+                "ap_max": 21,
+                "dmgaes": 5,
+                "acc": 30
             },
             "3": {
                 "ap_min": 20,
-                "ap_max": 24
+                "ap_max": 24,
+                "dmgaes": 5,
+                "acc": 40
             },
             "4": {
                 "ap_min": 22,
-                "ap_max": 26
+                "ap_max": 26,
+                "dmgaes": 5,
+                "acc": 50
             },
             "5": {
                 "ap_min": 24,
-                "ap_max": 28
+                "ap_max": 28,
+                "dmgaes": 5,
+                "acc": 60
             },
             "6": {
                 "ap_min": 27,
-                "ap_max": 31
+                "ap_max": 31,
+                "dmgaes": 5,
+                "acc": 70
             },
             "7": {
                 "ap_min": 30,
-                "ap_max": 34
+                "ap_max": 34,
+                "dmgaes": 5,
+                "acc": 80
             },
             "8": {
                 "ap_min": 34,
-                "ap_max": 38
+                "ap_max": 38,
+                "dmgaes": 6,
+                "acc": 90
             },
             "9": {
                 "ap_min": 38,
-                "ap_max": 42
+                "ap_max": 42,
+                "dmgaes": 7,
+                "acc": 100
             },
             "10": {
                 "ap_min": 42,
-                "ap_max": 46
+                "ap_max": 46,
+                "dmgaes": 8,
+                "acc": 110
             },
             "11": {
                 "ap_min": 46,
-                "ap_max": 50
+                "ap_max": 50,
+                "dmgaes": 9,
+                "acc": 120
             },
             "12": {
                 "ap_min": 50,
-                "ap_max": 54
+                "ap_max": 54,
+                "dmgaes": 10,
+                "acc": 130
             },
             "13": {
                 "ap_min": 54,
-                "ap_max": 58
+                "ap_max": 58,
+                "dmgaes": 11,
+                "acc": 140
             },
             "14": {
                 "ap_min": 58,
-                "ap_max": 62
+                "ap_max": 62,
+                "dmgaes": 12,
+                "acc": 150
             },
             "15": {
                 "ap_min": 62,
-                "ap_max": 66
+                "ap_max": 66,
+                "dmgaes": 13,
+                "acc": 160
             },
             "16": {
                 "ap_min": 70,
-                "ap_max": 74
+                "ap_max": 74,
+                "dmgaes": 14,
+                "acc": 168
             },
             "17": {
                 "ap_min": 78,
-                "ap_max": 82
+                "ap_max": 82,
+                "dmgaes": 15,
+                "acc": 176
             },
             "18": {
                 "ap_min": 90,
-                "ap_max": 94
+                "ap_max": 94,
+                "dmgaes": 16,
+                "acc": 184
             },
             "19": {
                 "ap_min": 98,
-                "ap_max": 102
+                "ap_max": 102,
+                "dmgaes": 17,
+                "acc": 192
             },
             "20": {
                 "ap_min": 106,
-                "ap_max": 110
+                "ap_max": 110,
+                "dmgaes": 18,
+                "acc": 200
             }
         },
         "name": "Elsh Kriegsmesser of Temptation"
@@ -3876,7 +5129,6 @@
         "item_effects": {
             "dmgaes": 5,
             "acc": 10,
-            "wgt": -25,
             "chr": 1,
             "as": 1,
             "special": "5% chance to heal 5 HP on attack."
@@ -3885,83 +5137,123 @@
         "enhancement": {
             "1": {
                 "ap_min": 14,
-                "ap_max": 22
+                "ap_max": 22,
+                "dmgaes": 5,
+                "acc": 20
             },
             "2": {
                 "ap_min": 17,
-                "ap_max": 25
+                "ap_max": 25,
+                "dmgaes": 5,
+                "acc": 30
             },
             "3": {
                 "ap_min": 20,
-                "ap_max": 28
+                "ap_max": 28,
+                "dmgaes": 5,
+                "acc": 40
             },
             "4": {
                 "ap_min": 22,
-                "ap_max": 30
+                "ap_max": 30,
+                "dmgaes": 5,
+                "acc": 50
             },
             "5": {
                 "ap_min": 24,
-                "ap_max": 32
+                "ap_max": 32,
+                "dmgaes": 5,
+                "acc": 60
             },
             "6": {
                 "ap_min": 27,
-                "ap_max": 35
+                "ap_max": 35,
+                "dmgaes": 5,
+                "acc": 70
             },
             "7": {
                 "ap_min": 30,
-                "ap_max": 38
+                "ap_max": 38,
+                "dmgaes": 5,
+                "acc": 80
             },
             "8": {
                 "ap_min": 34,
-                "ap_max": 42
+                "ap_max": 42,
+                "dmgaes": 6,
+                "acc": 90
             },
             "9": {
                 "ap_min": 38,
-                "ap_max": 46
+                "ap_max": 46,
+                "dmgaes": 7,
+                "acc": 100
             },
             "10": {
                 "ap_min": 42,
-                "ap_max": 50
+                "ap_max": 50,
+                "dmgaes": 8,
+                "acc": 110
             },
             "11": {
                 "ap_min": 46,
-                "ap_max": 54
+                "ap_max": 54,
+                "dmgaes": 9,
+                "acc": 120
             },
             "12": {
                 "ap_min": 50,
-                "ap_max": 58
+                "ap_max": 58,
+                "dmgaes": 10,
+                "acc": 130
             },
             "13": {
                 "ap_min": 54,
-                "ap_max": 62
+                "ap_max": 62,
+                "dmgaes": 11,
+                "acc": 140
             },
             "14": {
                 "ap_min": 58,
-                "ap_max": 66
+                "ap_max": 66,
+                "dmgaes": 12,
+                "acc": 150
             },
             "15": {
                 "ap_min": 62,
-                "ap_max": 70
+                "ap_max": 70,
+                "dmgaes": 13,
+                "acc": 160
             },
             "16": {
                 "ap_min": 70,
-                "ap_max": 78
+                "ap_max": 78,
+                "dmgaes": 14,
+                "acc": 168
             },
             "17": {
                 "ap_min": 78,
-                "ap_max": 86
+                "ap_max": 86,
+                "dmgaes": 15,
+                "acc": 176
             },
             "18": {
                 "ap_min": 90,
-                "ap_max": 98
+                "ap_max": 98,
+                "dmgaes": 16,
+                "acc": 184
             },
             "19": {
                 "ap_min": 98,
-                "ap_max": 106
+                "ap_max": 106,
+                "dmgaes": 17,
+                "acc": 192
             },
             "20": {
                 "ap_min": 106,
-                "ap_max": 114
+                "ap_max": 114,
+                "dmgaes": 18,
+                "acc": 200
             }
         },
         "name": "Ultimate Elsh Kriegsmesser"
@@ -3974,7 +5266,8 @@
         "item_effects": {
             "as": 1,
             "cs": 1,
-            "chr": 1
+            "chr": 1,
+            "acc": 60
         },
         "enhancement_text": "",
         "enhancement": {},
@@ -3988,7 +5281,8 @@
         "item_effects": {
             "as": 1,
             "cs": 1,
-            "chr": 1
+            "chr": 1,
+            "acc": 60
         },
         "enhancement_text": "",
         "enhancement": {},

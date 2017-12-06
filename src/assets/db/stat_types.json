@@ -379,7 +379,7 @@
         "target": ".extra-stats"
     },
     "dmgaes": {
-        "title": "Damage Against Every Species",
+        "title": "Damage Against All Species",
         "desc": "",
         "total": 0,
         "symbol": "",
@@ -394,6 +394,13 @@
     },
     "adafm": {
         "title": "Additional Damage Against \"Ferocious\" Monsters",
+        "desc": "",
+        "total": 0,
+        "symbol": "",
+        "target": ".extra-stats"
+    },
+    "dmgtm": {
+        "title": "Damage To Monsters",
         "desc": "",
         "total": 0,
         "symbol": "",
