@@ -2,7 +2,7 @@
     "22371": {
         "rarity": "legendary",
         "item_effects": {
-            "awdrc": 10
+            "awdrc": -10
         },
         "enhancement_text": "",
         "enhancement": {},
