@@ -656,13 +656,15 @@ var BDOcalculator = {
 
                     this.addToSets(this.player.gear[gear_key][acc_key].item.set, gear_key + acc_key);
 
-                    if ("awkap" == stat_to_get && this.getGearStat(accessory, "ap") != 0) {
+                    var gear_stat = this.getGearStat(accessory, "ap");
+
+                    if ("awkap" == stat_to_get && gear_stat != 0 && gear_stat !== undefined) {
                         stat_return.item_list.push({
-                            "value": this.getGearStat(accessory, "ap"),
+                            "value": gear_stat,
                             "slot": ".gear-slot." + gear_key.slice(0, -1) + acc_key,
                             "item": enh_prefix + accessory.item.name
                         });
-                        stat_return.total += this.getGearStat(accessory, "ap");
+                        stat_return.total += gear_stat;
                     }
                 }
             } else {
@@ -769,23 +771,25 @@ var BDOcalculator = {
                         }
                         break;
                     case "belt":
-                        if ("awkap" == stat_to_get && this.getGearStat(this.player.gear[gear_key], "ap") != 0) {
+                        var ap = this.getGearStat(this.player.gear[gear_key], "ap");
+                        if ("awkap" == stat_to_get && ap != 0 && ap !== undefined) {
                             stat_return.item_list.push({
-                                "value": this.getGearStat(this.player.gear[gear_key], "ap"),
+                                "value": ap,
                                 "slot": ".gear-slot." + gear_key,
                                 "item": enh_prefix + this.player.gear[gear_key].item.name
                             });
-                            stat_return.total += this.getGearStat(this.player.gear[gear_key], "ap");
+                            stat_return.total += ap;
                         }
                         break;
                     case "necklace":
-                        if ("awkap" == stat_to_get && this.getGearStat(this.player.gear[gear_key], "ap") != 0) {
+                        var ap = this.getGearStat(this.player.gear[gear_key], "ap");
+                        if ("awkap" == stat_to_get && ap != 0 && ap !== undefined) {
                             stat_return.item_list.push({
-                                "value": this.getGearStat(this.player.gear[gear_key], "ap"),
+                                "value": ap,
                                 "slot": ".gear-slot." + gear_key,
                                 "item": enh_prefix + this.player.gear[gear_key].item.name
                             });
-                            stat_return.total += this.getGearStat(this.player.gear[gear_key], "ap");
+                            stat_return.total += ap;
                         }
                         break;
                     }
