@@ -771,23 +771,25 @@ var BDOcalculator = {
                         }
                         break;
                     case "belt":
-                        if ("awkap" == stat_to_get && this.getGearStat(this.player.gear[gear_key], "ap") != 0) {
+                        var ap = this.getGearStat(this.player.gear[gear_key], "ap");
+                        if ("awkap" == stat_to_get && ap != 0 && ap !== undefined) {
                             stat_return.item_list.push({
-                                "value": this.getGearStat(this.player.gear[gear_key], "ap"),
+                                "value": ap,
                                 "slot": ".gear-slot." + gear_key,
                                 "item": enh_prefix + this.player.gear[gear_key].item.name
                             });
-                            stat_return.total += this.getGearStat(this.player.gear[gear_key], "ap");
+                            stat_return.total += ap;
                         }
                         break;
                     case "necklace":
-                        if ("awkap" == stat_to_get && this.getGearStat(this.player.gear[gear_key], "ap") != 0) {
+                        var ap = this.getGearStat(this.player.gear[gear_key], "ap");
+                        if ("awkap" == stat_to_get && ap != 0 && ap !== undefined) {
                             stat_return.item_list.push({
-                                "value": this.getGearStat(this.player.gear[gear_key], "ap"),
+                                "value": ap,
                                 "slot": ".gear-slot." + gear_key,
                                 "item": enh_prefix + this.player.gear[gear_key].item.name
                             });
-                            stat_return.total += this.getGearStat(this.player.gear[gear_key], "ap");
+                            stat_return.total += ap;
                         }
                         break;
                     }
