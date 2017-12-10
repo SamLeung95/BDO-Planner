@@ -6,73 +6,106 @@
         "rarity": "uncommon",
         "gems": 1,
         "item_effects": {
-            "acc": 20
+            "acc": 20,
+            "dr": 0
         },
         "enhancement_text": "",
         "enhancement": {
-            "1": {},
-            "2": {},
-            "3": {},
-            "4": {},
-            "5": {},
-            "6": {},
-            "7": {},
+            "1": {
+                "acc": 24
+            },
+            "2": {
+                "acc": 27
+            },
+            "3": {
+                "acc": 30
+            },
+            "4": {
+                "acc": 32
+            },
+            "5": {
+                "acc": 34
+            },
+            "6": {
+                "acc": 36
+            },
+            "7": {
+                "acc": 38
+            },
             "8": {
                 "ap_min": 4,
-                "ap_max": 4
+                "ap_max": 4,
+                "acc": 41
             },
             "9": {
                 "ap_min": 5,
-                "ap_max": 5
+                "ap_max": 5,
+                "acc": 44
             },
             "10": {
                 "ap_min": 6,
-                "ap_max": 6
+                "ap_max": 6,
+                "acc": 48
             },
             "11": {
                 "ap_min": 7,
-                "ap_max": 7
+                "ap_max": 7,
+                "acc": 52
             },
             "12": {
                 "ap_min": 8,
-                "ap_max": 8
+                "ap_max": 8,
+                "acc": 56
             },
             "13": {
                 "ap_min": 9,
-                "ap_max": 9
+                "ap_max": 9,
+                "acc": 60
             },
             "14": {
                 "ap_min": 10,
-                "ap_max": 10
+                "ap_max": 10,
+                "acc": 64
             },
             "15": {
                 "ap_min": 11,
-                "ap_max": 11
+                "ap_max": 11,
+                "acc": 68
             },
             "16": {
                 "ap_min": 12,
                 "ap_max": 12,
-                "dp": 1
+                "dp": 1,
+                "acc": 72,
+                "dr": 1
             },
             "17": {
                 "ap_min": 13,
                 "ap_max": 13,
-                "dp": 2
+                "dp": 2,
+                "acc": 76,
+                "dr": 2
             },
             "18": {
                 "ap_min": 17,
                 "ap_max": 17,
-                "dp": 3
+                "dp": 3,
+                "acc": 80,
+                "dr": 3
             },
             "19": {
                 "ap_min": 18,
                 "ap_max": 18,
-                "dp": 4
+                "dp": 4,
+                "acc": 84,
+                "dr": 4
             },
             "20": {
                 "ap_min": 19,
                 "ap_max": 19,
-                "dp": 5
+                "dp": 5,
+                "acc": 88,
+                "dr": 5
             }
         },
         "name": "Quitar Kunai"
@@ -176,109 +209,150 @@
         "gems": 1,
         "item_effects": {
             "ev": 3,
-            "hp": 50
+            "hp": 50,
+            "hev": 9
         },
         "enhancement_text": "",
         "enhancement": {
             "1": {
                 "ap_min": 3,
                 "ap_max": 3,
-                "dp": 4
+                "dp": 4,
+                "ev": 4,
+                "hev": 12
             },
             "2": {
                 "ap_min": 3,
                 "ap_max": 3,
-                "dp": 5
+                "dp": 5,
+                "ev": 5,
+                "hev": 15
             },
             "3": {
                 "ap_min": 3,
                 "ap_max": 3,
-                "dp": 6
+                "dp": 6,
+                "ev": 6,
+                "hev": 18
             },
             "4": {
                 "ap_min": 3,
                 "ap_max": 3,
-                "dp": 7
+                "dp": 7,
+                "ev": 7,
+                "hev": 21
             },
             "5": {
                 "ap_min": 3,
                 "ap_max": 3,
-                "dp": 8
+                "dp": 8,
+                "ev": 8,
+                "hev": 24
             },
             "6": {
                 "ap_min": 3,
                 "ap_max": 3,
-                "dp": 9
+                "dp": 9,
+                "ev": 9,
+                "hev": 27
             },
             "7": {
                 "ap_min": 3,
                 "ap_max": 3,
-                "dp": 10
+                "dp": 10,
+                "ev": 10,
+                "hev": 30
             },
             "8": {
                 "ap_min": 4,
                 "ap_max": 4,
-                "dp": 11
+                "dp": 11,
+                "ev": 11,
+                "hev": 33
             },
             "9": {
                 "ap_min": 5,
                 "ap_max": 5,
-                "dp": 12
+                "dp": 12,
+                "ev": 12,
+                "hev": 36
             },
             "10": {
                 "ap_min": 6,
                 "ap_max": 6,
-                "dp": 13
+                "dp": 13,
+                "ev": 13,
+                "hev": 39
             },
             "11": {
                 "ap_min": 7,
                 "ap_max": 7,
-                "dp": 14
+                "dp": 14,
+                "ev": 14,
+                "hev": 42
             },
             "12": {
                 "ap_min": 8,
                 "ap_max": 8,
-                "dp": 15
+                "dp": 15,
+                "ev": 15,
+                "hev": 45
             },
             "13": {
                 "ap_min": 9,
                 "ap_max": 9,
-                "dp": 16
+                "dp": 16,
+                "ev": 16,
+                "hev": 48
             },
             "14": {
                 "ap_min": 10,
                 "ap_max": 10,
-                "dp": 17
+                "dp": 17,
+                "ev": 17,
+                "hev": 51
             },
             "15": {
                 "ap_min": 11,
                 "ap_max": 11,
-                "dp": 18
+                "dp": 18,
+                "ev": 18,
+                "hev": 54
             },
             "16": {
                 "ap_min": 12,
                 "ap_max": 12,
-                "dp": 20
+                "dp": 20,
+                "ev": 20,
+                "hev": 60
             },
             "17": {
                 "ap_min": 13,
                 "ap_max": 13,
-                "dp": 22
+                "dp": 22,
+                "ev": 22,
+                "hev": 66
             },
             "18": {
                 "ap_min": 14,
                 "ap_max": 14,
-                "dp": 27
+                "dp": 27,
+                "ev": 27,
+                "hev": 81
             },
             "19": {
                 "ap_min": 15,
                 "ap_max": 15,
-                "dp": 29
+                "dp": 29,
+                "ev": 29,
+                "hev": 87
             },
             "20": {
                 "ap_min": 16,
                 "ap_max": 16,
-                "dp": 31
+                "dp": 31,
+                "ev": 31,
+                "hev": 93
             }
         },
         "name": "Tadd Kunai"
@@ -291,73 +365,106 @@
         "gems": 1,
         "item_effects": {
             "acc": 28,
-            "abad": 1
+            "abad": 1,
+            "dr": 0
         },
         "enhancement_text": "",
         "enhancement": {
-            "1": {},
-            "2": {},
-            "3": {},
-            "4": {},
-            "5": {},
-            "6": {},
-            "7": {},
+            "1": {
+                "acc": 32
+            },
+            "2": {
+                "acc": 35
+            },
+            "3": {
+                "acc": 38
+            },
+            "4": {
+                "acc": 40
+            },
+            "5": {
+                "acc": 42
+            },
+            "6": {
+                "acc": 44
+            },
+            "7": {
+                "acc": 46
+            },
             "8": {
                 "ap_min": 4,
-                "ap_max": 4
+                "ap_max": 4,
+                "acc": 49
             },
             "9": {
                 "ap_min": 5,
-                "ap_max": 5
+                "ap_max": 5,
+                "acc": 52
             },
             "10": {
                 "ap_min": 6,
-                "ap_max": 6
+                "ap_max": 6,
+                "acc": 56
             },
             "11": {
                 "ap_min": 7,
-                "ap_max": 7
+                "ap_max": 7,
+                "acc": 60
             },
             "12": {
                 "ap_min": 8,
-                "ap_max": 8
+                "ap_max": 8,
+                "acc": 64
             },
             "13": {
                 "ap_min": 9,
-                "ap_max": 9
+                "ap_max": 9,
+                "acc": 68
             },
             "14": {
                 "ap_min": 10,
-                "ap_max": 10
+                "ap_max": 10,
+                "acc": 72
             },
             "15": {
                 "ap_min": 11,
-                "ap_max": 11
+                "ap_max": 11,
+                "acc": 76
             },
             "16": {
                 "ap_min": 12,
                 "ap_max": 12,
-                "dp": 1
+                "dp": 1,
+                "acc": 80,
+                "dr": 1
             },
             "17": {
                 "ap_min": 13,
                 "ap_max": 13,
-                "dp": 2
+                "dp": 2,
+                "acc": 84,
+                "dr": 2
             },
             "18": {
                 "ap_min": 17,
                 "ap_max": 17,
-                "dp": 3
+                "dp": 3,
+                "acc": 88,
+                "dr": 3
             },
             "19": {
                 "ap_min": 18,
                 "ap_max": 18,
-                "dp": 4
+                "dp": 4,
+                "acc": 92,
+                "dr": 4
             },
             "20": {
                 "ap_min": 19,
                 "ap_max": 19,
-                "dp": 5
+                "dp": 5,
+                "acc": 96,
+                "dr": 5
             }
         },
         "name": "Quitar Kunai of Crimson Flame"
@@ -370,73 +477,106 @@
         "gems": 1,
         "item_effects": {
             "acc": 28,
-            "adad": 1
+            "adad": 1,
+            "dr": 0
         },
         "enhancement_text": "",
         "enhancement": {
-            "1": {},
-            "2": {},
-            "3": {},
-            "4": {},
-            "5": {},
-            "6": {},
-            "7": {},
+            "1": {
+                "acc": 32
+            },
+            "2": {
+                "acc": 35
+            },
+            "3": {
+                "acc": 38
+            },
+            "4": {
+                "acc": 40
+            },
+            "5": {
+                "acc": 42
+            },
+            "6": {
+                "acc": 44
+            },
+            "7": {
+                "acc": 46
+            },
             "8": {
                 "ap_min": 4,
-                "ap_max": 4
+                "ap_max": 4,
+                "acc": 49
             },
             "9": {
                 "ap_min": 5,
-                "ap_max": 5
+                "ap_max": 5,
+                "acc": 52
             },
             "10": {
                 "ap_min": 6,
-                "ap_max": 6
+                "ap_max": 6,
+                "acc": 56
             },
             "11": {
                 "ap_min": 7,
-                "ap_max": 7
+                "ap_max": 7,
+                "acc": 60
             },
             "12": {
                 "ap_min": 8,
-                "ap_max": 8
+                "ap_max": 8,
+                "acc": 64
             },
             "13": {
                 "ap_min": 9,
-                "ap_max": 9
+                "ap_max": 9,
+                "acc": 68
             },
             "14": {
                 "ap_min": 10,
-                "ap_max": 10
+                "ap_max": 10,
+                "acc": 72
             },
             "15": {
                 "ap_min": 11,
-                "ap_max": 11
+                "ap_max": 11,
+                "acc": 76
             },
             "16": {
                 "ap_min": 12,
                 "ap_max": 12,
-                "dp": 1
+                "dp": 1,
+                "acc": 80,
+                "dr": 1
             },
             "17": {
                 "ap_min": 13,
                 "ap_max": 13,
-                "dp": 2
+                "dp": 2,
+                "acc": 84,
+                "dr": 2
             },
             "18": {
                 "ap_min": 17,
                 "ap_max": 17,
-                "dp": 3
+                "dp": 3,
+                "acc": 88,
+                "dr": 3
             },
             "19": {
                 "ap_min": 18,
                 "ap_max": 18,
-                "dp": 4
+                "dp": 4,
+                "acc": 92,
+                "dr": 4
             },
             "20": {
                 "ap_min": 19,
                 "ap_max": 19,
-                "dp": 5
+                "dp": 5,
+                "acc": 96,
+                "dr": 5
             }
         },
         "name": "Quitar Kunai of Destruction"
@@ -449,73 +589,106 @@
         "gems": 1,
         "item_effects": {
             "acc": 28,
-            "aaad": 1
+            "aaad": 1,
+            "dr": 0
         },
         "enhancement_text": "",
         "enhancement": {
-            "1": {},
-            "2": {},
-            "3": {},
-            "4": {},
-            "5": {},
-            "6": {},
-            "7": {},
+            "1": {
+                "acc": 32
+            },
+            "2": {
+                "acc": 35
+            },
+            "3": {
+                "acc": 38
+            },
+            "4": {
+                "acc": 40
+            },
+            "5": {
+                "acc": 42
+            },
+            "6": {
+                "acc": 44
+            },
+            "7": {
+                "acc": 46
+            },
             "8": {
                 "ap_min": 4,
-                "ap_max": 4
+                "ap_max": 4,
+                "acc": 49
             },
             "9": {
                 "ap_min": 5,
-                "ap_max": 5
+                "ap_max": 5,
+                "acc": 52
             },
             "10": {
                 "ap_min": 6,
-                "ap_max": 6
+                "ap_max": 6,
+                "acc": 56
             },
             "11": {
                 "ap_min": 7,
-                "ap_max": 7
+                "ap_max": 7,
+                "acc": 60
             },
             "12": {
                 "ap_min": 8,
-                "ap_max": 8
+                "ap_max": 8,
+                "acc": 64
             },
             "13": {
                 "ap_min": 9,
-                "ap_max": 9
+                "ap_max": 9,
+                "acc": 68
             },
             "14": {
                 "ap_min": 10,
-                "ap_max": 10
+                "ap_max": 10,
+                "acc": 72
             },
             "15": {
                 "ap_min": 11,
-                "ap_max": 11
+                "ap_max": 11,
+                "acc": 76
             },
             "16": {
                 "ap_min": 12,
                 "ap_max": 12,
-                "dp": 1
+                "dp": 1,
+                "acc": 80,
+                "dr": 1
             },
             "17": {
                 "ap_min": 13,
                 "ap_max": 13,
-                "dp": 2
+                "dp": 2,
+                "acc": 84,
+                "dr": 2
             },
             "18": {
                 "ap_min": 17,
                 "ap_max": 17,
-                "dp": 3
+                "dp": 3,
+                "acc": 88,
+                "dr": 3
             },
             "19": {
                 "ap_min": 18,
                 "ap_max": 18,
-                "dp": 4
+                "dp": 4,
+                "acc": 92,
+                "dr": 4
             },
             "20": {
                 "ap_min": 19,
                 "ap_max": 19,
-                "dp": 5
+                "dp": 5,
+                "acc": 96,
+                "dr": 5
             }
         },
         "name": "Quitar Kunai of Temptation"
@@ -528,73 +701,106 @@
         "gems": 1,
         "item_effects": {
             "acc": 28,
-            "assad": 1
+            "assad": 1,
+            "dr": 0
         },
         "enhancement_text": "",
         "enhancement": {
-            "1": {},
-            "2": {},
-            "3": {},
-            "4": {},
-            "5": {},
-            "6": {},
-            "7": {},
+            "1": {
+                "acc": 32
+            },
+            "2": {
+                "acc": 35
+            },
+            "3": {
+                "acc": 38
+            },
+            "4": {
+                "acc": 40
+            },
+            "5": {
+                "acc": 42
+            },
+            "6": {
+                "acc": 44
+            },
+            "7": {
+                "acc": 46
+            },
             "8": {
                 "ap_min": 4,
-                "ap_max": 4
+                "ap_max": 4,
+                "acc": 49
             },
             "9": {
                 "ap_min": 5,
-                "ap_max": 5
+                "ap_max": 5,
+                "acc": 52
             },
             "10": {
                 "ap_min": 6,
-                "ap_max": 6
+                "ap_max": 6,
+                "acc": 56
             },
             "11": {
                 "ap_min": 7,
-                "ap_max": 7
+                "ap_max": 7,
+                "acc": 60
             },
             "12": {
                 "ap_min": 8,
-                "ap_max": 8
+                "ap_max": 8,
+                "acc": 64
             },
             "13": {
                 "ap_min": 9,
-                "ap_max": 9
+                "ap_max": 9,
+                "acc": 68
             },
             "14": {
                 "ap_min": 10,
-                "ap_max": 10
+                "ap_max": 10,
+                "acc": 72
             },
             "15": {
                 "ap_min": 11,
-                "ap_max": 11
+                "ap_max": 11,
+                "acc": 76
             },
             "16": {
                 "ap_min": 12,
                 "ap_max": 12,
-                "dp": 1
+                "dp": 1,
+                "acc": 80,
+                "dr": 1
             },
             "17": {
                 "ap_min": 13,
                 "ap_max": 13,
-                "dp": 2
+                "dp": 2,
+                "acc": 84,
+                "dr": 2
             },
             "18": {
                 "ap_min": 17,
                 "ap_max": 17,
-                "dp": 3
+                "dp": 3,
+                "acc": 88,
+                "dr": 3
             },
             "19": {
                 "ap_min": 18,
                 "ap_max": 18,
-                "dp": 4
+                "dp": 4,
+                "acc": 92,
+                "dr": 4
             },
             "20": {
                 "ap_min": 19,
                 "ap_max": 19,
-                "dp": 5
+                "dp": 5,
+                "acc": 96,
+                "dr": 5
             }
         },
         "name": "Ultimate Quitar Kunai"
@@ -981,109 +1187,150 @@
             "ev": 3,
             "dr": 1,
             "hp": 50,
-            "abad": 1
+            "abad": 1,
+            "hev": 9
         },
         "enhancement_text": "",
         "enhancement": {
             "1": {
                 "ap_min": 3,
                 "ap_max": 3,
-                "dp": 5
+                "dp": 5,
+                "ev": 4,
+                "hev": 12
             },
             "2": {
                 "ap_min": 3,
                 "ap_max": 3,
-                "dp": 6
+                "dp": 6,
+                "ev": 5,
+                "hev": 15
             },
             "3": {
                 "ap_min": 3,
                 "ap_max": 3,
-                "dp": 7
+                "dp": 7,
+                "ev": 6,
+                "hev": 18
             },
             "4": {
                 "ap_min": 3,
                 "ap_max": 3,
-                "dp": 8
+                "dp": 8,
+                "ev": 7,
+                "hev": 21
             },
             "5": {
                 "ap_min": 3,
                 "ap_max": 3,
-                "dp": 9
+                "dp": 9,
+                "ev": 8,
+                "hev": 24
             },
             "6": {
                 "ap_min": 3,
                 "ap_max": 3,
-                "dp": 10
+                "dp": 10,
+                "ev": 9,
+                "hev": 27
             },
             "7": {
                 "ap_min": 3,
                 "ap_max": 3,
-                "dp": 11
+                "dp": 11,
+                "ev": 10,
+                "hev": 30
             },
             "8": {
                 "ap_min": 4,
                 "ap_max": 4,
-                "dp": 12
+                "dp": 12,
+                "ev": 11,
+                "hev": 33
             },
             "9": {
                 "ap_min": 5,
                 "ap_max": 5,
-                "dp": 13
+                "dp": 13,
+                "ev": 12,
+                "hev": 36
             },
             "10": {
                 "ap_min": 6,
                 "ap_max": 6,
-                "dp": 14
+                "dp": 14,
+                "ev": 13,
+                "hev": 39
             },
             "11": {
                 "ap_min": 7,
                 "ap_max": 7,
-                "dp": 15
+                "dp": 15,
+                "ev": 14,
+                "hev": 42
             },
             "12": {
                 "ap_min": 8,
                 "ap_max": 8,
-                "dp": 16
+                "dp": 16,
+                "ev": 15,
+                "hev": 45
             },
             "13": {
                 "ap_min": 9,
                 "ap_max": 9,
-                "dp": 17
+                "dp": 17,
+                "ev": 16,
+                "hev": 48
             },
             "14": {
                 "ap_min": 10,
                 "ap_max": 10,
-                "dp": 18
+                "dp": 18,
+                "ev": 17,
+                "hev": 51
             },
             "15": {
                 "ap_min": 11,
                 "ap_max": 11,
-                "dp": 19
+                "dp": 19,
+                "ev": 18,
+                "hev": 54
             },
             "16": {
                 "ap_min": 12,
                 "ap_max": 12,
-                "dp": 21
+                "dp": 21,
+                "ev": 20,
+                "hev": 60
             },
             "17": {
                 "ap_min": 13,
                 "ap_max": 13,
-                "dp": 23
+                "dp": 23,
+                "ev": 22,
+                "hev": 66
             },
             "18": {
                 "ap_min": 14,
                 "ap_max": 14,
-                "dp": 28
+                "dp": 28,
+                "ev": 27,
+                "hev": 81
             },
             "19": {
                 "ap_min": 15,
                 "ap_max": 15,
-                "dp": 30
+                "dp": 30,
+                "ev": 29,
+                "hev": 87
             },
             "20": {
                 "ap_min": 16,
                 "ap_max": 16,
-                "dp": 32
+                "dp": 32,
+                "ev": 31,
+                "hev": 93
             }
         },
         "name": "Tadd Kunai of Crimson Flame"
@@ -1098,109 +1345,150 @@
             "ev": 3,
             "dr": 1,
             "hp": 50,
-            "adad": 1
+            "adad": 1,
+            "hev": 9
         },
         "enhancement_text": "",
         "enhancement": {
             "1": {
                 "ap_min": 3,
                 "ap_max": 3,
-                "dp": 5
+                "dp": 5,
+                "ev": 4,
+                "hev": 12
             },
             "2": {
                 "ap_min": 3,
                 "ap_max": 3,
-                "dp": 6
+                "dp": 6,
+                "ev": 5,
+                "hev": 15
             },
             "3": {
                 "ap_min": 3,
                 "ap_max": 3,
-                "dp": 7
+                "dp": 7,
+                "ev": 6,
+                "hev": 18
             },
             "4": {
                 "ap_min": 3,
                 "ap_max": 3,
-                "dp": 8
+                "dp": 8,
+                "ev": 7,
+                "hev": 21
             },
             "5": {
                 "ap_min": 3,
                 "ap_max": 3,
-                "dp": 9
+                "dp": 9,
+                "ev": 8,
+                "hev": 24
             },
             "6": {
                 "ap_min": 3,
                 "ap_max": 3,
-                "dp": 10
+                "dp": 10,
+                "ev": 9,
+                "hev": 27
             },
             "7": {
                 "ap_min": 3,
                 "ap_max": 3,
-                "dp": 11
+                "dp": 11,
+                "ev": 10,
+                "hev": 30
             },
             "8": {
                 "ap_min": 4,
                 "ap_max": 4,
-                "dp": 12
+                "dp": 12,
+                "ev": 11,
+                "hev": 33
             },
             "9": {
                 "ap_min": 5,
                 "ap_max": 5,
-                "dp": 13
+                "dp": 13,
+                "ev": 12,
+                "hev": 36
             },
             "10": {
                 "ap_min": 6,
                 "ap_max": 6,
-                "dp": 14
+                "dp": 14,
+                "ev": 13,
+                "hev": 39
             },
             "11": {
                 "ap_min": 7,
                 "ap_max": 7,
-                "dp": 15
+                "dp": 15,
+                "ev": 14,
+                "hev": 42
             },
             "12": {
                 "ap_min": 8,
                 "ap_max": 8,
-                "dp": 16
+                "dp": 16,
+                "ev": 15,
+                "hev": 45
             },
             "13": {
                 "ap_min": 9,
                 "ap_max": 9,
-                "dp": 17
+                "dp": 17,
+                "ev": 16,
+                "hev": 48
             },
             "14": {
                 "ap_min": 10,
                 "ap_max": 10,
-                "dp": 18
+                "dp": 18,
+                "ev": 17,
+                "hev": 51
             },
             "15": {
                 "ap_min": 11,
                 "ap_max": 11,
-                "dp": 19
+                "dp": 19,
+                "ev": 18,
+                "hev": 54
             },
             "16": {
                 "ap_min": 12,
                 "ap_max": 12,
-                "dp": 21
+                "dp": 21,
+                "ev": 20,
+                "hev": 60
             },
             "17": {
                 "ap_min": 13,
                 "ap_max": 13,
-                "dp": 23
+                "dp": 23,
+                "ev": 22,
+                "hev": 66
             },
             "18": {
                 "ap_min": 14,
                 "ap_max": 14,
-                "dp": 28
+                "dp": 28,
+                "ev": 27,
+                "hev": 81
             },
             "19": {
                 "ap_min": 15,
                 "ap_max": 15,
-                "dp": 30
+                "dp": 30,
+                "ev": 29,
+                "hev": 87
             },
             "20": {
                 "ap_min": 16,
                 "ap_max": 16,
-                "dp": 32
+                "dp": 32,
+                "ev": 31,
+                "hev": 93
             }
         },
         "name": "Tadd Kunai of Destruction"
@@ -1215,109 +1503,150 @@
             "ev": 3,
             "dr": 1,
             "hp": 50,
-            "aaad": 1
+            "aaad": 1,
+            "hev": 9
         },
         "enhancement_text": "",
         "enhancement": {
             "1": {
                 "ap_min": 3,
                 "ap_max": 3,
-                "dp": 5
+                "dp": 5,
+                "ev": 4,
+                "hev": 12
             },
             "2": {
                 "ap_min": 3,
                 "ap_max": 3,
-                "dp": 6
+                "dp": 6,
+                "ev": 5,
+                "hev": 15
             },
             "3": {
                 "ap_min": 3,
                 "ap_max": 3,
-                "dp": 7
+                "dp": 7,
+                "ev": 6,
+                "hev": 18
             },
             "4": {
                 "ap_min": 3,
                 "ap_max": 3,
-                "dp": 8
+                "dp": 8,
+                "ev": 7,
+                "hev": 21
             },
             "5": {
                 "ap_min": 3,
                 "ap_max": 3,
-                "dp": 9
+                "dp": 9,
+                "ev": 8,
+                "hev": 24
             },
             "6": {
                 "ap_min": 3,
                 "ap_max": 3,
-                "dp": 10
+                "dp": 10,
+                "ev": 9,
+                "hev": 27
             },
             "7": {
                 "ap_min": 3,
                 "ap_max": 3,
-                "dp": 11
+                "dp": 11,
+                "ev": 10,
+                "hev": 30
             },
             "8": {
                 "ap_min": 4,
                 "ap_max": 4,
-                "dp": 12
+                "dp": 12,
+                "ev": 11,
+                "hev": 33
             },
             "9": {
                 "ap_min": 5,
                 "ap_max": 5,
-                "dp": 13
+                "dp": 13,
+                "ev": 12,
+                "hev": 36
             },
             "10": {
                 "ap_min": 6,
                 "ap_max": 6,
-                "dp": 14
+                "dp": 14,
+                "ev": 13,
+                "hev": 39
             },
             "11": {
                 "ap_min": 7,
                 "ap_max": 7,
-                "dp": 15
+                "dp": 15,
+                "ev": 14,
+                "hev": 42
             },
             "12": {
                 "ap_min": 8,
                 "ap_max": 8,
-                "dp": 16
+                "dp": 16,
+                "ev": 15,
+                "hev": 45
             },
             "13": {
                 "ap_min": 9,
                 "ap_max": 9,
-                "dp": 17
+                "dp": 17,
+                "ev": 16,
+                "hev": 48
             },
             "14": {
                 "ap_min": 10,
                 "ap_max": 10,
-                "dp": 18
+                "dp": 18,
+                "ev": 17,
+                "hev": 51
             },
             "15": {
                 "ap_min": 11,
                 "ap_max": 11,
-                "dp": 19
+                "dp": 19,
+                "ev": 18,
+                "hev": 54
             },
             "16": {
                 "ap_min": 12,
                 "ap_max": 12,
-                "dp": 21
+                "dp": 21,
+                "ev": 20,
+                "hev": 60
             },
             "17": {
                 "ap_min": 13,
                 "ap_max": 13,
-                "dp": 23
+                "dp": 23,
+                "ev": 22,
+                "hev": 66
             },
             "18": {
                 "ap_min": 14,
                 "ap_max": 14,
-                "dp": 28
+                "dp": 28,
+                "ev": 27,
+                "hev": 81
             },
             "19": {
                 "ap_min": 15,
                 "ap_max": 15,
-                "dp": 30
+                "dp": 30,
+                "ev": 29,
+                "hev": 87
             },
             "20": {
                 "ap_min": 16,
                 "ap_max": 16,
-                "dp": 32
+                "dp": 32,
+                "ev": 31,
+                "hev": 93
             }
         },
         "name": "Tadd Kunai of Temptation"
@@ -1332,109 +1661,150 @@
             "ev": 3,
             "dr": 1,
             "hp": 100,
-            "assad": 1
+            "assad": 1,
+            "hev": 9
         },
         "enhancement_text": "",
         "enhancement": {
             "1": {
                 "ap_min": 3,
                 "ap_max": 3,
-                "dp": 5
+                "dp": 5,
+                "ev": 4,
+                "hev": 12
             },
             "2": {
                 "ap_min": 3,
                 "ap_max": 3,
-                "dp": 6
+                "dp": 6,
+                "ev": 5,
+                "hev": 15
             },
             "3": {
                 "ap_min": 3,
                 "ap_max": 3,
-                "dp": 7
+                "dp": 7,
+                "ev": 6,
+                "hev": 18
             },
             "4": {
                 "ap_min": 3,
                 "ap_max": 3,
-                "dp": 8
+                "dp": 8,
+                "ev": 7,
+                "hev": 21
             },
             "5": {
                 "ap_min": 3,
                 "ap_max": 3,
-                "dp": 9
+                "dp": 9,
+                "ev": 8,
+                "hev": 24
             },
             "6": {
                 "ap_min": 3,
                 "ap_max": 3,
-                "dp": 10
+                "dp": 10,
+                "ev": 9,
+                "hev": 27
             },
             "7": {
                 "ap_min": 3,
                 "ap_max": 3,
-                "dp": 11
+                "dp": 11,
+                "ev": 10,
+                "hev": 30
             },
             "8": {
                 "ap_min": 4,
                 "ap_max": 4,
-                "dp": 12
+                "dp": 12,
+                "ev": 11,
+                "hev": 33
             },
             "9": {
                 "ap_min": 5,
                 "ap_max": 5,
-                "dp": 13
+                "dp": 13,
+                "ev": 12,
+                "hev": 36
             },
             "10": {
                 "ap_min": 6,
                 "ap_max": 6,
-                "dp": 14
+                "dp": 14,
+                "ev": 13,
+                "hev": 39
             },
             "11": {
                 "ap_min": 7,
                 "ap_max": 7,
-                "dp": 15
+                "dp": 15,
+                "ev": 14,
+                "hev": 42
             },
             "12": {
                 "ap_min": 8,
                 "ap_max": 8,
-                "dp": 16
+                "dp": 16,
+                "ev": 15,
+                "hev": 45
             },
             "13": {
                 "ap_min": 9,
                 "ap_max": 9,
-                "dp": 17
+                "dp": 17,
+                "ev": 16,
+                "hev": 48
             },
             "14": {
                 "ap_min": 10,
                 "ap_max": 10,
-                "dp": 18
+                "dp": 18,
+                "ev": 17,
+                "hev": 51
             },
             "15": {
                 "ap_min": 11,
                 "ap_max": 11,
-                "dp": 19
+                "dp": 19,
+                "ev": 18,
+                "hev": 54
             },
             "16": {
                 "ap_min": 12,
                 "ap_max": 12,
-                "dp": 21
+                "dp": 21,
+                "ev": 20,
+                "hev": 60
             },
             "17": {
                 "ap_min": 13,
                 "ap_max": 13,
-                "dp": 23
+                "dp": 23,
+                "ev": 22,
+                "hev": 66
             },
             "18": {
                 "ap_min": 14,
                 "ap_max": 14,
-                "dp": 28
+                "dp": 28,
+                "ev": 27,
+                "hev": 81
             },
             "19": {
                 "ap_min": 15,
                 "ap_max": 15,
-                "dp": 30
+                "dp": 30,
+                "ev": 29,
+                "hev": 87
             },
             "20": {
                 "ap_min": 16,
                 "ap_max": 16,
-                "dp": 32
+                "dp": 32,
+                "ev": 31,
+                "hev": 93
             }
         },
         "name": "Ultimate Tadd Kunai"
@@ -1446,94 +1816,143 @@
         "dp": 4,
         "rarity": "uncommon",
         "gems": 2,
-        "item_effects": {},
+        "item_effects": {
+            "ev": 2,
+            "hev": 4,
+            "dr": 2
+        },
         "enhancement_text": "",
         "enhancement": {
             "1": {
-                "dp": 5
+                "dp": 5,
+                "ev": 3,
+                "hev": 6
             },
             "2": {
-                "dp": 6
+                "dp": 6,
+                "ev": 4,
+                "hev": 8
             },
             "3": {
-                "dp": 7
+                "dp": 7,
+                "ev": 5,
+                "hev": 10
             },
             "4": {
-                "dp": 8
+                "dp": 8,
+                "ev": 6,
+                "hev": 12
             },
             "5": {
-                "dp": 9
+                "dp": 9,
+                "ev": 7,
+                "hev": 14
             },
             "6": {
-                "dp": 10
+                "dp": 10,
+                "ev": 8,
+                "hev": 16
             },
             "7": {
-                "dp": 11
+                "dp": 11,
+                "ev": 9,
+                "hev": 18
             },
             "8": {
                 "ap_min": 2,
                 "ap_max": 4,
-                "dp": 12
+                "dp": 12,
+                "ev": 10,
+                "hev": 20
             },
             "9": {
                 "ap_min": 3,
                 "ap_max": 5,
-                "dp": 13
+                "dp": 13,
+                "ev": 11,
+                "hev": 22
             },
             "10": {
                 "ap_min": 4,
                 "ap_max": 6,
-                "dp": 14
+                "dp": 14,
+                "ev": 12,
+                "hev": 24
             },
             "11": {
                 "ap_min": 5,
                 "ap_max": 7,
-                "dp": 15
+                "dp": 15,
+                "ev": 13,
+                "hev": 26
             },
             "12": {
                 "ap_min": 6,
                 "ap_max": 8,
-                "dp": 16
+                "dp": 16,
+                "ev": 14,
+                "hev": 28
             },
             "13": {
                 "ap_min": 7,
                 "ap_max": 9,
-                "dp": 17
+                "dp": 17,
+                "ev": 15,
+                "hev": 30
             },
             "14": {
                 "ap_min": 8,
                 "ap_max": 10,
-                "dp": 18
+                "dp": 18,
+                "ev": 16,
+                "hev": 32
             },
             "15": {
                 "ap_min": 9,
                 "ap_max": 11,
-                "dp": 19
+                "dp": 19,
+                "ev": 17,
+                "hev": 34
             },
             "16": {
                 "ap_min": 10,
                 "ap_max": 12,
-                "dp": 21
+                "dp": 21,
+                "ev": 18,
+                "hev": 36,
+                "dr": 3
             },
             "17": {
                 "ap_min": 11,
                 "ap_max": 13,
-                "dp": 23
+                "dp": 23,
+                "ev": 19,
+                "hev": 38,
+                "dr": 4
             },
             "18": {
                 "ap_min": 12,
                 "ap_max": 14,
-                "dp": 28
+                "dp": 28,
+                "ev": 23,
+                "hev": 46,
+                "dr": 5
             },
             "19": {
                 "ap_min": 13,
                 "ap_max": 15,
-                "dp": 30
+                "dp": 30,
+                "ev": 24,
+                "hev": 48,
+                "dr": 6
             },
             "20": {
                 "ap_min": 14,
                 "ap_max": 16,
-                "dp": 32
+                "dp": 32,
+                "ev": 25,
+                "hev": 50,
+                "dr": 7
             }
         },
         "name": "Krea Kunai"
@@ -1545,108 +1964,152 @@
         "dp": 4,
         "rarity": "uncommon",
         "gems": 2,
-        "item_effects": {},
+        "item_effects": {
+            "ev": 2,
+            "hev": 4,
+            "dr": 2
+        },
         "enhancement_text": "",
         "enhancement": {
             "1": {
                 "ap_min": 1,
                 "ap_max": 4,
-                "dp": 5
+                "dp": 5,
+                "ev": 3,
+                "hev": 6
             },
             "2": {
                 "ap_min": 1,
                 "ap_max": 4,
-                "dp": 6
+                "dp": 6,
+                "ev": 4,
+                "hev": 8
             },
             "3": {
                 "ap_min": 1,
                 "ap_max": 4,
-                "dp": 7
+                "dp": 7,
+                "ev": 5,
+                "hev": 10
             },
             "4": {
                 "ap_min": 1,
                 "ap_max": 4,
-                "dp": 8
+                "dp": 8,
+                "ev": 6,
+                "hev": 12
             },
             "5": {
                 "ap_min": 1,
                 "ap_max": 4,
-                "dp": 9
+                "dp": 9,
+                "ev": 7,
+                "hev": 14
             },
             "6": {
                 "ap_min": 1,
                 "ap_max": 4,
-                "dp": 10
+                "dp": 10,
+                "ev": 8,
+                "hev": 16
             },
             "7": {
                 "ap_min": 1,
                 "ap_max": 4,
-                "dp": 11
+                "dp": 11,
+                "ev": 9,
+                "hev": 18
             },
             "8": {
                 "ap_min": 2,
                 "ap_max": 5,
-                "dp": 12
+                "dp": 12,
+                "ev": 10,
+                "hev": 20
             },
             "9": {
                 "ap_min": 3,
                 "ap_max": 6,
-                "dp": 13
+                "dp": 13,
+                "ev": 11,
+                "hev": 22
             },
             "10": {
                 "ap_min": 4,
                 "ap_max": 7,
-                "dp": 14
+                "dp": 14,
+                "ev": 12,
+                "hev": 24
             },
             "11": {
                 "ap_min": 5,
                 "ap_max": 8,
-                "dp": 15
+                "dp": 15,
+                "ev": 13,
+                "hev": 26
             },
             "12": {
                 "ap_min": 6,
                 "ap_max": 9,
-                "dp": 16
+                "dp": 16,
+                "ev": 14,
+                "hev": 28
             },
             "13": {
                 "ap_min": 7,
                 "ap_max": 10,
-                "dp": 17
+                "dp": 17,
+                "ev": 15,
+                "hev": 30
             },
             "14": {
                 "ap_min": 8,
                 "ap_max": 11,
-                "dp": 18
+                "dp": 18,
+                "ev": 16,
+                "hev": 32
             },
             "15": {
                 "ap_min": 9,
                 "ap_max": 12,
-                "dp": 19
+                "dp": 19,
+                "ev": 17,
+                "hev": 34
             },
             "16": {
                 "ap_min": 10,
                 "ap_max": 13,
-                "dp": 21
+                "dp": 21,
+                "ev": 18,
+                "hev": 36
             },
             "17": {
                 "ap_min": 11,
                 "ap_max": 14,
-                "dp": 23
+                "dp": 23,
+                "ev": 19,
+                "hev": 38
             },
             "18": {
                 "ap_min": 12,
                 "ap_max": 15,
-                "dp": 28
+                "dp": 28,
+                "ev": 23,
+                "hev": 46
             },
             "19": {
                 "ap_min": 13,
                 "ap_max": 16,
-                "dp": 30
+                "dp": 30,
+                "ev": 24,
+                "hev": 48
             },
             "20": {
                 "ap_min": 14,
                 "ap_max": 17,
-                "dp": 32
+                "dp": 32,
+                "ev": 25,
+                "hev": 50
             }
         },
         "name": "Rosar Kunai"
@@ -1659,95 +2122,143 @@
         "rarity": "rare",
         "gems": 2,
         "item_effects": {
-            "abad": 1
+            "abad": 1,
+            "ev": 2,
+            "hev": 4,
+            "dr": 2
         },
         "enhancement_text": "",
         "enhancement": {
             "1": {
-                "dp": 5
+                "dp": 5,
+                "ev": 3,
+                "hev": 6
             },
             "2": {
-                "dp": 6
+                "dp": 6,
+                "ev": 4,
+                "hev": 8
             },
             "3": {
-                "dp": 7
+                "dp": 7,
+                "ev": 5,
+                "hev": 10
             },
             "4": {
-                "dp": 8
+                "dp": 8,
+                "ev": 6,
+                "hev": 12
             },
             "5": {
-                "dp": 9
+                "dp": 9,
+                "ev": 7,
+                "hev": 14
             },
             "6": {
-                "dp": 10
+                "dp": 10,
+                "ev": 8,
+                "hev": 16
             },
             "7": {
-                "dp": 11
+                "dp": 11,
+                "ev": 9,
+                "hev": 18
             },
             "8": {
                 "ap_min": 2,
                 "ap_max": 4,
-                "dp": 12
+                "dp": 12,
+                "ev": 10,
+                "hev": 20
             },
             "9": {
                 "ap_min": 3,
                 "ap_max": 5,
-                "dp": 13
+                "dp": 13,
+                "ev": 11,
+                "hev": 22
             },
             "10": {
                 "ap_min": 4,
                 "ap_max": 6,
-                "dp": 14
+                "dp": 14,
+                "ev": 12,
+                "hev": 24
             },
             "11": {
                 "ap_min": 5,
                 "ap_max": 7,
-                "dp": 15
+                "dp": 15,
+                "ev": 13,
+                "hev": 26
             },
             "12": {
                 "ap_min": 6,
                 "ap_max": 8,
-                "dp": 16
+                "dp": 16,
+                "ev": 14,
+                "hev": 28
             },
             "13": {
                 "ap_min": 7,
                 "ap_max": 9,
-                "dp": 17
+                "dp": 17,
+                "ev": 15,
+                "hev": 30
             },
             "14": {
                 "ap_min": 8,
                 "ap_max": 10,
-                "dp": 18
+                "dp": 18,
+                "ev": 16,
+                "hev": 32
             },
             "15": {
                 "ap_min": 9,
                 "ap_max": 11,
-                "dp": 19
+                "dp": 19,
+                "ev": 17,
+                "hev": 34
             },
             "16": {
                 "ap_min": 10,
                 "ap_max": 12,
-                "dp": 21
+                "dp": 21,
+                "ev": 18,
+                "hev": 36,
+                "dr": 3
             },
             "17": {
                 "ap_min": 11,
                 "ap_max": 13,
-                "dp": 23
+                "dp": 23,
+                "ev": 19,
+                "hev": 38,
+                "dr": 4
             },
             "18": {
                 "ap_min": 12,
                 "ap_max": 14,
-                "dp": 28
+                "dp": 28,
+                "ev": 23,
+                "hev": 46,
+                "dr": 5
             },
             "19": {
                 "ap_min": 13,
                 "ap_max": 15,
-                "dp": 30
+                "dp": 30,
+                "ev": 24,
+                "hev": 48,
+                "dr": 6
             },
             "20": {
                 "ap_min": 14,
                 "ap_max": 16,
-                "dp": 32
+                "dp": 32,
+                "ev": 25,
+                "hev": 50,
+                "dr": 7
             }
         },
         "name": "Krea Kunai of Crimson Flame"
@@ -1760,95 +2271,143 @@
         "rarity": "rare",
         "gems": 2,
         "item_effects": {
-            "adad": 1
+            "adad": 1,
+            "ev": 2,
+            "hev": 4,
+            "dr": 2
         },
         "enhancement_text": "",
         "enhancement": {
             "1": {
-                "dp": 5
+                "dp": 5,
+                "ev": 3,
+                "hev": 6
             },
             "2": {
-                "dp": 6
+                "dp": 6,
+                "ev": 4,
+                "hev": 8
             },
             "3": {
-                "dp": 7
+                "dp": 7,
+                "ev": 5,
+                "hev": 10
             },
             "4": {
-                "dp": 8
+                "dp": 8,
+                "ev": 6,
+                "hev": 12
             },
             "5": {
-                "dp": 9
+                "dp": 9,
+                "ev": 7,
+                "hev": 14
             },
             "6": {
-                "dp": 10
+                "dp": 10,
+                "ev": 8,
+                "hev": 16
             },
             "7": {
-                "dp": 11
+                "dp": 11,
+                "ev": 9,
+                "hev": 18
             },
             "8": {
                 "ap_min": 2,
                 "ap_max": 4,
-                "dp": 12
+                "dp": 12,
+                "ev": 10,
+                "hev": 20
             },
             "9": {
                 "ap_min": 3,
                 "ap_max": 5,
-                "dp": 13
+                "dp": 13,
+                "ev": 11,
+                "hev": 22
             },
             "10": {
                 "ap_min": 4,
                 "ap_max": 6,
-                "dp": 14
+                "dp": 14,
+                "ev": 12,
+                "hev": 24
             },
             "11": {
                 "ap_min": 5,
                 "ap_max": 7,
-                "dp": 15
+                "dp": 15,
+                "ev": 13,
+                "hev": 26
             },
             "12": {
                 "ap_min": 6,
                 "ap_max": 8,
-                "dp": 16
+                "dp": 16,
+                "ev": 14,
+                "hev": 28
             },
             "13": {
                 "ap_min": 7,
                 "ap_max": 9,
-                "dp": 17
+                "dp": 17,
+                "ev": 15,
+                "hev": 30
             },
             "14": {
                 "ap_min": 8,
                 "ap_max": 10,
-                "dp": 18
+                "dp": 18,
+                "ev": 16,
+                "hev": 32
             },
             "15": {
                 "ap_min": 9,
                 "ap_max": 11,
-                "dp": 19
+                "dp": 19,
+                "ev": 17,
+                "hev": 34
             },
             "16": {
                 "ap_min": 10,
                 "ap_max": 12,
-                "dp": 21
+                "dp": 21,
+                "ev": 18,
+                "hev": 36,
+                "dr": 3
             },
             "17": {
                 "ap_min": 11,
                 "ap_max": 13,
-                "dp": 23
+                "dp": 23,
+                "ev": 19,
+                "hev": 38,
+                "dr": 4
             },
             "18": {
                 "ap_min": 12,
                 "ap_max": 14,
-                "dp": 28
+                "dp": 28,
+                "ev": 23,
+                "hev": 46,
+                "dr": 5
             },
             "19": {
                 "ap_min": 13,
                 "ap_max": 15,
-                "dp": 30
+                "dp": 30,
+                "ev": 24,
+                "hev": 48,
+                "dr": 6
             },
             "20": {
                 "ap_min": 14,
                 "ap_max": 16,
-                "dp": 32
+                "dp": 32,
+                "ev": 25,
+                "hev": 50,
+                "dr": 7
             }
         },
         "name": "Krea Kunai of Destruction"
@@ -1861,95 +2420,143 @@
         "rarity": "rare",
         "gems": 2,
         "item_effects": {
-            "aaad": 1
+            "aaad": 1,
+            "ev": 2,
+            "hev": 4,
+            "dr": 2
         },
         "enhancement_text": "",
         "enhancement": {
             "1": {
-                "dp": 5
+                "dp": 5,
+                "ev": 3,
+                "hev": 6
             },
             "2": {
-                "dp": 6
+                "dp": 6,
+                "ev": 4,
+                "hev": 8
             },
             "3": {
-                "dp": 7
+                "dp": 7,
+                "ev": 5,
+                "hev": 10
             },
             "4": {
-                "dp": 8
+                "dp": 8,
+                "ev": 6,
+                "hev": 12
             },
             "5": {
-                "dp": 9
+                "dp": 9,
+                "ev": 7,
+                "hev": 14
             },
             "6": {
-                "dp": 10
+                "dp": 10,
+                "ev": 8,
+                "hev": 16
             },
             "7": {
-                "dp": 11
+                "dp": 11,
+                "ev": 9,
+                "hev": 18
             },
             "8": {
                 "ap_min": 2,
                 "ap_max": 4,
-                "dp": 12
+                "dp": 12,
+                "ev": 10,
+                "hev": 20
             },
             "9": {
                 "ap_min": 3,
                 "ap_max": 5,
-                "dp": 13
+                "dp": 13,
+                "ev": 11,
+                "hev": 22
             },
             "10": {
                 "ap_min": 4,
                 "ap_max": 6,
-                "dp": 14
+                "dp": 14,
+                "ev": 12,
+                "hev": 24
             },
             "11": {
                 "ap_min": 5,
                 "ap_max": 7,
-                "dp": 15
+                "dp": 15,
+                "ev": 13,
+                "hev": 26
             },
             "12": {
                 "ap_min": 6,
                 "ap_max": 8,
-                "dp": 16
+                "dp": 16,
+                "ev": 14,
+                "hev": 28
             },
             "13": {
                 "ap_min": 7,
                 "ap_max": 9,
-                "dp": 17
+                "dp": 17,
+                "ev": 15,
+                "hev": 30
             },
             "14": {
                 "ap_min": 8,
                 "ap_max": 10,
-                "dp": 18
+                "dp": 18,
+                "ev": 16,
+                "hev": 32
             },
             "15": {
                 "ap_min": 9,
                 "ap_max": 11,
-                "dp": 19
+                "dp": 19,
+                "ev": 17,
+                "hev": 34
             },
             "16": {
                 "ap_min": 10,
                 "ap_max": 12,
-                "dp": 21
+                "dp": 21,
+                "ev": 18,
+                "hev": 36,
+                "dr": 3
             },
             "17": {
                 "ap_min": 11,
                 "ap_max": 13,
-                "dp": 23
+                "dp": 23,
+                "ev": 19,
+                "hev": 38,
+                "dr": 4
             },
             "18": {
                 "ap_min": 12,
                 "ap_max": 14,
-                "dp": 28
+                "dp": 28,
+                "ev": 23,
+                "hev": 46,
+                "dr": 5
             },
             "19": {
                 "ap_min": 13,
                 "ap_max": 15,
-                "dp": 30
+                "dp": 30,
+                "ev": 24,
+                "hev": 48,
+                "dr": 6
             },
             "20": {
                 "ap_min": 14,
                 "ap_max": 16,
-                "dp": 32
+                "dp": 32,
+                "ev": 25,
+                "hev": 50,
+                "dr": 7
             }
         },
         "name": "Krea Kunai of Temptation"
@@ -1962,95 +2569,143 @@
         "rarity": "epic",
         "gems": 2,
         "item_effects": {
-            "assad": 1
+            "assad": 1,
+            "ev": 2,
+            "hev": 4,
+            "dr": 4
         },
         "enhancement_text": "",
         "enhancement": {
             "1": {
-                "dp": 5
+                "dp": 5,
+                "ev": 3,
+                "hev": 6
             },
             "2": {
-                "dp": 6
+                "dp": 6,
+                "ev": 4,
+                "hev": 8
             },
             "3": {
-                "dp": 7
+                "dp": 7,
+                "ev": 5,
+                "hev": 10
             },
             "4": {
-                "dp": 8
+                "dp": 8,
+                "ev": 6,
+                "hev": 12
             },
             "5": {
-                "dp": 9
+                "dp": 9,
+                "ev": 7,
+                "hev": 14
             },
             "6": {
-                "dp": 10
+                "dp": 10,
+                "ev": 8,
+                "hev": 16
             },
             "7": {
-                "dp": 11
+                "dp": 11,
+                "ev": 9,
+                "hev": 18
             },
             "8": {
                 "ap_min": 2,
                 "ap_max": 4,
-                "dp": 12
+                "dp": 12,
+                "ev": 10,
+                "hev": 20
             },
             "9": {
                 "ap_min": 3,
                 "ap_max": 5,
-                "dp": 13
+                "dp": 13,
+                "ev": 11,
+                "hev": 22
             },
             "10": {
                 "ap_min": 4,
                 "ap_max": 6,
-                "dp": 14
+                "dp": 14,
+                "ev": 12,
+                "hev": 24
             },
             "11": {
                 "ap_min": 5,
                 "ap_max": 7,
-                "dp": 15
+                "dp": 15,
+                "ev": 13,
+                "hev": 26
             },
             "12": {
                 "ap_min": 6,
                 "ap_max": 8,
-                "dp": 16
+                "dp": 16,
+                "ev": 14,
+                "hev": 28
             },
             "13": {
                 "ap_min": 7,
                 "ap_max": 9,
-                "dp": 17
+                "dp": 17,
+                "ev": 15,
+                "hev": 30
             },
             "14": {
                 "ap_min": 8,
                 "ap_max": 10,
-                "dp": 18
+                "dp": 18,
+                "ev": 16,
+                "hev": 32
             },
             "15": {
                 "ap_min": 9,
                 "ap_max": 11,
-                "dp": 21
+                "dp": 21,
+                "ev": 17,
+                "hev": 34
             },
             "16": {
                 "ap_min": 10,
                 "ap_max": 12,
-                "dp": 23
+                "dp": 23,
+                "ev": 18,
+                "hev": 36,
+                "dr": 5
             },
             "17": {
                 "ap_min": 11,
                 "ap_max": 13,
-                "dp": 25
+                "dp": 25,
+                "ev": 19,
+                "hev": 38,
+                "dr": 6
             },
             "18": {
                 "ap_min": 12,
                 "ap_max": 14,
-                "dp": 30
+                "dp": 30,
+                "ev": 23,
+                "hev": 46,
+                "dr": 7
             },
             "19": {
                 "ap_min": 13,
                 "ap_max": 15,
-                "dp": 32
+                "dp": 32,
+                "ev": 24,
+                "hev": 48,
+                "dr": 8
             },
             "20": {
                 "ap_min": 14,
                 "ap_max": 16,
-                "dp": 34
+                "dp": 34,
+                "ev": 25,
+                "hev": 50,
+                "dr": 9
             }
         },
         "name": "Ultimate Krea Kunai"
@@ -2063,95 +2718,152 @@
         "rarity": "rare",
         "gems": 2,
         "item_effects": {
-            "abad": 1
+            "abad": 1,
+            "ev": 2,
+            "hev": 4,
+            "dr": 2
         },
         "enhancement_text": "",
         "enhancement": {
             "1": {
-                "dp": 5
+                "ap_min": 1,
+                "ap_max": 4,
+                "dp": 5,
+                "ev": 3,
+                "hev": 6
             },
             "2": {
-                "dp": 6
+                "ap_min": 1,
+                "ap_max": 4,
+                "dp": 6,
+                "ev": 4,
+                "hev": 8
             },
             "3": {
-                "dp": 7
+                "ap_min": 1,
+                "ap_max": 4,
+                "dp": 7,
+                "ev": 5,
+                "hev": 10
             },
             "4": {
-                "dp": 8
+                "ap_min": 1,
+                "ap_max": 4,
+                "dp": 8,
+                "ev": 6,
+                "hev": 12
             },
             "5": {
-                "dp": 9
+                "ap_min": 1,
+                "ap_max": 4,
+                "dp": 9,
+                "ev": 7,
+                "hev": 14
             },
             "6": {
-                "dp": 10
+                "ap_min": 1,
+                "ap_max": 4,
+                "dp": 10,
+                "ev": 8,
+                "hev": 16
             },
             "7": {
-                "dp": 11
+                "ap_min": 1,
+                "ap_max": 4,
+                "dp": 11,
+                "ev": 9,
+                "hev": 18
             },
             "8": {
                 "ap_min": 2,
                 "ap_max": 5,
-                "dp": 12
+                "dp": 12,
+                "ev": 10,
+                "hev": 20
             },
             "9": {
                 "ap_min": 3,
                 "ap_max": 6,
-                "dp": 13
+                "dp": 13,
+                "ev": 11,
+                "hev": 22
             },
             "10": {
                 "ap_min": 4,
                 "ap_max": 7,
-                "dp": 14
+                "dp": 14,
+                "ev": 12,
+                "hev": 24
             },
             "11": {
                 "ap_min": 5,
                 "ap_max": 8,
-                "dp": 15
+                "dp": 15,
+                "ev": 13,
+                "hev": 26
             },
             "12": {
                 "ap_min": 6,
                 "ap_max": 9,
-                "dp": 16
+                "dp": 16,
+                "ev": 14,
+                "hev": 28
             },
             "13": {
                 "ap_min": 7,
                 "ap_max": 10,
-                "dp": 17
+                "dp": 17,
+                "ev": 15,
+                "hev": 30
             },
             "14": {
                 "ap_min": 8,
                 "ap_max": 11,
-                "dp": 18
+                "dp": 18,
+                "ev": 16,
+                "hev": 32
             },
             "15": {
                 "ap_min": 9,
                 "ap_max": 12,
-                "dp": 19
+                "dp": 19,
+                "ev": 17,
+                "hev": 34
             },
             "16": {
                 "ap_min": 10,
                 "ap_max": 13,
-                "dp": 21
+                "dp": 21,
+                "ev": 18,
+                "hev": 36
             },
             "17": {
                 "ap_min": 11,
                 "ap_max": 14,
-                "dp": 23
+                "dp": 23,
+                "ev": 19,
+                "hev": 38
             },
             "18": {
                 "ap_min": 12,
                 "ap_max": 15,
-                "dp": 28
+                "dp": 28,
+                "ev": 23,
+                "hev": 46
             },
             "19": {
                 "ap_min": 13,
                 "ap_max": 16,
-                "dp": 30
+                "dp": 30,
+                "ev": 24,
+                "hev": 48
             },
             "20": {
                 "ap_min": 14,
                 "ap_max": 17,
-                "dp": 32
+                "dp": 32,
+                "ev": 25,
+                "hev": 50
             }
         },
         "name": "Rosar Kunai of Crimson Flame"
@@ -2164,95 +2876,152 @@
         "rarity": "rare",
         "gems": 2,
         "item_effects": {
-            "adad": 1
+            "adad": 1,
+            "ev": 2,
+            "hev": 4,
+            "dr": 2
         },
         "enhancement_text": "",
         "enhancement": {
             "1": {
-                "dp": 5
+                "ap_min": 1,
+                "ap_max": 4,
+                "dp": 5,
+                "ev": 3,
+                "hev": 6
             },
             "2": {
-                "dp": 6
+                "ap_min": 1,
+                "ap_max": 4,
+                "dp": 6,
+                "ev": 4,
+                "hev": 8
             },
             "3": {
-                "dp": 7
+                "ap_min": 1,
+                "ap_max": 4,
+                "dp": 7,
+                "ev": 5,
+                "hev": 10
             },
             "4": {
-                "dp": 8
+                "ap_min": 1,
+                "ap_max": 4,
+                "dp": 8,
+                "ev": 6,
+                "hev": 12
             },
             "5": {
-                "dp": 9
+                "ap_min": 1,
+                "ap_max": 4,
+                "dp": 9,
+                "ev": 7,
+                "hev": 14
             },
             "6": {
-                "dp": 10
+                "ap_min": 1,
+                "ap_max": 4,
+                "dp": 10,
+                "ev": 8,
+                "hev": 16
             },
             "7": {
-                "dp": 11
+                "ap_min": 1,
+                "ap_max": 4,
+                "dp": 11,
+                "ev": 9,
+                "hev": 18
             },
             "8": {
                 "ap_min": 2,
                 "ap_max": 5,
-                "dp": 12
+                "dp": 12,
+                "ev": 10,
+                "hev": 20
             },
             "9": {
                 "ap_min": 3,
                 "ap_max": 6,
-                "dp": 13
+                "dp": 13,
+                "ev": 11,
+                "hev": 22
             },
             "10": {
                 "ap_min": 4,
                 "ap_max": 7,
-                "dp": 14
+                "dp": 14,
+                "ev": 12,
+                "hev": 24
             },
             "11": {
                 "ap_min": 5,
                 "ap_max": 8,
-                "dp": 15
+                "dp": 15,
+                "ev": 13,
+                "hev": 26
             },
             "12": {
                 "ap_min": 6,
                 "ap_max": 9,
-                "dp": 16
+                "dp": 16,
+                "ev": 14,
+                "hev": 28
             },
             "13": {
                 "ap_min": 7,
                 "ap_max": 10,
-                "dp": 17
+                "dp": 17,
+                "ev": 15,
+                "hev": 30
             },
             "14": {
                 "ap_min": 8,
                 "ap_max": 11,
-                "dp": 18
+                "dp": 18,
+                "ev": 16,
+                "hev": 32
             },
             "15": {
                 "ap_min": 9,
                 "ap_max": 12,
-                "dp": 19
+                "dp": 19,
+                "ev": 17,
+                "hev": 34
             },
             "16": {
                 "ap_min": 10,
                 "ap_max": 13,
-                "dp": 21
+                "dp": 21,
+                "ev": 18,
+                "hev": 36
             },
             "17": {
                 "ap_min": 11,
                 "ap_max": 14,
-                "dp": 23
+                "dp": 23,
+                "ev": 19,
+                "hev": 38
             },
             "18": {
                 "ap_min": 12,
                 "ap_max": 15,
-                "dp": 28
+                "dp": 28,
+                "ev": 23,
+                "hev": 46
             },
             "19": {
                 "ap_min": 13,
                 "ap_max": 16,
-                "dp": 30
+                "dp": 30,
+                "ev": 24,
+                "hev": 48
             },
             "20": {
                 "ap_min": 14,
                 "ap_max": 17,
-                "dp": 32
+                "dp": 32,
+                "ev": 25,
+                "hev": 50
             }
         },
         "name": "Rosar Kunai of Destruction"
@@ -2265,95 +3034,152 @@
         "rarity": "rare",
         "gems": 2,
         "item_effects": {
-            "aaad": 1
+            "aaad": 1,
+            "ev": 2,
+            "hev": 4,
+            "dr": 2
         },
         "enhancement_text": "",
         "enhancement": {
             "1": {
-                "dp": 5
+                "ap_min": 1,
+                "ap_max": 4,
+                "dp": 5,
+                "ev": 3,
+                "hev": 6
             },
             "2": {
-                "dp": 6
+                "ap_min": 1,
+                "ap_max": 4,
+                "dp": 6,
+                "ev": 4,
+                "hev": 8
             },
             "3": {
-                "dp": 7
+                "ap_min": 1,
+                "ap_max": 4,
+                "dp": 7,
+                "ev": 5,
+                "hev": 10
             },
             "4": {
-                "dp": 8
+                "ap_min": 1,
+                "ap_max": 4,
+                "dp": 8,
+                "ev": 6,
+                "hev": 12
             },
             "5": {
-                "dp": 9
+                "ap_min": 1,
+                "ap_max": 4,
+                "dp": 9,
+                "ev": 7,
+                "hev": 14
             },
             "6": {
-                "dp": 10
+                "ap_min": 1,
+                "ap_max": 4,
+                "dp": 10,
+                "ev": 8,
+                "hev": 16
             },
             "7": {
-                "dp": 11
+                "ap_min": 1,
+                "ap_max": 4,
+                "dp": 11,
+                "ev": 9,
+                "hev": 18
             },
             "8": {
                 "ap_min": 2,
                 "ap_max": 5,
-                "dp": 12
+                "dp": 12,
+                "ev": 10,
+                "hev": 20
             },
             "9": {
                 "ap_min": 3,
                 "ap_max": 6,
-                "dp": 13
+                "dp": 13,
+                "ev": 11,
+                "hev": 22
             },
             "10": {
                 "ap_min": 4,
                 "ap_max": 7,
-                "dp": 14
+                "dp": 14,
+                "ev": 12,
+                "hev": 24
             },
             "11": {
                 "ap_min": 5,
                 "ap_max": 8,
-                "dp": 15
+                "dp": 15,
+                "ev": 13,
+                "hev": 26
             },
             "12": {
                 "ap_min": 6,
                 "ap_max": 9,
-                "dp": 16
+                "dp": 16,
+                "ev": 14,
+                "hev": 28
             },
             "13": {
                 "ap_min": 7,
                 "ap_max": 10,
-                "dp": 17
+                "dp": 17,
+                "ev": 15,
+                "hev": 30
             },
             "14": {
                 "ap_min": 8,
                 "ap_max": 11,
-                "dp": 18
+                "dp": 18,
+                "ev": 16,
+                "hev": 32
             },
             "15": {
                 "ap_min": 9,
                 "ap_max": 12,
-                "dp": 19
+                "dp": 19,
+                "ev": 17,
+                "hev": 34
             },
             "16": {
                 "ap_min": 10,
                 "ap_max": 13,
-                "dp": 21
+                "dp": 21,
+                "ev": 18,
+                "hev": 36
             },
             "17": {
                 "ap_min": 11,
                 "ap_max": 14,
-                "dp": 23
+                "dp": 23,
+                "ev": 19,
+                "hev": 38
             },
             "18": {
                 "ap_min": 12,
                 "ap_max": 15,
-                "dp": 28
+                "dp": 28,
+                "ev": 23,
+                "hev": 46
             },
             "19": {
                 "ap_min": 13,
                 "ap_max": 16,
-                "dp": 30
+                "dp": 30,
+                "ev": 24,
+                "hev": 48
             },
             "20": {
                 "ap_min": 14,
                 "ap_max": 17,
-                "dp": 32
+                "dp": 32,
+                "ev": 25,
+                "hev": 50
             }
         },
         "name": "Rosar Kunai of Temptation"
@@ -2366,95 +3192,143 @@
         "rarity": "epic",
         "gems": 2,
         "item_effects": {
-            "assad": 1
+            "assad": 1,
+            "ev": 2,
+            "hev": 4,
+            "dr": 4
         },
         "enhancement_text": "",
         "enhancement": {
             "1": {
-                "dp": 7
+                "dp": 7,
+                "ev": 3,
+                "hev": 6
             },
             "2": {
-                "dp": 8
+                "dp": 8,
+                "ev": 4,
+                "hev": 8
             },
             "3": {
-                "dp": 9
+                "dp": 9,
+                "ev": 5,
+                "hev": 10
             },
             "4": {
-                "dp": 10
+                "dp": 10,
+                "ev": 6,
+                "hev": 12
             },
             "5": {
-                "dp": 11
+                "dp": 11,
+                "ev": 7,
+                "hev": 14
             },
             "6": {
-                "dp": 12
+                "dp": 12,
+                "ev": 8,
+                "hev": 16
             },
             "7": {
-                "dp": 13
+                "dp": 13,
+                "ev": 9,
+                "hev": 18
             },
             "8": {
                 "ap_min": 2,
                 "ap_max": 5,
-                "dp": 14
+                "dp": 14,
+                "ev": 10,
+                "hev": 20
             },
             "9": {
                 "ap_min": 3,
                 "ap_max": 6,
-                "dp": 15
+                "dp": 15,
+                "ev": 11,
+                "hev": 22
             },
             "10": {
                 "ap_min": 4,
                 "ap_max": 7,
-                "dp": 16
+                "dp": 16,
+                "ev": 12,
+                "hev": 24
             },
             "11": {
                 "ap_min": 5,
                 "ap_max": 8,
-                "dp": 17
+                "dp": 17,
+                "ev": 13,
+                "hev": 26
             },
             "12": {
                 "ap_min": 6,
                 "ap_max": 9,
-                "dp": 18
+                "dp": 18,
+                "ev": 14,
+                "hev": 28
             },
             "13": {
                 "ap_min": 7,
                 "ap_max": 10,
-                "dp": 19
+                "dp": 19,
+                "ev": 15,
+                "hev": 30
             },
             "14": {
                 "ap_min": 8,
                 "ap_max": 11,
-                "dp": 20
+                "dp": 20,
+                "ev": 16,
+                "hev": 32
             },
             "15": {
                 "ap_min": 9,
                 "ap_max": 12,
-                "dp": 21
+                "dp": 21,
+                "ev": 17,
+                "hev": 34
             },
             "16": {
                 "ap_min": 10,
                 "ap_max": 13,
-                "dp": 23
+                "dp": 23,
+                "ev": 18,
+                "hev": 36,
+                "dr": 5
             },
             "17": {
                 "ap_min": 11,
                 "ap_max": 14,
-                "dp": 25
+                "dp": 25,
+                "ev": 19,
+                "hev": 38,
+                "dr": 6
             },
             "18": {
                 "ap_min": 12,
                 "ap_max": 15,
-                "dp": 30
+                "dp": 30,
+                "ev": 23,
+                "hev": 46,
+                "dr": 7
             },
             "19": {
                 "ap_min": 13,
                 "ap_max": 16,
-                "dp": 32
+                "dp": 32,
+                "ev": 24,
+                "hev": 48,
+                "dr": 8
             },
             "20": {
                 "ap_min": 14,
                 "ap_max": 17,
-                "dp": 34
+                "dp": 34,
+                "ev": 25,
+                "hev": 50,
+                "dr": 9
             }
         },
         "name": "Ultimate Rosar Kunai"
@@ -2562,103 +3436,175 @@
         "rarity": "epic",
         "gems": 2,
         "item_effects": {
-            "iar": 10
+            "iar": 10,
+            "ev": 2,
+            "dr": 2,
+            "acc": 1,
+            "dmgtm": 5
         },
         "enhancement_text": "",
         "enhancement": {
             "1": {
                 "ap_min": 5,
-                "ap_max": 7
+                "ap_max": 7,
+                "acc": 1,
+                "dmgtm": 6
             },
             "2": {
                 "ap_min": 6,
-                "ap_max": 8
+                "ap_max": 8,
+                "acc": 2,
+                "dmgtm": 7
             },
             "3": {
                 "ap_min": 7,
-                "ap_max": 9
+                "ap_max": 9,
+                "acc": 2,
+                "dmgtm": 8
             },
             "4": {
                 "ap_min": 8,
-                "ap_max": 10
+                "ap_max": 10,
+                "acc": 3,
+                "dmgtm": 9
             },
             "5": {
                 "ap_min": 9,
-                "ap_max": 11
+                "ap_max": 11,
+                "acc": 3,
+                "dmgtm": 10
             },
             "6": {
                 "ap_min": 10,
-                "ap_max": 12
+                "ap_max": 12,
+                "acc": 4,
+                "dmgtm": 11
             },
             "7": {
                 "ap_min": 11,
                 "ap_max": 13,
-                "dp": 5
+                "dp": 5,
+                "ev": 2,
+                "dr": 3,
+                "acc": 4,
+                "dmgtm": 12
             },
             "8": {
                 "ap_min": 12,
                 "ap_max": 14,
-                "dp": 6
+                "dp": 6,
+                "ev": 3,
+                "dr": 3,
+                "acc": 5,
+                "dmgtm": 13
             },
             "9": {
                 "ap_min": 13,
                 "ap_max": 15,
-                "dp": 7
+                "dp": 7,
+                "ev": 3,
+                "dr": 4,
+                "acc": 5,
+                "dmgtm": 14
             },
             "10": {
                 "ap_min": 14,
                 "ap_max": 16,
-                "dp": 8
+                "dp": 8,
+                "ev": 4,
+                "dr": 4,
+                "acc": 6,
+                "dmgtm": 15
             },
             "11": {
                 "ap_min": 15,
                 "ap_max": 17,
-                "dp": 9
+                "dp": 9,
+                "ev": 4,
+                "dr": 5,
+                "acc": 6,
+                "dmgtm": 16
             },
             "12": {
                 "ap_min": 16,
                 "ap_max": 18,
-                "dp": 10
+                "dp": 10,
+                "ev": 5,
+                "dr": 5,
+                "acc": 7,
+                "dmgtm": 17
             },
             "13": {
                 "ap_min": 17,
                 "ap_max": 19,
-                "dp": 11
+                "dp": 11,
+                "ev": 5,
+                "dr": 6,
+                "acc": 7,
+                "dmgtm": 18
             },
             "14": {
                 "ap_min": 18,
                 "ap_max": 20,
-                "dp": 12
+                "dp": 12,
+                "ev": 6,
+                "dr": 6,
+                "acc": 8,
+                "dmgtm": 19
             },
             "15": {
                 "ap_min": 19,
                 "ap_max": 21,
-                "dp": 13
+                "dp": 13,
+                "ev": 6,
+                "dr": 7,
+                "acc": 8,
+                "dmgtm": 20
             },
             "16": {
                 "ap_min": 20,
                 "ap_max": 22,
-                "dp": 15
+                "dp": 15,
+                "ev": 7,
+                "dr": 8,
+                "acc": 9,
+                "dmgtm": 23
             },
             "17": {
                 "ap_min": 21,
                 "ap_max": 23,
-                "dp": 17
+                "dp": 17,
+                "ev": 8,
+                "dr": 8,
+                "acc": 10,
+                "dmgtm": 26
             },
             "18": {
                 "ap_min": 24,
                 "ap_max": 26,
-                "dp": 20
+                "dp": 20,
+                "ev": 9,
+                "dr": 11,
+                "acc": 11,
+                "dmgtm": 34
             },
             "19": {
                 "ap_min": 25,
                 "ap_max": 27,
-                "dp": 22
+                "dp": 22,
+                "ev": 10,
+                "dr": 12,
+                "acc": 12,
+                "dmgtm": 45
             },
             "20": {
                 "ap_min": 26,
                 "ap_max": 28,
-                "dp": 24
+                "dp": 24,
+                "ev": 11,
+                "dr": 13,
+                "acc": 13,
+                "dmgtm": 59
             }
         },
         "name": "Kutum Kunai"
@@ -2669,7 +3615,11 @@
         "dp": 17,
         "rarity": "uncommon",
         "gems": 2,
-        "item_effects": {},
+        "item_effects": {
+            "ev": 15,
+            "dr": 2,
+            "acc": 60
+        },
         "enhancement_text": "",
         "enhancement": {},
         "name": "Dim Magical Kunai"
@@ -2680,7 +3630,11 @@
         "dp": 17,
         "rarity": "uncommon",
         "gems": 2,
-        "item_effects": {},
+        "item_effects": {
+            "ev": 15,
+            "dr": 2,
+            "acc": 60
+        },
         "enhancement_text": "",
         "enhancement": {},
         "name": "Kunai of Concentrated Magical Power"
@@ -2691,7 +3645,11 @@
         "dp": 18,
         "rarity": "rare",
         "gems": 2,
-        "item_effects": {},
+        "item_effects": {
+            "ev": 15,
+            "dr": 2,
+            "acc": 60
+        },
         "enhancement_text": "",
         "enhancement": {},
         "name": "Kunai of Sealed Magical Power"
@@ -2701,9 +3659,12 @@
         "ap_max": 13,
         "dp": 15,
         "rarity": "rare",
-        "gems": 2,
+        "gems": 1,
         "item_effects": {
-            "mpwpsp": 10
+            "mpwpsp": 10,
+            "ev": 10,
+            "dr": 5,
+            "acc": 40
         },
         "enhancement_text": "",
         "enhancement": {},
@@ -2714,9 +3675,12 @@
         "ap_max": 18,
         "dp": 12,
         "rarity": "epic",
-        "gems": 2,
+        "gems": 1,
         "item_effects": {
-            "mpwpsp": 15
+            "mpwpsp": 15,
+            "ev": 8,
+            "dr": 4,
+            "acc": 20
         },
         "enhancement_text": "",
         "enhancement": {},
